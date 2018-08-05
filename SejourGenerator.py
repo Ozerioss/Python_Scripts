@@ -115,13 +115,18 @@ def executeRndmUsers():
             result = cursor.fetchall()
             df_query = pandas.DataFrame.from_records([row for row in result], columns = [desc[0] for desc in cursor.description])     #Fill dataframe with results of query
 
-            df_calendrier.loc[df_calendrier['Dates'].isin(df_query['date']), 'nbrPhoto'] += 1         #Increment number of pictures for each date found in query result
+            #df_calendrier.loc[df_calendrier['Dates'].isin(df_query['date']), 'nbrPhoto'] += 1         
+            #Increment number of pictures for each date found in query result
+            for tmp in result:
+                df_calendrier.loc[df_calendrier['Dates'] == pandas.to_datetime(tmp[1]), 'nbrPhoto'] += 1
 
             counter = 0
             d = {}
             listeJours = []
 
+
             df_calendrier['temp'] = (df_calendrier.nbrPhoto.diff(1) != 0).astype('int').cumsum()    #temp will increment by one whenever nbrPhoto value changes
+
 
             #We can now extract the group results and add that to our final "sejour" dataframe
             df_sejour = pandas.DataFrame({'BeginDate' : df_calendrier.groupby('temp').Dates.first(), 
@@ -134,20 +139,24 @@ def executeRndmUsers():
 
             df_query.date = pandas.to_datetime(df_query.date)
 
-            df_sejour[df_sejour.isSejour == True]
+            df_sejour[df_sejour.isSejour == True] # changes nothing ?
 
             #We now can add a column to the 'sejour' dataframe containing the countries visited by the user
             df_sejour['countriesVisited'] = ""
             df_sejour['statesVisited'] = ""
             df_sejour['citiesVisited'] = ""
             df_sejour['specificSpots'] = ""
+            df_sejour['nbrPhotos'] = 0
+            
             for i, row in df_sejour.iterrows():
                 mask = (df_query['date'] >= df_sejour.at[i, 'BeginDate']) & (df_query['date'] <= df_sejour.at[i, 'EndDate'])     #This creates a mask spanning the begin and end dates
-
+                maskPictures = (df_calendrier['Dates'] >= df_sejour.at[i, 'BeginDate']) & (df_calendrier['Dates'] <= df_sejour.at[i, 'EndDate'])  #mask for calendar
                 list_name_0 = list(dict.fromkeys(df_query.name_0.loc[mask]))
                 list_name_1 = list(dict.fromkeys(df_query.name_1.loc[mask]))
                 list_name_2 = list(dict.fromkeys(df_query.name_2.loc[mask]))
                 list_name_specific = list(dict.fromkeys(df_query.name.loc[mask]))
+
+                nbrPictures = df_calendrier.nbrPhoto.loc[maskPictures].sum() 
                 
                 if(len(list_name_0) > 0):
                     countries = ', '.join(list_name_0)
@@ -159,11 +168,14 @@ def executeRndmUsers():
                     df_sejour.at[i, 'statesVisited'] = states
                     df_sejour.at[i, 'citiesVisited'] = cities
                     df_sejour.at[i, 'specificSpots'] = specificSpots
+                    df_sejour.at[i, 'nbrPhotos'] = nbrPictures
 
             #Print content of the sejour dataframe
-            """ for i, row in df_sejour.iterrows():
-                print(row) """
-            print(df_sejour.head())
+            for i, row in df_sejour.iterrows():
+                print(row)
+            
+            #print(df_sejour.head())
+
         except mdb.Error:
             print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
             sys.exit(1)
