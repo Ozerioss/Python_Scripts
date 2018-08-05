@@ -113,9 +113,9 @@ def executeRndmUsers():
         try:
             cursor.execute(query_rndmUsers_excludingHome, (user, homeCountry))          #Execute query to fetch all pictures of the user without their home country
             result = cursor.fetchall()
-            df = pandas.DataFrame.from_records([row for row in result], columns = [desc[0] for desc in cursor.description])     #Fill dataframe with results of query
+            df_query = pandas.DataFrame.from_records([row for row in result], columns = [desc[0] for desc in cursor.description])     #Fill dataframe with results of query
 
-            df_calendrier.loc[df_calendrier['Dates'].isin(df['date']), 'nbrPhoto'] += 1         #Increment number of pictures for each date found in query result
+            df_calendrier.loc[df_calendrier['Dates'].isin(df_query['date']), 'nbrPhoto'] += 1         #Increment number of pictures for each date found in query result
 
             counter = 0
             d = {}
@@ -130,27 +130,40 @@ def executeRndmUsers():
                                             })
             #An entry is a 'sejour' if the date exists in our main dataframe (the one containing the results of the query)
             df_sejour['isSejour'] = False
-            df_sejour.loc[df_sejour['BeginDate'].isin(df['date']), 'isSejour'] = True
+            df_sejour.loc[df_sejour['BeginDate'].isin(df_query['date']), 'isSejour'] = True
 
-            df.date = pandas.to_datetime(df.date)
+            df_query.date = pandas.to_datetime(df_query.date)
+
+            df_sejour[df_sejour.isSejour == True]
 
             #We now can add a column to the 'sejour' dataframe containing the countries visited by the user
             df_sejour['countriesVisited'] = ""
+            df_sejour['statesVisited'] = ""
+            df_sejour['citiesVisited'] = ""
+            df_sejour['specificSpots'] = ""
             for i, row in df_sejour.iterrows():
-                mask = (df['date'] >= df_sejour.at[i, 'BeginDate']) & (df.date <= df_sejour.at[i, 'EndDate'])     #This creates a mask spanning the begin and end dates
-                tmpList = df.name_0.loc[mask]
-                newList = list(dict.fromkeys(tmpList))
-                
-                if(len(newList) > 0):
-                    countries = ', '.join(newList)
-                    print("countries : ", countries)
-                    df_sejour.at[i, 'countriesVisited'] = countries         #We add list of countries visited during one single 'sejour'
+                mask = (df_query['date'] >= df_sejour.at[i, 'BeginDate']) & (df_query['date'] <= df_sejour.at[i, 'EndDate'])     #This creates a mask spanning the begin and end dates
 
+                list_name_0 = list(dict.fromkeys(df_query.name_0.loc[mask]))
+                list_name_1 = list(dict.fromkeys(df_query.name_1.loc[mask]))
+                list_name_2 = list(dict.fromkeys(df_query.name_2.loc[mask]))
+                list_name_specific = list(dict.fromkeys(df_query.name.loc[mask]))
+                
+                if(len(list_name_0) > 0):
+                    countries = ', '.join(list_name_0)
+                    states = ', '.join(list_name_1)
+                    cities =', '.join(list_name_2)
+                    specificSpots = ', '.join(list_name_specific)
+                    #print("countries: {}, states : {}, cities : {}, specific spots : {} ".format(countries, states, cities, specificSpots))
+                    df_sejour.at[i, 'countriesVisited'] = countries         #We add list of countries visited during one single 'sejour'
+                    df_sejour.at[i, 'statesVisited'] = states
+                    df_sejour.at[i, 'citiesVisited'] = cities
+                    df_sejour.at[i, 'specificSpots'] = specificSpots
 
             #Print content of the sejour dataframe
-            for i, row in df_sejour.iterrows():
-                print(row)
-            
+            """ for i, row in df_sejour.iterrows():
+                print(row) """
+            print(df_sejour.head())
         except mdb.Error:
             print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
             sys.exit(1)
