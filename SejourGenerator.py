@@ -90,17 +90,13 @@ def getListCountries(user):
     return listCountries
 
 
-yearList = ['2011', '2012', '2013', '2014', '2015']
-monthList = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
 userList = ['181874912']
-#commune = 'PARIS-1ER-ARRONDISSEMENT'
-
-cursor = connection.cursor()
-
 
 def executeRndmUsers():
-    for user in userList:
 
+    #userList = getRandomUsers()         #Random users for testing purposes
+
+    for user in userList:
         listCountries = getListCountries(user)
         homeCountry = listCountries[0]   #We suppose the homecountry of the user is the country where he made most of his pictures
         del listCountries[0]             #We remove it from the list so we don't check their stay there
@@ -121,37 +117,37 @@ def executeRndmUsers():
 
             df_calendrier.loc[df_calendrier['Dates'].isin(df['date']), 'nbrPhoto'] += 1         #Increment number of pictures for each date found in query result
 
-            df_calendrier['nextDay'] = df_calendrier['Dates'].shift(-1)
-            df_calendrier['nextDayCount'] = df_calendrier['nbrPhoto'].shift(-1)
-
             counter = 0
             d = {}
             listeJours = []
 
-            df_calendrier['temp'] = (df_calendrier.nbrPhoto.diff(1) != 0).astype('int').cumsum()
+            df_calendrier['temp'] = (df_calendrier.nbrPhoto.diff(1) != 0).astype('int').cumsum()    #temp will increment by one whenever nbrPhoto value changes
 
+            #We can now extract the group results and add that to our final "sejour" dataframe
             df_sejour = pandas.DataFrame({'BeginDate' : df_calendrier.groupby('temp').Dates.first(), 
                                             'EndDate': df_calendrier.groupby('temp').Dates.last(), 
                                             'Consecutive' : df_calendrier.groupby('temp').size(),
                                             })
+            #An entry is a 'sejour' if the date exists in our main dataframe (the one containing the results of the query)
             df_sejour['isSejour'] = False
-
             df_sejour.loc[df_sejour['BeginDate'].isin(df['date']), 'isSejour'] = True
 
             df.date = pandas.to_datetime(df.date)
 
+            #We now can add a column to the 'sejour' dataframe containing the countries visited by the user
             df_sejour['countriesVisited'] = ""
             for i, row in df_sejour.iterrows():
-                mask = (df['date'] >= df_sejour.at[i, 'BeginDate']) & (df.date <= df_sejour.at[i, 'EndDate'])
+                mask = (df['date'] >= df_sejour.at[i, 'BeginDate']) & (df.date <= df_sejour.at[i, 'EndDate'])     #This creates a mask spanning the begin and end dates
                 tmpList = df.name_0.loc[mask]
                 newList = list(dict.fromkeys(tmpList))
                 
                 if(len(newList) > 0):
-                    tmpString = ', '.join(newList)
-                    print("tmpString : ", tmpString)
-                    df_sejour.at[i, 'countriesVisited'] = tmpString
+                    countries = ', '.join(newList)
+                    print("countries : ", countries)
+                    df_sejour.at[i, 'countriesVisited'] = countries         #We add list of countries visited during one single 'sejour'
 
 
+            #Print content of the sejour dataframe
             for i, row in df_sejour.iterrows():
                 print(row)
             
@@ -160,13 +156,15 @@ def executeRndmUsers():
             sys.exit(1)
 
 
-executeRndmUsers()
+if(__name__ == "__main__"):
+    cursor = connection.cursor()
+    executeRndmUsers()
+    print("Done ! ")
+    if connection:
+        connection.close()
 
 
-print("Done ! ")
 
 
-if connection:
-    connection.close()
 
 
