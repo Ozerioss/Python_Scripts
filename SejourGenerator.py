@@ -139,12 +139,18 @@ def executeRndmUsers():
 
             df_calendrier.loc[df_calendrier.nbrPhoto != 0, 'nbrPhoto'] -= 1
 
+            df_calendrier['jours'] = df_calendrier['Dates'].dt.dayofweek
+
             #We now can add a column to the 'sejour' dataframe containing the countries visited by the user
             df_sejour['countriesVisited'] = ""
             df_sejour['statesVisited'] = ""
             df_sejour['citiesVisited'] = ""
             df_sejour['specificSpots'] = ""
             df_sejour['nbrPhotos'] = 0
+            df_sejour['nbrPhotoAvg'] = 0
+            df_sejour['nbrPhotoMax'] = 0
+            df_sejour['nbrPhotoMin'] = 0
+            df_sejour['daysOfWeek'] = ""
 
             for i, row in df_sejour.iterrows():
                 mask = (df_query['date'] >= df_sejour.at[i, 'BeginDate']) & (df_query['date'] <= df_sejour.at[i, 'EndDate'])     #This creates a mask spanning the begin and end dates
@@ -155,15 +161,18 @@ def executeRndmUsers():
                 list_name_specific = list(dict.fromkeys(df_query.name.loc[mask]))
 
                 nbrPictures = df_calendrier.nbrPhoto.loc[maskPictures].sum() 
-                """ nbrPicturesAvg = df_calendrier.nbrPhoto.loc[maskPictures].mean()
+                nbrPicturesAvg = df_calendrier.nbrPhoto.loc[maskPictures].mean()
                 nbrPicturesMax = df_calendrier.nbrPhoto.loc[maskPictures].max()
-                nbrPicturesMin = df_calendrier.nbrPhoto.loc[maskPictures].min() """
+                nbrPicturesMin = df_calendrier.nbrPhoto.loc[maskPictures].min()
+                
                 
                 if(len(list_name_0) > 0):
                     countries = ', '.join(list_name_0)
                     states = ', '.join(list_name_1)
                     cities =', '.join(list_name_2)
                     specificSpots = ', '.join(list_name_specific)
+                    list_days = list(df_calendrier.jours.loc[maskPictures])
+                    days = ', '.join(str(x) for x in list_days)
 
                     #We add list of countries, states, cities and specific spots visited during one single 'sejour'
                     df_sejour.at[i, 'countriesVisited'] = countries         
@@ -171,9 +180,15 @@ def executeRndmUsers():
                     df_sejour.at[i, 'citiesVisited'] = cities
                     df_sejour.at[i, 'specificSpots'] = specificSpots
                     df_sejour.at[i, 'nbrPhotos'] = nbrPictures
+                    df_sejour.at[i, 'nbrPhotoAvg'] = nbrPicturesAvg
+                    df_sejour.at[i, 'nbrPhotoMax'] = nbrPicturesMax
+                    df_sejour.at[i, 'nbrPhotoMin'] = nbrPicturesMin
+                    df_sejour.at[i, 'daysOfWeek'] = days
+
 
             #Print content of the sejour dataframe
             for i, row in df_sejour.iterrows():
+                #Insert logic here
                 print(row)
             """ for i, row in df_calendrier.iterrows():
                 if(df_calendrier.at[i, 'nbrPhoto'] != 0):
