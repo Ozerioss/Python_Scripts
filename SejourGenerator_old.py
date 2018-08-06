@@ -266,6 +266,82 @@ def executeRndmUsers():
         #pp.close()
 
 
+
+def executeRndmUsersTest():
+    for user in userList:
+
+        listCountries = getListCountries(user)
+        homeCountry = listCountries[0]   #We suppose the homecountry of the user is the country where he made most of his pictures
+        del listCountries[0]             #We remove it from the list so we don't check their stay there
+        print("Home country is : {}".format(homeCountry))
+        print("rest of countries : ")
+        print(listCountries)
+
+        calendar = pandas.date_range("01-01-2011", "31-12-2015")
+        calendar = calendar.map(lambda t : t.strftime('%Y-%m-%d'))  #Make sure calendar is in the right format
+        nbrPhoto = 0
+        df_calendrier = pandas.DataFrame({"Dates" : calendar, "nbrPhoto": nbrPhoto})
+        df_calendrier.Dates = pandas.to_datetime(df_calendrier.Dates)
+
+        cursor.execute(query_rndmUsers_excludingHome_v2, (user, homeCountry))
+        result = cursor.fetchall()
+
+        
+        try:
+            df = pandas.DataFrame.from_records([row for row in result], columns = [desc[0] for desc in cursor.description])
+
+            df_calendrier.loc[df_calendrier['Dates'].isin(df['date']), 'nbrPhoto'] += 1
+
+
+            df_calendrier['temp'] = (df_calendrier.nbrPhoto.diff(1) != 0).astype('int').cumsum()
+
+            df_sejour = pandas.DataFrame({'BeginDate' : df_calendrier.groupby('temp').Dates.first(), 
+                                            'EndDate': df_calendrier.groupby('temp').Dates.last(), 
+                                            'Consecutive' : df_calendrier.groupby('temp').size(),
+                                            })
+            df_sejour['isSejour'] = False
+
+            df_sejour.loc[df_sejour['BeginDate'].isin(df['date']), 'isSejour'] = True
+
+            df.date = pandas.to_datetime(df.date)
+
+            for tmp in result:
+                df_calendrier.loc[df_calendrier['Dates'] == pandas.to_datetime(tmp[1]), 'nbrPhoto'] += 1
+
+            df_calendrier.loc[df_calendrier.nbrPhoto != 0, 'nbrPhoto'] -= 1
+
+            df_sejour['countriesVisited'] = ""
+            for i, row in df_sejour.iterrows():
+                #print(row)
+                mask = (df['date'] >= df_sejour.at[i, 'BeginDate']) & (df.date <= df_sejour.at[i, 'EndDate'])
+                #print(df.name_0.loc[mask])
+                tmpList = df.name_0.loc[mask]
+                newList = list(dict.fromkeys(tmpList))
+                #df_sejour.loc[df_sejour['countriesVisited']]
+                
+                
+                if(len(newList) > 0):
+                    tmpString = ', '.join(newList)
+                    print("tmpString : ", tmpString)
+                    #df_sejour.loc[df_sejour['isSejour'] == True, 'countriesVisited'] += tmpString
+                    df_sejour.at[i, 'countriesVisited'] = tmpString
+
+            
+            for i, row in df_calendrier.iterrows():
+                if(df_calendrier.at[i, 'nbrPhoto'] != 0):
+                    print(row)
+
+            """ for i, row in df_sejour.iterrows():
+                print(row) """
+
+            
+
+        except mdb.Error:
+            print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
+            sys.exit(1)
+
+
+
 def executeRndmUsers_deprecated():
     for user in userList:
         pp = PdfPages('Plots/Plots_Instagram/009TestYearly_Rndm_Users_{}_{}_{}_World.pdf'.format(user, "2011", "2015"))
@@ -318,7 +394,7 @@ def executeRndmUsers_deprecated():
 
 
 
-executeRndmUsers()
+executeRndmUsersTest()
 
 
 print("Done ! ")
