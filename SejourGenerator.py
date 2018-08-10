@@ -187,12 +187,32 @@ def executeRndmUsers():
 
 
             #Print content of the sejour dataframe
-            for i, row in df_sejour.iterrows():
+            """ for i, row in df_sejour.iterrows():
                 #Insert logic here
-                print(row)
+                print(row) """
             """ for i, row in df_calendrier.iterrows():
                 if(df_calendrier.at[i, 'nbrPhoto'] != 0):
                     print(row) """
+            
+            df_sejour['nbJoursAvant'] = 0
+            df_sejour['nbJoursApres'] = 0
+            for i in range(df_sejour.shape[0]):
+                last = df_sejour.Consecutive.iloc[i-1]
+                next = -1
+                if(i==df_sejour.shape[0]):
+                    next = -1 #last sejour
+                    df_sejour.at[i + 1, 'nbJoursAvant'] = last
+                    df_sejour.at[i + 1, 'nbJoursApres'] = next
+
+                elif(df_sejour['isSejour'].iloc[i]):
+                    next = df_sejour.Consecutive.iloc[i+1]
+                    df_sejour.at[i + 1, 'nbJoursAvant'] = last
+                    df_sejour.at[i + 1, 'nbJoursApres'] = next
+
+            for i, row in df_sejour.iterrows():
+                if(row.isSejour):
+                    print(row)
+                
 
         except mdb.Error:
             print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
