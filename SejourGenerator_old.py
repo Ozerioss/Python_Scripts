@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from matplotlib.backends.backend_pdf import PdfPages
-            
+
 
 def getRandomUsers():
     query_rndm_users = "SELECT idUser  \
@@ -394,7 +394,8 @@ def executeRndmUsers_deprecated():
 
 
 
-executeRndmUsersTest()
+
+cursor.execute("""INSERT INTO Sejour(idUser, dateDebut, dateFin, dureeJ) VALUES('test', 'test', 'test', 'test')""")
 
 
 print("Done ! ")

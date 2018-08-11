@@ -43,6 +43,10 @@ query_nrPhoto_User_World = " SELECT gadm2.gadm2.name_0, count(name_0) as nbr    
                                         ORDER BY nbr desc;                                                  \
                         "
 
+#Make idSejour 
+query_insert_sejour = "INSERT INTO Sejour(idUser, dateDebut, dateFin, dureeJ, nbPhotoAvg, nbPhotoMin, \
+                            nbPhotoMax, nbJourPauseAvant, nbJourPauseApres, listePays, listeJours)             \
+                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
 
 
 connection = mdb.connect(host="127.0.0.1", 
@@ -50,7 +54,9 @@ connection = mdb.connect(host="127.0.0.1",
                         passwd= "stageDVRC2018", 
                         db = "KidissBD", 
                         port = 3305,
-                        charset = 'utf8')
+                        charset = 'utf8',
+                        autocommit=True
+                    )
 
 
 
@@ -209,13 +215,20 @@ def executeRndmUsers():
                     df_sejour.at[i + 1, 'nbJoursAvant'] = last
                     df_sejour.at[i + 1, 'nbJoursApres'] = next
 
+            # To remove timestamps
+            df_sejour['BeginDate'] = df_sejour['BeginDate'].dt.date 
+            df_sejour['EndDate'] = df_sejour['EndDate'].dt.date
             for i, row in df_sejour.iterrows():
                 if(row.isSejour):
+                    print("Inserting row")
                     print(row)
+                    cursor.execute(query_insert_sejour, (user, row.BeginDate, row.EndDate, row.Consecutive, 
+                        row.nbrPhotoAvg, row.nbrPhotoMin, row.nbrPhotoMax, row.nbJoursAvant, row.nbJoursApres,
+                        row.countriesVisited, row.daysOfWeek))
                 
 
-        except mdb.Error:
-            print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
+        except mdb.Error as e:
+            print("Exception : {} ".format(e))
             sys.exit(1)
 
 
