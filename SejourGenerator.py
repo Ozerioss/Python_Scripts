@@ -10,7 +10,7 @@ from matplotlib.backends.backend_pdf import PdfPages
 def getRandomUsers():
     query_rndm_users = "SELECT idUser  \
                 FROM  Instagram_F                                        \
-                ORDER BY RAND() LIMIT 10;              \
+                ORDER BY RAND() LIMIT 100;              \
             "
 
     return query_rndm_users
@@ -45,8 +45,9 @@ query_nrPhoto_User_World = " SELECT gadm2.gadm2.name_0, count(name_0) as nbr    
 
 #Make idSejour 
 query_insert_sejour = "INSERT INTO Sejour(idUser, dateDebut, dateFin, dureeJ, nbPhotoAvg, nbPhotoMin, \
-                            nbPhotoMax, nbJourPauseAvant, nbJourPauseApres, listePays, listeJours)             \
-                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
+                            nbPhotoMax, nbPhotoTotal, nbJourPauseAvant, nbJourPauseApres, listeJours, listePays, \
+                            listeEtats, listeVilles, listeSpots, listePaysExclus)             \
+                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
 
 
 connection = mdb.connect(host="127.0.0.1", 
@@ -79,6 +80,7 @@ def getRandomUsersList():
 #Returns all countries visited  
 def getListCountries(user):
     listCountries = []
+    listValues = []
     try:
         print("Querying ... Top countries visited ")
 
@@ -88,23 +90,35 @@ def getListCountries(user):
         result = cursor.fetchall()
 
         for tmp in result:
-            print(tmp[0], tmp[1])
             listCountries.append(tmp[0])
+            listValues.append(tmp[1])
+
     except mdb.Error:
         print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
         sys.exit(1)
-    return listCountries
+    return listCountries, listValues
 
 
-userList = ['181874912']
+#userList = ['181874912']
 
 def executeRndmUsers():
 
-    #userList = getRandomUsers()         #Random users for testing purposes
+    userList = getRandomUsersList()         #Random users for testing purposes
 
     for user in userList:
-        listCountries = getListCountries(user)
+        listCountries, listValues = getListCountries(user)
         homeCountry = listCountries[0]   #We suppose the homecountry of the user is the country where he made most of his pictures
+        secondCountry = ''
+        #checks for second home country
+        if(len(listValues) > 2):
+            max = listValues[0]
+            min = listValues[len(listValues)-1]
+            second = listValues[1]
+            if(second >= max*0.80 and (max-min) != 0):
+                secondCountry = listCountries[1]
+                del listCountries[1]
+
+
         del listCountries[0]             #We remove it from the list so we don't check their stay there
         print("Home country is : {}".format(homeCountry))
         print("rest of countries : ")
@@ -218,13 +232,17 @@ def executeRndmUsers():
             # To remove timestamps
             df_sejour['BeginDate'] = df_sejour['BeginDate'].dt.date 
             df_sejour['EndDate'] = df_sejour['EndDate'].dt.date
+
+            df_sejour['homeCountry'] = homeCountry + secondCountry
             for i, row in df_sejour.iterrows():
                 if(row.isSejour):
                     print("Inserting row")
                     print(row)
+                    """ (idUser, dateDebut, dateFin, dureeJ, nbPhotoAvg, nbPhotoMin, \
+                            nbPhotoMax, nbPhotoTotal, nbJourPauseAvant, nbJourPauseApres, listeJours, listePays, paysExclu_0, paysExclu_1) """
                     cursor.execute(query_insert_sejour, (user, row.BeginDate, row.EndDate, row.Consecutive, 
-                        row.nbrPhotoAvg, row.nbrPhotoMin, row.nbrPhotoMax, row.nbJoursAvant, row.nbJoursApres,
-                        row.countriesVisited, row.daysOfWeek))
+                        row.nbrPhotoAvg, row.nbrPhotoMin, row.nbrPhotoMax, row.nbrPhotos, row.nbJoursAvant, row.nbJoursApres,
+                        row.daysOfWeek, row.countriesVisited, row.statesVisited, row.citiesVisited, row.specificSpots, row.homeCountry))
                 
 
         except mdb.Error as e:
