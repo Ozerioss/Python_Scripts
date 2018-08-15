@@ -138,11 +138,9 @@ def getListCountries(user):
     listCountries = []
     listValues = []
     try:
-        print("Querying ... Top countries visited ")
-
+        print("Querying .. Top countries visited for {}".format(user))
         cursor.execute(query_nrPhoto_User_World, user)
         print("OK")
-
         result = cursor.fetchall()
 
         for tmp in result:
@@ -262,18 +260,13 @@ def GenerateSejours():
                             df_sejour.at[i, 'nbrPhotoMin'] = nbrPicturesMin
                             df_sejour.at[i, 'daysOfWeek'] = days
 
-
-                    #Print content of the sejour dataframe
-                    """ for i, row in df_sejour.iterrows():
-                        #Insert logic here
-                        print(row) """
                     
                     df_sejour['nbJoursAvant'] = 0
                     df_sejour['nbJoursApres'] = 0
                     sejour_size = df_sejour.shape[0]
                     #Sets for first and last sejour respectively -1 for days before and -1 for days after
                     for i in range(sejour_size):
-                        if(sejour_size > 1):
+                        if(sejour_size > 2):
                             if(df_sejour['isSejour'].iloc[i]):
                                 last = -1
                                 next = -1
@@ -292,7 +285,12 @@ def GenerateSejours():
                     df_sejour['BeginDate'] = df_sejour['BeginDate'].dt.date 
                     df_sejour['EndDate'] = df_sejour['EndDate'].dt.date
 
-                    df_sejour['homeCountry'] = homeCountry + ', ' + secondCountry
+                    #If the user has 2 home countries we add it to the dataframe
+                    if(secondCountry != ""):
+                        df_sejour['homeCountry'] = homeCountry + ', ' + secondCountry
+                    else:
+                        df_sejour['homeCountry'] = homeCountry
+                    
                     for i, row in df_sejour.iterrows():
                         if(row.isSejour):
                             print("Inserting row")
@@ -312,7 +310,6 @@ def GenerateSejours():
 if(__name__ == "__main__"):
     cursor = connection.cursor()
     GenerateSejours()
-    print(listCountries)
     print("Done ! ")
     if connection:
         connection.close()

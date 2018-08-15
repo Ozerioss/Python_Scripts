@@ -267,24 +267,6 @@ def GenerateSejoursTest():
                         df_sejour.at[i + 1, 'nbJoursAvant'] = last
                         df_sejour.at[i + 1, 'nbJoursApres'] = next
 
-                    """ if(i==0):
-                        last = -1
-                        next = df_sejour.Consecutive.iloc[i+1]
-                        df_sejour.at[i + 1, 'nbJoursAvant'] = last
-                        df_sejour.at[i + 1, 'nbJoursApres'] = next
-
-                    last = df_sejour.Consecutive.iloc[i-1]
-                    next = -1
-                    if(i==df_sejour.shape[0]-1):
-                        next = -1 #last sejour
-                        df_sejour.at[i + 1, 'nbJoursAvant'] = last
-                        df_sejour.at[i + 1, 'nbJoursApres'] = next
-
-                    elif(df_sejour['isSejour'].iloc[i]):
-                        next = df_sejour.Consecutive.iloc[i+1]
-                        df_sejour.at[i + 1, 'nbJoursAvant'] = last
-                        df_sejour.at[i + 1, 'nbJoursApres'] = next """
-
             # To remove timestamps
             df_sejour['BeginDate'] = df_sejour['BeginDate'].dt.date 
             df_sejour['EndDate'] = df_sejour['EndDate'].dt.date
