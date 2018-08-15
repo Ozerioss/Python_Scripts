@@ -2,7 +2,6 @@ import pymysql as mdb
 import sys
 import pandas
 import numpy as np
-import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from matplotlib.backends.backend_pdf import PdfPages
             
@@ -156,11 +155,10 @@ def getListCountries(user):
     return listCountries, listValues
 
 
-#userList = ['181874912']
 
 def GenerateSejours():
     linesInserted = 0 #To check number of lines inserted in logs
-    with open('UserList_firstBatch.txt') as infile:
+    with open('TestUsers.txt') as infile:
         header = infile.readline() #skip column name
         for line in infile:
             user = line.strip()
@@ -269,23 +267,19 @@ def GenerateSejours():
                     """ for i, row in df_sejour.iterrows():
                         #Insert logic here
                         print(row) """
-                    """ for i, row in df_calendrier.iterrows():
-                        if(df_calendrier.at[i, 'nbrPhoto'] != 0):
-                            print(row) """
                     
                     df_sejour['nbJoursAvant'] = 0
                     df_sejour['nbJoursApres'] = 0
+                    sejour_size = df_sejour.shape[0]
+                    #Sets for first and last sejour respectively -1 for days before and -1 for days after
                     for i in range(sejour_size):
                         if(sejour_size > 1):
                             if(df_sejour['isSejour'].iloc[i]):
-                                #Mettre -1 pour nbrJoursAvant pour 1er sejour
-                                #Mettre -1 pour nbrJoursApres pour le dernier sejour
                                 last = -1
                                 next = -1
-
                                 if(i == 0 or i == 1): #ie 1er sejour
                                     next = df_sejour.Consecutive.iloc[i+1]
-                                elif(i == (sejour_size - 1) or i == (sejour_size - 2)):
+                                elif(i == (sejour_size - 1) or i == (sejour_size - 2)): # ie dernier sejour
                                     last = df_sejour.Consecutive.iloc[i-1]     
                                 else:
                                     last = df_sejour.Consecutive.iloc[i-1]
@@ -298,7 +292,7 @@ def GenerateSejours():
                     df_sejour['BeginDate'] = df_sejour['BeginDate'].dt.date 
                     df_sejour['EndDate'] = df_sejour['EndDate'].dt.date
 
-                    df_sejour['homeCountry'] = homeCountry + secondCountry
+                    df_sejour['homeCountry'] = homeCountry + ', ' + secondCountry
                     for i, row in df_sejour.iterrows():
                         if(row.isSejour):
                             print("Inserting row")
