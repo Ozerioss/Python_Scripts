@@ -129,13 +129,12 @@ def ComputeStatistics():
 
 
 def TestMethod():
-    user = '10000464'
-    listCountries, listValues = getListCountries(user)
-    print(user)
-    print(listCountries)
+    data = {'col1': [1, 2, 3], 'col2': [3, 4, 5]}
+    df = pandas.DataFrame(data = data)
+    print(df)
 
 def GenerateSejoursTest():
-    user = '10000464'
+    user = '1255755840'
     listCountries, listValues = getListCountries(user)
     if(len(listCountries) > 1):
         homeCountry = listCountries[0]   #We suppose the homecountry of the user is the country where he made most of his pictures
@@ -271,7 +270,12 @@ def GenerateSejoursTest():
             df_sejour['BeginDate'] = df_sejour['BeginDate'].dt.date 
             df_sejour['EndDate'] = df_sejour['EndDate'].dt.date
 
-            df_sejour['homeCountry'] = homeCountry + secondCountry
+            #If the user has 2 home countries we add it to the dataframe
+            if(secondCountry != ""):
+                df_sejour['homeCountry'] = homeCountry + ', ' + secondCountry
+            else:
+                df_sejour['homeCountry'] = homeCountry
+                    
             for i, row in df_sejour.iterrows():
                 print(row)
                 
@@ -287,5 +291,5 @@ if(__name__ == "__main__"):
     #cursor = connectionMySQL.cursor()
     GenerateSejoursTest()
     print("Done ! ")
-    if connection:
-        connection.close()
+    """ if connection:
+        connection.close() """
