@@ -52,7 +52,7 @@ query_distance_countries = "SELECT distance_km FROM country_distances.distances_
                         "
 
 #Make idSejour 
-query_insert_sejour = "INSERT INTO Sejour_Corrected(idUser, dateDebut, dateFin, dureeJ, nbPhotoAvg, nbPhotoMin, \
+query_insert_sejour = "INSERT INTO Sejour_Corrected_v2(idUser, dateDebut, dateFin, dureeJ, nbPhotoAvg, nbPhotoMin, \
                             nbPhotoMax, nbPhotoTotal, nbJourPauseAvant, nbJourPauseApres, listeJours, listePays, \
                             listeEtats, listeVilles, listeSpots, listePaysExclus, Corrected)             \
                             VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
@@ -275,6 +275,7 @@ def GenerateSejours():
                     df_sejour['EndDate'] = df_sejour['EndDate'].dt.date
                     
                     indexes_to_drop = []
+                    mergedSejourDict = {}
                     for i in range(sejour_size - 2):
                         if(sejour_size > 3): # minimum 3 sejours avant qu'on merge
                             if(df_sejour.isSejour.iloc[i]):
@@ -293,12 +294,46 @@ def GenerateSejours():
                                 statesSecondSejour = secondSejour.statesVisited.split(', ')
                                 citiesSecondSejour = secondSejour.citiesVisited.split(', ')
 
-                                #Get Distance pays
+                                #Case where country is different
                                 if(lastCountrySejour1 != firstCountrySejour2):
                                     distancePays = getDistance(lastCountrySejour1, firstCountrySejour2)
                                     distanceNormalized = getNormalizedDistance(distancePays)
+                                    if(pause.Consecutive <= firstSejour.Consecutive and 
+                                                        pause.Consecutive <= secondSejour.Consecutive + distanceNormalized):
+                                        print(firstSejour)
+                                        print(pause)
+                                        print(secondSejour)
+                                        newRowBeginDate = firstSejour.BeginDate
+                                        newRowEndDate = secondSejour.EndDate
+                                        newRowConsecutive = firstSejour.Consecutive + pause.Consecutive + secondSejour.Consecutive
+                                        newRowNbrPhotos = firstSejour.nbrPhotos + secondSejour.nbrPhotos
 
-                                if(pause.Consecutive <= firstSejour.Consecutive and pause.Consecutive <= secondSejour.Consecutive 
+                                        newRowCountriesVisited = firstSejour.countriesVisited + ', ' + ', '.join(countriesSecondSejour)
+
+                                        newRowStatesVisited = firstSejour.statesVisited + ', ' + secondSejour.statesVisited
+                                        
+                                        #Cities
+                                        newRowCitiesVisited = firstSejour.citiesVisited + ', ' + secondSejour.citiesVisited
+                                        
+                                        newRowSpecificSpots = firstSejour.specificSpots + ', ' + secondSejour.specificSpots
+                                        
+                                        newRownbrPhotoAvg = (firstSejour.nbrPhotoAvg + secondSejour.nbrPhotoAvg) / 2
+                                        newRownbrPhotoMin = min(firstSejour.nbrPhotoMin, secondSejour.nbrPhotoMin)
+                                        newRownbrPhotoMax = max(firstSejour.nbrPhotoMax, secondSejour.nbrPhotoMax)
+                                        
+                                        newRowDaysOfWeek = firstSejour.daysOfWeek + ', ' + secondSejour.daysOfWeek
+                                        newRowNbJoursAvant = firstSejour.nbJoursAvant
+                                        newRowNbJoursApres = secondSejour.nbJoursApres
+
+
+                                        mergedSejourDict[i] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, 
+                                                newRowCountriesVisited, newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, 
+                                                newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax, newRownbrPhotoMin, 
+                                                newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 2]
+                                        indexes_to_drop.extend((i, i+1, i+2))
+
+
+                                elif(pause.Consecutive <= firstSejour.Consecutive and pause.Consecutive <= secondSejour.Consecutive 
                                         and lastCountrySejour1 == firstCountrySejour2):
                                     #merge
                                     newRowBeginDate = firstSejour.BeginDate
@@ -334,7 +369,11 @@ def GenerateSejours():
                                     newRowNbJoursAvant = firstSejour.nbJoursAvant
                                     newRowNbJoursApres = secondSejour.nbJoursApres
 
-                                    #df_sejour.drop(df_sejour.index[[i, i+1, i+2]], inplace = True)
+
+                                    mergedSejourDict[i] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, 
+                                                newRowCountriesVisited, newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, 
+                                                newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax, newRownbrPhotoMin, 
+                                                newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 1]
                                     indexes_to_drop.extend((i, i+1, i+2))
                     
                     #If the user has 2 home countries we add it to the dataframe
@@ -346,22 +385,25 @@ def GenerateSejours():
                     df_sejour['Corrected'] = 0
 
                     if(len(indexes_to_drop) > 1): #Sejour to correct
-                        df_sejour.loc[indexes_to_drop[0] + 1] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, newRowCountriesVisited,
-                            newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax,
-                            newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 1]
-                        df_sejour.drop(df_sejour.index[indexes_to_drop[1:]], inplace = True)
+                        for k in range(len(indexes_to_drop)):
+                            if(k % 3 == 0):
+                                df_sejour.loc[indexes_to_drop[k] + 1] = mergedSejourDict[indexes_to_drop[k]]
+                                #df_sejour.drop(df_sejour.index[indexes_to_drop[k] + 1], inplace = True)
+                                df_sejour.loc[indexes_to_drop[k] + 3, 'isSejour'] = False
 
+                    for i, row in df_sejour.iterrows():
+                        if(row.Corrected == 2):
+                            print(row)
                     
 
-                    """ for i, row in df_sejour.iterrows():
+                    for i, row in df_sejour.iterrows():
                         if(row.isSejour):
-                            print("Inserting row")
                             print(row)
                             cursor.execute(query_insert_sejour, (user, row.BeginDate, row.EndDate, row.Consecutive, 
                                 row.nbrPhotoAvg, row.nbrPhotoMin, row.nbrPhotoMax, row.nbrPhotos, row.nbJoursAvant, row.nbJoursApres,
                                 row.daysOfWeek, row.countriesVisited, row.statesVisited, row.citiesVisited, row.specificSpots, row.homeCountry, row.Corrected))
                             print("Inserted line : {}".format(linesInserted))
-                            linesInserted += 1 """
+                            linesInserted += 1
                         
 
                 except mdb.Error as e:
@@ -499,6 +541,7 @@ def GenerateSejoursTest(userList):
                 df_sejour['EndDate'] = df_sejour['EndDate'].dt.date
                 
                 indexes_to_drop = []
+                mergedSejourDict = {}
                 for i in range(sejour_size - 2):
                     if(sejour_size > 3): # minimum 3 sejours avant qu'on merge
                         if(df_sejour.isSejour.iloc[i]):
@@ -548,6 +591,11 @@ def GenerateSejoursTest(userList):
                                     newRowNbJoursAvant = firstSejour.nbJoursAvant
                                     newRowNbJoursApres = secondSejour.nbJoursApres
 
+
+                                    mergedSejourDict[i] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, 
+                                            newRowCountriesVisited, newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, 
+                                            newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax, newRownbrPhotoMin, 
+                                            newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 2]
                                     indexes_to_drop.extend((i, i+1, i+2))
 
 
@@ -587,6 +635,11 @@ def GenerateSejoursTest(userList):
                                 newRowNbJoursAvant = firstSejour.nbJoursAvant
                                 newRowNbJoursApres = secondSejour.nbJoursApres
 
+
+                                mergedSejourDict[i] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, 
+                                            newRowCountriesVisited, newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, 
+                                            newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax, newRownbrPhotoMin, 
+                                            newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 1]
                                 indexes_to_drop.extend((i, i+1, i+2))
                 
                 #If the user has 2 home countries we add it to the dataframe
@@ -598,13 +651,14 @@ def GenerateSejoursTest(userList):
                 df_sejour['Corrected'] = 0
 
                 if(len(indexes_to_drop) > 1): #Sejour to correct
-                    df_sejour.loc[indexes_to_drop[0] + 1] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, newRowCountriesVisited,
-                        newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax,
-                        newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 1]
-                    df_sejour.drop(df_sejour.index[indexes_to_drop[1:]], inplace = True)
+                    for k in range(len(indexes_to_drop)):
+                        if(k % 3 == 0):
+                            df_sejour.loc[indexes_to_drop[k] + 1] = mergedSejourDict[indexes_to_drop[k]]
+                            #df_sejour.drop(df_sejour.index[indexes_to_drop[k] + 1], inplace = True)
+                            df_sejour.loc[indexes_to_drop[k] + 3, 'isSejour'] = False
 
                 for i, row in df_sejour.iterrows():
-                    if(row.Corrected == 1):
+                    if(row.Corrected == 2):
                         print(row)
                 
 
@@ -626,8 +680,8 @@ def GenerateSejoursTest(userList):
 
 if(__name__ == "__main__"):
     cursor = connection.cursor()
-    userList = ['12282880']
-    GenerateSejoursTest(userList)
+    #userList = ['10124937']
+    GenerateSejours()
     print("Done ! ")
     if connection:
         connection.close()
