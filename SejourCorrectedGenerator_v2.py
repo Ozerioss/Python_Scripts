@@ -380,8 +380,6 @@ def GenerateSejours():
 
 
 
-
-
 def GenerateSejoursTest(userList):
     for user in userList:
         listCountries, listValues = getListCountries(user)
@@ -598,7 +596,8 @@ def GenerateSejoursTest(userList):
 
 if(__name__ == "__main__"):
     cursor = connection.cursor()
-    GenerateSejours()
+    #userList = ['4341398', '43413987', '']
+    GenerateSejoursTest()
     print("Done ! ")
     if connection:
         connection.close()
