@@ -478,10 +478,8 @@ def GenerateSejoursTest(userList):
                     df_sejour['homeCountry'] = homeCountry + ', ' + secondCountry
                 else:
                     df_sejour['homeCountry'] = homeCountry
-
-                for i, row in df_sejour.iterrows():
-                    print(row)
                 
+                indexes_to_drop = []
                 for i in range(sejour_size - 2):
                     if(sejour_size > 3): # minimum 3 sejours avant qu'on merge
                         if(df_sejour.isSejour.iloc[i]):
@@ -503,7 +501,8 @@ def GenerateSejoursTest(userList):
                                 #merge
                                 newRowBeginDate = firstSejour.BeginDate
                                 newRowEndDate = secondSejour.EndDate
-                                newRowConsecutive = firstSejour.Consecutive + secondSejour.Consecutive
+                                newRowConsecutive = firstSejour.Consecutive + pause.Consecutive + secondSejour.Consecutive
+                                newRowNbrPhotos = firstSejour.nbrPhotos + secondSejour.nbrPhotos
                                 if(len(countriesSecondSejour) > 1): #To avoid getting the same country again
                                     newRowCountriesVisited = firstSejour.countriesVisited + ', ' + ', '.join(countriesSecondSejour[1:])
                                 else:
@@ -523,7 +522,7 @@ def GenerateSejoursTest(userList):
                                 else:
                                     newRowCitiesVisited = firstSejour.citiesVisited
                                 
-                                newRowSpecifSpots = firstSejour.specificSpots + ', ' + secondSejour.specificSpots
+                                newRowSpecificSpots = firstSejour.specificSpots + ', ' + secondSejour.specificSpots
                                 
                                 newRownbrPhotoAvg = (firstSejour.nbrPhotoAvg + secondSejour.nbrPhotoAvg) / 2
                                 newRownbrPhotoMin = min(firstSejour.nbrPhotoMin, secondSejour.nbrPhotoMin)
@@ -533,10 +532,18 @@ def GenerateSejoursTest(userList):
                                 newRowNbJoursAvant = firstSejour.nbJoursAvant
                                 newRowNbJoursApres = secondSejour.nbJoursApres
 
-                                #print(newRowBeginDate, newRowEndDate, newRowConsecutive, newRowCountriesVisited, newRowStatesVisited, newRowCitiesVisited)
+                                #df_sejour.drop(df_sejour.index[[i, i+1, i+2]], inplace = True)
+                                indexes_to_drop.extend((i, i+1, i+2))
                 
-                    for i, row in df_sejour.iterrows():
-                        print(row)
+
+                df_sejour.loc[indexes_to_drop[0] + 1] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, newRowCountriesVisited,
+                    newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax,
+                    newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry]
+                df_sejour.drop(df_sejour.index[indexes_to_drop[1:]], inplace = True)
+
+                for i, row in df_sejour.iterrows():
+                    print(row)
+
                 """ for i, row in df_sejour.iterrows():
                     if(row.isSejour):
                         print("Inserting row")
