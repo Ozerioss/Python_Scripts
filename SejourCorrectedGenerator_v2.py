@@ -124,7 +124,7 @@ def getListCountries(user):
     listCountries = []
     listValues = []
     try:
-        #print("Querying .. Top countries visited for {}".format(user))
+        print("Querying .. Top countries visited for {}".format(user))
         cursor.execute(query_nrPhoto_User_World, user)
         #print("OK")
         result = cursor.fetchall()
