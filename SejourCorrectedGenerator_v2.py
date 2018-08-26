@@ -105,14 +105,18 @@ def getDistance(country1, country2):
 
 
 #Normalizes distance between 1 and 3
-def getNormalizedDistance_v1(distance):
+def getNormalizedDistance(distance):
     #do a bunch of stuff
     minValue = 0
     maxValue = 19798
 
-    normalizedDistance = (3-1) * (distance / maxValue) + 1
+    if(distance == 0):
+        normalizedDistance = 0
 
-    return int(normalizedDistance)
+    else:
+        normalizedDistance = (3-1) * (distance / maxValue) + 1
+
+    return round(normalizedDistance)
 
 
 #Returns all countries visited  
@@ -513,12 +517,41 @@ def GenerateSejoursTest(userList):
                             statesSecondSejour = secondSejour.statesVisited.split(', ')
                             citiesSecondSejour = secondSejour.citiesVisited.split(', ')
 
-                            #Get Distance pays
+                            #Case where country is different
                             if(lastCountrySejour1 != firstCountrySejour2):
                                 distancePays = getDistance(lastCountrySejour1, firstCountrySejour2)
                                 distanceNormalized = getNormalizedDistance(distancePays)
+                                if(pause.Consecutive <= firstSejour.Consecutive and 
+                                                    pause.Consecutive <= secondSejour.Consecutive + distanceNormalized):
+                                    print(firstSejour)
+                                    print(pause)
+                                    print(secondSejour)
+                                    newRowBeginDate = firstSejour.BeginDate
+                                    newRowEndDate = secondSejour.EndDate
+                                    newRowConsecutive = firstSejour.Consecutive + pause.Consecutive + secondSejour.Consecutive
+                                    newRowNbrPhotos = firstSejour.nbrPhotos + secondSejour.nbrPhotos
 
-                            if(pause.Consecutive <= firstSejour.Consecutive and pause.Consecutive <= secondSejour.Consecutive 
+                                    newRowCountriesVisited = firstSejour.countriesVisited + ', ' + ', '.join(countriesSecondSejour)
+
+                                    newRowStatesVisited = firstSejour.statesVisited + ', ' + secondSejour.statesVisited
+                                    
+                                    #Cities
+                                    newRowCitiesVisited = firstSejour.citiesVisited + ', ' + secondSejour.citiesVisited
+                                    
+                                    newRowSpecificSpots = firstSejour.specificSpots + ', ' + secondSejour.specificSpots
+                                    
+                                    newRownbrPhotoAvg = (firstSejour.nbrPhotoAvg + secondSejour.nbrPhotoAvg) / 2
+                                    newRownbrPhotoMin = min(firstSejour.nbrPhotoMin, secondSejour.nbrPhotoMin)
+                                    newRownbrPhotoMax = max(firstSejour.nbrPhotoMax, secondSejour.nbrPhotoMax)
+                                    
+                                    newRowDaysOfWeek = firstSejour.daysOfWeek + ', ' + secondSejour.daysOfWeek
+                                    newRowNbJoursAvant = firstSejour.nbJoursAvant
+                                    newRowNbJoursApres = secondSejour.nbJoursApres
+
+                                    indexes_to_drop.extend((i, i+1, i+2))
+
+
+                            elif(pause.Consecutive <= firstSejour.Consecutive and pause.Consecutive <= secondSejour.Consecutive 
                                     and lastCountrySejour1 == firstCountrySejour2):
                                 #merge
                                 newRowBeginDate = firstSejour.BeginDate
@@ -554,7 +587,6 @@ def GenerateSejoursTest(userList):
                                 newRowNbJoursAvant = firstSejour.nbJoursAvant
                                 newRowNbJoursApres = secondSejour.nbJoursApres
 
-                                #df_sejour.drop(df_sejour.index[[i, i+1, i+2]], inplace = True)
                                 indexes_to_drop.extend((i, i+1, i+2))
                 
                 #If the user has 2 home countries we add it to the dataframe
@@ -571,6 +603,9 @@ def GenerateSejoursTest(userList):
                         newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 1]
                     df_sejour.drop(df_sejour.index[indexes_to_drop[1:]], inplace = True)
 
+                for i, row in df_sejour.iterrows():
+                    if(row.Corrected == 1):
+                        print(row)
                 
 
                 """ for i, row in df_sejour.iterrows():

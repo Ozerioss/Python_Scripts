@@ -124,9 +124,13 @@ def getNormalizedDistance_v1(distance):
     minValue = 0
     maxValue = 19798
 
-    normalizedDistance = (3-1) * (distance / maxValue) + 1
+    if(distance == 0):
+        normalizedDistance = 0
 
-    return int(normalizedDistance)
+    else:
+        normalizedDistance = (3-1) * (distance / maxValue) + 1
+
+    return round(normalizedDistance)
 
 def getNormalizedDistance_v2(distance):
     #do a bunch of stuff
