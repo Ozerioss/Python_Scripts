@@ -4,6 +4,7 @@ import numpy as np
 import pandas
 import matplotlib.dates as mdates
 import statistics
+import math
             
 
 def getRandomUsers():
@@ -39,7 +40,10 @@ query_nrPhoto_User_World = " SELECT gadm2.gadm2.name_0, count(name_0) as nbr    
                                         ORDER BY nbr desc;                                                  \
                         "
 
-
+query_distance_countries = "SELECT distance_km FROM country_distances.distances_joined                      \
+                                    WHERE country1_name_0_gadm2 = %s                                        \
+                                    AND country2_name_0_gadm2 = %s;                                         \
+                        "
 
 connection = mdb.connect(host="127.0.0.1", 
                         user="KarimKidiss", 
@@ -97,6 +101,44 @@ def getListCountries(user):
     return listCountries, listValues
 
 
+def getDistance(country1, country2):
+    try:
+        print("Querying distance between : {} and {}".format(country1, country2))
+        cursor.execute(query_distance_countries, (country1, country2))
+
+        result = cursor.fetchall()
+        distance = 0
+        for tmp in result:
+            distance = tmp[0]
+
+    except mdb.Error:
+        print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
+        sys.exit(1)
+
+    return distance
+
+
+#Normalizes distance between 1 and 3
+def getNormalizedDistance_v1(distance):
+    #do a bunch of stuff
+    minValue = 0
+    maxValue = 19798
+
+    normalizedDistance = (3-1) * (distance / maxValue) + 1
+
+    return int(normalizedDistance)
+
+def getNormalizedDistance_v2(distance):
+    #do a bunch of stuff
+    averageValue = 7620.37
+    standardDeviation = 4609.81
+
+    temp = 3 * ((distance - averageValue) / standardDeviation)
+
+    normalizedDistance = int(abs(temp))
+
+    return normalizedDistance
+
 def saveAllUsers():
     try:
         print("Querying ... \n All users") 
@@ -129,9 +171,14 @@ def ComputeStatistics():
 
 
 def TestMethod():
-    data = {'col1': [1, 2, 3], 'col2': [3, 4, 5]}
-    df = pandas.DataFrame(data = data)
-    print(df)
+    with open('countryList.txt') as infile:
+        header = infile.readline() #skip column name
+        for line in infile:
+            country = line.strip()
+            distance = getDistance("France", country)
+            normalizedDistance = getNormalizedDistance_v1(distance)
+            print("distance : ", distance)
+            print("normalized distance : ", normalizedDistance)
 
 def GenerateSejoursTest():
     user = '1255755840'
@@ -289,7 +336,7 @@ def GenerateSejoursTest():
 if(__name__ == "__main__"):
     cursor = connection.cursor()
     #cursor = connectionMySQL.cursor()
-    GenerateSejoursTest()
+    TestMethod()
     print("Done ! ")
-    """ if connection:
-        connection.close() """
+    if connection:
+        connection.close()

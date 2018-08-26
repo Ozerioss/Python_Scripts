@@ -49,8 +49,8 @@ query_nrPhoto_User_World = " SELECT gadm2.gadm2.name_0, count(name_0) as nbr    
 #Make idSejour 
 query_insert_sejour = "INSERT INTO Sejour_Corrected(idUser, dateDebut, dateFin, dureeJ, nbPhotoAvg, nbPhotoMin, \
                             nbPhotoMax, nbPhotoTotal, nbJourPauseAvant, nbJourPauseApres, listeJours, listePays, \
-                            listeEtats, listeVilles, listeSpots, listePaysExclus)             \
-                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
+                            listeEtats, listeVilles, listeSpots, listePaysExclus, Corrected)             \
+                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
 
 
 connection = mdb.connect(host="127.0.0.1", 
@@ -157,7 +157,7 @@ def getListCountries(user):
 def GenerateSejours():
     print("Opening file ..")
     linesInserted = 0 #To check number of lines inserted in logs
-    with open('TestUsers.txt') as infile:
+    with open('first_batch.txt') as infile:
         header = infile.readline() #skip column name
         for line in infile:
             user = line.strip()
@@ -350,27 +350,25 @@ def GenerateSejours():
                     else:
                         df_sejour['homeCountry'] = homeCountry
 
-                    df_sejour['Corrected'] = False
+                    df_sejour['Corrected'] = 0
 
                     if(len(indexes_to_drop) > 1): #Sejour to correct
                         df_sejour.loc[indexes_to_drop[0] + 1] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, newRowCountriesVisited,
                             newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax,
-                            newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, True]
+                            newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 1]
                         df_sejour.drop(df_sejour.index[indexes_to_drop[1:]], inplace = True)
 
-                    for i, row in df_sejour.iterrows():
-                        if(row.Corrected):
-                            print(row)
+                    
 
-                    """ for i, row in df_sejour.iterrows():
+                    for i, row in df_sejour.iterrows():
                         if(row.isSejour):
                             print("Inserting row")
                             print(row)
                             cursor.execute(query_insert_sejour, (user, row.BeginDate, row.EndDate, row.Consecutive, 
                                 row.nbrPhotoAvg, row.nbrPhotoMin, row.nbrPhotoMax, row.nbrPhotos, row.nbJoursAvant, row.nbJoursApres,
-                                row.daysOfWeek, row.countriesVisited, row.statesVisited, row.citiesVisited, row.specificSpots, row.homeCountry))
+                                row.daysOfWeek, row.countriesVisited, row.statesVisited, row.citiesVisited, row.specificSpots, row.homeCountry, row.Corrected))
                             print("Inserted line : {}".format(linesInserted))
-                            linesInserted += 1 """
+                            linesInserted += 1
                         
 
                 except mdb.Error as e:

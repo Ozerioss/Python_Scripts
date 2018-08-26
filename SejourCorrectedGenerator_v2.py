@@ -46,11 +46,16 @@ query_nrPhoto_User_World = " SELECT gadm2.gadm2.name_0, count(name_0) as nbr    
                                         ORDER BY nbr desc;                                                  \
                         "
 
+query_distance_countries = "SELECT distance_km FROM country_distances.distances_joined                      \
+                                    WHERE country1_name_0_gadm2 = %s                                        \
+                                    AND country2_name_0_gadm2 = %s;                                         \
+                        "
+
 #Make idSejour 
 query_insert_sejour = "INSERT INTO Sejour_Corrected(idUser, dateDebut, dateFin, dureeJ, nbPhotoAvg, nbPhotoMin, \
                             nbPhotoMax, nbPhotoTotal, nbJourPauseAvant, nbJourPauseApres, listeJours, listePays, \
-                            listeEtats, listeVilles, listeSpots, listePaysExclus)             \
-                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
+                            listeEtats, listeVilles, listeSpots, listePaysExclus, Corrected)             \
+                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
 
 
 connection = mdb.connect(host="127.0.0.1", 
@@ -80,58 +85,35 @@ def getRandomUsersList():
         sys.exit(1)
     return listUsers
 
-#Very unefficient with memory
-def getAllUsersList():
-    listUsers = []
+
+
+def getDistance(country1, country2):
     try:
-        print("Querying ... \n All users") 
-        
-        cursor.execute(query_allUsers)
+        print("Querying distance between : {} and {}".format(country1, country2))
+        cursor.execute(query_distance_countries, (country1, country2))
+
         result = cursor.fetchall()
-
+        distance = 0
         for tmp in result:
-            listUsers.append(tmp[0])
+            distance = tmp[0]
 
     except mdb.Error:
         print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
         sys.exit(1)
-    return listUsers
 
-def saveAllUsers():
-    try:
-        print("Querying ... \n All users") 
-        cursor = connection.cursor(mdb.cursors.SSCursor)
-        try:
-            cursor.execute(query_allUsers)
-            size = 1000
-            result = cursor.fetchmany(size)
-            """ with open('listUsers.txt', 'w') as f:
-                while result is not None:
-                    for row in result:
-                        f.write("{}\n".format(row[0]))
-                    result = cursor.fetchmany(size) """
-        except mdb.Error:
-            print("wtf")
-            sys.exit(1)
-    except mdb.Error:
-        print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
-        sys.exit(1)
+    return distance
 
 
+#Normalizes distance between 1 and 3
+def getNormalizedDistance_v1(distance):
+    #do a bunch of stuff
+    minValue = 0
+    maxValue = 19798
 
-def ReadUserListFile():
-    tmpCount = 0
-    tmpList = []
+    normalizedDistance = (3-1) * (distance / maxValue) + 1
 
-    with open('UserList_firstBatch.txt') as infile:
-        header = infile.readline() #skip column name
-        for line in infile:
-            tmpList.append(line.strip())
-            tmpCount += 1
-            if(tmpCount == 10):
-                break
-        print(tmpList)
-        print(header)
+    return int(normalizedDistance)
+
 
 #Returns all countries visited  
 def getListCountries(user):
@@ -152,12 +134,14 @@ def getListCountries(user):
         sys.exit(1)
     return listCountries, listValues
 
+            
+
 
 
 def GenerateSejours():
     print("Opening file ..")
     linesInserted = 0 #To check number of lines inserted in logs
-    with open('TestUsers.txt') as infile:
+    with open('first_batch.txt') as infile:
         header = infile.readline() #skip column name
         for line in infile:
             user = line.strip()
@@ -305,6 +289,11 @@ def GenerateSejours():
                                 statesSecondSejour = secondSejour.statesVisited.split(', ')
                                 citiesSecondSejour = secondSejour.citiesVisited.split(', ')
 
+                                #Get Distance pays
+                                if(lastCountrySejour1 != firstCountrySejour2):
+                                    distancePays = getDistance(lastCountrySejour1, firstCountrySejour2)
+                                    distanceNormalized = getNormalizedDistance(distancePays)
+
                                 if(pause.Consecutive <= firstSejour.Consecutive and pause.Consecutive <= secondSejour.Consecutive 
                                         and lastCountrySejour1 == firstCountrySejour2):
                                     #merge
@@ -350,17 +339,15 @@ def GenerateSejours():
                     else:
                         df_sejour['homeCountry'] = homeCountry
 
-                    df_sejour['Corrected'] = False
+                    df_sejour['Corrected'] = 0
 
                     if(len(indexes_to_drop) > 1): #Sejour to correct
                         df_sejour.loc[indexes_to_drop[0] + 1] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, newRowCountriesVisited,
                             newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax,
-                            newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, True]
+                            newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 1]
                         df_sejour.drop(df_sejour.index[indexes_to_drop[1:]], inplace = True)
 
-                    for i, row in df_sejour.iterrows():
-                        if(row.Corrected):
-                            print(row)
+                    
 
                     """ for i, row in df_sejour.iterrows():
                         if(row.isSejour):
@@ -368,7 +355,7 @@ def GenerateSejours():
                             print(row)
                             cursor.execute(query_insert_sejour, (user, row.BeginDate, row.EndDate, row.Consecutive, 
                                 row.nbrPhotoAvg, row.nbrPhotoMin, row.nbrPhotoMax, row.nbrPhotos, row.nbJoursAvant, row.nbJoursApres,
-                                row.daysOfWeek, row.countriesVisited, row.statesVisited, row.citiesVisited, row.specificSpots, row.homeCountry))
+                                row.daysOfWeek, row.countriesVisited, row.statesVisited, row.citiesVisited, row.specificSpots, row.homeCountry, row.Corrected))
                             print("Inserted line : {}".format(linesInserted))
                             linesInserted += 1 """
                         
@@ -399,7 +386,7 @@ def GenerateSejoursTest(userList):
             del listCountries[0]             #We remove it from the list so we don't check their stay there
             print("Home country is : {}".format(homeCountry))
             print("rest of countries : ")
-            #print(listCountries)
+            print(listCountries)
 
             calendar = pandas.date_range("01-01-2011", "31-12-2015")
             calendar = calendar.map(lambda t : t.strftime('%Y-%m-%d'))  #Make sure calendar is in the right format
@@ -506,12 +493,6 @@ def GenerateSejoursTest(userList):
                 # To remove timestamps
                 df_sejour['BeginDate'] = df_sejour['BeginDate'].dt.date 
                 df_sejour['EndDate'] = df_sejour['EndDate'].dt.date
-
-                #If the user has 2 home countries we add it to the dataframe
-                if(secondCountry != ""):
-                    df_sejour['homeCountry'] = homeCountry + ', ' + secondCountry
-                else:
-                    df_sejour['homeCountry'] = homeCountry
                 
                 indexes_to_drop = []
                 for i in range(sejour_size - 2):
@@ -525,10 +506,17 @@ def GenerateSejoursTest(userList):
                             lastCountrySejour1 = countriesFirstSejour[-1]
                             countriesSecondSejour = secondSejour.countriesVisited.split(', ')
                             firstCountrySejour2 = countriesSecondSejour[0]
+
                             statesFirstSejour = firstSejour.statesVisited.split(', ')
-                            statesSecondSejour = secondSejour.statesVisited.split(', ')
                             citiesFirstSejour = firstSejour.citiesVisited.split(', ')
+
+                            statesSecondSejour = secondSejour.statesVisited.split(', ')
                             citiesSecondSejour = secondSejour.citiesVisited.split(', ')
+
+                            #Get Distance pays
+                            if(lastCountrySejour1 != firstCountrySejour2):
+                                distancePays = getDistance(lastCountrySejour1, firstCountrySejour2)
+                                distanceNormalized = getNormalizedDistance(distancePays)
 
                             if(pause.Consecutive <= firstSejour.Consecutive and pause.Consecutive <= secondSejour.Consecutive 
                                     and lastCountrySejour1 == firstCountrySejour2):
@@ -569,14 +557,21 @@ def GenerateSejoursTest(userList):
                                 #df_sejour.drop(df_sejour.index[[i, i+1, i+2]], inplace = True)
                                 indexes_to_drop.extend((i, i+1, i+2))
                 
+                #If the user has 2 home countries we add it to the dataframe
+                if(secondCountry != ""):
+                    df_sejour['homeCountry'] = homeCountry + ', ' + secondCountry
+                else:
+                    df_sejour['homeCountry'] = homeCountry
 
-                df_sejour.loc[indexes_to_drop[0] + 1] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, newRowCountriesVisited,
-                    newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax,
-                    newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry]
-                df_sejour.drop(df_sejour.index[indexes_to_drop[1:]], inplace = True)
+                df_sejour['Corrected'] = 0
 
-                for i, row in df_sejour.iterrows():
-                    print(row)
+                if(len(indexes_to_drop) > 1): #Sejour to correct
+                    df_sejour.loc[indexes_to_drop[0] + 1] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, newRowCountriesVisited,
+                        newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax,
+                        newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 1]
+                    df_sejour.drop(df_sejour.index[indexes_to_drop[1:]], inplace = True)
+
+                
 
                 """ for i, row in df_sejour.iterrows():
                     if(row.isSejour):
@@ -584,7 +579,7 @@ def GenerateSejoursTest(userList):
                         print(row)
                         cursor.execute(query_insert_sejour, (user, row.BeginDate, row.EndDate, row.Consecutive, 
                             row.nbrPhotoAvg, row.nbrPhotoMin, row.nbrPhotoMax, row.nbrPhotos, row.nbJoursAvant, row.nbJoursApres,
-                            row.daysOfWeek, row.countriesVisited, row.statesVisited, row.citiesVisited, row.specificSpots, row.homeCountry))
+                            row.daysOfWeek, row.countriesVisited, row.statesVisited, row.citiesVisited, row.specificSpots, row.homeCountry, row.Corrected))
                         print("Inserted line : {}".format(linesInserted))
                         linesInserted += 1 """
                     
@@ -596,14 +591,8 @@ def GenerateSejoursTest(userList):
 
 if(__name__ == "__main__"):
     cursor = connection.cursor()
-    #userList = ['4341398', '43413987', '']
-    GenerateSejoursTest()
+    userList = ['12282880']
+    GenerateSejoursTest(userList)
     print("Done ! ")
     if connection:
         connection.close()
-
-
-
-
-
-
