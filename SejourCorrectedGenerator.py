@@ -47,7 +47,7 @@ query_nrPhoto_User_World = " SELECT gadm2.gadm2.name_0, count(name_0) as nbr    
                         "
 
 #Make idSejour 
-query_insert_sejour = "INSERT INTO Sejour_Corrected_v2(idUser, dateDebut, dateFin, dureeJ, nbPhotoAvg, nbPhotoMin, \
+query_insert_sejour = "INSERT INTO Sejour_Corrected(idUser, dateDebut, dateFin, dureeJ, nbPhotoAvg, nbPhotoMin, \
                             nbPhotoMax, nbPhotoTotal, nbJourPauseAvant, nbJourPauseApres, listeJours, listePays, \
                             listeEtats, listeVilles, listeSpots, listePaysExclus, Corrected)             \
                             VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
@@ -287,6 +287,7 @@ def GenerateSejours():
                     df_sejour['EndDate'] = df_sejour['EndDate'].dt.date
                     
                     indexes_to_drop = []
+                    mergedSejourDict = {}
                     for i in range(sejour_size - 2):
                         if(sejour_size > 3): # minimum 3 sejours avant qu'on merge
                             if(df_sejour.isSejour.iloc[i]):
@@ -342,7 +343,13 @@ def GenerateSejours():
                                     newRowNbJoursApres = secondSejour.nbJoursApres
 
                                     #df_sejour.drop(df_sejour.index[[i, i+1, i+2]], inplace = True)
+                                    mergedSejourDict[i] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, 
+                                            newRowCountriesVisited, newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, 
+                                            newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax, newRownbrPhotoMin, 
+                                            newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 1]
                                     indexes_to_drop.extend((i, i+1, i+2))
+
+                                    
                     
                     #If the user has 2 home countries we add it to the dataframe
                     if(secondCountry != ""):
@@ -353,18 +360,15 @@ def GenerateSejours():
                     df_sejour['Corrected'] = 0
 
                     if(len(indexes_to_drop) > 1): #Sejour to correct
-                        for index in range(len(indexes_to_drop)):
-                            if(index % 3 == 0):
-                                df_sejour.loc[indexes_to_drop[index] + 1] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, newRowCountriesVisited,
-                                    newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax,
-                                    newRownbrPhotoMin, newRowDaysOfWeek, newRowNbJoursAvant, newRowNbJoursApres, homeCountry, 1]
-                                df_sejour.drop(df_sejour.index[indexes_to_drop[index + 1: index + 2]], inplace = True)
+                        for k in range(len(indexes_to_drop)):
+                            if(k % 3 == 0):
+                                df_sejour.loc[indexes_to_drop[k] + 1] = mergedSejourDict[indexes_to_drop[k]]
+                                #df_sejour.drop(df_sejour.index[indexes_to_drop[k] + 1], inplace = True)
+                                df_sejour.loc[indexes_to_drop[k] + 3, 'isSejour'] = False 
 
-                    
 
                     for i, row in df_sejour.iterrows():
                         if(row.isSejour):
-                            print("Inserting row")
                             print(row)
                             cursor.execute(query_insert_sejour, (user, row.BeginDate, row.EndDate, row.Consecutive, 
                                 row.nbrPhotoAvg, row.nbrPhotoMin, row.nbrPhotoMax, row.nbrPhotos, row.nbJoursAvant, row.nbJoursApres,
@@ -589,12 +593,6 @@ def GenerateSejoursTest(userList):
                             #df_sejour.drop(df_sejour.index[indexes_to_drop[k] + 1], inplace = True)
                             df_sejour.loc[indexes_to_drop[k] + 3, 'isSejour'] = False 
 
-                for i, row in df_sejour.iterrows():
-                        print(row)
-                for k, v in mergedSejourDict.items():
-                    print("// \n")
-                    print(k, v)
-                print(indexes_to_drop)
 
                 """ for i, row in df_sejour.iterrows():
                     if(row.isSejour):
@@ -615,7 +613,7 @@ def GenerateSejoursTest(userList):
 if(__name__ == "__main__"):
     cursor = connection.cursor()
     userList = ['10124937']
-    GenerateSejoursTest(userList)
+    GenerateSejours()
     print("Done ! ")
     if connection:
         connection.close()
