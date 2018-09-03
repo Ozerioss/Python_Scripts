@@ -145,7 +145,7 @@ def getListCountries(user):
 def GenerateSejours():
     print("Opening file ..")
     linesInserted = 0 #To check number of lines inserted in logs
-    with open('first_batch.txt') as infile:
+    with open('temppp.txt') as infile:
         header = infile.readline() #skip column name
         for line in infile:
             user = line.strip()

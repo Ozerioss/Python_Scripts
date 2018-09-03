@@ -1,0 +1,5 @@
+Taipei  ==> Taipei City #SUP: : 398 #CONF: 0.8326359832635983
+Queens  ==> New York #SUP: : 590 #CONF: 0.7652399481193255
+Tower Hamlets  ==> Westminster #SUP: : 630 #CONF: 0.7007786429365962
+London  ==> Westminster #SUP: : 648 #CONF: 0.7113062568605928
+Kings  ==> New York #SUP: : 933 #CONF: 0.8213028169014085
