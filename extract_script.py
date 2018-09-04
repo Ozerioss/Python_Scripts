@@ -11,6 +11,10 @@ query_sejour_homecountry = "SELECT listeVilles FROM Sejour WHERE Common = 1\
                         AND listeVilles != '' AND paysOrigine = %s\
                         "
 
+query_sejourCorrected_homecountry = "SELECT listeVilles FROM Sejour_Corrected\
+                        WHERE listeVilles != '' AND paysOrigine = %s\
+                        "
+
 connection = mdb.connect(host="127.0.0.1", 
                         user="KarimKidiss", 
                         passwd= "stageDVRC2018", 
@@ -48,10 +52,9 @@ def exportResultHomeCountry():
             country = line.strip()
             try:
                 print("Querying sejour for : {}".format(country))
-
-                cursor.execute(query_sejour_homecountry, country)
+                cursor.execute(query_sejourCorrected_homecountry, country)
                 result = cursor.fetchall()
-                newLine = open("QueryResults/result_sejour_homecountry_{}.txt".format(country), "w", encoding = "utf8")
+                newLine = open("QueryResults_Sejour_Corrected/result_sejour_homecountry_{}.txt".format(country), "w", encoding = "utf8")
                 for tmp in result:
                     newLine.write(tmp[0])
                     newLine.write("\n")
@@ -64,7 +67,7 @@ def exportResultHomeCountry():
 
 if(__name__ == "__main__"):
     cursor = connection.cursor()
-    testRegex()
+    exportResultHomeCountry()
     print("Done ! ")
     if connection:
         connection.close()
