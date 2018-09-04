@@ -1,0 +1,20 @@
+Tarragona Girona   ==> Barcelona   #SUP: : 19 #CONF: 0.7916666666666666
+Camden Southwark   ==> Westminster   #SUP: : 19 #CONF: 0.76
+Pechers'kyi Podil's'kyi   ==> Shevchenkivs'kyi   #SUP: : 20 #CONF: 0.8695652173913043
+Kensington and Chelsea London   ==> Camden   #SUP: : 20 #CONF: 0.625
+London Southwark   ==> Westminster   #SUP: : 21 #CONF: 0.875
+ Florence   ==> Roma   #SUP: : 22 #CONF: 0.88
+Praha 6 Praha 7   ==> Praha 1   #SUP: : 23 #CONF: 0.8214285714285714
+Praha 6 Praha 2   ==> Praha 1   #SUP: : 23 #CONF: 0.92
+Kensington and Chelsea London   ==> Westminster   #SUP: : 27 #CONF: 0.84375
+Besiktas Beyoglu   ==> Fatih   #SUP: : 28 #CONF: 0.6222222222222222
+Camden Tower Hamlets   ==> Westminster   #SUP: : 30 #CONF: 0.7317073170731707
+Kings Queens   ==> New York   #SUP: : 30 #CONF: 0.7894736842105263
+London Tower Hamlets   ==> Westminster   #SUP: : 30 #CONF: 0.8571428571428571
+Seine-Saint-Denis   ==> Paris   #SUP: : 38 #CONF: 0.6229508196721312
+Hauts-de-Seine   ==> Paris   #SUP: : 39 #CONF: 0.6190476190476191
+Hudson   ==> New York   #SUP: : 43 #CONF: 0.6825396825396826
+Kensington and Chelsea Camden   ==> Westminster   #SUP: : 43 #CONF: 0.6935483870967742
+London Camden   ==> Westminster   #SUP: : 43 #CONF: 0.7413793103448276
+Praha 6 Praha 5   ==> Praha 1   #SUP: : 49 #CONF: 0.8596491228070176
+Praha 5   ==> Praha 1   #SUP: : 98 #CONF: 0.6086956521739131

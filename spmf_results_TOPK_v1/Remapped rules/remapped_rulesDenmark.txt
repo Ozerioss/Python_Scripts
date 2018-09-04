@@ -1,0 +1,44 @@
+Värmdö   ==> Stockholm   #SUP: : 2 #CONF: 1.0
+Ealing   ==> Westminster   #SUP: : 2 #CONF: 1.0
+Kävlinge   ==> Lund   #SUP: : 2 #CONF: 1.0
+Vinnyts'kyi   ==> Vinnyts'ka   #SUP: : 2 #CONF: 1.0
+Gmunden   ==> Hamburg   #SUP: : 2 #CONF: 0.6666666666666666
+Esteban Echeverría   ==> Distrito Federal   #SUP: : 2 #CONF: 1.0
+Wadi Essier   ==> Amman   #SUP: : 2 #CONF: 1.0
+Genova   ==> La Spezia   #SUP: : 2 #CONF: 0.6666666666666666
+San Diego Orange   ==> Los Angeles   #SUP: : 2 #CONF: 0.6666666666666666
+Islington Southwark   ==> Westminster   #SUP: : 2 #CONF: 1.0
+Minato Koto   ==> Shibuya   #SUP: : 2 #CONF: 1.0
+London Southwark   ==> Westminster   #SUP: : 2 #CONF: 0.6666666666666666
+Minato Shinjuku   ==> Shibuya   #SUP: : 2 #CONF: 0.6666666666666666
+Shibuya Minato   ==> Shinjuku   #SUP: : 2 #CONF: 0.6666666666666666
+Camden Islington   ==> Hackney   #SUP: : 2 #CONF: 0.6666666666666666
+Islington Southwark   ==> Hackney   #SUP: : 2 #CONF: 1.0
+Shibuya Minato   ==> Koto   #SUP: : 2 #CONF: 0.6666666666666666
+Stockholm Delhi   ==> Sigtuna   #SUP: : 2 #CONF: 1.0
+London Islington   ==> Westminster   #SUP: : 2 #CONF: 0.6666666666666666
+Westminster Hillingdon   ==> Camden   #SUP: : 2 #CONF: 0.6666666666666666
+Shibuya Shinjuku   ==> Minato   #SUP: : 2 #CONF: 0.6666666666666666
+Camden Islington   ==> Westminster   #SUP: : 2 #CONF: 0.6666666666666666
+Tower Hamlets Hackney   ==> Westminster   #SUP: : 2 #CONF: 0.6666666666666666
+Delhi Sigtuna   ==> Stockholm   #SUP: : 2 #CONF: 1.0
+Tower Hamlets Hackney   ==> Islington   #SUP: : 2 #CONF: 0.6666666666666666
+Kings Hudson   ==> New York   #SUP: : 2 #CONF: 1.0
+Los Angeles San Diego   ==> Orange   #SUP: : 2 #CONF: 1.0
+Shibuya Koto   ==> Minato   #SUP: : 2 #CONF: 1.0
+Camden Hillingdon   ==> Westminster   #SUP: : 2 #CONF: 1.0
+Tower Hamlets Hackney   ==>    #SUP: : 2 #CONF: 0.6666666666666666
+Islington Southwark   ==>    #SUP: : 2 #CONF: 1.0
+Westminster Islington Southwark   ==> Hackney   #SUP: : 2 #CONF: 1.0
+Westminster Hackney Islington   ==> Tower Hamlets   #SUP: : 2 #CONF: 0.6666666666666666
+Hackney Islington Southwark   ==> Westminster   #SUP: : 2 #CONF: 1.0
+Tower Hamlets Hackney Islington   ==> Westminster   #SUP: : 2 #CONF: 1.0
+Westminster Hackney Islington   ==> Southwark   #SUP: : 2 #CONF: 0.6666666666666666
+Westminster Tower Hamlets Hackney   ==> Islington   #SUP: : 2 #CONF: 1.0
+Shinjuku   ==> Minato   #SUP: : 3 #CONF: 0.6
+Shinjuku   ==> Shibuya   #SUP: : 3 #CONF: 0.6
+Vaxholm   ==> Stockholm   #SUP: : 4 #CONF: 1.0
+Seine-Saint-Denis   ==> Paris   #SUP: : 4 #CONF: 1.0
+Tower Hamlets Islington   ==> Westminster   #SUP: : 4 #CONF: 0.6666666666666666
+Hackney Southwark   ==> Westminster   #SUP: : 5 #CONF: 1.0
+Kings Queens   ==> New York   #SUP: : 7 #CONF: 0.6363636363636364

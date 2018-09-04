@@ -77,7 +77,8 @@ def printSavedDico(dicoName):
     print(d)
 
 if(__name__ == "__main__"):
-    country = 'United Kingdom'
-    fname = 'topKFiles/result_sejour_homecountry_{}.txt'.format(country)
-    mapToInt(fname, country)
+    listCountry = ['Australia', 'Spain', 'Denmark']
+    for country in listCountry:
+        fname = 'topKFiles_Str_v1/result_sejour_homecountry_{}.txt'.format(country)
+        mapToInt(fname, country)
     print("Done ! ")

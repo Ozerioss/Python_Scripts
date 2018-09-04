@@ -1,0 +1,20 @@
+Tower Hamlets Camden Kensington and Chelsea   ==> Westminster   #SUP: : 8 #CONF: 0.8888888888888888
+Tower Hamlets Westminster Kensington and Chelsea   ==> Camden   #SUP: : 8 #CONF: 0.6666666666666666
+Florence    ==> Roma   #SUP: : 9 #CONF: 1.0
+Kensington and Chelsea Southwark   ==> Westminster   #SUP: : 9 #CONF: 0.75
+Camden Islington   ==> Westminster   #SUP: : 11 #CONF: 0.6875
+Southwark London   ==> Westminster   #SUP: : 11 #CONF: 0.6111111111111112
+Hackney London   ==> Westminster   #SUP: : 12 #CONF: 0.75
+Tower Hamlets Kensington and Chelsea   ==> Westminster   #SUP: : 12 #CONF: 0.6666666666666666
+Hackney Kensington and Chelsea   ==> Westminster   #SUP: : 12 #CONF: 0.75
+Tower Hamlets Camden London   ==> Westminster   #SUP: : 12 #CONF: 0.8571428571428571
+Camden Kensington and Chelsea London   ==> Westminster   #SUP: : 12 #CONF: 1.0
+Westminster Kensington and Chelsea London   ==> Camden   #SUP: : 12 #CONF: 0.631578947368421
+Tower Hamlets Westminster London   ==> Camden   #SUP: : 12 #CONF: 0.6666666666666666
+Camden Southwark   ==> Westminster   #SUP: : 16 #CONF: 0.7272727272727273
+Tower Hamlets London   ==> Westminster   #SUP: : 18 #CONF: 0.6923076923076923
+Kensington and Chelsea London   ==> Westminster   #SUP: : 19 #CONF: 0.9047619047619048
+Camden Hackney   ==> Westminster   #SUP: : 20 #CONF: 0.6666666666666666
+Tower Hamlets Camden   ==> Westminster   #SUP: : 28 #CONF: 0.7368421052631579
+Camden London   ==> Westminster   #SUP: : 33 #CONF: 0.717391304347826
+Camden Kensington and Chelsea   ==> Westminster   #SUP: : 40 #CONF: 0.7272727272727273

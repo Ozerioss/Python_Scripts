@@ -75,7 +75,8 @@ def decodeRulesv2(fname, country):
 
 
 if(__name__ == "__main__"):
-    country = 'United Kingdom'
-    fname = 'output_UK.txt'
-    decodeRulesv2(fname, country)
+    listCountry = ['Australia', 'Spain', 'Denmark']
+    for country in listCountry:
+        fname = 'spmf_results_TOPK_v1/output_{}.txt'.format(country)
+        decodeRulesv2(fname, country)
     print("Done ! ")

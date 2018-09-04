@@ -178,9 +178,7 @@ Ialtyns'ka
 Queens
 New York
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Agadir-Ida ou Tanane
 Madrid
 Benito Juárez
@@ -385,7 +383,6 @@ Muang Phuket
 Takua Thung
 Thalang,Muang Phuket
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 Santa Bárbara de Samaná
 La Laguna de Nisibón
@@ -792,7 +789,6 @@ Manila
 Westchester
 Çankaya
 Konak,Bornova
-
 Minsk
 Zambrów,Warsaw
 Freiburg,Warsaw
@@ -908,7 +904,6 @@ Muang Krabi
 North Goa
 Sarajevo
 Salvaleón de Higüey
-
 Berlin
 Split
 Köln
@@ -1967,11 +1962,8 @@ Paris
 Köln,Berlin
 Kemer,Kas
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris
 Girona
 Zelenovskiy
@@ -1981,9 +1973,7 @@ Venezia
 Rimini
 Milano
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Milano
 Casablanca
 Silang
@@ -2298,7 +2288,6 @@ Venezia
 Alanya
 Alanya
 Salvaleón de Higüey
-
 Paris
 Bucks
 Philadelphia,Bucks
@@ -2661,7 +2650,6 @@ Lenins'kyi,Ialtyns'ka
 Heraklion
 San Diego
 Salvaleón de Higüey
-
 Ialtyns'ka,Bakhchysarais'kyi
 Ko Samui
 Nuoro
@@ -3170,7 +3158,6 @@ Shevchenkivs'kyi
 Paris
 Paris
 Salvaleón de Higüey
-
 La Romana,Isla Saona
 Salvaleón de Higüey
 Las Terrenas
@@ -3383,7 +3370,6 @@ Bang Lamung
 Heraklion,Lasithi
 Blansko
 Salvaleón de Higüey
-
 Kerchens'ka
 Berlin
 Berlin,Antwerpen
@@ -3816,7 +3802,6 @@ Hackney
 Narva-Jõesuu,Narva
 Bentota
 Salvaleón de Higüey
-
 Barcelona
 Stockholm
 Riga
@@ -3942,9 +3927,7 @@ New York
 New York
 New York
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Las Palmas
 Merkez
 Merkez
@@ -4030,7 +4013,6 @@ Ievpatoriis'ka
 Ievpatoriis'ka
 Åre
 Salvaleón de Higüey
-
 Bolzano
 Pärnu
 Praha 2
@@ -4639,9 +4621,7 @@ Gagra
 Kingston upon Hull
 Ille-et-Vilaine
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Ialtyns'ka
 Ialtyns'ka
 Gagra
@@ -4993,11 +4973,8 @@ Málaga
 Málaga
 Málaga
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Zakynthos
 Praha 1
 Paris
@@ -5006,13 +4983,9 @@ Jongro
 Tallinn
 Uusimaa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Muang Phuket
 Riga
 Heraklion
@@ -5267,9 +5240,7 @@ Muang Phuket
 Kathu
 Barcelona,Castellón
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Kota Tangerang,Badung
 Badung
 Badung,Bangli,Gianyar
@@ -5440,7 +5411,6 @@ Kemer
 Girona
 Girona
 Sosua,Salvaleón de Higüey
-
 Savoie
 Tarragona
 New York
@@ -6493,9 +6463,7 @@ Magdeburg,Amsterdam
 Leipzig,Brandenburg
 Leipzig
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Madrid
 Madrid
 Gramado,Porto Alegre
@@ -6620,7 +6588,6 @@ Khalkidiki
 Thessaloniki,Khalkidiki
 Paris
 Salvaleón de Higüey
-
 Jinan
 Tianjin
 Weifang
@@ -6905,7 +6872,6 @@ Bình Thu?n
 Bình Thu?n
 Kusadasi
 Salvaleón de Higüey
-
 Alanya
 Alanya,Merkez
 Paris,Seine-et-Marne
@@ -7309,7 +7275,6 @@ Minsk
 Ko Phangan
 Praha 6,Praha 1
 Salvaleón de Higüey
-
 Kemer
 Bouficha
 Daugavpils
@@ -8087,11 +8052,8 @@ Sudats'ka
 Sudats'ka
 Sudats'ka
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Manavgat
 Savoie
 Sathorn
@@ -8356,7 +8318,6 @@ Kharkivs'ka
 Obukhivs'kyi
 Alanya
 Ludza,Põlva
-
 Westminster
 Middlesex
 New York
@@ -8521,7 +8482,6 @@ Takua Thung
 Paris
 Barcelona
 Salvaleón de Higüey
-
 Roma
 Rimini
 Wien
@@ -8916,9 +8876,7 @@ Tarragona
 Barcelona
 Madrid
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Camden
 Westminster
 Vilniaus
@@ -9494,7 +9452,6 @@ Milano
 Praha 1,Dresden
 Kutná Hora,Praha 1
 Salvaleón de Higüey
-
 Riga
 Riga
 Batumi
@@ -9544,9 +9501,7 @@ Berlin
 Berlin
 Serik
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Kemer
 Ningbo
 Alanya
@@ -10041,9 +9996,7 @@ Hrodna
 Berlin,Amsterdam
 Amsterdam
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 North Karelia
 North Karelia
 Girona
@@ -10182,7 +10135,6 @@ Bang Lamung,Bang Khon Ti,Sai Yok
 Nesebar
 Kainuu
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 San Rafael del Yuma
 Barcelona
@@ -10783,7 +10735,6 @@ Kemer
 Kathu
 Bang Lamung
 Salvaleón de Higüey
-
 Alanya
 Bang Lamung
 Lasithi,Muang Phuket,Manavgat,Alanya,Bang Lamung,Pinamungahan,Bình Thu?n,Benoni,San Rafael del Yuma,,Ko Samui,Combined statistics,Sattahip,Khalkidiki,North Goa,Kathu,Salvaleón de Higüey
@@ -11176,11 +11127,8 @@ Attica
 Rethymnon
 Paris
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Heraklion
 Heraklion
 Heraklion
@@ -11230,11 +11178,8 @@ Berlin
 Hammersmith and Fulham
 Bang Lamung
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris
 Hammamet
 Hammamet
@@ -12719,11 +12664,8 @@ Heraklion
 Oberbayern
 Salzburg
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Bakirköy
 Simon Town,Wynberg,Goodwood
 Chobe
@@ -13151,9 +13093,7 @@ Baleares
 Stockholm
 Benito Juárez
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Benito Juárez
 Benito Juárez
 Southern Ostrobothnia,Central Finland,South Karelia
@@ -13201,9 +13141,7 @@ Qostanay
 Barcelona
 Barcelona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Barcelona
 Roma
 Roma
@@ -14048,7 +13986,6 @@ Lasithi
 Haskovo
 Stockholm
 Valgjärve
-
 Ko Samui
 Ko Samui
 Minsk
@@ -14208,7 +14145,6 @@ Thessaloniki,Pieria
 Trikala,Pieria
 Niagara
 Salvaleón de Higüey
-
 Communauté-Urbaine-de-Montréal
 Khánh Hòa
 Khánh Hòa
@@ -14430,9 +14366,7 @@ Maloja
 Suffolk
 Suffolk
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Suffolk
 Suffolk
 Suffolk
@@ -14866,11 +14800,8 @@ Muang Phuket
 Kemer
 Khalkidiki
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Khánh Hòa
 Khánh Hòa
 Khánh Hòa
@@ -15831,7 +15762,6 @@ Heraklion
 Bled
 Ljubljana
 Salvaleón de Higüey
-
 Balaklavs'kyi
 Florence
 Roma
@@ -15880,7 +15810,6 @@ Manavgat
 Alanya
 Alanya
 Salvaleón de Higüey
-
 Gagra
 Bømlo
 Bømlo
@@ -16982,7 +16911,6 @@ Berlin
 Bang Kapi
 Paris
 Salvaleón de Higüey
-
 Khlong San
 Tarragona
 Khánh Hòa
@@ -17506,7 +17434,6 @@ Paris,Seine-Saint-Denis
 Roma
 Roma
 Salvaleón de Higüey
-
 Barcelona
 Wien
 Praha 7
@@ -17517,7 +17444,6 @@ Odes'ka
 Kerchens'ka
 Aqtau
 Salvaleón de Higüey
-
 Serik
 Serik
 Muang Phuket
@@ -17566,15 +17492,12 @@ New York
 New York
 Miami-Dade
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Isla Mujeres
 New York
 Merkez
 Niagara,York
 Salvaleón de Higüey
-
 Tselinogradskiy
 Muang Phuket
 Muang Phuket
@@ -17789,7 +17712,6 @@ Muang Phuket
 Muang Phuket,Kathu
 Ialtyns'ka,Balaklavs'kyi
 Salvaleón de Higüey
-
 Manavgat
 Manavgat
 Budapesti
@@ -18209,23 +18131,14 @@ Badung
 Badung
 Merkez
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Merkez
 Merkez
 Merkez,Kemer
@@ -18715,7 +18628,6 @@ Trento
 Harare
 Kemer
 Salvaleón de Higüey
-
 Heraklion
 Cyclades
 Uusimaa
@@ -19292,11 +19204,8 @@ Shari
 Alanya
 Dnipropetrovs'ka
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Alicante
 Thiruvananthapuram
 Thiruvananthapuram
@@ -19474,7 +19383,6 @@ Haarlemmermeer
 Taipei City
 Haarlemmermeer,Narva
 Häädemeeste
-
 Uusimaa
 Paris
 Paris
@@ -19944,9 +19852,7 @@ Serik
 Serik
 Madaba
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Merkez
 Viborg
 Tbilisi
@@ -20165,9 +20071,7 @@ Schwaz,Wien,Ostrava,Praha 1,Baranavichy
 Praha 1,Praha 16
 Salzburg Umgebung
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Hrodna,L'vivs'ka,Chernivets'ka,Shevchenkivs'kyi,Kamianets'-Podil's'ka,Pechers'kyi,Podil's'kyi,Holosiïvs'kyi
 Lucca,Pistoia,Pisa,Florence,Genova
 Siena,La Spezia,Pistoia,Pisa
@@ -20787,7 +20691,6 @@ Madrid
 Praha 1,Madrid
 Barcelona
 Salvaleón de Higüey
-
 Praha 1
 Cádiz
 Balatonfüred
@@ -20971,11 +20874,8 @@ Kymenlaakso
 Ialtyns'ka
 Ialtyns'ka
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Serik
 Las Palmas
 Las Palmas
@@ -21364,13 +21264,9 @@ Haarlemmermeer,Lisboa
 Lisboa
 Lisboa,Sintra
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Roma
 Tallinn
 Alpes-Maritimes
@@ -21455,13 +21351,9 @@ Serik
 Serik
 Serik
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Khalkidiki
 Khalkidiki
 Trikala
@@ -21660,7 +21552,6 @@ Girona
 Guipúzcoa,Vizcaya
 Girona
 Salvaleón de Higüey
-
 Ievpatoriis'ka
 Paris
 Paris
@@ -21780,13 +21671,9 @@ Merkez,Kemer
 Merkez,Kemer,Pechers'kyi,Bakirköy,Solomians'kyi,Holosiïvs'kyi,Sviatoshyns'kyi
 Merkez
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Bakirköy
 Combined statistics,Amsterdam,Tallinn
 Merkez
@@ -22083,7 +21970,6 @@ Odes'ka
 Roma
 Roma
 Salvaleón de Higüey
-
 Kemer
 Khalkidiki
 Khalkidiki
@@ -22239,7 +22125,6 @@ Roma
 Roma
 Roma
 Salvaleón de Higüey
-
 Mragowo
 West-Vlaanderen
 Badung
@@ -22566,13 +22451,9 @@ Khánh Hòa
 Messina
 Uusimaa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Marmaris
 Marmaris
 Marmaris
@@ -22981,9 +22862,7 @@ Oslo
 Barcelona
 Tabas
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Distrito Nacional
 Serik
 Khalkidiki
@@ -23091,23 +22970,17 @@ Alicante
 Alicante
 Alicante
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 Santa Bárbara de Samaná,Sabana de la Mar
 Salvaleón de Higüey
-
 La Romana,Salvaleón de Higüey
 San Rafael del Yuma
 Isla Saona
 Salvaleón de Higüey
-
 Isla Saona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Valencia,Alicante
 Alicante,Barcelona
 Barcelona
@@ -24412,13 +24285,9 @@ Alicante
 Varna
 Tashkent City
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Tashkent City
 Toshkent
 Muang Phuket
@@ -25070,7 +24939,6 @@ Paris
 Seine-et-Marne
 Barcelona
 Salvaleón de Higüey
-
 Qibray,Oqdaryo
 Dietikon,Zürich,Luzern
 Heihe
@@ -25355,10 +25223,8 @@ Beijing
 Coconino
 Kathu
 Salvaleón de Higüey
-
 Toronto
 Salvaleón de Higüey
-
 Distrito Nacional
 Benito Juárez
 Cárdenas
@@ -27059,7 +26925,6 @@ Bodrum
 Bodrum
 Bodrum
 Bornova
-
 Çesme
 Berlin
 Berlin
@@ -27327,7 +27192,6 @@ Dodecanese
 Hamburg
 Santa Bárbara de Samaná
 Salvaleón de Higüey
-
 Roma
 Takua Thung
 Uzhhorods'ka
@@ -27383,7 +27247,6 @@ Uusimaa
 Verona
 Venezia
 Salvaleón de Higüey
-
 Colombo,Negombo,Rambukkana
 Negombo
 Negombo
@@ -27827,7 +27690,6 @@ Riga
 Riga,Tukums
 Riga
 Aralik
-
 Westminster,Kensington and Chelsea,Tower Hamlets,Southwark,London,Camden,Cambridgeshire
 Westminster
 Berlin,Dresden
@@ -28191,7 +28053,6 @@ Tuzla
 Bakirköy,Tuzla
 Bodrum
 Salvaleón de Higüey
-
 Besiktas
 Kadiköy
 Serik
@@ -28977,9 +28838,7 @@ Milano
 Milano,Roma,Florence
 Darmstadt
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Ilia
 Ilia,Achaea
 Rudaki
@@ -29078,9 +28937,7 @@ Zakynthos
 Chernihivs'ka
 Chernihivs'ka
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Minsk
 Barcelona
 Riga
@@ -30023,7 +29880,6 @@ Shah Alam
 Riga
 Fatih,Kemer
 Salvaleón de Higüey
-
 Minsk
 Minsk
 Berlin
@@ -30166,9 +30022,7 @@ Budapesti
 Haute-Savoie
 Haute-Savoie
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Amsterdam
 Dodecanese
 Haute-Savoie,Monthey
@@ -30614,9 +30468,7 @@ Manavgat
 Uusimaa
 Uusimaa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Uusimaa
 Uusimaa
 Uusimaa
@@ -30773,7 +30625,6 @@ Pyrénées-Orientales
 Pyrénées-Orientales
 Girona
 Salvaleón de Higüey
-
 Simferopol's'ka
 Simferopol's'ka
 Simferopol's'ka
@@ -31080,7 +30931,6 @@ Heraklion
 Heraklion
 Tallinn
 Salvaleón de Higüey
-
 La Romana
 Kathu
 Beppu
@@ -31158,9 +31008,7 @@ Florence,Genova
 Çankaya
 North Goa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Qiziltepa
 Clark
 Praha 1,Praha 5
@@ -31851,17 +31699,11 @@ Cozumel
 Bang Lamung
 Bang Lamung
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Muang Phuket,Kathu
 Muang Phuket
 North Goa
@@ -32119,10 +31961,8 @@ Nesebar
 Nesebar
 Ialtyns'ka
 Salvaleón de Higüey
-
 Santa Bárbara de Samaná
 Salvaleón de Higüey
-
 Merkez
 Napoli
 Trikala
@@ -32783,7 +32623,6 @@ Zürich
 Praha 1,Berlin
 Jerusalem
 Maardu
-
 Tallinn
 Medway
 Valencia
@@ -32807,7 +32646,6 @@ Kemer
 Sroda Slaska
 Varna
 Salvaleón de Higüey
-
 Stockholm,Tallinn,Uusimaa
 Amsterdam,Stockholm
 Amsterdam
@@ -33408,9 +33246,7 @@ Paris
 Paris
 Beijing
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris
 Oberbayern
 Beyoglu
@@ -33868,7 +33704,6 @@ Hamburg
 Hamburg
 Berlin
 Hamburg,Aegviidu
-
 Tallinn
 Tallinn
 Oslo
@@ -34126,18 +33961,12 @@ Gdansk City,Muang Krabi
 Gdansk City
 Gdansk City
 Warsaw,Praia da Vitória,Salvaleón de Higüey
-
 Isla Saona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Isla Saona
 Gdansk City,Sopot
 Berlin
@@ -34317,11 +34146,8 @@ Orange
 Bruxelles,Oost-Vlaanderen
 Alanya
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Muang Krabi
 Kathu
 Muang Phuket
@@ -35127,7 +34953,6 @@ Bunkyo,Nakano
 Gudauta
 South Karelia
 Salvaleón de Higüey
-
 Manavgat
 Manavgat
 Merkez
@@ -35299,7 +35124,6 @@ Bình Thu?n
 Bình Thu?n
 Bình Thu?n
 Salvaleón de Higüey
-
 Ialtyns'ka
 Ialtyns'ka
 Ialtyns'ka
@@ -36870,11 +36694,8 @@ Barcelona,Tarragona
 Tarragona
 Tarragona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Sokhumi
 Sokhumi
 Tbilisi
@@ -37456,9 +37277,7 @@ Berlin
 Valencia
 Paris
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Praha 1
 Thüringen
 Valencia
@@ -37682,7 +37501,6 @@ Paris
 Homyel'
 Rahachow
 Salvaleón de Higüey
-
 West-Vlaanderen,Madrid
 West-Vlaanderen,Bodrum
 Attica
@@ -38158,7 +37976,6 @@ Las Palmas
 Las Palmas
 Kymenlaakso
 Salvaleón de Higüey
-
 Dresden
 Dresden
 Nesebar
@@ -38206,7 +38023,6 @@ Kymenlaakso
 Bang Lamung
 Hamburg
 Salvaleón de Higüey
-
 Alpes-Maritimes
 Amsterdam
 Kathu
@@ -38238,7 +38054,6 @@ New York,Queens
 Amsterdam,Rotterdam
 Amsterdam,Haarlemmermeer
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 Isla Saona
 Cárdenas
@@ -38629,7 +38444,6 @@ Düsseldorf
 Düsseldorf
 Lazdiju,Druskininku
 Salvaleón de Higüey
-
 Ludza
 Ludza
 Vilniaus
@@ -38688,7 +38502,6 @@ South Karelia
 Tallinn
 Seftigen,La Sarine,Bern,Pays-d'Enhaut,Aigle,Genève
 Raron,Bern,Brig,Basel,Frutigen 
-
 South Karelia
 Riga
 Lisboa,Seine-et-Marne,Seixal,Porto
@@ -38800,7 +38613,6 @@ Karlovy Vary,Praha 1
 Feodosiis'ka
 Merkez
 Salvaleón de Higüey
-
 South Goa
 South Goa
 Baleares
@@ -39536,11 +39348,8 @@ Ialtyns'ka
 Ialtyns'ka
 Liberec
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Liberec
 Budapesti
 Udine
@@ -39557,7 +39366,6 @@ Baleares
 Paris
 Teton,Los Angeles,New York
 Salvaleón de Higüey
-
 Vlaams Brabant
 Guipúzcoa
 Barcelona
@@ -41968,7 +41776,6 @@ Clark,Fresno
 Pisa
 Parma
 Salvaleón de Higüey
-
 Kathu
 Roma
 Shah Alam
@@ -42828,7 +42635,6 @@ Como
 Milano
 Castellón
 Salvaleón de Higüey
-
 Berlin
 Ko Samui
 Ko Samui
@@ -43245,7 +43051,6 @@ Riga,Tallinn
 Barcelona
 Barcelona
 Maardu
-
 Northern Ostrobothnia
 Oberbayern,Paris,Nakhimovs'kyi
 Central Finland,Nakhimovs'kyi,Dubrovnik,Paris
@@ -43360,9 +43165,7 @@ Tallinn
 Attica
 Sudats'ka
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Praha 1
 Praha 1
 Tarragona,Valencia
@@ -43383,11 +43186,9 @@ Wien,Wien Umgebung
 Badung,Gianyar
 Badung
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 Isla Saona
 Salvaleón de Higüey
-
 Wien
 Wien
 Muang Samut Prakan,Sattahip
@@ -43875,7 +43676,6 @@ Maastricht
 Shevchenkivs'kyi,Boryspil's'ka
 Marmaris
 Salvaleón de Higüey
-
 Kamyanyets
 Barcelona
 Barcelona
@@ -44661,7 +44461,6 @@ Serik
 Khánh Hòa
 Khánh Hòa
 Salvaleón de Higüey
-
 Badung
 Badung
 Badung
@@ -45157,7 +44956,6 @@ Palilula
 Palilula
 Palilula
 Salvaleón de Higüey
-
 Muang Phuket
 Kathu
 Ko Phangan
@@ -45323,7 +45121,6 @@ Thalang
 Ko Samui
 Khánh Hòa
 Vändra vald (alev)
-
 Narva-Jõesuu
 Merkez
 Milano
@@ -47635,14 +47432,12 @@ Las Palmas
 Las Palmas
 Las Palmas
 Salvaleón de Higüey
-
 Amsterdam
 Gagra
 Hlukhivs'kyi,Shevchenkivs'kyi
 Kemer
 Kemer
 Salvaleón de Higüey
-
 Poznan City
 Heraklion
 Heraklion
@@ -48038,7 +47833,6 @@ Barcelona
 Paris
 Paris
 Salvaleón de Higüey
-
 Sepang,Badung
 Badung
 Badung
@@ -48219,7 +48013,6 @@ Budapesti
 Westminster
 Paris
 Salvaleón de Higüey
-
 Karelichy
 Kemer
 Madona
@@ -48546,7 +48339,6 @@ Barcelona
 Barcelona
 Barcelona
 Salvaleón de Higüey
-
 Siófok
 Siófok
 Siófok
@@ -49004,11 +48796,9 @@ Gagra
 Mittelfranken
 Surfers Paradise
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 La Romana,Isla Saona
 Salvaleón de Higüey
-
 Val-d'Oise,Mittelfranken
 Mittelfranken
 Fatih,Besiktas
@@ -49077,7 +48867,6 @@ Alanya
 Alanya
 Manchester
 Konak,Bornova
-
 Gyál
 Sanya
 Sanya
@@ -49467,7 +49256,6 @@ Bolzano
 Bolzano
 Bülach
 Paris,Barcelona,Girona,Tarragona,Salvaleón de Higüey
-
 São Paulo
 Klodzko,Essonne
 Simferopol's'ka
@@ -50040,7 +49828,6 @@ Lenins'kyi
 Nakhimovs'kyi
 Lenins'kyi
 Salvaleón de Higüey
-
 Lasithi
 Harbin
 Bang Plee
@@ -50554,7 +50341,6 @@ Barcelona
 Merkez
 Gagra
 Salvaleón de Higüey
-
 Hà N?i
 Khánh Hòa
 Khánh Hòa
@@ -50686,11 +50472,8 @@ Hrodna
 Praha 1,Pardubice,Praha 6,Litomerice,Praha 4,Praha 2
 Praha 2,Praha 1
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Cyclades
 Hrodna
 Roma
@@ -51454,7 +51237,6 @@ Taranto
 Taranto
 Taranto
 Salvaleón de Higüey
-
 Paris
 Habaraduwa
 Sarajevo
@@ -51662,7 +51444,6 @@ Alicante
 Serik
 Marmaris
 Salvaleón de Higüey
-
 Shevchenkivs'kyi
 Pechers'kyi
 Rockland
@@ -51709,7 +51490,6 @@ Lasithi
 Lasithi
 Uusimaa
 Salvaleón de Higüey
-
 Kharkivs'ka
 Gagra
 Ievpatoriis'ka
@@ -52293,10 +52073,8 @@ Kerchens'ka
 Takua Thung
 Kerchens'ka
 Aralik
-
 Merkez
 Aralik
-
 Gagra
 Sums'ka
 South Karelia
@@ -52333,7 +52111,6 @@ Kathu
 Kathu
 Seine-et-Marne
 Salvaleón de Higüey
-
 Berlin
 Palilula,Stari Grad
 Palilula
@@ -52690,7 +52467,6 @@ Serik
 Serik
 Serik
 Salvaleón de Higüey
-
 Khalkidiki
 Serik
 Serik
@@ -52760,9 +52536,7 @@ Roma,Vilniaus
 Simferopol's'ka
 Essex
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Kemer
 Kemer
 Rimini
@@ -53117,13 +52891,9 @@ Ninomiya
 Fatih
 Beyoglu
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Besiktas
 Senaki
 Bentota
@@ -53948,7 +53718,6 @@ Rimini
 Southern Savonia
 Berlin
 Salvaleón de Higüey
-
 Wien,Salzburg
 Berlin
 Berlin
@@ -54002,7 +53771,6 @@ Bang Lamung
 Badung
 Badung
 Salvaleón de Higüey
-
 Barcelona
 Barcelona
 Thalang
@@ -54965,9 +54733,7 @@ Barcelona
 Barcelona
 Barcelona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Khalkidiki
 Khalkidiki
 Nakhimovs'kyi,Haharins'kyi,Balaklavs'kyi,Lenins'kyi
@@ -55048,7 +54814,6 @@ Kymenlaakso
 Mecklenburg-Vorpommern,Oberbayern
 Uusimaa
 Salvaleón de Higüey
-
 Manavgat
 Shah Alam
 Manjung
@@ -55974,7 +55739,6 @@ Oberbayern
 Shevchenkivs'kyi
 Unknown1
 Salvaleón de Higüey
-
 Unknown1
 Unknown1
 Gagra
@@ -56158,7 +55922,6 @@ Muang Krabi,Ko Phangan,Bang Lamung,Chatuchak
 Amsterdam
 Odes'ka
 Salvaleón de Higüey
-
 Roma
 Karlsruhe
 Stuttgart
@@ -57311,7 +57074,6 @@ Baleares
 Agra
 Almaty (Alma-Ata)
 Salvaleón de Higüey
-
 Manavgat
 Manavgat
 Manavgat
@@ -58734,9 +58496,7 @@ Roma
 Milano
 Barcelona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Ottawa
 Barcelona
 Kharkivs'ka
@@ -59008,9 +58768,7 @@ Khánh Hòa
 Khánh Hòa
 Ialtyns'ka
 Distrito Nacional,Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Kathu
 Shevchenkivs'kyi
 Ovidiopol's'kyi
@@ -59156,7 +58914,6 @@ Praha 6,Praha 1
 Praha 1,Kutná Hora,Praha 6
 Leipzig
 Salvaleón de Higüey
-
 Kent
 Ramallah and Al-Bireh
 Asenovgrad
@@ -60137,7 +59894,6 @@ Simferopol's'ka
 Muang Chumphon
 Ko Phangan
 Tallinn,Häädemeeste
-
 Düsseldorf,Karlsruhe
 L'vivs'ka
 Desnians'kyi
@@ -60301,9 +60057,7 @@ Bang Lamung
 Bang Lamung
 San Rafael del Yuma
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Kathu
 Kathu
 Bang Kapi,Kathu
@@ -60336,9 +60090,7 @@ Karasu
 Karasu
 Bakirköy,Avcilar
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Lasithi,Heraklion
 Lasithi,Cyclades
 Lasithi
@@ -61573,9 +61325,7 @@ Altanbulag
 Kemer
 Minsk
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Mittelfranken
 Roermond
 Ialtyns'ka
@@ -61789,9 +61539,7 @@ Amsterdam
 Mahilyow
 Manavgat
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Kharkivs'ka
 Shevchenkivs'kyi
 Shevchenkivs'kyi
@@ -62041,9 +61789,7 @@ Barcelona
 Westminster
 Merseyside,Manchester
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Tarragona
 Barcelona
 Barcelona
@@ -62201,7 +61947,6 @@ Alanya
 Minsk
 Akseki
 Salvaleón de Higüey
-
 Marmaris
 Serik
 Alanya
@@ -62855,7 +62600,6 @@ Vilniaus
 Palangos
 Vilniaus
 Salvaleón de Higüey
-
 Qostanay
 Qostanay
 Qostanay
@@ -63248,7 +62992,6 @@ Tbilisi
 Khalkidiki
 Mittelfranken
 Salvaleón de Higüey
-
 Kemer
 Kemer
 Kemer
@@ -63537,7 +63280,6 @@ Milano
 Tallinn
 Tallinn
 Salvaleón de Higüey
-
 Haute-Savoie
 Vaucluse
 Paris
@@ -63767,11 +63509,8 @@ Gagra
 Cozumel
 Cozumel
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Beijing
 Beijing
 Haharins'kyi,Lenins'kyi
@@ -63875,7 +63614,6 @@ Gudauta
 Marmaris
 Marmaris
 Salvaleón de Higüey
-
 Merkez
 North Goa
 Budapesti
@@ -64315,7 +64053,6 @@ Edogawa
 Edogawa
 Gori
 Salvaleón de Higüey
-
 South Karelia
 Skodje
 Lenins'kyi
@@ -64735,7 +64472,6 @@ Cozumel
 Darmstadt
 Paris
 Salvaleón de Higüey
-
 Milano,Alessandria
 Kemer
 Fatih,Bang Lamung,Ratchathewi
@@ -64860,7 +64596,6 @@ Amsterdam
 K. Ko Chang
 K. Ko Chang
 Salvaleón de Higüey
-
 Praha 6,Paris,Yvelines
 Seine-et-Marne,Paris,Alpes-Maritimes
 Luzern
@@ -65019,15 +64754,12 @@ Barcelona
 Baleares
 Barcelona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 South Goa
 South Goa
 South Goa
 H? Chí Minh city
 Salvaleón de Higüey
-
 Centro Habana
 Muang Phuket
 Muang Phuket
@@ -65101,7 +64833,6 @@ Uusimaa
 Marijampoles
 Tallinn
 Häädemeeste
-
 Tallinn
 Manavgat
 Manavgat
@@ -65163,7 +64894,6 @@ Barcelona
 Barcelona
 Budapesti
 Constanza,Salvaleón de Higüey
-
 Gulripshi
 Gudauta
 Sokhumi
@@ -65496,9 +65226,7 @@ North Goa
 North Goa
 Bakhchysarais'kyi
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Varna
 Thessaloniki
 Khalkidiki
@@ -65917,7 +65645,6 @@ Orange
 Kyzylzharskiy
 Kemer
 Sincan
-
 Edinburgh
 Heraklion
 Thalang
@@ -66180,7 +65907,6 @@ Heihe
 Tallinn
 Sankt Johann im Pongau,Kitzbühel,Oberbayern
 Salvaleón de Higüey
-
 Minsk
 Merkez
 Tallinn
@@ -66422,9 +66148,7 @@ Calvados
 Attica
 Attica
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Corfu
 Tallinn
 Thalang,Kathu
@@ -66756,9 +66480,7 @@ Kauno
 Milano
 Oberbayern
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Marmaris
 Ortaca,Marmaris
 Luzern,Interlaken
@@ -69186,9 +68908,7 @@ New York
 New York
 Lasithi,Khania
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Los Angeles,Yavapai,Kern,Tulare,Fresno,Merced
 Los Angeles
 Venezia
@@ -70565,7 +70285,6 @@ Heraklion,Khania
 Lasithi,Heraklion
 Heraklion
 Salvaleón de Higüey
-
 Manavgat
 Bang Lamung
 Bang Lamung
@@ -71004,7 +70723,6 @@ Konak
 Konak
 Konak
 Bornova
-
 Menderes
 Marmaris
 Karsiyaka
@@ -71776,7 +71494,6 @@ Girona
 Tarragona
 Madrid
 Salvaleón de Higüey
-
 Gudauta
 Praha 7
 Novi Sad
@@ -71832,7 +71549,6 @@ Verbano-Cusio-Ossola
 Euboea
 Euboea,Attica
 Salvaleón de Higüey
-
 Venezia
 Zelenovskiy
 Tallinn,Vilniaus,Riga
@@ -72124,7 +71840,6 @@ Bologna
 Milano,Vicenza
 Padua,Treviso
 Salvaleón de Higüey
-
 Paris
 Como,Milano
 Clark
@@ -72599,7 +72314,6 @@ Mestia
 Ekibastuz
 Petrykivs'kyi
 Salvaleón de Higüey
-
 Constanza
 Tsiurupyns'kyi
 Kerchens'ka
@@ -72847,7 +72561,6 @@ Kerchens'ka
 Kerchens'ka
 Val-d'Oise
 Salvaleón de Higüey
-
 Gagra
 Gudauta
 Gagra
@@ -73333,7 +73046,6 @@ Oberbayern
 Oberbayern
 Oberbayern
 Salvaleón de Higüey
-
 Wien
 Salzburg Umgebung
 Sanya
@@ -73511,11 +73223,8 @@ North Goa
 Sindhudurg,North Goa
 North Goa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Florence
 Venezia
 Venezia
@@ -73562,7 +73271,6 @@ Los Angeles
 New York,Kings
 Los Angeles
 Salvaleón de Higüey
-
 Kings,New York
 Toronto
 Niagara
@@ -74031,9 +73739,7 @@ Paris
 Miami-Dade
 Miami-Dade
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Beijing
 Beijing
 Merkez
@@ -74167,7 +73873,6 @@ Paris
 Milano
 Haharins'kyi
 Salvaleón de Higüey
-
 Feodosiis'ka
 Fife,Perthshire and Kinross
 North Goa
@@ -75623,15 +75328,10 @@ Islamabad
 Los Angeles
 Kemer
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Westminster
 Worcestershire
 Simferopol's'ka
@@ -75899,9 +75599,7 @@ Tallinn
 Gagra
 Gagra
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Bethlehem
 Oise
 Odivelas,Lisboa
@@ -75954,11 +75652,8 @@ Benito Juárez
 Benito Juárez
 Benito Juárez
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Riga
 South Karelia
 Uusimaa
@@ -76156,12 +75851,9 @@ Tbilisi
 Rimini,Florence
 Florence
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris
 Salvaleón de Higüey
-
 Barcelona
 Girona,Barcelona,Paris
 Sarthe
