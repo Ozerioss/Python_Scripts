@@ -1,0 +1,9293 @@
+Barat Daya
+Shah Alam
+Barat Daya
+Shah Alam
+Sydney - Inner,Waverley
+Waitakere,Manukau
+Sydney - West
+Sydney - Inner
+Shah Alam,Sepang
+Sepang,Shah Alam
+Osaka
+Osaka
+Westminster
+Westminster
+Val-d'Oise,Paris
+Bruxelles
+Westminster
+Barcelona
+Barcelona
+Paris
+Florence
+Paris
+Antwerpen
+Johor Baharu
+Melbourne - S'bank-D'lands,Melbourne - Inner
+Johor Baharu
+Klang
+Melbourne - Inner,Melbourne - S'bank-D'lands
+Bowen Hills,City - Inner
+Lahad Datu
+Sydney - Inner
+Hamilton
+Melbourne - Inner
+Melbourne - Inner
+Jefferson
+Harris
+Santos
+Pathum Wan,Prawet,Lat Krabang,Huai Kwang
+San Francisco
+New York
+Bucks
+Bucks
+Orange
+Paris
+Alpes-Maritimes
+Loudoun
+Shah Alam,Gombak
+Shah Alam
+Seodaemun
+Seodaemun
+Badung
+Badung
+Gijang
+Gijang
+Cheongju
+Suzhou
+Wuxi
+Dalian
+Suzhou
+Norfolk
+Cook
+Sumida,Chiba
+Joso
+Fukuoka
+Chuo
+Fukuoka
+Fukuoka
+Bang Plee
+Taoyuan,Taipei City
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Taipei City
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Pathum Wan
+Jongro
+Jongro
+Muang Ranong
+H? Chí Minh city
+Haeundae
+Washtenaw
+San Francisco
+Mohave
+Hà N?i
+Baltimore
+Jongro
+Phra Nakhon Si Ayutthaya
+Bang Kapi
+Taipei
+Pathum Wan
+Pathum Wan
+New York
+New York
+Milano
+Paris
+Osaka
+Narita
+Bang Rak,Pathum Wan
+Paris
+New York,Fairfield,Queens,Suffolk
+Paris
+Paris
+New York
+New York
+New York
+New York
+Queens
+New York
+New York
+New York
+Seogwipo
+Los Angeles
+Khlong Sam Wa
+Barcelona
+Paris
+Amsterdam
+New York,Queens
+New York
+District of Columbia,Arlington
+Peel
+Niagara,Coconino,Maricopa,Orange,Los Angeles,Mohave,Clark
+Los Angeles,Ventura,San Francisco
+San Francisco,Sacramento,Marin,Los Angeles,Coconino
+Los Angeles
+Osaka,Kyoto
+Taipei City
+Taipei
+Chatuchak,Bung Kum,Phra Nakhon
+Melaka Tengah
+Melaka Tengah
+Roma
+Oberbayern
+Alpes-Maritimes
+Pathum Wan
+Broome
+Phra Nakhon
+Halifax
+Toronto
+Toronto
+Los Angeles
+Tower Hamlets
+Westminster
+Camden
+Pathum Wan
+Greater Vancouver
+Los Angeles
+Westminster,Newham
+Westminster
+Haute-Garonne
+Hauts-de-Seine
+Hà N?i,Hà Tây
+Hà N?i
+Edogawa
+Phra Nakhon
+Orange,Los Angeles
+Siem Reab
+Louangphrabang
+Siem Reab
+Dallas
+Johor Baharu
+Hampden
+Middlesex
+Denpasar,Badung,Tabanan
+Bang Rak,Sathorn,Phra Nakhon
+Taipei,Taipei City
+Siem Reab,Phnom Penh,Dangkao
+H? Chí Minh city
+Xi'an
+Edogawa,Hakone
+Shah Alam
+New York
+New York
+New York
+New York
+Shah Alam,Melaka Tengah
+Melaka Tengah
+Melaka Tengah
+Kathu
+Capital
+Kutchan
+Colombo,Dambulla
+Thissamaharama
+Bari
+Bari
+Kyoto
+Taipei City
+Los Angeles
+Capital
+Milano
+Los Angeles
+Jefferson
+Lafayette
+Osaka
+Iwata
+Taito
+Taito
+Chiyoda
+Chiyoda
+Gianyar
+Badung
+Baldwin
+Shah Alam,Melaka Tengah
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Sydney - Inner,Waitakere
+Waitakere
+Paris
+Paris
+Paris
+Clark
+Cook
+New York
+San Diego
+Orange
+Westminster,London
+Zürich
+Venezia
+Paris
+Hume - Craigieburn
+Maribyrnong,Melbourne - Inner
+Brimbank - Sunshine,Yarra - North
+Melbourne - Inner
+Port Phillip - West
+Melbourne - Inner
+Hobsons Bay - Williamstown
+Miaoli
+Shanghai
+Shanghai
+King
+Orange
+San Diego
+Orange
+Orange
+New York
+New York,Madison,Hudson,Niagara
+Clark
+Los Angeles
+Los Angeles
+San Bernardino
+Los Angeles
+New York
+New York
+New York
+New York,Chittenden
+New York
+Kings,Orange
+New York
+New York,Shropshire
+New York
+New York
+New York
+New York
+Los Angeles,Cook
+San Francisco,Los Angeles
+King
+King
+King
+King
+King,Pierce
+Westminster,Paris,Tower Hamlets,Camden,Southwark
+Westminster
+Westminster
+Los Angeles
+Los Angeles
+Los Angeles
+New York
+New York
+Yokohama
+Mobara
+Paris
+Seodaemun
+Seodaemun
+Osaka
+Osaka
+Osaka
+New York
+New York
+New York
+New York,Kings
+New York
+Providence,Los Angeles,Orange,San Luis Obispo,San Francisco
+San Francisco
+New York
+Los Angeles
+New York
+New York
+New York
+San Francisco,Providence
+Orange
+Warsaw,Praha 1
+Praha 1
+H? Chí Minh city
+Glenelg - Portland
+Glenelg - Portland
+Johor Baharu
+Jakarta Pusat,Badung
+Edogawa
+Karuizawa
+Fujinomiya
+Taipei City
+Oberhasli
+Florence
+Roma
+Paris
+Paris
+Florence
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+San Francisco,Clark
+San Francisco
+New York
+Savona
+Stockholm
+Baleares
+Baleares
+Barcelona
+Barcelona
+Varese
+Savona
+Catania
+Savona
+Savona
+Savona
+Val-d'Oise,Paris
+Jerusalem,,Barcelona
+Baleares
+Catania
+Barcelona,Paris
+Queens,New York,Hudson
+Broward,Monroe
+Cozumel
+Communauté-Urbaine-de-Québec
+Cyclades
+Cyclades
+Cyclades
+Cyclades
+Bari
+Cyclades
+Bari
+Lisboa
+Valencia
+Baleares
+Palermo
+Shanghai
+Xi'an,Beijing
+Beijing
+Seodaemun
+San Diego
+Alameda,San Diego,San Francisco
+Hualien
+Taipei City
+Shah Alam
+Siem Reab
+Siem Reab
+Sydney - Inner
+Auburn
+City - Inner
+San Diego
+Sacramento
+Los Angeles
+Dallas
+Kaohsiung City
+Kaohsiung City
+Kaohsiung City
+Siem Reab
+Osaka
+Shah Alam
+Chegemskiy rayon,Mineral'nye Vody
+Jung
+Los Angeles
+Orange
+Clark
+Clark,Los Angeles
+Los Angeles
+San Bernardino
+New Plymouth
+Will
+Nagoya
+Cook
+Cook
+Sumida,Minato
+Kamakura
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto,Lake Ontario
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Toronto
+Toronto
+Communauté-Urbaine-de-Montréal
+Will
+Will
+Kane
+Lake
+Cook
+Cook
+Cook
+Cook
+Cook
+Will
+Westminster
+Westminster,Southwark
+Southwark
+Hackney,Westminster
+Hackney
+Hackney
+Westminster
+Southwark
+Camden
+Westminster
+Westminster
+Westminster
+Tower Hamlets
+Luoyang
+Los Angeles,Clark
+Shah Alam
+Shah Alam
+Johor Baharu
+Paris,Darmstadt,Bas-Rhin
+Yvelines,Paris
+Paris
+H? Chí Minh city
+Siem Reab
+Marrickville,Sydney - South
+Cairns - Northern Suburbs
+Melbourne - Inner,Corangamite - South
+San Francisco
+San Francisco
+Clark
+Clark,Mohave
+Maricopa,Yavapai,Coconino
+Maricopa
+Denver,Los Angeles
+Fairbanks North Star
+Los Angeles
+New York
+Kings
+San Mateo,San Francisco
+New York
+Cook
+Walworth
+Los Angeles
+Taipei City
+Cook
+Denver
+Denver,San Francisco
+Paris
+Paris
+Merkez,Fatih
+Kota Tangerang
+Besiktas
+Sengkurong
+Khartoum
+Jakarta Pusat,Jakarta Barat
+A Seeb
+Muttrah
+Phra Nakhon
+Phra Nakhon
+Los Angeles
+Beyoglu
+Fatih
+Kyoto,Osaka
+Jongro
+Mapo
+Gyeyang
+Seogwipo,Jeju
+Seodaemun
+Gangseo
+H? Chí Minh city
+Seongbuk
+Delhi
+Shenzhen
+Shenzhen
+Shenzhen
+Shenzhen
+Sepang
+Seremban
+Jongro,Jung
+Bagmati
+Bagmati
+Shirakawa Village,Kyoto
+Izumisano
+Westminster
+Westminster
+Miami
+Kota Kinabalu
+Beijing
+Almaty (Alma-Ata)
+Dzerzinski
+Hà N?i
+Sacramento
+Clark
+New York
+New York
+New York
+Phnom Penh
+Kaeb
+Phnom Penh
+Siem Reab
+Newham
+Milano
+Milano
+Hackney
+Hackney
+Westminster
+Division No. 15
+Pathum Wan
+Clark,Los Angeles
+San Diego
+Orange
+Chiyoda
+Bernalillo
+Bernalillo,Cook
+Cook
+Kenosha,Cook
+Cook
+Whittlesea - North
+Yarra Ranges - Seville
+Shah Alam
+Shenzhen
+Shenzhen
+Chanthabuly
+Bang Plee,Chanthabuly
+Shah Alam
+Seodaemun
+Jongro
+Shah Alam
+Freiburg
+Graz
+Salzburg Umgebung
+Sankt Pölten Land,Wien
+Wien
+Wien
+Wien
+Wien
+San Francisco
+Roma
+Osaka
+Osaka
+Khlong Toey
+Shah Alam
+Saza
+Johor Baharu
+Jung
+Harris
+Shah Alam
+Chiyoda,Chuo
+Koto
+Minato
+Chiyoda
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal,Peel
+Kota Kinabalu
+Khlong Sam Wa,Prakanong
+Division No. 2
+Division No. 6
+Division No. 6,Division No. 5
+Division No. 6
+Greater Vancouver
+Welkom
+Sandnes
+Phra Nakhon
+Shah Alam
+Seogwipo
+San Francisco
+San Francisco,Madera
+Clark
+Mohave
+Osaka
+Khlong Toey,Phaya Thai,Pathum Wan
+Riga
+Riga
+Osaka
+Nakano,Shinjuku
+Yamato,Shinjuku,Ota,Nakano
+Badung,Gianyar,Denpasar
+H? Chí Minh city
+Mittakpheap
+Westminster,Camden,London,Wiltshire,Berkshire,Bath and North East Somerset,Hertfordshire,Paris
+Paris
+Westminster,Southwark
+Paris
+Westminster
+Paris
+Division No. 6
+Division No. 6,Division No. 15
+Division No. 15
+Division No. 6
+Seine-et-Marne
+Paris
+Shah Alam,Gombak
+Los Angeles
+Jongro
+Montgomery
+Montgomery
+Montgomery
+District of Columbia
+Pathum Wan,Pak Kret
+Paris
+Roma
+Madrid
+Madrid
+Madrid
+Shah Alam,Hulu Langat,Gombak,Bentong
+Gombak,Johor Baharu
+Los Angeles
+Kern,Los Angeles,San Joaquin,Merced,El Dorado,Douglas
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Clark,Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Bernalillo
+Collin
+Santa Fe,Coconino
+Los Angeles
+Los Angeles
+Clark
+Los Angeles
+Seixal
+Nantou
+Hualien,Taipei City
+Orange
+Sydney - East
+Rockdale
+Stockholm
+Los Angeles,Clark
+Dubrovnik,Pojezerje
+Hvar,Split
+New York,Kings,Queens
+Shah Alam
+Hulu Langat,Shah Alam
+San Francisco,Clark,San Mateo
+Clark
+Shah Alam,Pom Pram Sattru,Khlong Toey,Pathum Wan
+Narita,Ota,Minato,Yokohama,Chuo,Shibuya
+Hillingdon,Stockholm,Sigtuna,Westminster,Camden,West Sussex,Surrey,Marrakech
+Merseyside,Manchester,Edinburgh,Highland,Westminster,Camden,Southwark,Tower Hamlets
+Chiyoda,Edogawa
+Osaka
+Osaka,Sakai
+Osaka
+Taipei City
+Paris,Berlin
+Berlin,Westminster,Southwark
+London,Westminster
+Shinjuku
+Bunkyo,Nakano
+Los Angeles
+Clark,San Francisco,King
+King
+Chiyoda,Shibuya,Shinjuku
+Shibuya
+Kyoto
+Osaka
+Orange
+New Castle
+New Castle,Cecil
+Gloucester
+New York
+Paris
+Camden,Southwark
+Osaka
+Minato
+Shanghai
+Shanghai
+Taipei City
+Osaka
+Southwark,Westminster,Reykjavík,Snæfellsbær
+Ilulissat
+Reykjavík,Borgarfjarðarsveit
+Hrunamannahreppur,Berlin,Westminster
+Osaka
+Osaka
+Taito,Shibuya
+Chuo
+El Dorado
+San Francisco
+Santa Clara
+Clark
+Los Angeles
+Mohave
+Sumida,Taito,Shinjuku
+Chiyoda
+Taito
+Los Angeles
+Shah Alam
+Shah Alam
+H? Chí Minh city
+San Francisco,Los Angeles,Clark
+Ti?n Giang
+Siem Reab
+Siem Reab
+Shanghai
+Çankaya
+Beijing
+New York
+Venezia,Milano
+Praha 1
+Budapesti
+Wien,Budapesti
+Kyoto,Chiyoda
+Osaka
+Osaka
+Phra Nakhon Si Ayutthaya
+Jongro
+Gapyeong,Seodaemun,Seocho,Seo,Daedeok,Dong,Masan,Haeundae
+Gyeongju
+Siem Reab
+Roma
+Treviso
+Bern
+Köln
+Hauts-de-Seine,Paris
+Santa Cruz,Alameda
+San Francisco
+Clark,San Mateo
+Taoyuan,New York
+Philadelphia,Passaic,Hudson,Nassau
+Bergen
+Livingston
+New York
+Bergen
+Kings
+New York
+Hudson
+Suffolk
+Hudson
+Kings
+Bergen
+Bergen
+Hudson
+Hudson
+New York
+Nara
+Kyoto
+Hampshire
+Lugano
+Paris
+Narita
+Orange,Los Angeles,Cook,New Castle,Atlantic
+Essex,Niagara,Hampden,Middlesex,Tioga,District of Columbia
+Jongro
+Phra Nakhon,Pathum Wan,Chatuchak,Wattana
+Edogawa
+Osaka
+Melbourne - Inner
+Riverside
+Westminster,London
+Westminster
+Jongro
+Gianyar
+Contra Costa
+Cottesloe
+Port Phillip - West
+Port Phillip - West
+Port Phillip - West,Hume - Craigieburn
+Taoyuan
+Pohang
+Pohang
+Bà R?a - Vung Tàu
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Badung
+Badung
+Jongro,Jung,Yongin,Gapyeong,Seongbuk
+Muang Sukhothai,Muang Chiang Mai,Muang Lamphun
+Muang Sukhothai
+Muang Sukhothai
+Shah Alam
+H? Chí Minh city
+Shah Alam
+Bang Kho Laem
+Shah Alam
+Toronto
+San Francisco
+Division No. 11
+Jung
+Richmond upon Thames
+Hudson
+Khlong Toey
+H? Chí Minh city
+Orange
+Los Angeles,Orange
+Mohave,Clark
+San Francisco
+Los Angeles
+Peterborough
+Toronto,Peel,Lake,Cook,Kenosha,District of Columbia,Atlantic,Bergen,Kings,New York,Hudson,Bronx
+Kings
+Puok
+Siem Reab
+Siem Reab
+Siem Reab
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Paris
+Roma
+Roma
+Taipei City
+Los Angeles
+Clark
+Port Phillip - West
+Melbourne - Inner
+Amphawa
+H? Chí Minh city
+H? Chí Minh city
+Batam
+Salt Lake,Narita
+Utah
+Salt Lake
+Utah
+Honolulu
+Utah
+Utah
+Utah
+Millard
+Hatsukaichi
+Shinjuku,Bunkyo
+Nagoya
+Nagoya
+Osaka
+Ikeda Town
+Ikeda Town
+Nagoya
+Siem Reab
+Phnom Penh
+Siem Reab
+Bang Kho Laem
+Badung
+Sydney - South,Sydney - Inner,Sydney - East
+Byron
+H? Chí Minh city
+Los Angeles,Lane,Multnomah
+Marion
+Multnomah
+Shinagawa,Chiyoda,Chuo
+Chiyoda
+Edogawa
+Minato
+Nakano
+Sydney - Inner
+Edinburgh
+Westminster
+Oxfordshire
+Osaka,Kobe
+Badung
+New York
+Niagara,New York
+New York
+Shah Alam,Manado,Sepang
+Shah Alam
+Paris
+Hà N?i
+Siem Reab,Dangkao
+Taipei City
+Wattana
+Khlong Toey,Wattana
+Kyoto
+Chuo
+New York,Queens
+New York
+New York,Fulton
+New York
+Shah Alam
+Taunggye
+Madrid
+Sepang,Langkawi
+Gwang-jin
+Pathum Wan
+Badung,Denpasar
+Gianyar
+Badung
+H? Chí Minh city
+Batam
+Hertfordshire
+Northamptonshire
+Pune
+Pune
+Siem Reab
+Siem Reab,Puok
+Chengdu
+Chengdu
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Oxfordshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Suffolk
+Cambridgeshire
+Greenwich,Tower Hamlets,Westminster,Camden
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Khlong Toey,Wattana,Bang Rak
+Bratislava II
+Krems an der Donau Land
+Wien
+Praha 6
+Bratislava I
+Praha 6
+Bergen
+Santa Clara
+Santa Clara,San Francisco,Monterey
+New York
+New York
+New York
+Ritto
+Barcelona
+Sepang
+Shah Alam
+Jeju,Seodaemun
+Shah Alam
+Los Angeles
+Clark,San Bernardino
+Los Angeles
+Orange
+Los Angeles
+Khlong Toey,Huai Kwang
+Pathum Wan,Khlong Toey
+Wang Thonglang,Pathum Wan
+Bang Rak,Wang Thonglang
+Pathum Wan
+Jakarta Selatan,Kota Tangerang
+Minato
+Koto
+Chiyoda,Yugawara,Koto,Taito
+Taito
+Westminster,Kensington and Chelsea
+Paris
+Paris,Florence
+Siena,Florence,Roma
+Kuromatsunai
+Sumida
+Ko Phangan
+Nobeoka
+Osaka
+Köln
+Amsterdam
+Edinburgh,Merseyside
+Klang
+Roma
+Köln
+Pathum Wan
+Pathum Wan
+Muang Chiang Mai
+Köln
+Tower Hamlets
+Newham
+Warwickshire
+Amsterdam,Haarlemmermeer
+Wattana
+Khlong Toey
+Wattana
+Khlong Toey
+Bang Plee
+Jung,Jongro
+Shah Alam
+Shah Alam
+Shah Alam
+Badung
+Marin
+King
+Badung
+Badung,Surabaya
+Jongro
+Jongro
+Warringah
+Sydney - Inner
+Warringah
+Botany Bay
+Perth
+Jongro,Seongbuk
+Hume - Craigieburn,Port Phillip - West
+Hume - Craigieburn
+Shah Alam,Bang Rak,Muang Pathum Thani,Pathum Wan,Prakanong,Don Muang
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Westchester,New York,Fairfield,Queens,Rockland
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Taoyuan
+Essex
+New York
+Morris
+Bergen
+Shah Alam
+Barcelona,Paris,Haarlemmermeer
+Tarrant
+New York
+Minato
+Shibuya
+New York
+New York
+New York
+New York
+Badung,Gianyar
+Siem Reab
+Kantharalak,Siem Reab
+Sevilla,Madrid
+Barcelona
+Napoli,Florence
+Florence,Paris
+Paris
+Southwark
+Chuo,Edogawa,Shinjuku
+Livingstone
+Livingstone
+Paris
+Paris
+Paris
+Alpes-Maritimes
+Kyoto
+Izumisano
+Pathum Wan
+Shanghai
+Shanghai
+Bang Lamung
+Cockburn,Perth
+Perth,Cottesloe,Melville,Cockburn,Canning,Claremont,Stirling
+Swan,Cockburn
+Xinyang,Victoria Park,Cockburn
+Joondalup,Cockburn
+Cockburn
+Busselton
+Busselton
+Perth
+Perth
+Armadale
+Victoria Park
+Riverside
+New York,Queens
+Los Angeles
+Riverside
+Los Angeles
+Los Angeles,San Diego,Bergen
+Orange,Kern
+San Francisco,Napa
+San Francisco
+Los Angeles
+Los Angeles
+Orange
+Sathorn
+Huesca
+San Francisco
+Eastland
+Division No. 11
+Division No. 11
+Melaka Tengah
+Muang Phuket
+Hackney
+Camden
+Southwark,Greenwich
+Greenwich
+Greenwich
+Westminster,Greenwich
+Tower Hamlets
+Newham
+Camden
+Tower Hamlets
+Westminster
+Greenwich
+Tower Hamlets,Greenwich
+Greenwich
+Hackney
+Tower Hamlets
+Greenwich
+Tower Hamlets,Westminster
+Beijing
+Puok
+Siem Reab,Phra Nakhon,Pathum Wan
+Phra Nakhon,Khlong Toey
+Sydney - Inner
+Sydney - South
+Osaka
+Toronto
+Toronto
+Bang Plee
+Yangon-W
+Yangon-W
+Yangon-W
+Yangon-W
+Yangon-W
+Yangon-W
+Shah Alam
+Shah Alam
+Kota Tangerang,Badung
+Guilford
+York
+Guilford
+Guilford
+Guilford
+Guilford
+Guilford
+Guilford
+Osaka
+Guilford,Richland
+Guilford
+Guilford
+Guilford
+Guilford,District of Columbia
+Guilford
+Virginia Beach
+New York
+New York
+Guilford
+Guilford
+New York
+Guilford
+Wake
+Guilford
+Guilford
+Guilford
+New York
+New York
+New York
+New York
+New York
+New York
+New York,Queens
+New York
+Queens,New York
+New York
+New York
+New York
+Avery
+Guilford
+Guilford
+Guilford
+Shibuya,Sumida,Chiyoda
+Osaka
+Contra Costa
+Los Angeles,San Bernardino,Clark,Mohave
+Palakkad
+Chatuchak
+Gurgaon
+Bang Plee
+H? Chí Minh city
+Sydney - Inner
+Oxenford-Maudsland
+Sydney - Inner
+Sydney - Inner
+Osaka
+Brighton and Hove
+Camden
+Hampshire
+Cambridgeshire
+Newham
+Camden
+East Sussex
+Westminster
+Paris,Seine-et-Marne
+Paris
+Paris
+Moreland - North
+Seongbuk
+Jongro,Seongdong,Seodaemun,Jung
+H? Chí Minh city
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Sumida,Chiyoda
+Ovidiopol's'kyi
+Sam Phran,Phra Nakhon,Pathum Wan
+Badung,Gianyar
+Port Phillip - West
+Bang Rak
+Gianyar
+Johor Baharu
+Kensington and Chelsea
+Osaka
+Wien
+Wien
+Wien
+Yangon-W
+Shanghai
+Ningbo
+Bülach
+Praha 1
+Darmstadt
+Siem Reab
+H? Chí Minh city
+H? Chí Minh city
+Sauk
+Sauk
+Sauk
+Sauk
+Sauk
+Dane,Sauk
+Sauk
+Columbia,Sauk
+Sauk
+Pathum Wan,Sathorn,Khlong Toey
+Shah Alam
+Jongro,Yongsan
+Narita
+Hino,Kyoto,Shirakawa Village,Takayama
+Hino,Hachioji
+Taito
+Shibuya
+Inagi
+Nikko
+Kamakura,Fujisawa
+Muang Phuket
+Shanghai
+Nakano
+Yongsan
+New York
+New York
+Los Angeles
+Los Angeles
+Los Angeles
+Shah Alam
+Kathu
+Pathum Wan
+Queens
+New York
+Orange
+Shah Alam
+Beijing
+Hillingdon
+Ernakulam
+Seine-Saint-Denis
+Attica
+Attica
+Beyoglu
+Fatih
+Barcelona
+Bang Kapi
+Barcelona
+Chuo
+Gangnam
+Gangnam
+Gangnam
+Gangnam,Yangju
+Gangnam
+Gangnam
+Gangnam
+Gangnam
+Gangnam
+Gangnam
+Jung
+Gangnam
+Jung
+Gangnam
+Gangnam
+Gangnam
+Gangnam
+Jung
+Lambeth
+Gangnam
+Gangnam
+Bang Rak
+H? Chí Minh city
+H? Chí Minh city
+Clark
+Clark
+Clark
+Clark
+Alameda
+Clark
+Clark
+Riverside
+Shanghai,Pathum Wan
+New York
+Shenzhen
+Kings
+Taipei City
+Hà N?i,Qu?ng Ninh,H? Chí Minh city
+H? Chí Minh city
+Siem Reab
+Shanghai
+Shanghai
+Bangkok Yai
+Shah Alam,Sepang
+Brookfield (incl. Brisbane Forest Park),South Brisbane,Kangaroo Point,Surfers Paradise
+Melbourne - Inner
+Beaufort,Division No. 14
+Cambridgeshire
+Bangalore Urban
+Capital
+Milano
+El Dorado
+East Sussex
+El Menzah
+Pekan Baru
+Las Palmas
+North East Lincolnshire
+Orange
+Lehigh
+Phra Nakhon,Ratchathewi
+Phra Nakhon
+K. Ko Kut
+Haarlemmermeer
+Pathum Wan,Bang Plee
+Jung,Gangnam,Seodaemun
+Jung
+Chuo,Meguro,Shibuya,Narita,Chiba,Koto
+Osaka
+Kyoto,Osaka
+Kyoto
+Osaka
+Osaka
+H? Chí Minh city
+H? Chí Minh city,Siem Reab,Puok
+Bang Plee
+Siem Reab
+Sydney - Inner
+Orange
+Los Angeles
+Banda
+São Paulo
+Westminster
+Bentong,Gombak,Shah Alam
+Los Angeles
+New York
+New York
+Kings
+Queens
+New York,San Mateo
+New York
+Edogawa
+Los Angeles
+Los Angeles
+Jakarta Timur
+Greater Vancouver
+Division No. 2
+Division No. 2
+Division No. 2
+Division No. 2
+Division No. 2
+Division No. 2
+Division No. 2
+Division No. 2
+Division No. 2
+Division No. 2
+Division No. 2
+Division No. 2
+Division No. 2
+Ko Samui
+Huai Kwang
+Chatuchak,Phra Nakhon,Sathorn
+Kings,New York,Santa Clara,Alameda,San Francisco,Los Angeles
+Santa Clara,San Francisco,Napa
+Communauté-Urbaine-de-Montréal
+Toronto
+Suffolk
+New York,District of Columbia
+New York,Queens
+New York
+District of Columbia
+New York
+Chuo
+Shinjuku
+New York
+New York
+Sepang
+Shah Alam
+Badung
+New York
+New York
+Cook
+San Francisco
+Clark,Los Angeles
+Orange
+Amsterdam
+Bruxelles,Paris
+Paris
+Praha 1
+Oberpfalz
+Port Phillip - St Kilda
+Blue Mountains,Sydney - East,Sydney - South
+Siem Reab
+Posey
+Ratchathewi
+Muang Krabi
+Pathum Wan
+Fujikawaguchiko
+Jung
+Seodaemun
+Yamagata
+Franklin
+Clark
+Franklin
+Shah Alam
+Seberang Perai Tengah
+Shah Alam
+Shah Alam,Sepang
+Malappuram
+Ernakulam
+Delhi
+Budapesti,Darmstadt
+Praha 1,Wien,Bülach
+Zürich
+Madrid
+Madrid
+Madrid,Guadalajara
+Madrid
+Madrid
+Madrid
+Shah Alam
+Roma
+Roma
+New York
+New York
+Dordogne,Paris
+Badung
+Osaka
+Osaka,Kyoto
+District of Columbia
+San Diego
+San Diego
+Clark
+Clark
+San Diego,Clark
+Orange
+San Diego
+Magé,Duque de Caxias
+Magé
+Petrópolis,Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+New York
+Cook
+Cook
+Solano
+San Diego
+Cook
+Clark
+Mercer
+San Diego,New York
+Cook
+Orange
+Orange
+Orange
+Orange
+New York
+Orange
+Orange
+Orange
+Orange,Solano
+Orange
+Banteay Srei,Siem Reab
+Taipei,Taipei City
+Yeongdo
+Osaka
+Osaka
+Osaka
+Central,Western
+Odintsovskiy rayon
+Central,North-Western
+Odintsovskiy rayon
+Southern
+Odintsovskiy rayon
+Central
+Bülach
+Central
+Western
+Central
+Zvenigorod
+Shah Alam
+Badung
+Badung
+Badung
+Badung
+Western
+Central
+Istrinskiy rayon
+Central
+Central
+Leninskiy rayon
+Merkez
+Merkez
+Central
+Central
+Central
+Northern
+Wuhan
+Wuhan
+Bang Lamung
+Badung
+Badung
+Badung
+Phra Nakhon
+Rheden
+Deventer
+Deventer,Milano
+Milano,Deventer
+Deventer,Zutphen
+Deventer
+Bagmati,Gandaki,Narayani
+Muang Phuket,Kathu
+Osaka,Kyoto
+Jongro
+Kyoto
+Jongro,Seodaemun
+Jongro
+Seodaemun
+Siem Reab
+Siem Reab
+Siem Reab
+Darmstadt,Roma
+Meguro
+Habaraduwa
+Paris
+Langkawi
+H? Chí Minh city
+Stockholm
+Los Angeles
+Monterey
+Los Angeles
+Yongsan
+San Diego
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Saitama
+Saitama
+Saitama
+Saitama
+Pyeongchang
+Seocho
+Orange
+Kathu
+Pathum Wan
+New York
+Cessnock
+New York
+Kings
+Badung,Gianyar,Surabaya,Denpasar
+Paris,Madrid,Segovia,Vizcaya
+Guipúzcoa
+Sesimbra
+Barcelona,Girona
+Hà N?i
+Qu?ng Nam,H? Chí Minh city
+Shah Alam
+Johor Baharu
+Badung
+Jakarta Selatan
+H? Chí Minh city
+Siem Reab
+Clark
+Clark,Mohave,Cook,Lake Michigan,Milwaukee,Essex,New York
+San Francisco,Marin,Los Angeles
+Camden
+Paris
+Paris,Praha 1
+Oberbayern
+Madrid
+Segovia,Seixal
+Seixal,Milano
+Koto
+Sumida,Taito
+Chiyoda
+Shah Alam
+Sydney - Inner,Waverley,Campbell,Parkes,North Sydney
+Auburn,Parramatta  - Inner
+Sydney - West
+Auburn
+Auburn
+Auburn
+Sydney - Inner,Marrickville,Auburn,Strathfield
+Shah Alam
+Kadiköy
+Muang Phuket,Kathu,Takua Thung
+Kathu
+Shah Alam
+Bakirköy
+H? Chí Minh city
+H? Chí Minh city
+Berkshire
+Westminster
+Westminster
+Karachi
+Munster
+Hulu Langat
+Orange
+King
+King
+New York,Westchester
+New York
+Kita,Yugawara
+Badung
+Koper,Gorizia
+Paris
+Shah Alam
+Shah Alam
+Dangkao
+Monroe
+Sydney - Inner
+Auburn
+District of Columbia
+Port Phillip - West
+Colombo
+Manchester
+H? Chí Minh city
+Melbourne - Inner
+Thimbirigasyaya
+Miami-Dade
+Miami-Dade,Orange
+Milano
+Fatih
+Fatih
+Jongro
+Jongro
+Guangzhou
+Khlong San,Pathum Wan,Phra Nakhon
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Los Angeles
+Los Angeles
+San Diego
+Visp
+Madrid
+Barcelona
+Kusadasi
+Attica
+Roma
+Seine-et-Marne
+Paris
+Hautes-Pyrénées,Paris,Val-d'Oise,Haute-Garonne
+Toronto
+Tbilisi
+Tbilisi
+Batumi
+Merkez
+Merkez
+Fatih
+Lelystad
+Shibuya,Bunkyo,Chuo,Minato,Taito,Ota,Sumida,Chiyoda
+Shanghai
+Jongro,Jung,Seodaemun,Seongbuk,Gangnam,Seocho,Dongjak,Uiwang
+Rockingham
+Rizhao
+Sarina
+Nellore
+Gladstone
+Hà N?i
+Los Angeles
+Los Angeles
+Shah Alam
+Ilala
+Taipei City
+Langkawi
+Shah Alam
+Jalandhar
+San Mateo
+Bang Rak,Khlong Sam Wa,Huai Kwang
+Badung,Denpasar,Tabanan
+Fairfield - East
+Madrid
+Paris
+Chiyoda
+Hà N?i
+Kathu
+Kathu
+Hillingdon
+Shinjuku,Toshima,Osaka
+Osaka
+Kobe,Suita
+Seongdong
+Port Phillip - West
+Melbourne - Inner
+Melbourne - S'bank-D'lands
+Kingston,Parkes,Sydney - Inner
+Tower Hamlets
+Camden
+London
+Melbourne - Inner,Port Phillip - West
+Waitakere
+H? Chí Minh city,Tây Ninh
+Ti?n Giang
+Gianyar,Badung
+Siem Reab
+Kota Bandung
+Kota Bandung
+Kota Bandung
+Sumedang
+Bandung
+Kota Bandung
+Paris
+Thalang
+Kathu
+Hà N?i
+Hà N?i
+Bexar
+Bexar
+Harris,Bexar
+New York
+New York
+Hua Hin,Pathum Wan
+Amsterdam,Paris
+Paris,Genève,Ain
+Jongro
+Shibuya,Edogawa,Essonne,Taito
+Osaka
+Ritto
+Osaka
+Los Angeles
+Gadong
+Westminster,Kensington and Chelsea,London,Berkshire,Hammersmith and Fulham,Wiltshire,Oxfordshire,Amsterdam
+Köln,Innsbruck,Schwaben,Wien,Salzburg,Venezia,Roma
+Roma,Florence,Innsbruck,Luzern,Paris,Côte-d'Or,Hauts-de-Seine,Yvelines,Seine-et-Marne
+Westminster,,Köln,Schwaben,Rheinhessen-Pfalz,Kent,Koblenz,Salzburg,Venezia,Hauts-de-Seine
+Hauts-de-Seine
+Westminster
+Westminster
+Luzern
+Greenwich
+Westminster
+Venezia
+Paris
+Roma
+Roma
+Paris
+Kobe,Osaka,Kyoto
+Kyoto
+Beijing
+Botany Bay,Manly,Canada Bay - Drummoyne,Ryde
+Sydney - Inner
+Sydney - Inner,Ryde
+Ryde,Auburn,Sydney - Inner,Hawkesbury,Manly
+Blacktown  - South-West,Ryde,Randwick,Campbell
+Sydney - Inner
+Ryde
+Willoughby
+Rockdale
+Pathum Wan
+Iga
+Iga
+Osaka,Kyoto
+Koto
+Edogawa
+Jongro
+Jongro
+Clark,Los Angeles
+Taipei City
+Taipei City
+Taoyuan
+Shinjuku
+Sydney - Inner
+Botany Bay,Sydney - Inner
+Knox - North-West,Botany Bay
+Puok
+Siem Reab
+Beijing,Shanghai
+Toshima,Shinjuku,Sumida,Fujikawaguchiko,Yamanakako,Shibuya,Yokohama,Edogawa
+Cook
+New York
+Jongro
+H? Chí Minh city,Phnom Penh,Siem Reab
+Shibuya
+Osaka
+Los Angeles,Santa Clara
+Monterey
+Monterey
+Hamilton
+Wien
+Graz,Budapesti,Milano,Como
+Beyoglu,Üsküdar,Fatih
+Gurgaon
+Puno
+Cusco
+Camden,Westminster,Islington,Hackney,Kensington and Chelsea,London
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Wien
+Gurgaon
+Toronto
+Greater Vancouver
+Greater Vancouver
+Toronto
+Halifax
+Toronto
+Toronto
+Toronto
+Meishan
+Sepang
+San Diego
+Berdsk
+Iskitimskiy rayon
+Batam
+Las Palmas
+Brevard
+Brevard
+Orange
+Orange
+Thái Bình
+Thái Bình
+H?i Phòng
+Thái Bình
+Thái Bình
+Thái Bình
+Westminster
+Westminster,Wiltshire
+Haringey
+Camden
+Jakarta Selatan
+Greater Vancouver
+Jackson
+Clark
+New York
+New York
+New York,Kings
+Hammersmith and Fulham
+Kensington and Chelsea
+Camden
+Praha 1,Praha 6
+London
+Westminster
+Jung
+Khlong Toey
+Pathum Wan
+Pathum Wan
+Pathum Wan
+Bentong
+Seyhan
+San Francisco
+Shanghai
+Shanghai
+Taipei City
+Taipei City
+Taizhou
+Shanghai
+Shanghai
+Wayne,Erie
+Erie,Cuyahoga,Essex,New York,Hudson,Los Angeles
+Los Angeles,Narita
+Narita
+Los Angeles,Narita
+Los Angeles
+Narita
+Narita
+Los Angeles
+Los Angeles
+Shanghai
+Nanping,Shanghai
+Orange,Los Angeles
+Story,Polk
+Los Angeles,Orange
+Los Angeles
+Los Angeles,Santa Barbara
+Los Angeles
+Los Angeles
+Taipei City
+Taipei City
+Taipei City
+Taipei City,Los Angeles
+Taipei City
+Los Angeles
+New York
+Osaka
+Fujisawa
+Yokohama
+Taito
+San Francisco,Los Angeles
+Ranau
+Ranau
+Kota Belud
+Siem Reab,Soutr Nikom
+Shah Alam
+Hà N?i
+Khlong Toey
+Madrid
+New York
+District of Columbia
+District of Columbia
+Division No. 11
+Westminster
+Shah Alam
+Jakarta Pusat
+H? Chí Minh city
+Hillingdon
+Camden
+Phra Nakhon,Khlong San,Pathum Wan,Chatuchak,K. Bang Sao Thon,Bang Plee
+Siem Reab,Pathum Wan
+Chatuchak,Sathorn,Wattana,Thon Buri,Phaya Thai
+Taipei City,Taoyuan
+Taipei City
+Yongin
+Jongro
+Jongro
+Jongro
+Muang Phuket
+Chiyoda
+Chuo
+Hackney
+Tower Hamlets
+Westminster
+Fatih,Merkez
+Paris
+Badung
+Narusawa,Minato
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Bernardo do Campo
+São Paulo
+São Paulo
+Kota Bandung,Jakarta Selatan
+Bogor
+Kota Bogor
+Bogor
+Jakarta Selatan
+Kota Bandung,Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Pusat
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Pusat,Jakarta Utara
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Pusat
+Yogyakarta,Sleman,Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Pusat
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Pusat
+Jakarta Pusat
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Pusat
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Pusat
+Jakarta Pusat
+Jakarta Pusat
+New York,Bergen
+Morris
+H? Chí Minh city
+Orange
+Buncombe
+Bang Lamung
+Pathum Wan
+Florianopolis
+Westminster
+Venezia
+Paris
+Shinjuku,Hakone
+Riverside,Los Angeles
+Clark
+Cook,Lake,Lake Michigan,New York,Queens
+Orange
+Orange
+Melbourne - S'bank-D'lands,Melbourne - Inner
+Melbourne - Inner
+Nicholls
+Knox - South
+Cumberland
+Shibayama
+Pathum Wan
+Phra Nakhon
+Badung
+Pathum Wan
+Pathum Wan
+Roma
+Venezia
+Pathum Wan
+Pathum Wan,Wattana
+Osaka,Kyoto,Izumisano
+Osaka
+Beijing,Madrid
+Jaén,Sevilla
+Granada
+Granada
+Barcelona
+Madrid
+Granada
+Pathum Wan
+Pathum Wan
+Los Angeles
+Clark
+Los Angeles
+Los Angeles
+Los Angeles,Orange
+Los Angeles
+Los Angeles
+Beijing
+Cumbria
+Cumbria
+Taipei City,Taipei,Taichung,Taoyuan
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sydney - East
+Sydney - East
+Canterbury,Rockdale
+Milano
+Milano
+Paris
+Roma
+Milano
+Prakanong,Wattana,Pathum Wan
+Bang Kho Laem,Pathum Wan,Prakanong
+Huai Kwang
+H? Chí Minh city
+Ti?n Giang,H? Chí Minh city
+Combined statistics
+Combined statistics
+Orange,Pima,El Paso
+Orange
+Clark
+Phra Nakhon
+Sariyer
+Phra Nakhon,Dusit
+Chom Thong
+Minato
+Hà N?i
+Hà N?i
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Ninh Bình
+Taipei City
+Jongro,Gwacheon
+Shah Alam,Kuala Selangor
+Paris
+Innsbruck
+Wattana,Bang Rak,Sathorn,Pom Pram Sattru,Phra Nakhon,Pathum Wan,Bang Plee
+Shah Alam
+Port Dickson,Seremban,Melaka Tengah
+Melaka Tengah
+Port Dickson
+Port Dickson
+New York,Kings
+New York
+Wayne
+Richland
+Paris
+New York
+New York
+New York
+New York
+Shibuya
+Peel,Jung
+Mersing
+Fukuchiyama,Nishiwaki
+Osaka
+Osaka
+Osaka
+Beijing
+Beijing
+Beijing
+Osaka
+Osaka
+Osaka,Nara
+Phra Nakhon,Muang Kanchanaburi
+Khlong Toey
+Chuo
+Shibuya
+Kyoto
+Clayton,Greene,Taney
+Nakano,Sumida
+Shah Alam
+Guangzhou
+Setagaya,Minato,Chiyoda,Gotemba,Shibuya
+Guangzhou
+Osaka
+Osaka
+Southwark,Hillingdon
+Kensington and Chelsea
+Paris
+Sydney - Inner,Auburn
+Taipei City
+Nanjo
+Urasoe
+Fukuoka,Naha
+Hatsukaichi,Hiroshima
+Osaka
+Kyoto,Osaka,Kaohsiung City,Taipei City
+Naha
+Pyeongchang
+Shah Alam
+Shah Alam
+Guangzhou
+Clark
+Phnom Penh
+Phnom Penh
+Penampang
+Kota Kinabalu
+Kota Kinabalu
+Shibuya,Minato
+Koto
+Minato
+Osaka
+Asuka
+Carmarthenshire
+Alameda,Clark,San Mateo,San Francisco,Santa Clara,Contra Costa,Marin
+Alameda
+Los Angeles
+Los Angeles
+Yarra - North,Port Phillip - West,Melbourne - Inner
+Waitakere
+Los Angeles
+Sacramento,Siskiyou
+Los Angeles
+Karlsruhe
+Attica
+San Francisco
+Berlin
+Bath and North East Somerset
+Westminster
+Warsaw,Combined statistics
+Lorain
+Los Angeles
+Sacramento
+A Seeb
+H? Chí Minh city
+Phra Nakhon
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Manly
+Seodaemun
+Barcelona
+Los Angeles
+Gifu
+Kariya
+Kariya
+Kariya
+Tower Hamlets
+Orange
+Merkez
+Beyoglu
+Shah Alam
+Taipei City,Taipei
+San Francisco,Santa Clara
+Los Angeles,Ventura,Orange
+Orange,Caddo,Walton,Brevard,New York,Toronto
+York
+Peel,Toronto
+Greater Vancouver,Squamish-Lillooet
+Toronto
+Sydney - Inner,Sydney - East,Blue Mountains,Cessnock,Newcastle - Throsby,Sydney - South
+Randwick,Kiama
+Port Phillip - St Kilda
+Melbourne - S'bank-D'lands
+Port Phillip - West,Yarra - North
+Siem Reab
+Timur Laut
+Timur Laut
+Timur Laut
+Jung
+Yeosu
+Kota Kinabalu
+Shanghai
+Shanghai
+Shanghai
+Jakarta Selatan
+Paris
+Kensington and Chelsea
+Minato
+Shibuya,Minato,Shinjuku
+Paris
+Lisboa
+Kyoto
+Kyoto
+Paris
+Sepang
+Roebourne
+Westminster,Paris
+Alpes-Maritimes
+Venezia
+Praha 1
+New York
+Kyoto
+Paris
+Port Phillip - West,Melbourne - S'bank-D'lands,Wyndham - South,Melbourne - Inner
+Melbourne - S'bank-D'lands
+Tulare
+Los Angeles
+San Mateo
+Marin,San Francisco,San Mateo,Sonoma,Santa Clara,Los Angeles
+Badung
+Los Angeles
+Los Angeles,Riverside,San Diego
+Los Angeles,San Mateo,Santa Clara
+San Mateo,Los Angeles
+Los Angeles
+Tulare
+Orange
+Los Angeles
+Sydney - Inner,Parramatta - North-East,Sydney - East,Waverley,Rockdale,Auburn
+Jongro,Seongbuk,Gapyeong,Jung,Nowon,Yongin,Mapo
+Los Angeles
+Los Angeles,San Mateo
+San Mateo
+Los Angeles
+Oslo
+Oslo,Skedsmo
+Oslo,Hauts-de-Seine,Paris,Bruxelles
+Amsterdam,Haarlemmermeer,Ullensaker
+Oslo
+Hume - Craigieburn,Port Phillip - West,Wyndham - North
+Hume - Craigieburn
+Los Angeles,Orange
+Haarlemmermeer,Oslo
+Vestur-Eyjafjallahreppur
+Reykjavík,Sandgerði
+Dutchess
+Hudson
+Santa Clara
+Santa Clara,Los Angeles
+San Mateo,Los Angeles,Marin
+Vestur-Eyjafjallahreppur
+Sydney - Inner
+Sydney - Inner
+Johor Baharu
+Ratchathewi,Wattana,Bang Rak,Phra Nakhon
+Knox - North-West
+Knox - North-East
+Knox - North-East
+Knox - North-East
+Knox - North-East
+Maroondah - Ringwood
+Jongro
+Jongro,Yongin
+Yongin
+Jongro
+Yongin
+Los Angeles,Clark,Mohave
+Los Angeles,Clark
+Los Angeles
+Los Angeles
+Los Angeles,Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Bentong,Gombak,Shah Alam
+Tawau
+Los Angeles
+Los Angeles
+Los Angeles,Ventura
+San Francisco
+San Bernardino,Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Orange,Los Angeles
+Los Angeles
+Los Angeles
+Riverside
+Shah Alam,Sri Aman
+Los Angeles
+Los Angeles
+Kyoto
+Southwark
+Shibuya
+Orange
+Los Angeles,San Bernardino
+Jongro
+Jongro
+Huai Kwang
+Phra Nakhon
+Seodaemun,Seongbuk
+Seodaemun,Jongro
+Seodaemun
+Seodaemun
+Seodaemun
+Seodaemun
+Seodaemun
+Seodaemun
+Jongro
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Capital
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Nagoya
+Nagoya
+Jung,Mapo,Yongin,Jongro,Seongdong
+Ramsey
+Ramsey
+Washington
+Milwaukee
+Shah Alam
+Shah Alam
+Shah Alam
+Alameda,San Mateo
+Alameda,Santa Clara
+Los Angeles,Santa Clara,Alameda
+Alameda
+Santa Clara
+San Mateo
+Sepang
+San Diego
+San Diego
+Los Angeles
+San Diego
+Los Angeles
+Kunming
+Port Phillip - West
+Port Phillip - West
+Port Phillip - West
+Bà R?a - Vung Tàu
+Melbourne - Inner
+Port Phillip - West,Bang Lamung,Broome,Banyule - Heidelberg
+Port Phillip - West
+H? Chí Minh city
+Phnom Penh
+Port Phillip - West
+Melbourne - Inner
+Osaka,Kobe,Kyoto,Nara
+Johor Baharu
+Orleans
+Taipei City
+Hillsborough
+Clark
+Clark
+Osaka,Shibuya,Minato,Chuo
+Chuo
+Shibuya
+Osaka
+Osaka
+Los Angeles
+San Francisco
+Division No. 11
+Los Angeles
+Westminster
+Paris
+Tower Hamlets,,Westminster,Hillingdon
+Canning
+Orange
+Ventura
+Sathorn
+Guangzhou,Zhongshan
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 18,Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Kobe
+Toyonaka
+Taipei City,Taipei
+Jakarta Selatan
+Shah Alam
+Clark
+Los Angeles
+Cook
+Cook,Richmond,New York
+Agra
+Côte-d'Or
+Bentong,Shah Alam
+Bratislava II
+Budapesti
+Bratislava I
+Praha 1
+Jung,Gandong
+Gandong
+Badung
+Siem Reab
+Siem Reab
+Clark
+Clark
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,Clark,Orange,San Diego
+San Diego,Los Angeles,Denver
+Prince George's,District of Columbia,New York,Los Angeles
+Los Angeles
+District of Columbia
+Yao,Osaka
+Shibuya
+Los Angeles
+Nakano,Shinjuku,Sumida,Bunkyo,Edogawa
+Jongro,Seocho,Seongdong
+Clark
+Los Angeles
+Orange
+San Diego
+Orange,Los Angeles
+Fairfax,Montgomery,New York
+New York
+New York
+Clark
+Clark
+New York
+Nassau
+Nassau
+New York,Clark
+San Francisco,Napa
+Los Angeles
+Los Angeles,Clark
+Honolulu
+Khlong Toey
+Pathum Wan,Khlong Toey
+Northumberland,Edinburgh
+Roma,Paris
+Paris
+Paris,Roma
+Camden
+Edinburgh
+Roma
+Edinburgh
+Kota Kinabalu
+Shah Alam
+Khlong Toey,Chang
+Nagoya
+Ratchathewi
+Jakarta Pusat
+Pathum Wan,Bang Lamung
+Jung
+Muang Phangnga
+Honolulu
+Badung
+Greater Vancouver
+Los Angeles
+Timur Laut
+New York
+Darmstadt
+Yangon-N
+Muang Phuket
+Queens
+Osaka
+Kathu
+Chatuchak,Prakanong,Pathum Wan,Samphantawong,Huai Kwang
+Guangzhou
+Albany
+Albany
+Rensselaer
+Bernalillo
+Bernalillo
+Potter
+Crawford,Crittenden,Henderson,Greene
+Richmond
+Loudoun
+Los Angeles
+Bang Rak
+Chiyoda
+Badung,Denpasar,Gianyar
+Pathum Wan
+Katana
+San Mateo,San Francisco
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Kota Kinabalu
+Denpasar
+Perth
+Nagoya
+Sydney - Inner
+South Brisbane
+Mosman
+Osaka
+New York
+New York
+Queenstown-Lakes
+Roma
+Roma
+Roma
+Haarlem,Utrecht,Haarlemmerliede c.a.
+Rotterdam,'s-Gravenhage
+Enkhuizen
+Ain
+Genève
+Amsterdam
+Madrid
+Valencia
+Valencia
+Guadalajara
+Köln
+Jakarta Pusat
+Jakarta Pusat,Jakarta Barat
+Jakarta Pusat
+Merkez
+Amasra
+Melaka Tengah
+Klang
+Narita
+Tsukuba
+Tsukuba
+Minato
+Nerima
+Funabashi
+Chiyoda,Koto
+Muar
+Los Angeles
+San Mateo
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Wayne
+Lausanne,Pays-d'Enhaut
+Haarlemmermeer
+Praha 6
+Los Angeles
+Los Angeles
+San Francisco
+Siem Reab
+Tower Hamlets
+Paris
+Southwark
+Paris
+Muang Chiang Mai
+Pathum Wan
+Sydney - Inner,Willoughby,Leichhardt
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - West
+Waverley
+Los Angeles
+Barcelona
+H? Chí Minh city
+Hà N?i
+Geoje
+Geoje
+Suyeong
+Harford
+Harford
+Harford
+Harford
+Harford
+Harford
+Harford
+Harford
+Harford
+Jefferson
+Denver
+Harford
+Harford
+Harford
+Harford
+Harford
+Harford
+Harford
+Harford
+Harford
+Harford
+Harford,Baltimore
+Harford
+Harford
+Harford
+Harford,Baltimore,Howard
+Harford
+Harford
+Jongro
+Dongjak
+Irkutskiy rayon
+Irkutsk
+Nakano,Shinjuku,Chiba
+Shah Alam
+Jongro,Seodaemun
+Jongro,Seodaemun
+Badung,Tabanan
+Badung
+Jung
+Kota Bandung
+Kota Bandung
+Seogwipo
+Seogwipo
+Narita,Yokohama,Taito,Shizuoka,Numazu,Mishima
+Mishima,Bunkyo
+Bexar
+Bexar
+Orleans
+New York
+Seodaemun
+Bunkyo
+Kyoto,Osaka
+Osaka
+Pathum Wan,Huai Kwang
+Shah Alam,Johor Baharu
+Seine-Maritime
+Ille-et-Vilaine
+Honolulu
+Suffolk
+New York
+Pathum Wan
+Shibuya,Chuo
+Chiyoda
+Honolulu
+Luzern
+Interlaken
+Gianyar,Denpasar
+Edogawa
+Sapporo
+Phra Nakhon
+Ratchathewi
+Shanghai
+Jongro
+Jongro
+Seodaemun
+Jongro
+Jung
+Westminster
+New York
+New York
+Franklin
+Franklin
+Franklin,Delaware
+Franklin
+Franklin
+Hamilton
+Cook,Lake
+Cook
+Cook
+Harris
+Toronto
+Franklin
+Pitt
+Franklin
+Shah Alam
+H? Chí Minh city
+Ngh? An,Phnom Penh
+Phnom Penh
+H? Chí Minh city
+H? Chí Minh city
+Kaohsiung City
+Kaohsiung City
+Kaohsiung City
+Bang Kapi,Ratchathewi,Wattana,Khlong Toey,Damnoen Saduak,Pathum Wan,Huai Kwang
+Huai Kwang
+Hà N?i
+Hà N?i
+Hà N?i
+Koto,Edogawa
+Chiyoda
+Gadong
+Gadong
+Gadong
+Gadong
+San Francisco
+El Dorado
+Yashio,Soka
+Shinagawa
+Nakano,Edogawa
+Minato
+Sumida
+Adachi
+Minato,Narita
+Gianyar
+Cianjur,Jakarta Selatan
+Sepang,Shah Alam
+Edogawa,Nakano,Yokohama,Sumida,Shinjuku,Shibuya,Chiba,Chuo
+Melbourne - Inner
+Bass Coast  - Phillip Is.
+San Francisco,Marin
+San Francisco,San Mateo,Los Angeles,Orange
+Los Angeles
+Osaka
+Bunkyo
+Hà N?i
+Seodaemun
+Jongro,Seongdong
+Seongdong
+Yeoju,Jeongseon,Seongdong
+Melbourne - Inner
+Osaka
+Los Angeles
+Pathum Wan
+Bang Kho Laem
+Pathum Wan,Bang Plee
+San Francisco
+San Mateo
+San Francisco
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Taipei City
+Taipei City,Taipei
+Johor Baharu
+Hobart
+Hobart,Kingborough
+Port Phillip - West
+Stonnington - Prahran
+Maribyrnong
+Sydney - East
+Melbourne - Inner
+Petermann-Simpson
+Port Phillip - West
+Shanghai
+Siem Reab,Phra Nakhon
+Louangphrabang
+Badung,Gianyar
+Jung
+Clark
+Sacramento,San Mateo,Monterey,Santa Clara
+New York
+New York
+Clark
+Sydney - East,Cessnock,Blue Mountains
+Melbourne - Inner
+Mount Buller Alpine Resort
+Shibuya,Suginami
+Suginami
+Nakano
+Shibuya
+Bunkyo
+Kyoto
+Kyoto
+Musashino
+Clark
+Clark
+Setagaya
+Gianyar
+Badung
+San Diego
+Clark
+Stavanger
+Stavanger
+Randwick
+San Diego
+Orange
+San Diego
+San Diego
+Orange
+Riverside,San Bernardino
+Orange,Los Angeles
+Orange
+Los Angeles
+Osaka
+Shibayama
+Orange
+Los Angeles
+Los Angeles
+Koto,Edogawa
+Minato
+Alameda
+Alameda
+Alameda
+Alameda
+Orange
+Los Angeles
+Genève
+Minato
+Milano
+Shah Alam
+Suffolk,Middlesex
+New York
+New York
+New York
+Middlesex
+Jongro
+Bang Plee,Dusit,Bangkok Yai,Phra Nakhon,Siem Reab
+El Paso
+Jung
+Queens,Hudson
+Orange
+Queens,Prince George's
+Karlsruhe
+Melaka Tengah,Gombak
+Koto
+Goseong
+Jongro
+Jakarta Selatan,Badung,Kota Tangerang
+Badung
+Jung
+Jung,Yongsan,Seongdong,Gwang-jin
+Pathum Wan
+Jongro
+Seongdong
+Badung
+Shah Alam
+Sathorn
+Saint Louis
+Saint Louis
+Saint Louis
+Melaka Tengah,Shah Alam
+Johor Baharu
+Jakarta Pusat,Badung,Kota Tangerang
+Jakarta Pusat,Jakarta Selatan,Kota Tangerang
+Bentong
+H? Chí Minh city
+Shanghai
+Dalian
+Beijing
+Phra Nakhon,Bang Kho Laem
+Dalian
+Dalian
+Chuo
+Jung
+Suffolk
+New York
+Port Phillip - West
+Kuwana
+Taoyuan
+Pathum Wan,Hua Hin
+Pathum Wan
+Taipei City
+Eastland
+Eastland
+Eastland
+Eastland
+Batam
+Batam
+Batam
+Richmond
+Shah Alam
+Bladel
+Seine-et-Marne
+Siem Reab,Phnom Penh,Pathum Wan,Bang Rak,Khlong Toey
+Kuching
+Kyoto,Kobe
+Shah Alam
+Shah Alam
+Shah Alam
+Kuching
+Melaka Tengah
+Klang
+Clark
+Westminster
+Madrid
+Taipei City
+Taipei
+Shah Alam
+Jung
+Santa Clara
+Wien
+Wien
+Hà N?i,Don Muang,Bang Rak,Muang Chiang Mai,Siem Reab,Phra Nakhon,Pathum Wan
+Fthiotis
+Shah Alam
+Pathum Wan
+Siem Reab
+Gapyeong
+Port Phillip - West
+Jung
+Seo
+Jeonju
+Hillingdon
+Paris
+Osaka
+Chuo
+Clark
+Shanghai
+Cornwall
+Cornwall
+Beijing
+Taipei City
+Buk
+Jung
+Taipei City
+Stockholm
+Antwerpen
+Paris
+Ille-et-Vilaine
+Paris
+Barcelona
+Madrid
+Ullensaker
+Badung
+Khlong Toey
+Gianyar
+H? Chí Minh city
+Division No. 15
+San Francisco
+Jongro
+Osaka,Izumisano
+Cook
+Wattana,Pathum Wan,Sam Phran
+Pathum Wan
+Coimbra
+Dakota
+Aranyaprathet
+Aranyaprathet
+Aranyaprathet
+Pathum Wan
+Phra Nakhon
+Paris
+Yokohama
+Shibuya,Yokohama,Narita
+Narita
+Yokohama
+Minato
+Minato
+Edogawa
+Shibuya
+Edogawa
+Minato
+Nagoya,Gifu
+Nagoya
+Nagoya
+Siem Reab
+Bagmati
+Wuxi
+Beijing
+Salt Lake
+Davis
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Kings
+Kings
+Kauai
+Badung
+Badung
+Jongro
+Seodaemun
+Badung
+Shah Alam
+District of Columbia
+Orleans
+Harris
+Harris
+Los Angeles
+Hartford
+Denver
+Paris
+Willoughby
+Los Angeles,Central
+Fulton
+Jongro
+Shah Alam
+Puok,Siem Reab
+Siem Reab
+Division No. 9
+Badung
+Dinajpur
+Dinajpur
+Dinajpur
+Dinajpur
+Jongro
+Wang Noi
+Santafé de Bogotá
+Oberbayern
+Mittelfranken
+Genève
+Genève
+Pathum Wan,Phra Nakhon
+Muang Chiang Mai
+Toronto
+Toronto
+H? Chí Minh city,Siem Reab,Tây Ninh
+Los Angeles,Kern,San Diego
+Los Angeles
+Clark
+Clark
+San Diego
+Shanghai
+Paris
+Paris
+Paris
+Madrid
+Köln
+Shah Alam
+H? Chí Minh city
+London
+Johor Baharu
+Johor Baharu
+Randburg
+Bang Plee,Thon Buri
+Sathorn
+Haeundae,Suyeong,Busanjin
+Muang Chiang Mai,Mae Taeng,Samphantawong
+Roma
+Napoli,Viterbo
+Florence,Viterbo,Modena,Pisa,Venezia
+Savoie,Paris
+Paris
+Urasoe
+Chuo
+Baltimore
+Placer
+Knox - North-West
+San Mateo
+Shah Alam
+Shah Alam
+Gapyeong,Seodaemun,Haeundae
+Jongro
+Jung
+Kashiwa
+York
+York
+Phra Nakhon
+Phra Nakhon
+Pathum Wan
+Los Angeles
+Sathorn
+Monroe
+Miami-Dade
+Los Angeles,Hillsborough
+La Capital
+Jakarta Selatan,Jakarta Pusat
+Pathum Wan
+Los Angeles
+Los Angeles
+Clark,El Dorado
+San Francisco
+Izumisano
+Phra Nakhon
+Niagara
+New York
+New York
+Hillingdon,Westminster
+Paris,Westminster
+Greater Vancouver
+Greater Vancouver,Central Okanagan
+Jakarta Pusat
+Sakai
+Sakai
+Sakai
+Kyoto
+San Francisco
+San Andrés
+Wellington Point
+Upper Mount Gravatt
+Marsden
+Upper Mount Gravatt
+Badung,Gianyar
+Yongin
+Jongro
+Tigre
+King
+Shah Alam
+Bang Rak
+Santa Barbara
+Santa Barbara
+Paris
+Bruxelles
+Roma
+Amsterdam,Zürich,Barcelona,Paris,Roma,Bunnik
+Paris
+Amsterdam
+'s-Gravenhage,Paris,Madrid,Bruxelles,Roma,Amsterdam,Luzern
+Paris,Madrid,Amsterdam,Roma,Bunnik,'s-Gravenhage,,Barcelona,Luzern,Bruxelles,Narita,Taito
+Chiyoda,Hakone,Taito,Zürich,Luzern,Paris,Roma,Amsterdam,,Madrid,Bruxelles
+Paris
+Paris
+Paris
+Paris,Bruxelles
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Los Angeles,Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Orange
+Orange
+Hudson,New York
+Saint Lawrence,New York
+New York
+New York
+New York
+New York
+Loudoun,New York
+Los Angeles
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Loudoun
+Huai Kwang
+Santa Cruz,Alameda,Contra Costa
+Orange
+Clark
+Taipei City
+Taoyuan
+Taipei City
+Melaka Tengah
+Shinjuku,Fujiyoshida
+Gumi
+Siem Reab,Puok
+Pathum Wan
+Siem Reab
+Siem Reab,Phnom Penh,Dangkao,Puok
+Combined statistics
+Combined statistics
+Nymburk
+Praha 6
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Oslo
+Orleans
+Xiamen
+Xiamen
+Shibuya
+Taito,Minato
+Shibuya
+Jung
+H? Chí Minh city
+Beijing
+San Diego
+Barcelona
+Kyoto
+Kyoto
+Chuo
+Chiba
+Mito
+Funabashi,Taito
+Bunkyo
+Oyama
+Chiyoda
+Taipei City
+Taipei City
+Narita,Naha,Miyakojima
+Nagoya,Nishinomiya
+Narita
+Shinjuku
+Shibuya
+Timur Laut
+Kota Kinabalu
+H? Chí Minh city
+Melbourne - S'bank-D'lands
+Waverley,Sydney - Inner
+Paris
+Praha 1
+Praha 1,Praha 6
+Kulim
+Kemaman
+Kemaman
+Shah Alam
+Yan
+New York
+New York
+Middlesex,New York
+New York
+New York
+Queens
+New York
+H? Chí Minh city
+Khlong San,Chatuchak,Khlong Toey,Min Buri
+Phra Nakhon
+H? Chí Minh city
+Phra Nakhon
+Sathorn
+Shizuoka
+Campbell
+Nassau
+Nassau
+Nassau
+Kota Kinabalu
+Kota Kinabalu
+Shibuya
+Koto
+New York
+New York,Bronx,Bergen,Orange,Kings,Queens,Hudson
+Seodaemun
+Izumisano,Osaka
+Nakano,Chuo,Edogawa,Shibuya
+Narita,Shinjuku,Nakano
+Shah Alam
+Shah Alam
+Barat Daya
+Wiltshire,Edinburgh,Westminster
+Westminster
+Osaka
+Osaka
+Saint Louis
+Saint Louis
+Osceola
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Marion
+Cook
+Cook
+Saint Louis
+Maricopa,Los Angeles
+Los Angeles
+Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
+Montgomery
+Shibayama
+Northamptonshire
+Westminster,Camden
+Gwang-jin,Seodaemun
+Dong-daemun,Seodaemun
+Queens
+Toronto
+Niagara
+Ottawa
+New York
+New York
+Greater Vancouver
+Cook
+Sumida
+Kensington and Chelsea
+Camden,Westminster
+Tower Hamlets,Westminster
+Wiltshire
+Næstved
+Suså
+Suså
+Suså
+Tølløse
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Osaka
+Nakano
+Minato
+Århus
+Trehøje
+Silkeborg
+Århus
+Århus
+Århus
+Hirtshals,Hol
+Ramallah and Al-Bireh
+Ringsted
+Silkeborg,Århus
+Skive
+Århus
+Århus
+Århus
+Århus
+Alanya
+Skive
+Århus
+Århus
+Århus
+Århus
+Århus
+Århus
+Århus
+Århus
+Århus
+Århus
+Århus
+Trehøje
+Århus
+Berlin
+Århus
+Århus
+West Torrens - West
+Central,Domodedovskiy rayon,North-Eastern,North-Western,Sankt-Peterburg gorsovet,Uusimaa
+Uusimaa,Haarlemmermeer
+Haarlemmermeer
+Sankt-Peterburg gorsovet
+Central,Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Hawaii
+Hawaii
+Honolulu
+Honolulu
+Honolulu,Hawaii
+Honolulu
+Muang Chiang Mai
+San Sai,Muang Chiang Mai,Bang Plee
+Suwon,Yongin,Mapo
+Chiyoda,Ichihara,Koto,Shibuya,Sumida,Taito
+Edogawa
+Edogawa,Taito
+Shah Alam
+Surrey
+Kepulauan Riau
+Kepulauan Riau
+Sydney - Inner,Sydney - South,Manly
+Rockdale
+Sydney - Inner
+Jongro,Gangseo,Goyang,Seongdong,Seocho,Jung,Yongin,Paju
+Osaka
+Lismore - Pt B
+Gallatin
+Shah Alam
+H? Chí Minh city
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Casey - South,Casey - Berwick,Banyule - Heidelberg
+Darebin - Preston,Melbourne - Inner,Banyule - Heidelberg
+Melbourne - Inner
+Sydney - Inner
+Sydney - Inner
+Newcastle - Inner City
+Main Beach-South Stradbroke
+Warringah
+Manly
+Mosman
+South Brisbane
+Oost-Vlaanderen
+Sarasota
+Orange
+Orange
+Orange
+Badung
+Chiba
+Chiba,Chuo,Shibuya
+Chiba
+Rieti
+Bang Rak,Pathum Wan
+Bang Rak
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Bình Thu?n
+Sepang,Miri
+Sepang
+Sepang
+Sepang
+Shah Alam
+Sepang
+Khlong Toey,Bang Plee,Din Dang,Prakanong,Phra Pra Daeng,Phra Nakhon,Pathum Wan
+Orange
+Seodaemun
+Osaka
+Shah Alam
+H? Chí Minh city
+Kaohsiung
+Botum Sakor
+Khánh Hòa
+Ð?k L?k
+H? Chí Minh city,Ð?k L?k,Qu?ng Nam
+H?i Phòng
+Sutherland Shire - East
+Rockdale
+Berlin
+Amsterdam
+Amsterdam
+Almere
+Amsterdam
+Nijmegen
+Amsterdam
+Roma,Baleares
+Beyoglu
+Shevchenkivs'kyi
+Pazardzhik,Sarajevo
+Herzegovina-Neretva,Nesebar
+Seget
+Pag
+Primoten,Pula
+Rovinj
+Palilula
+Salzburg
+Amsterdam
+Sutherland Shire - East
+Sutherland Shire - East
+Randwick
+Sutherland Shire - East
+Queenstown-Lakes
+Manchester
+Manchester
+Manchester
+Manchester
+Manchester
+Manchester
+Manchester
+Manchester
+Manchester
+San Mateo
+Solano
+San Francisco
+H? Chí Minh city,Phnom Penh
+Johor Baharu
+Macomb
+Gr. Dandenong Bal
+Gr. Dandenong Bal
+Melbourne - S'bank-D'lands
+Shah Alam
+H? Chí Minh city
+Amsterdam,Roermond,Waterland
+Jongro
+Greater Vancouver,King
+Greater Vancouver
+Greater Vancouver
+Shah Alam
+Santa Clara,Alameda
+Santa Clara,San Francisco
+Harrison
+Harrison
+Suffolk,New York,Bergen
+Salem
+Orange
+Puok,Siem Reab
+Siem Reab,Puok,Shah Alam
+Siem Reab,Shah Alam
+Kathu
+Beijing
+Beijing
+Los Angeles,Orange
+Los Angeles
+Siem Reab
+Siem Reab
+Essex
+De Kalb
+De Kalb,Dupage,Cook
+Dupage,Arlington
+Arlington
+Muang Chiang Mai
+Marrakech,Al Haouz
+Zaragoza
+Roma
+Suffolk
+New York
+New York
+Pelgrimsrus
+Himeji
+Himeji
+Hiroshima
+Minato,Taito
+Koto
+Nikko
+Nikko
+Nikko
+Nikko
+Nikko
+Nikko
+Bang Pa-In
+Siem Reab
+Kobe,Osaka
+Kobe
+Osaka
+Málaga,Cantabria
+New York
+New York
+New York
+Hudson
+New York
+New York,Hudson
+Bexar
+Bexar
+Erie
+King
+Horry,Clark
+Taupo
+Sydney - Inner
+Nakano,Shibuya,Minato,Edogawa
+Pathum Wan
+Hume - Craigieburn,Port Phillip - West
+Sydney - Inner
+Middlesex
+Middlesex
+Middlesex
+Hakone
+Phra Nakhon
+Jongro,Jung
+Taipei City
+Taipei City
+Santa Barbara
+Sigtuna,Beijing
+Kiruna
+Kiruna
+Kiruna
+Kiruna
+Kiruna
+Kiruna
+Kiruna
+Gällivare
+Beijing
+Sigtuna
+Ringerike
+Munkedal
+Ringerike
+iauliu
+Oslo
+Lane
+Canterbury
+Xiamen
+Xiamen
+Santa Clara,San Francisco
+Los Angeles
+Ventura
+San Francisco
+Clark
+Bang Rak,Pathum Wan,Phra Nakhon,Ratchathewi
+Osaka,Kyoto
+Kyoto,Osaka
+Kobe,Nishinomiya
+Osaka
+Jongro
+Seodaemun
+Bang Rak
+Khlong Toey
+Pathum Wan
+Bang Rak
+Bang Rak
+Robina
+Stavanger
+Lesvos
+Sankt-Peterburg gorsovet
+Westminster
+Innsbruck,Roma,Padua
+Roma
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Greater Vancouver
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Sydney - Inner
+Sydney - Inner
+Toronto
+Toronto
+Gapyeong
+Oberbayern
+Johor Baharu
+Seongbuk,Gwang-jin,Seongdong
+Jongro
+Johor Baharu
+Minato
+Yamanouchi
+Westminster,Brent
+Jakarta Selatan,Jakarta Timur,Jakarta Pusat
+Siem Reab
+Jung
+Jongro
+Jung
+Taipei City
+Suwon
+Jung
+Suwon
+Virginia Beach
+Virginia Beach
+Virginia Beach
+Virginia Beach
+Virginia Beach
+Jefferson
+Jefferson
+Jefferson
+Los Angeles,Orange
+Los Angeles
+Los Angeles
+New York,Placer
+San Francisco
+San Mateo
+Toshima
+Seodaemun,Icheon
+H? Chí Minh city
+H? Chí Minh city
+Arlington
+Badung,Tabanan
+Taipei City
+Taipei City
+Sollentuna
+Sollentuna
+Sollentuna
+Combined statistics
+Sollentuna
+Sollentuna
+Sollentuna
+Cyclades
+Yvelines
+Barcelona
+Siem Reab
+Rio de Janeiro
+Distrito Federal
+Distrito Federal
+San Mateo
+San Mateo
+Santa Clara
+Washoe
+San Mateo
+Muang Phuket,Don Muang,Bang Rak
+Sanya
+Beijing
+Kyoto,Kobe
+Osaka
+Guangzhou
+Guangzhou
+Guangzhou
+Guangzhou
+Tarrant
+Tarrant
+Suffolk
+Tarrant
+Tarrant
+Tarrant
+Attica
+Dodecanese
+Dodecanese
+Attica
+Phra Nakhon
+Jongro
+Surrey
+Richmond upon Thames
+H? Chí Minh city
+Siem Reab
+Bình Thu?n
+Allegheny
+Shah Alam
+Westminster
+Oberbayern
+Hillingdon
+Combined statistics
+Guangzhou
+Siem Reab
+Manchester,Merseyside,London,Westminster
+Westminster,Wandsworth,Merton,Camden,Manchester
+Chiyoda,Taito
+Shah Alam
+Jongro
+Jongro,Paju
+Jongro
+Jongro
+Jongro
+Shah Alam
+San Francisco,San Mateo,Santa Clara
+Los Angeles
+Los Angeles
+Darmstadt
+H? Chí Minh city
+Peel
+Beijing
+Beijing
+Shanghai
+Shinagawa,Oyama
+Rockdale,Sydney - Inner,Waverley,Blue Mountains,Blacktown - South-East
+Surfers Paradise
+Oxenford-Maudsland,Botany Bay
+Los Angeles
+Los Angeles,San Francisco
+El Dorado
+Los Angeles
+New York
+District of Columbia
+Shanghai
+Beijing
+Jongro
+Shinjuku,Edogawa,Osaka
+Osaka
+Paris
+Milano,Venezia,Florence
+Roma
+Lecce,Paris
+Praha 1
+Wien
+Wien
+Ritto
+Ratchathewi,Lak Si,Sam Phran
+Collier
+Orange,Lee
+Collier
+Collier
+Hillsborough
+Orange
+Miami-Dade,Collier
+Miami-Dade
+Duval
+Collier
+Orange
+Los Angeles
+Orange
+Orange
+Collier
+Riverside
+Miami-Dade
+Los Angeles
+Orange
+Shenzhen
+Beijing
+Beijing
+Beijing
+Ratchathewi,Pathum Wan
+Pathum Wan
+Bang Na
+Pathum Wan
+Clark
+Honolulu
+Honolulu
+Philadelphia,New York
+Philadelphia
+Greater Vancouver,San Diego
+Greater Vancouver
+Division No. 15
+Paris
+Barcelona
+Barcelona
+Paris
+Osaka,Kyoto
+Attica,Cyclades
+Mapo,Seodaemun
+Casey - Berwick
+Nakano,Taito,Shibuya
+Siem Reab
+Siem Reab
+Zushi
+Kyoto,Osaka
+Shah Alam
+Shanghai
+Pak Kret,Huai Kwang,Ratchathewi,Phra Nakhon,Khlong San,Bang Rak
+Bang Plee
+Southwark,Westminster,Camden
+Paris
+Paris
+Barcelona
+Florence
+Roma
+Roma
+Wien
+Praha 1
+Berlin,Darmstadt
+Roma
+Yongsan
+Wonju
+Wonju
+Gangneung
+Yongin
+Osaka
+Dalian
+Phnom Penh
+Yogyakarta
+Narita,Chuo,Nakano
+Ko Samui
+Berlin
+Berlin
+Tallinn
+Tallinn,Uusimaa
+Stockholm,Uusimaa,Tallinn
+Tallinn,Uusimaa,Shah Alam,Ko Phangan
+Tallinn,Uusimaa,Ko Phangan
+Tallinn,,Phra Nakhon,Muang Chiang Mai,Muang Chiang Rai,Ko Phangan,Ko Samui
+Phra Nakhon,Ko Samui,Darmstadt
+Muang Nong Khai,Muang Mukdahan
+K. Ko Kut,K. Ko Chang
+Bang Lamung,Phra Nakhon
+Phra Nakhon,Uusimaa
+Shah Alam,Berlin
+Khan Na Yao
+Badung
+Badung
+Kepulauan Riau
+Siem Reab
+Siem Reab,Prasat Bakong
+Yangon-W,Taunggye
+Taunggye
+Myingyan
+Sepang
+Phra Nakhon,Sathorn,Bang Plee
+Shah Alam
+Warsaw
+Warsaw
+Warsaw
+Boikin-Dagua Rural
+San Francisco
+Jongro
+Gangnam
+Jung
+Yongin
+Jongro
+Napa,San Francisco
+Clark,Los Angeles
+Alameda,Santa Clara,Clark
+Clark
+Clark,Travis
+Clark,Skamania,King
+Contra Costa,Alameda
+Kathu
+H? Chí Minh city,Ti?n Giang
+Los Angeles,Clark
+Clark
+Clark,Alameda
+Sathorn,Pathum Wan,Ratchathewi
+Toronto,Peel
+Peel,York,Grey,Toronto
+Beijing
+Clark,San Bernardino,Orange,Los Angeles,Mohave
+Chiyoda,Shibuya,Chuo,Minato,Edogawa,Taito
+Osaka,Kyoto
+Central,Western,Northern,Sankt-Peterburg gorsovet,Solnechnogorskiy rayon
+Beijing
+Clark
+Clark
+Contra Costa,Sonoma
+Contra Costa
+Sonoma
+Westminster,London,Berkshire,Buckinghamshire,Kensington and Chelsea,West Sussex,Southwark,Paris,Hauts-de-Seine
+London,Westminster,Camden,Paris
+Hertfordshire,Haringey,Hounslow,Buckinghamshire
+New York
+New York
+Clark
+San Bernardino,Clark
+Badung,Gianyar
+Badung
+Gianyar
+Zhuzhou
+Casablanca
+Casablanca,Marrakech
+Attica,,Roma,Paris,Yvelines
+Paris,Attica,Roma
+Paris
+Bang Rak,Thon Buri,Ratchathewi,Chatuchak
+Westminster,Genève,Seongbuk
+Paris
+H? Chí Minh city,Phnom Penh
+Siem Reab
+Chiyoda
+Shinjuku,Nakano,Shobu,Edogawa
+Kamakura,Shibuya
+Narita
+Taipei City
+Yangon-N
+Shah Alam,Yangon-W
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner,Manly,Port Phillip - West
+Westminster
+Oberbayern
+Melk
+Oberbayern
+Camden
+Westminster
+Bang Lamung
+Bang Lamung
+Bang Kho Laem,Pathum Wan
+H? Chí Minh city
+Capital
+Tomisato
+Yüregir
+Gombak,Shah Alam
+San Diego
+Los Angeles
+Los Angeles
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego,New York
+San Diego
+San Diego
+San Diego
+Taipei City
+Toronto
+H? Chí Minh city
+Taoyuan,Nantou,Taipei City
+Nantou
+Phra Nakhon,Ratchathewi
+Beijing
+Álava
+Vizcaya,Álava,Alpes-Maritimes
+Alpes-Maritimes
+Álava
+Álava
+Guadalajara
+Guadalajara,Madrid
+Nagoya
+Los Angeles
+Riverside
+Los Angeles,Orange
+Siem Reab
+District of Columbia
+Pathum Wan
+Santa Clara
+San Diego
+Palermo
+Ko Phangan
+Clark
+Clark
+Los Angeles
+Pathum Wan,Chatuchak
+Taito,Chuo,Kawasaki,Edogawa,Osaka
+Pathum Wan
+Casablanca
+Casablanca
+Madrid,Barcelona,Roma
+Florence
+Osaka
+Chiba
+Osaka
+Himeji
+Osaka
+Santa Clara
+Odes'ka
+Weser-Ems
+Harris
+Bexar
+Attica
+New York
+Queens
+New York
+New York
+New York
+Nassau
+Nassau
+Nassau
+Jung,Seodaemun,Jongro,Seongbuk,Dobong,Hwacheon,Chuncheon
+Siem Reab
+New York
+New York
+Middlesex
+Ocean,Philadelphia
+Cameron
+Clark
+Clark
+Los Angeles
+Los Angeles
+Jongro
+Nakano
+Narita
+Toronto
+Taipei City
+Taipei City
+Badung,Bangli
+San Bernardino
+San Bernardino
+New Haven,Hartford,San Francisco
+San Bernardino
+Madrid
+Madrid,Lisboa
+Lisboa
+Rabat
+Lisboa
+Atlantic,Burlington
+Mafra
+Seixal
+Roma
+San Mateo,Santa Clara,San Francisco
+San Francisco
+San Francisco,San Mateo
+Xiamen
+Xiamen
+Fresno
+Clark
+San Diego
+Negombo
+Kianggeh
+Colombo
+New York
+Colombo,Kaduwela
+Nuwara Eliya
+Colombo
+Berakas A,Gadong
+New York
+Orange,Queens,District of Columbia
+Montgomery,District of Columbia,Anne Arundel
+Colombo
+King
+District of Columbia,Montgomery
+Orange
+Thimbirigasyaya
+Holmsland,Billund
+Combined statistics
+Combined statistics
+Baltimore
+Kianggeh
+Colombo
+Los Angeles
+Los Angeles
+Berakas A
+Colombo
+Colombo
+King
+Los Angeles
+San Diego
+San Diego
+Los Angeles
+Dambulla
+N. Palatha Central
+Colombo
+Honolulu
+Honolulu
+Los Angeles
+Orange,Los Angeles
+Colombo
+Dhaka
+Prince George's
+Prince George's
+Enfield
+Enfield
+Enfield
+Enfield
+Enfield
+Thessaloniki
+Phra Nakhon
+Jongro
+Los Angeles
+Tarragona
+Tarragona
+Barcelona
+Barcelona
+Baleares
+Girona
+Central,Barcelona
+Central
+Girona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Somerset
+Somerset
+Richmond upon Thames
+Division No. 15
+Shibayama,Nassau,New York
+Nassau,New York
+New York,Nassau,Queens
+Nassau,New York
+New York,Nassau,Ocean
+New York,Nassau
+Nassau
+Nassau
+Nassau
+Morris,Nassau,New York
+Nassau,New York
+Nassau
+Nassau
+New York,Suffolk,Nassau
+Nassau
+Nassau
+New York,Nassau
+Nassau
+New York
+New York
+New York,Kings
+New York
+Kings
+Kings,New York
+Kings
+Nassau
+Camden,Islington
+Camden
+Greater Vancouver
+Greater Vancouver
+Yogyakarta,Sleman
+Jongro
+Yongin
+Jongro
+Khlong Toey
+Lancashire
+Lancashire
+Manchester
+Manchester
+Lancashire
+Manchester
+Flintshire
+Lancashire
+Lancashire
+Lancashire
+Lancashire
+Lancashire
+Lancashire
+Manchester
+Shah Alam
+Bang Lamung
+Beijing
+Muang Phuket
+Greater Vancouver
+Fraser Valley
+Honolulu
+Honolulu
+Honolulu
+Osaka,Kyoto
+Kota Bandung,Bandung
+Orange
+Orange,San Bernardino
+Orange
+Taoyuan
+Kota Bandung,Bandung
+Kota Bandung
+Bandung,Kota Bandung,Badung
+Badung,Bandung,Kota Bandung
+Kota Bandung
+Kota Bandung
+Kota Bandung,Bandung
+Kota Bandung,Jakarta Pusat,Jakarta Selatan
+Bandung,Kota Bandung
+Kota Bandung
+Badung,Kota Bandung,Denpasar,Gianyar,Kota Tangerang
+Kota Tangerang,Jakarta Selatan,Kota Bandung,Bandung,Jakarta Pusat
+Bandung
+Kota Bandung
+Kota Tangerang
+Bandung,Kota Bandung
+Kota Bandung,Jakarta Utara,Jakarta Pusat
+Kota Bandung
+Kota Bandung
+Kota Bandung
+Kota Bandung
+Kota Bandung
+Jakarta Selatan,Kota Bandung
+Kota Bandung
+Kota Bandung,Bandung
+Bandung
+Kota Bandung
+Bandung
+Kota Bandung
+Bandung
+Kota Bandung,Bandung
+Badung,Surabaya,Gianyar
+Yogyakarta,Sleman,Bantul,Gunung Kidul,Pacitan
+Kota Bandung,Bandung
+Kota Bandung
+Kota Bandung
+Kota Bandung,Jakarta Pusat
+Kota Bandung
+Kota Bandung
+Kota Bandung
+Kota Bandung
+Bandung
+Yogyakarta
+Sokcho
+Bandung
+Kota Bandung
+Batu
+Kota Bandung
+Sorocaba
+Maués
+Maués
+Maués
+Maués
+Fujikawaguchiko,Toyohashi,Osaka
+Pathum Wan
+Bung Kum
+Beijing
+Beijing
+Matn
+Oberbayern
+Westminster
+San Bernardino
+San Francisco
+Sonoma
+Santa Clara,Napa
+Luzern
+Sonoma
+La Paz
+Peel,Beijing
+Beijing
+Toronto,Peel
+Peel
+Dupage,Kane,Cook,Erie
+Peel
+Toronto
+Jung
+Yeongdeungpo
+Whitehorse - Box Hill
+Melbourne - S'bank-D'lands
+Melbourne - S'bank-D'lands
+Paris
+Seine-et-Marne,Paris
+Seine-et-Marne
+Shanghai
+San Mateo
+Hume - Craigieburn,Melbourne - Inner
+Glen Eira - Caulfield
+Sydney - Inner
+Jongro,Gapyeong,Seodaemun
+Siem Reab
+Siem Reab
+Gapyeong,Yongin,Jung,Seongdong
+Shah Alam
+Muang Krabi
+Los Angeles
+Sydney - East
+Uiseong
+Hudson
+Taipei City
+Duval
+Phra Nakhon,Ko Samui,Pathum Wan,Bang Plee
+Pathum Wan,Phra Nakhon,Khlong Toey,Ko Samui
+Phra Nakhon
+Pathum Wan,Phra Nakhon,Khlong Toey
+San Diego
+San Diego
+San Diego
+Clark
+Clark
+San Diego
+Dare
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Los Angeles
+Los Angeles
+Greater Vancouver
+East Godavari
+Chuo,Hakone
+Los Angeles
+Jung
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Westminster,Southwark
+Westminster
+Miami-Dade
+Bang Plee
+Shanghai
+Maricopa
+Los Angeles
+Maricopa
+Maricopa
+Clark
+Maricopa
+Los Angeles
+Los Angeles
+Maricopa
+Maricopa
+Los Angeles
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Los Angeles
+Maricopa
+Coconino
+Maricopa
+Coconino
+Maricopa
+Los Angeles
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Maricopa,New York,Middlesex,Atlantic,Salem,New Castle,Arlington,District of Columbia,Queens
+Mohave,District of Columbia,Clark
+Los Angeles,Orange,Maricopa
+New York
+New York
+Sathorn
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Clark
+Los Angeles
+Westminster
+Paris
+Barcelona
+Jongro
+Jongro
+Pathum Wan,Phra Nakhon
+Pathum Wan
+Madison
+Madison
+Teton
+Teton
+Teton
+Gallatin,Clark
+Cumbria
+Tower Hamlets
+Lehigh
+Baltimore
+New York
+Jongro,Songpa
+Jongro,Jung
+Olmsted
+Hennepin,Olmsted
+Olmsted
+Olmsted
+H? Chí Minh city,Lâm Ð?ng
+Jongro
+Jongro
+Jakarta Timur
+Rotterdam
+Paris
+Paris
+Rotterdam
+Haarlemmermeer,Venezia
+Haarlemmermeer,Rotterdam,Amsterdam
+Darmstadt
+Merseyside,London,Westminster
+Paris
+Florence
+Milano
+Samarinda
+Pingtung
+Parkes
+Wayne,Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier,Bath
+Greenbrier
+Greenbrier
+Alleghany
+Greenbrier
+Bath
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Monroe,Greenbrier
+Raleigh,Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Montgomery
+Montgomery
+Greenbrier
+Raleigh
+Greenbrier
+Montgomery
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Greenbrier
+Bergen,New York
+Riverside
+Riverside
+Los Angeles
+Los Angeles,Fresno
+Hà N?i
+Los Angeles
+Orange
+Los Angeles,Orange
+Los Angeles
+San Diego
+Alameda
+Honolulu
+Honolulu
+Honolulu
+Pathum Wan
+Haeundae
+Kepulauan Riau
+Melbourne - Inner
+Colac-Otway - South
+Melbourne - S'bank-D'lands
+Kinshasa
+Kinshasa
+Kinshasa
+Kinshasa
+Kinshasa
+Kinshasa
+Hà N?i
+Edogawa
+Minato
+Edogawa
+Shah Alam
+Numazu
+Chengdu
+Shinagawa
+Manchester
+Phra Nakhon
+Greater Vancouver
+Sussex
+Minato
+Stonnington - Prahran
+Stonnington - Prahran
+Port Phillip - West
+Melbourne - S'bank-D'lands,Moreland - Brunswick
+Sepang
+Sepang
+Johor Baharu
+H? Chí Minh city
+Johor Baharu
+Minato
+Westminster
+Paris
+Florence
+Florence
+Paris
+Kensington and Chelsea
+Yangon-E
+Yangon-W
+Pekan Baru
+Haeundae,Gangnam,Jongro,Eun-pyeong
+Gyeyang
+Westminster,Paris
+Paris,Roma
+Roma
+Venezia
+Schwaben,Köln
+Amsterdam
+Westminster,Roma,Tower Hamlets
+Contra Costa
+Taipei City
+Haman
+Jeju
+H? Chí Minh city
+Siem Reab
+Siem Reab
+Caboolture  - East
+Surfers Paradise,South Brisbane,Robina,Upper Mount Gravatt,City - Remainder
+South Brisbane
+City - Inner
+Chandler-Capalaba West
+Port Phillip - West,City - Inner
+Moonee Valley - Essendon,Pinkenba-Eagle Farm,Carindale
+Randwick
+Blue Mountains
+Jongro
+Surfers Paradise
+Pathum Wan
+Siem Reab
+Hillingdon,Westminster
+Brighton and Hove
+Peel
+Halton
+Division No. 8
+Toronto
+Suginami
+San Mateo
+Los Angeles,Orange
+San Mateo
+San Mateo
+San Mateo
+San Mateo
+Khánh Hòa,Ð?ng Nai,H? Chí Minh city
+Warringah
+Warringah
+Warringah
+Ryde
+Sydney - Inner,Warringah
+Sydney - Inner
+Sydney - Inner
+Rockland
+Bergen
+Queens
+New York
+New York
+Rockland
+Rockland
+H? Chí Minh city,Don Muang,Khlong Toey
+Urasoe
+Chatan
+Okinawa
+Kitanakagusuku
+Kathu
+Edam-Volendam
+Amsterdam
+Taoyuan,Hsinchu,Nantou,Taichung City,Kaohsiung City,Kaohsiung,Hualien,Taipei City,Taipei
+Vinh Long,H? Chí Minh city
+Shanghai
+Toyohashi,Hakone,Fuefuki,Minato,Yamato,Nakano,Edogawa
+Xi'an
+Beijing
+Placer
+Placer
+Placer
+Sacramento
+Sacramento
+Placer
+Dorset
+Phuttha Mon Thon
+New Castle
+New York
+Beijing
+Port Phillip - West,Melbourne - Inner
+Melbourne - Inner
+Melbourne - S'bank-D'lands
+Mornington P'sula - South
+Melbourne - Inner
+Sydney - Inner,Melbourne - S'bank-D'lands
+Amsterdam
+Knox - North-West,Knox - South
+Los Angeles,Orange
+Westminster,Camden
+Camden
+Tyne and Wear,Scottish Borders
+Falkirk,Edinburgh
+Merseyside
+Wiltshire,Camden
+London,Tower Hamlets,Camden
+Camden
+Khlong Toey
+Kota Kinabalu
+Phnom Penh
+Sathorn
+Shah Alam
+Shah Alam
+Shah Alam
+Botany Bay,Warringah,Liverpool - East,Sydney - Inner,Campbelltown  - South
+Sydney - Inner
+Gombak
+Botany Bay
+Sydney - Inner
+Botany Bay
+Sydney - Inner
+Phnom Penh
+Kent
+Medan
+Karimun
+Ambon
+Gwang-jin
+Surabaya
+Gianyar
+Melbourne - Inner
+Hobsons Bay - Altona,Melbourne - Inner
+Melbourne - S'bank-D'lands
+Port Phillip - West
+Hobsons Bay - Altona
+Port Phillip - West
+Stonnington - Prahran
+Hobsons Bay - Altona
+Izumisano
+Osaka,Kobe,Kyoto,Edogawa
+Edogawa,Narita,Haeundae,Gangseo
+Taipei,Taipei City
+Taichung City
+Washer
+Daman
+Washer
+Washer
+Osaka
+Osaka,Izumisano
+Bunkyo,Minato,Koto
+Oberbayern,Salzburg
+Budapesti
+Wien
+Sydney - Inner,Botany Bay
+Surfers Paradise
+Melbourne - S'bank-D'lands
+Osaka
+Osaka
+Osaka
+Edogawa
+Shah Alam
+Jakarta Pusat
+Siem Reab
+Cook
+York
+York
+New York
+Alameda
+Napa,San Francisco
+San Francisco
+Contra Costa
+Napoli
+Paris
+Paris
+Paris
+Shenzhen
+Los Angeles
+Waukesha
+Milwaukee
+Barnstable
+Paris
+Newham
+Köln
+Köln
+Beijing
+Guangzhou
+Minato
+Saitama
+Taipei City
+Meguro
+Shanghai
+Kyoto
+San Francisco
+Seodaemun
+Shah Alam
+Ocean
+Koshigaya
+Orange
+Jongro
+Sepang
+Sydney - Inner
+Sydney - Inner
+Shah Alam
+Jongro,Jung,Gimpo,Seongdong
+Jongro,Seongdong
+Jongro
+Puok,Siem Reab,Svay Leu
+Siem Reab
+Taipei City,Taipei
+Taipei City,Keelung City
+Taipei
+Badung,Tabanan
+Badung
+Hautes-Pyrénées,Burgos,Ourém,Ávila
+Barcelona,Pisa,Roma
+Roma
+Paris
+New York
+Westchester
+New York
+New York
+New York
+Ritto
+Lake
+Cook
+Lake
+New York
+Los Angeles
+Jongro
+Los Angeles
+Los Angeles
+Jung,Riverside
+Riverside
+Los Angeles
+Los Angeles,San Francisco
+Los Angeles,San Francisco
+Los Angeles
+Jung
+San Diego
+San Diego
+San Diego
+Ratchathewi
+Johor Baharu
+Pathum Wan
+Ratchathewi
+Venezia
+Venezia,Florence
+Roma
+Roma
+Osaka
+Osaka
+Narita
+H? Chí Minh city
+H? Chí Minh city
+Pathum Wan
+Phra Nakhon
+Osaka
+Kusatsu
+Blacktown - South-East
+Blacktown - South-East
+Blacktown - South-East
+Parramatta - North-West
+Blacktown - South-East
+Parramatta  - Inner
+Penrith - East
+Sydney - West
+Yarra - Richmond
+Port Phillip - West
+Port Phillip - West,Melbourne - Inner
+Melbourne - S'bank-D'lands
+Yarra - North
+Cook
+Cook
+Cook
+Cook
+Yongin
+Sorocaba
+Fukuoka
+New York
+DeKalb
+District of Columbia
+District of Columbia
+King
+Fulton
+Charleston
+DeKalb
+DeKalb,Wayne
+Ratchathewi
+Division No. 6
+Division No. 6
+Division No. 6
+Bình Thu?n
+Muang Phuket
+Shah Alam
+Østre Toten
+Drammen,Bergen
+Stockholm,Combined statistics
+Jung
+Ventura
+Los Angeles
+Ventura
+Contra Costa
+Akureyri
+Kenosha,New York
+Honolulu
+Los Angeles
+Kakamigahara
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Barcelona
+Barcelona
+Barcelona
+Lake Hurron
+Muang Rayong
+Sathorn
+Toronto
+Toronto
+Toronto
+Santa Catarina Pinula,ZONA 7
+Mixco
+ZONA 11
+ZONA 10
+ZONA 1
+ZONA 9
+Orange
+Chuo
+Taito
+Howard
+Howard
+Greenbrier
+Shah Alam
+Berlin
+San Francisco
+King,Dhaka
+Bang Su
+Horry
+Pathum Wan,Siem Reab
+Phra Nakhon,Bang Plee
+Badung
+Tbilisi
+Tbilisi
+Tbilisi
+San Francisco
+Ranau
+Sydney - Inner,Mosman
+Jongro,Yongin
+Orange
+Caboolture - Midwest
+Caboolture - Midwest
+Jongro
+Muang Pathum Thani
+Bang Khen
+Seongbuk
+Nassau
+Camden
+Broward
+Los Angeles
+San Mateo
+Paris
+Los Angeles
+Kensington and Chelsea,New York
+Waterloo
+Nakano
+Rio de Janeiro
+New York
+Los Angeles
+Los Angeles
+La Plata,Clark
+Orange
+Sepang,Shah Alam
+Lat Krabang,Khlong Toey,Pathum Wan
+Phra Nakhon
+Sepang,Shah Alam
+Shah Alam,Johor Baharu
+Pathum Wan
+King
+Torino
+Los Angeles
+Alameda
+San Francisco
+San Francisco
+San Francisco
+Santa Clara
+San Mateo
+San Mateo
+San Mateo
+San Francisco
+Santa Clara
+Seongbuk,Jung
+Seongbuk
+Jung
+Taoyuan
+New York,Greater Vancouver
+Greater Vancouver,King
+Greater Vancouver
+Squamish-Lillooet
+Cowichan Valley
+Greater Vancouver
+Greater Vancouver
+New York
+New York
+Warren
+New York
+Kings
+New York,Schoharie
+Schoharie
+Warren
+Warren
+Suffolk,Middlesex
+New York
+New York
+Clark
+Los Angeles,Clark
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Division No. 11
+Division No. 6
+Division No. 6
+Division No. 6
+Division No. 6
+Niagara
+Toronto
+Jongro
+Jongro
+Multnomah,King
+San Francisco
+Los Angeles
+King
+Seongdong
+Ottawa,Communauté-Urbaine-de-l'Outaouais
+Bülach
+Ljubljana
+Hiroshima
+Osaka,Kyoto,Bunkyo,Edogawa,Sumida,Koto
+Siem Reab
+Nowon,Jongro
+Jongro,Mapo,Chuncheon,Goseong,Sokcho
+Shah Alam
+Sepang,Shah Alam
+Sepang
+Shah Alam
+Sepang
+Shah Alam,Sepang
+Shah Alam
+Sepang,Shah Alam
+Sepang,Shah Alam
+Sepang,Shah Alam
+Sepang,Shah Alam
+Sepang
+Shah Alam
+Sepang
+Shah Alam
+Sepang
+Kathu
+Seria
+Seria
+Badung,Denpasar,Tabanan,Bangli,Gianyar,Surabaya
+Rangareddi
+Mapo
+Jung
+Jongro,Gapyeong
+H? Chí Minh city
+Siem Reab
+Bangalore Urban
+Shah Alam
+Shah Alam
+Ansoeng
+Boryeong
+Boryeong
+Boryeong
+Boryeong
+Boryeong
+Boryeong
+Boryeong
+Boryeong
+Boryeong
+Boryeong
+Bantul,Yogyakarta
+Phra Nakhon
+Phra Nakhon
+Phra Nakhon
+Orange
+Jakarta Pusat
+Jakarta Pusat
+Shah Alam
+Koto,Chuo
+Kyoto,Chuo
+Toronto
+Toronto,Peel
+York,Peel
+Toronto
+Peel,Communauté-Urbaine-de-Québec
+Niagara
+Communauté-Urbaine-de-Québec
+San Mateo
+San Francisco
+Solano
+King
+Los Angeles
+Los Angeles
+King
+Val-d'Oise
+Darmstadt
+Kollumerland c.a.
+Sepang
+Narita
+Salt Lake
+Salt Lake
+Salt Lake
+Summit
+Salt Lake
+Salt Lake
+Salt Lake
+Luton
+Luton
+Richmond
+Richmond
+New York
+Bronx
+New York
+New York
+Bronx,Westchester
+Bronx
+Bronx
+Narita
+Beijing
+Jung,Seodaemun,Paju,Jongro,Seongbuk
+Johor Baharu
+Los Angeles,San Diego,Kane,Cook
+San Francisco
+San Francisco,San Mateo,Alameda,Santa Clara,Los Angeles
+Beijing
+Jakarta Pusat
+Alameda,Contra Costa
+Santa Clara,Duval
+Duval
+Duval
+Duval,Nassau
+New York
+New York,Middlesex
+Suqian,Los Angeles
+Los Angeles
+Clark
+Orange
+Los Angeles
+Los Angeles
+Surf Coast - East
+Jung
+Paris
+Florence
+Florence
+Los Angeles
+Los Angeles,Orange
+San Joaquin
+San Diego
+Shah Alam
+Jongro,Seongbuk,Yongsan
+Osaka
+San Diego
+Val-d'Oise
+Adelaide
+Kensington and Chelsea,Hammersmith and Fulham
+Narita
+Taoyuan
+Mendrisio,Milano
+Taoyuan
+Seine-Saint-Denis,Val-d'Oise
+Kings,New York,Bergen
+'s-Gravenhage
+Melbourne - Inner
+Randburg
+San Francisco
+Caserta
+Greater Vancouver
+Nagoya
+San Francisco,San Mateo
+San Mateo,El Dorado
+San Mateo,Santa Clara
+Hammersmith and Fulham
+Narita,,Taoyuan
+Pathum Wan
+Sydney - Inner
+Pisa
+Waitakere
+Sydney - West,Sydney - Inner
+Hammersmith and Fulham
+Los Angeles
+San Mateo
+San Mateo,San Francisco
+Rheinhessen-Pfalz
+Greater Vancouver
+San Francisco,,San Mateo
+Hammersmith and Fulham
+Santa Clara,San Mateo
+San Francisco
+Greater Bombay
+Milano
+Orange
+Dupage
+Fresno
+Hudson
+Huai Kwang,Pathum Wan
+Hudson
+Sydney - Inner
+Randburg
+Melbourne - Inner
+New York
+Amsterdam
+Sydney - Inner
+Manchester
+Hammersmith and Fulham
+Roma
+San Francisco
+Suffolk
+San Francisco
+Gangseo
+Clark,Benito Juárez
+Shah Alam
+Shah Alam
+Shah Alam
+Lake,Volusia
+Orange
+Duval
+District of Columbia
+Batam
+Batam
+Guangzhou
+Sydney - East
+Brighton,Rotorua
+Christchurch
+Cameron Highlands,Kuala Selangor
+Cook
+Orange
+Deschutes
+Pathum Wan,Phra Nakhon
+Pathum Wan
+Honolulu
+Honolulu
+Hawaii,Honolulu
+Phra Nakhon
+Phra Nakhon
+Phra Nakhon
+Pathum Wan
+Phaya Thai,Phra Nakhon
+Ratchathewi
+San Mateo
+Queens,Clark,Los Angeles
+Shah Alam
+Siem Reab
+Siem Reab
+H? Chí Minh city,Ti?n Giang
+Shibuya
+Shibuya
+Shibuya
+Minato
+Minato
+Nagoya
+Kyoto
+Shenzhen
+Narita
+Kyoto
+Kyoto
+Mecklenburg
+Roma
+Muang Phuket
+Siak
+Siak
+Siak
+Pekan Baru
+Siak
+Siak
+Siak
+Cook,Los Angeles
+New York
+District of Columbia
+Cook
+Prince George's
+New York
+Los Angeles
+Los Angeles,Clark
+Los Angeles
+New York,Cook
+San Francisco,Los Angeles
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+Los Angeles
+San Diego
+Los Angeles
+Los Angeles
+Clark
+Taipei City,Taipei
+Shah Alam,Sepang
+Siem Reab
+Guangzhou
+Los Angeles
+Clark
+Clark,Mohave
+Clark
+Clark
+Clark
+Clark
+Clark
+Clark
+Clark
+Clark
+Shah Alam
+Saint Louis
+Los Angeles
+Los Angeles
+Prakanong,Khlong Toey,Bang Lamung,Phra Nakhon
+Phra Nakhon,Bang Lamung
+Riverside
+Clark
+Los Angeles
+Nassau
+San Francisco,Riverside
+Riverside
+Riverside
+Los Angeles,Taoyuan
+Fairfax
+Genève
+Hillingdon
+Riverside
+Kensington and Chelsea
+Nassau
+Huai Kwang
+Westminster
+Paris
+Paris
+Darmstadt
+Orange,Los Angeles
+Bangalore Urban
+Yeonsu
+Yeonsu
+H? Chí Minh city
+H? Chí Minh city
+Gangnam,Seongdong,Gwang-jin,Gapyeong
+Beijing
+Seodaemun,Jung,Yongsan,Gangnam
+Seongbuk
+Taipei City
+Ulan Bator
+San Diego
+San Diego
+Santa Clara,San Francisco,Mariposa
+San Diego
+Seongdong
+Yangpyeong
+Miyakojima
+King
+King
+King
+King
+King
+San Francisco
+Mohave,Clark
+San Francisco
+Washington
+Jung
+Tuaban,Kota Kinabalu
+Suan Luang
+Clayton
+Fulton
+Fulton,Clayton
+Fulton,Clayton
+Fulton
+Fulton
+Clayton,Fulton
+Clayton
+Franklin
+Fulton
+Sevilla
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+New York
+New York
+New York
+New York,Placer
+San Diego
+Kern,Marin
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+New York
+San Diego
+San Diego
+New York
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Los Angeles
+Orange
+San Diego
+San Diego
+New York
+Phnom Penh
+Ko Yao
+Chom Thong,Khlong Sam Wa,Sathorn,Bang Plee
+Muang Rayong
+Muang Chiang Mai,Mae Rim
+Pak Chong,Phra Nakhon Si Ayutthaya
+Sathorn
+Bang Rak,Sathorn
+Yannawa,Sathorn
+Sathorn
+Sathorn
+Jakarta Pusat,Bandung
+Muang Chiang Mai
+Lombok Barat
+Sathorn
+Alameda
+Quito
+Yamagata
+H? Chí Minh city
+Johor Baharu
+Thon Buri,Damnoen Saduak,Sai Yok,Bang Rak
+Shah Alam,Sepang,Sydney - Inner,Sydney - West,Randwick,Waverley,North Sydney,Manly,Botany Bay
+Minato,Narita,Shibuya,Chiyoda,Hakone,Fujikawaguchiko,Taito,Itabashi,Bunkyo,Chuo,Edogawa
+Westminster,Pas-de-Calais,Köln,Rheinhessen-Pfalz,Innsbruck,Venezia,,Roma,Florence,Bellinzona,Nidwalden,Parma,Luzern,Obwalden
+Paris
+Westminster,Oxfordshire
+Jongro,Yongin
+Madrid,Segovia,Granada,Málaga
+Fès,Marrakech,Sevilla,Lisboa
+Lisboa,Ávila,Madrid,Barcelona
+Barcelona
+Pathum Wan,Ratchathewi,Phra Nakhon
+Badung
+Gianyar,Badung
+Badung
+Shah Alam
+Cheonan
+Jung,Cheonan
+Cheonan
+Edogawa
+Darmstadt
+Paris
+Berlin
+Wattana,Sam Phran
+Ratchathewi,Bang Plee
+Shah Alam
+Seodaemun
+Jung
+Jung
+Pathum Wan
+Wattana,Phra Nakhon
+Osaka
+Osaka,Narita
+Edogawa
+Chiyoda
+Shinjuku
+Yokohama
+Kensington and Chelsea
+Palilula
+Málaga
+Westminster
+Clark
+New York
+New York
+Taito
+Haarlemmermeer
+Maracaibo
+Harris
+Harris
+Harris
+Harris
+Harris
+Seine-Saint-Denis
+Kadiköy
+Iguazú,Muang Chiang Mai,Siem Reab,Urubamba
+San Carlos,Petermann-Simpson,San Luis Obispo
+Siem Reab
+Muang Chiang Mai,Los Angeles
+Siem Reab
+Gangnam,Jongro
+Waitakere
+Taupo
+Waitakere
+Waitakere
+Waitakere
+Division No. 11
+Division No. 11
+Yannawa
+Milano
+Milano
+Milano
+Milano
+Milano
+Brescia
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Como,Monza and Brianza
+Milano
+Milano
+Milano
+Varese
+Muang Phuket
+Los Angeles
+Oslo
+New York
+Niagara
+York
+Toronto
+Toronto
+Toronto
+Toronto
+Berlin
+DeKalb
+Kota Kinabalu
+Orleans
+Orleans
+Jung
+Seogwipo
+Gyeyang,Jung,Seogwipo
+Jung
+Paris
+Miguel Hidalgo
+Newcastle - Inner City
+Willoughby,Sydney - Inner,Waverley,Auburn,Sydney - West,Campbell,Nicholls,Phillip,Parkes,Deakin,Farrer
+Marrickville,Sydney - Inner
+Sydney - Inner
+Sydney - Inner,Botany Bay,Surfers Paradise,Oxenford-Maudsland
+Oxenford-Maudsland,Surfers Paradise,Currumbin
+Auburn,Strathfield,Sydney - Inner,Willoughby,Botany Bay
+Siem Reab
+Nerima
+Mapo
+Jung,Gwacheon,Yongsan
+Mapo
+Mapo
+Mapo
+Dong,Jung
+Jung,Seo,Dong
+Brunswick
+Greater Vancouver
+Greater Vancouver
+San Mateo
+Santa Clara
+Esenler,Fatih,Besiktas
+Bakirköy
+Merkez,Avanos
+Ürgüp,Kusadasi,Selçuk
+Bakirköy
+Puok,Siem Reab,Banteay Srei
+Osaka
+Greater Vancouver
+Johor Baharu
+New York
+Walkerville
+Sydney - Inner,Adelaide
+Adelaide
+Adelaide
+Adelaide
+Adelaide
+Adelaide
+West Torrens - West
+Adelaide
+Adelaide
+Cairns  - City
+Hà N?i
+Hà N?i
+Qu?ng Nam
+Khánh Hòa,H? Chí Minh city
+Stuttgart
+Kensington and Chelsea
+Westminster,Haringey
+Kaohsiung
+Kaohsiung
+Barcelona
+Bologna
+Paris
+Oberbayern
+Imst
+Imst,Amsterdam
+H? Chí Minh city,Phnom Penh
+San Francisco
+New York
+New York
+Bang Lamung,Pathum Wan
+Siem Reab
+Los Angeles
+Jakarta Pusat,Kota Tangerang
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Nakhimovs'kyi
+Kota Kinabalu
+Domodedovskiy rayon
+Alanya
+Hillingdon,Aberdeen
+Aberdeen
+Franklin
+New York
+New York
+Los Angeles
+Orange
+Los Angeles
+San Francisco
+Los Angeles,San Francisco
+Cook
+Cook
+San Diego
+San Diego
+Mohave
+San Diego
+Los Angeles
+San Diego
+San Diego
+San Diego
+San Diego
+Orange
+San Diego
+Orange
+Los Angeles
+Melaka Tengah
+H? Chí Minh city
+Osaka
+Phra Nakhon
+Phnom Penh
+Khlong Toey,Pathum Wan,Siem Reab
+Khlong Toey
+Shah Alam
+Gianyar,Badung
+Gianyar,Badung
+Badung
+Taoyuan,Roma
+Florence,Siena,Venezia,Praha 1,Praha 16,Paris
+Haarlemmermeer,Attica,Cyclades,Barcelona,Milano
+Milano,Roma,Paris,Alpes-Maritimes,Zürich,Sankt Gallen,Amsterdam,Zeewolde
+Paris
+Ko Lanta,Shah Alam,Sepang
+Yeongdeungpo
+Jung
+Shah Alam,Sepang
+Paris,Seine-Saint-Denis,Charente,Marne,Seine-et-Marne
+Papar,Ranau
+Shah Alam
+Shah Alam
+Miami-Dade
+Orange
+Miami-Dade
+District of Columbia,Miami-Dade
+Napa
+San Francisco
+H? Chí Minh city
+San Diego
+Orange
+Los Angeles,Orange
+Alameda
+Los Angeles,San Francisco
+Los Angeles,San Diego
+Los Angeles,San Francisco
+Los Angeles
+Los Angeles
+Huai Kwang,Bang Plee,Phra Nakhon Si Ayutthaya,Phra Nakhon,Samphantawong
+Bang Plee,Huai Kwang
+Narita,Machida,Yokohama,Shibuya,Chuo,Sumida
+Shah Alam
+Uster
+Milano,See-Gaster
+Barcelona
+Lisboa
+Horgen
+Alpine- West
+Alpine- West
+Alpine- West
+Alpine- West
+Alpine- West
+Alpine - East
+Alpine - East
+Alpine- West
+Alpine - East
+Frankston - West
+Jongro
+North-Eastern
+Livingstone
+New York
+Bunkyo
+Chiyoda
+Chiyoda
+H? Chí Minh city
+Bình Thu?n
+Batam
+Phaya Thai,Chatuchak,Wattana,Phra Nakhon,Samphantawong,Pathum Wan
+Pathum Wan
+Johor Baharu,Shah Alam
+Guangzhou
+Badung
+San Francisco
+Napa,San Francisco
+San Francisco
+San Francisco
+Milano
+New York
+New York
+Kings
+Bronx
+Queens
+New York
+New York
+New York
+New York
+New York
+New York,Kings
+New York
+New York
+New York
+New York
+New York
+Los Angeles
+New Haven,Fairfield
+New York
+New York
+Bronx
+Bronx
+New York
+New York
+New York
+Kings,New York
+Fairfield
+New York
+New York
+New York
+New York
+Katana
+Taipei City,Taipei
+Taipei
+Jongro
+Yongin
+Jongro
+H? Chí Minh city
+Seongdong
+Buk
+Buk
+Buk
+Camden,Paris
+Sathorn
+San Francisco,San Mateo
+Bay
+Bay
+Bay
+Shah Alam
+Shah Alam
+Shah Alam
+Jongro
+Mapo
+Jongro,Yongin
+Langkawi
+Los Angeles
+Los Angeles
+Los Angeles
+Maui
+Orange
+Los Angeles,Orange
+Maui
+Orange
+New York,Kings
+Santa Barbara
+San Francisco
+Marin,San Francisco,Orange
+Orange
+Ventura,Orange,Los Angeles
+Los Angeles,Orange
+Orange
+Orange
+Orange
+Chuo,Bunkyo,Shibuya
+Chanthabuly
+Namtha
+Melbourne - Inner
+Melbourne - Inner,Port Phillip - West
+Sydney - Inner,Sydney - South
+Los Angeles,Ventura
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Middlesex
+Berlin
+Warsaw,Kraków City
+Wien
+Wien
+Combined statistics
+Gianyar,Tabanan
+New York
+Nord
+Sevilla
+Madrid
+West-Vlaanderen
+Oberbayern
+Paris
+Westminster,Tower Hamlets,Islington
+Seine-et-Marne
+Praha 1
+Florence
+Honolulu
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Bình Thu?n
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Bình Thu?n
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Qu?ng Nam
+Qu?ng Nam
+H? Chí Minh city
+H? Chí Minh city
+Edogawa
+Shibuya
+Shah Alam
+Shah Alam
+Greater Vancouver
+Melaka Tengah
+'s-Gravenhage
+'s-Gravenhage,Rotterdam,Haarlemmermeer,Paris
+Badung
+Jakarta Pusat
+Pathum Wan
+Karuizawa
+Kusatsu
+Kusatsu
+Shah Alam
+Kyoto
+Edogawa
+Orange
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Shah Alam
+Botany Bay,Sydney - East,Sydney - Inner
+Kings
+Orange
+Jakarta Pusat
+Pathum Wan
+Taipei
+Taipei City
+Taipei City
+Taipei
+Taipei City
+Taipei City
+Taipei City
+Taipei City
+Kaohsiung
+Taipei
+Taipei City
+Taipei City
+Taipei City
+Taipei City
+Taipei City
+Taipei City
+Koto
+Taipei City
+Lecce
+Taipei City
+Taipei City
+Tarrant
+Dallas,Tarrant
+New York
+Suffolk,Middlesex,Kent,Bergen
+Los Angeles,Alameda
+Alameda,Bergen,New York,Nassau,Bronx,Queens
+District of Columbia
+District of Columbia,New York,Suffolk
+Yulin
+Nova Esperança
+Jakarta Pusat,New York
+Amsterdam,Velsen
+Kyoto
+Uiwang
+Phra Nakhon
+Poznan City
+Badung
+Muang Chiang Mai
+Kota Kinabalu
+Warsaw
+Poznan City
+Paris
+Paris
+Essonne
+H? Chí Minh city
+Skaftárhreppur,Muang Krabi,Division No. 15
+Bolzano,Westminster,Paris,,Division No. 15
+Westminster,Division No. 15,Bolzano
+Kefallinia,Westminster,Paris,Venezia,,Yaizu,Badung,Vestur-Eyjafjallahreppur,Division No. 15
+Venezia,Paris,San Francisco,Muang Krabi,,Roma,Division No. 15,Bolzano,Badung,Bernalillo,Niedersimmental
+La Spezia
+Oslo,Morrow,Division No. 6,Paris,Division No. 15,Bolzano
+Rio de Janeiro,,Badung,Westminster,Paris,Amsterdam,Dubrovnik,San Miguel,Niagara,Division No. 15,Orange,Chase,Hamilton,Massa Carrara,Asker,Queenstown-Lakes,Vestur-Eyjafjallahreppur
+Paris,Niagara,Amsterdam,Venezia,Cyclades,Tower Hamlets,Queenstown-Lakes,Division No. 15,Hamilton
+Westminster,Niagara,Frutigen 
+Division No. 15,Paris,,Bolzano
+Kyoto,Division No. 15,Paris,Westminster
+Division No. 15
+Summit,Matamata-Piako,Bernalillo
+Badung,Frutigen 
+
+Fresno,Bolzano
+San Diego
+Sydney - Inner
+Parramatta  - Inner
+Los Angeles,Clark,Washington,San Bernardino,Garfield,Mesa,Platte,Pennington
+Gallatin,Bonneville,Washoe,Napa,Sacramento,Solano,San Francisco
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,Clark
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Madrid
+Wandsworth
+Kianggeh
+Gadong,Berakas A
+Monmouth
+New York
+Badung,Gianyar
+Phra Nakhon,Pathum Wan,Samphantawong
+Pathum Wan,Phra Nakhon
+Pathum Wan
+Jongro,Seongbuk,Jung,Seodaemun
+Osaka
+Tajiri
+Tajiri
+Narita,Orange,Osceola,Nassau,Suffolk,New York
+Suffolk,New York,Kings,Narita
+New York
+Bronx,Nassau
+New York
+Bolzano
+Ryde
+Ryde
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Siem Reab
+Jongro
+Jongro
+Yongsan,Jongro,Gapyeong,Jung
+Beijing
+Shah Alam
+H? Chí Minh city
+Siem Reab
+Pathum Wan
+Clark
+Beijing
+Beijing
+Manchester
+Osaka
+Osaka
+Ðà N?ng
+Maricopa
+Seodaemun,Jongro
+Yongin
+Yongin
+Jongro,Gapyeong
+Gapyeong
+Seongbuk
+Jung
+Bang Lamung
+Cantabria
+Pontevedra
+King,Narita
+San Francisco,Marin
+Queens,New York,Kings,San Francisco
+Orange
+Denver
+Kings
+Kings
+Phra Nakhon
+Paris
+Johor Baharu
+Sathorn
+Jongro
+Jongro
+Mizuho
+Fussa
+King
+Anchorage
+Tachikawa
+Yokohama
+Shinjuku
+Anchorage
+Anchorage
+Fussa
+King
+King
+Middlesex
+Fatih
+Fatih,Beyoglu
+Shah Alam
+Imperial
+Los Angeles,Ahualulco de Mercado
+Azcapotzalco
+Sri Aman
+Indooroopilly,Burleigh Waters
+New York
+Taipei City
+Westminster
+Bath and North East Somerset
+Cardiff
+Merseyside
+York,London
+London
+Jongro
+Seodaemun,Jongro
+Siem Reab
+Northumberland
+Edogawa
+Bergen,New York,Atlantic,Somerset
+Bergen
+Bergen
+New York
+Bergen
+Siem Reab
+Gianyar,Badung
+Kyoto
+Nerima
+Chiyoda
+Taito,Chuo
+Karang Asem
+Badung
+San Francisco,Merced
+Orange,Clark
+San Bernardino,Merced
+San Francisco,Contra Costa
+Merced
+San Mateo
+Surfers Paradise,Oxenford-Maudsland
+Sydney - Inner,Sydney - East
+Sydney - South,Sydney - Inner
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner,Port Phillip - West
+H? Chí Minh city
+Phnom Penh
+Siem Reab
+Port Phillip - West
+Orange
+Orange
+Jakarta Selatan,Jakarta Barat,Jakarta Pusat,Jakarta Timur
+Shah Alam
+Shah Alam,Sepang
+Siem Reab
+Osaka
+Jongro
+New Haven,Fairfield
+Fairfield
+Orange
+New Haven
+New Haven
+Blacktown  - South-West
+Chuo
+Tama,Asaka,Sumida,Taito,Edogawa,Hakone
+Paris
+Bang Plee,Greater Bombay
+Sumida
+Setagaya,Edogawa
+Tianjin
+Ko Samui
+Ko Samui
+Luzern
+Kyoto
+Hà N?i
+Phra Nakhon
+Khlong Toey,Pathum Wan,Ratchathewi
+Sagarmatha
+Sagarmatha
+Bagmati
+Bagmati
+Phra Nakhon Si Ayutthaya
+Delhi
+Delhi
+Ratchathewi
+Phra Nakhon
+Hà N?i,Qu?ng Nam,Ðà N?ng
+Minato
+Jakarta Selatan
+Sathorn
+Narita
+Newcastle - Inner City
+Wellington,Waitakere
+Hume - Craigieburn
+Wellington
+Arlington
+San Diego
+Queens
+Orange
+Shah Alam
+Shenzhen
+H? Chí Minh city
+Salzburg,Schwaben
+Verona,,Roma,Florence
+Oberhasli,Côte-d'Or,Paris
+Westminster,Camden,Paris
+Camden
+Ratchathewi
+Ratchathewi
+Paris
+Paris
+Paris
+Paris
+Roma
+Paris
+Shah Alam
+Greater Vancouver
+Greater Vancouver
+Camden
+Toronto
+Greater Vancouver
+Niagara
+Izumisano
+Toronto
+Melbourne - S'bank-D'lands
+Melbourne - Inner
+Waverley,Sydney - Inner
+Sydney - Inner,Leichhardt
+Greater Vancouver
+Honolulu
+Greater Vancouver
+Niagara
+Toronto,Greater Vancouver
+Toronto,Niagara
+Honolulu
+Peel
+Rockdale
+Los Angeles
+San Mateo
+San Francisco
+Greater Vancouver
+Greater Vancouver
+New York
+New York
+Haarlemmermeer
+Oslo
+Honolulu
+Arendal
+Osaka
+Osaka
+Los Angeles
+Los Angeles
+San Francisco
+San Francisco
+San Francisco
+Greater Vancouver
+San Francisco
+San Francisco
+Shah Alam
+Fig Tree Pocket
+Honolulu
+Savona
+Bouches-du-Rhône
+Ragusa
+Barcelona
+Bouches-du-Rhône,Barcelona
+Bouches-du-Rhône
+Bethlehem
+Roma
+Genova
+Division No. 11
+Shah Alam
+San Diego
+Los Angeles
+Los Angeles
+San Mateo,San Francisco
+Sumida,Funabashi
+Sumida
+Sumida
+Sumida
+Sumida
+Sumida
+Taito
+Sumida
+Sumida
+Sumida,Funabashi
+Sumida
+Funabashi
+Funabashi,Sumida
+Funabashi
+Funabashi
+Sumida
+Funabashi,Sumida
+Pathum Wan
+Barcelona
+Amsterdam
+Bruxelles
+Sydney - Inner
+Sydney - West
+Paris
+New York
+Los Angeles
+Shah Alam
+Shah Alam
+Khlong Toey
+Khlong Toey
+Wattana
+Lat Krabang
+Rockdale
+Blue Mountains
+Hwacheon
+Jung
+Cheongwon
+Seongbuk
+Alameda
+New York
+Shah Alam
+Venlo
+Venlo
+Venlo,Echt-Susteren
+Venlo
+Bruxelles
+Amsterdam
+West-Vlaanderen
+Venlo
+Venray,Düsseldorf
+Düsseldorf
+Venlo
+Phra Nakhon
+Paris,Pathum Wan
+Bang Bua Thong
+Muang Chiang Mai
+Muang Chiang Mai
+Siem Reab
+H? Chí Minh city
+H? Chí Minh city
+Pathum Wan
+Bang Plee
+Musashino,Shibuya
+Shah Alam
+Jung,Jongro,Mapo,Seodaemun,Seongdong
+Westminster,Kensington and Chelsea,Camden,Richmond upon Thames,Buckinghamshire,Wiltshire,Bath and North East Somerset,London,Islington,Paris,Hauts-de-Seine,Val-d'Oise
+Hounslow
+Hillingdon
+Westminster
+New York
+New York,Kings
+Kings,New York
+New York,Queens,Kings
+Westminster
+Bunkyo
+Wattana
+Pak Kret
+Khlong Luang
+Bang Plee
+Monterey
+Multnomah,Los Angeles
+Puok
+Taipei City
+Bath and North East Somerset
+Camden,Westminster
+London
+Yavapai
+Hertfordshire
+Westminster,Kensington and Chelsea
+Gloucestershire
+Paris,Roma
+Florence
+Venezia,Florence
+Paris,Seine-et-Marne
+Jakarta Selatan
+Tabanan
+Jakarta Pusat
+Shah Alam
+Myingyan
+Taunggye
+Los Angeles
+Genève
+Luzern,Salzburg,Praha 1,Praha 6,Wien
+Wien
+Praha 6
+Santa Clara
+Ourém,Burgos,Hautes-Pyrénées,Paris
+Shah Alam
+Shah Alam,Hulu Langat
+Hà N?i
+H? Chí Minh city,Ti?n Giang
+Shanghai,Nanjing
+Nanjing
+Nanjing,Shanghai,Beijing
+Kianggeh,Gadong
+District of Columbia
+King
+King
+San Francisco
+H? Chí Minh city
+Paris
+Paris
+Verona
+San Mateo,Alameda
+San Mateo,Los Angeles
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Siem Reab,H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Hume - Craigieburn
+Port Phillip - West,Melbourne - Inner,Boroondara  - Kew
+Sydney - Inner,Waverley
+Mosman,Sydney - Inner,Ashfield
+Madrid,Barcelona
+Zürich
+Tower Hamlets,Camden
+New York
+Zürich
+Suffolk
+Clark
+Clark
+Clark
+Clark
+Clark
+Westminster,Tower Hamlets,Southwark,Hackney,Cardiff,Wiltshire
+Shah Alam
+Gombak,Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Hat Yai
+Shah Alam
+Sepang,Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Johor Baharu
+Bentong
+Shah Alam
+Phra Nakhon,Pom Pram Sattru,Bang Rak,Siem Reab,Don Muang
+H? Chí Minh city
+H? Chí Minh city
+Kyoto
+Shanghai
+Shanghai
+Shanghai
+Bunkyo
+Taito
+Toshima
+Maebashi,Annaka
+Orange
+Clark,Sacramento
+El Dorado
+Sacramento
+San Francisco,San Mateo
+New York
+Yongsan
+Boondall,Ipswich - East,Wacol
+Sydney - Inner,Rockdale
+Sydney - Inner
+Shah Alam
+Th?a Thiên - Hu?
+H? Chí Minh city
+Badung,Gianyar
+Jakarta Pusat,Jakarta Utara
+Shah Alam
+Marrakech
+Marrakech,Rabat,Cádiz,Málaga,Sevilla
+Shanghai
+Southwark,Westminster,Hamburg,Darmstadt
+Florence
+Milano,Como,Roma
+Milano
+Amsterdam
+Paris
+Paris
+Paris
+Paris
+Milano
+Como
+Florence
+Florence
+Roma
+Los Angeles,Orange
+Mohave
+Bang Lamung
+Bang Lamung
+Bang Lamung
+Bang Lamung
+Lat Krabang
+Shanghai
+Chiyoda,Minato,Chuo
+Yokohama,Chuo,Hakone
+Bà R?a - Vung Tàu
+Bà R?a - Vung Tàu
+Bà R?a - Vung Tàu
+Bà R?a - Vung Tàu
+Bà R?a - Vung Tàu
+Bà R?a - Vung Tàu
+Shah Alam
+Manukau,Rodney,Waitakere
+San Francisco,San Mateo
+Los Angeles
+Los Angeles,Clark,Orange
+Los Angeles
+San Mateo
+Marin
+Los Angeles
+Los Angeles
+Manukau,Rodney,Waitakere
+Rodney
+Waitakere
+Rodney
+Rodney
+Denpasar,Badung,Gianyar
+Badung,Shah Alam
+District of Columbia,Howard
+New York
+Montgomery
+Montgomery
+Montgomery
+District of Columbia
+Montgomery
+Montgomery
+Montgomery
+Montgomery
+Montgomery
+Montgomery
+Virginia Beach
+Baltimore
+Los Angeles
+San Bernardino
+Clark
+Clark
+San Francisco
+San Mateo
+San Mateo
+San Bernardino
+San Bernardino
+San Bernardino
+Sacramento
+Sacramento
+El Dorado
+Sacramento
+Sacramento
+Santa Clara
+Sacramento
+Orange
+Orange
+Orange
+Dupage,Cook
+Hennepin,Sacramento
+Sacramento
+Sacramento
+Sacramento
+Sacramento
+Mariposa
+Mariposa
+Sacramento
+Sacramento
+San Mateo
+Welkom
+Greater Vancouver
+Taipei City
+Nantou,Taipei City
+Cambridgeshire
+Westminster
+Pathum Wan
+Jongro
+Setagaya
+Taipei City
+Orange
+Tower Hamlets
+Hamamatsu,Toyohashi,Shinshiro
+Hamamatsu
+Shimada
+Shinshiro
+Hamamatsu
+Kakegawa
+Hamamatsu
+Hamamatsu
+Hamamatsu
+Hamamatsu
+Makinohara
+Hamamatsu
+Hamamatsu
+Hamamatsu
+Hamamatsu
+Hamamatsu
+Hamamatsu
+Hamamatsu
+Hamamatsu
+Hamamatsu
+Gamagori
+Shanghai
+Geoje
+Westminster,Paris
+Praha 1
+Wien
+Roma
+Sydney - Inner
+Sydney - West
+Sydney - Inner
+Sydney - West
+Main Beach-South Stradbroke,Broadbeach Waters
+Melbourne - Inner,Melbourne - S'bank-D'lands,Yarra - Richmond
+Hume - Craigieburn
+Bang Plee,Muang Chiang Rai
+Khlong Toey,Phra Pra Daeng
+Clark
+Emery,Denver
+Clark
+H? Chí Minh city
+Shanghai
+Broward
+San Diego
+Orange
+Badung
+Tabanan,Badung
+Sacramento
+Sacramento
+Sacramento
+Shenzhen
+Guangzhou
+Guangzhou
+Gadong
+Shah Alam,Sepang
+H? Chí Minh city
+H? Chí Minh city,Sathorn,Khlong Toey,Pathum Wan,Bang Plee
+Sydney - Inner,Botany Bay
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner,Woollahra
+Sydney - Inner
+Parramatta  - Inner,Kogarah
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner,Manly
+Manly
+Sydney - Inner,Mosman,Blue Mountains
+Sydney - Inner
+Toronto
+Blacktown - South-East
+Honolulu
+New York
+Sydney - West
+Los Angeles
+Ota
+Greater Vancouver
+Honolulu
+Monterey
+Greater Vancouver
+Greater Vancouver
+Sydney - Inner
+Greater Vancouver
+Milano,Varese
+Roma
+Madrid,Paris,Seine-Saint-Denis
+Genève
+Darmstadt
+Shah Alam
+Berlin,Darmstadt
+Shah Alam
+Queens,New York
+Genève
+Fairfax
+Delhi
+Colombo
+New York
+Shah Alam
+Westminster
+Queens
+Milano
+Colombo
+Randburg,Johannesburg,Kempton Park
+Lucknow
+Queens,New York
+Chennai
+Carthage,La Marsa,Cité El Khadra
+Bakirköy,Fatih
+Beijing,Baoding
+Shanghai,Suzhou,Beijing
+Paris
+Peel,Toronto
+Westminster,Camden,London
+Westminster
+Hérault
+Hérault
+Paris
+Seine-et-Marne,Paris
+Paris
+Jung,Jongro,Seongbuk
+Paris,Val-d'Oise
+Nord
+Bang Kho Laem
+H? Chí Minh city
+Johor Baharu
+H? Chí Minh city
+Bang Kho Laem
+Phra Nakhon
+Phnom Penh
+Ruessei Kaev
+Phnom Penh
+H? Chí Minh city
+Phra Nakhon
+Bang Lamung
+Khlong Toey
+Pathum Wan
+Bang Lamung
+Kota Kinabalu
+Shah Alam
+Wattana
+H? Chí Minh city
+H? Chí Minh city
+Wang Thonglang
+Krathum Baen
+Khlong Toey,Wattana
+Wattana
+Pathum Wan
+Huai Kwang,Wang Thonglang,Wattana,Khlong Toey
+Wattana,Khlong Toey
+Bang Rak
+Huai Kwang,Ratchathewi
+Khlong Toey
+Chatuchak,Khan Na Yao
+Pathum Wan,Huai Kwang
+Sathorn
+Pathum Wan
+Samphantawong
+Wattana,Wang Thonglang
+Wang Thonglang
+Wattana
+Wang Thonglang
+Wattana,Wang Thonglang
+Khlong Toey
+Bang Plee
+Bang Rak
+Bang Lamung
+Bang Lamung
+Bang Lamung
+Bang Plee
+Khlong Toey,Huai Kwang,Bang Plee,Bang Rak,K. Bang Sao Thon,Wattana,Jakarta Selatan
+Khlong Toey,Pathum Wan
+Bang Rak
+Wang Thonglang,Wattana,Khlong Toey,Pathum Wan
+Los Angeles,Howard,Montgomery,Baltimore,Anne Arundel,Prince William,New York,Westchester,Bergen,Kings,Orange
+Orange
+Los Angeles
+New York
+Kings,Los Angeles
+Los Angeles
+Orange
+Wattana,Wang Thonglang
+Wattana
+Wang Thonglang,Bang Plee
+Wang Thonglang,Wattana
+Wang Thonglang,Wattana,Pathum Wan,Sathorn
+Wang Thonglang
+Huai Kwang,Wattana
+Los Angeles
+Los Angeles,San Bernardino,Riverside,Clark
+Clark
+Los Angeles
+Los Angeles,Orange
+Clark,Huai Kwang,Wattana,Sai Mai,Wang Thonglang,Sathorn,Khlong Toey,Los Angeles
+Clark
+Paris
+Paris,Amsterdam
+Amsterdam,Capelle aan den IJssel,Rotterdam,Paris,Gouda
+Paris
+Rotterdam,Haarlemmermeer,Capelle aan den IJssel
+Paris
+Paris
+Paris
+Pathum Wan
+Wattana
+Wattana
+Shinjuku,Setagaya,Chiyoda
+Shibuya
+Shibuya,Koto
+Jakarta Selatan
+Paris
+Osaka,Kobe
+Izumisano
+Osaka
+Osaka
+Taipei City
+Paris
+Baltimore
+Chuo,Shibuya,Bunkyo
+Beijing
+Kawthoung
+London
+Orange
+Siem Reab
+Sumter
+Clark
+Clark
+Sumter
+Haywood
+Gangnam
+Gangnam
+Jongro
+Los Angeles
+Los Angeles
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Paris
+Paris
+Paris
+Sarasota
+Hume - Craigieburn
+Dupage
+Nassau
+Ryde,Sydney - Inner
+Ryde
+Sydney - Inner,Mosman
+Westchester
+New York
+Bergen,New York
+New York
+New York
+Yangpyeong
+Haarlemmermeer
+Hortolândia
+Campinas
+São Paulo,Campinas
+São Paulo
+São Paulo,Campinas
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo,Alajuela,Belén
+Belén,Alajuela,San José
+Cusco
+São Paulo,Hortolândia
+Campinas
+Campinas
+Hortolândia,Campinas,São Paulo
+São Paulo
+Bang Rak,Pathum Wan
+Campinas
+Kyoto
+Kyoto
+Bunkyo
+Kensington and Chelsea,Camden,Westminster
+Venezia
+Roma
+Milano,Luzern
+Paris
+Sumida,Shinjuku,Karuizawa
+Chuo
+Osaka
+Taito
+Okayama
+Bizen
+Edogawa
+Clark
+Orange
+Shibayama
+Gwang-jin,Jongro,Gangseo,Seongbuk,Gangnam,Yongin,Seodaemun,Jung
+Taipei City
+Gadong
+Beijing
+Roma,Florence
+Milano,Vicenza
+Roma
+Osaka,Kyoto
+Izumisano
+H? Chí Minh city
+Osaka
+Izumisano,Osaka
+Jongro
+Amsterdam
+Amsterdam
+Ille-et-Vilaine
+Ille-et-Vilaine
+Hautes-Alpes
+Amsterdam
+Taipei City
+Shenzhen
+Shanghai
+Beijing
+Shah Alam
+Shah Alam,Hulu Langat
+Seodaemun,Jongro,Seongdong,Mapo
+Jung,Seongdong,Jongro,Yongsan,Seodaemun,Yeongdeungpo
+New York
+Foshan
+Hudson,New York
+New York
+District of Columbia
+New York
+District of Columbia
+Guangzhou
+Taipei City
+Taipei City
+Los Angeles
+Clark
+Miami-Dade
+New York
+New York
+Guangzhou
+San Mateo,San Francisco
+Pathum Wan
+Pathum Wan
+Seodaemun
+Jongro,Seodaemun
+Shah Alam,Gombak
+Shah Alam
+Shah Alam
+Hamilton
+Ratchathewi
+Dupage,Cook
+Will,Dupage
+Cook,Dupage
+Gyeongju
+Jongro
+Dong
+Los Angeles
+Orange
+Shah Alam,Bentong
+Bludenz
+Budapesti
+Verona
+Atlantic,Middlesex
+Cook
+Clark
+Clark
+Clark
+Jung
+Juneau
+Juneau
+Juneau
+Juneau
+Juneau
+Juneau
+Juneau
+District of Columbia
+Shanghai
+Shanghai
+Beijing
+Shanghai
+Shanghai
+Bang Plee,Pathum Wan,Damnoen Saduak,Phra Nakhon
+Bang Plee
+Jongro
+Jongro
+Jung
+Kota Kinabalu,Tuaban
+New York
+New York
+Kings
+Clark
+Clark
+Jongro
+Mapo
+Khlong Toey
+Shah Alam
+Bangkok Noi,Jongro
+Khlong Toey
+Bowen
+Campbelltown  - South
+Campbelltown  - South
+Santa Clara
+Chamdo
+Lampasas
+Bell
+Bell
+Williamson
+Bell
+Bell
+Suzhou
+Suzhou
+Shanghai
+Changzhou
+Suzhou
+Ratchathewi,Huai Kwang
+Bang Lamung
+Los Angeles
+Los Angeles
+Los Angeles
+Ratchathewi
+Wattana
+Wattana
+Bas-Rhin
+Cyclades
+Cyclades
+Goodwood
+Goodwood,Roodepoort
+Shah Alam
+Takua Thung
+Otsuki
+Fujiyoshida
+Minato
+Minato,Chuo
+Minato
+Chuo
+Minato
+Osaka
+Nara
+Shimamoto
+Shibuya
+Chiba,San Francisco
+Clark
+Clark
+Sumida,Shibuya,Clark
+Minato
+Chiba
+Bang Lamung
+Phra Nakhon,Ko Samui
+Badung
+Bang Plee,Karlsruhe
+Basel
+Freiburg
+Pathum Wan
+Pathum Wan
+Pathum Wan
+Seongbuk
+Niagara
+New York
+New York
+Clark
+Osaka
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Shah Alam
+Badung
+Pyeongchang
+Pathum Wan
+Berlin
+Lhasa
+Osaka
+Osaka,Kyoto,Nara
+Jakarta Pusat
+Dehiwala-Mount Lavinia,K.F.G. & G. Korale,Thimbirigasyaya,Habaraduwa
+Jakarta Selatan,Subang,Kota Bandung,Jakarta Pusat
+Zürich,Maloja,Florence,Siena,Milano,Bern
+Kota Tangerang
+Lombok Barat
+H? Chí Minh city
+H? Chí Minh city
+Sydney - Inner
+Hume - Craigieburn
+H? Chí Minh city
+Chuo,Taito,Chiyoda,Shibuya
+Attica,Trikala,Fthiotis
+Attica
+Jakarta Selatan,Jakarta Pusat
+Kyoto,Osaka
+Salzburg,Wien,Budapesti
+Vöcklabruck
+Budapesti
+Tangalle
+Chuo,Chiyoda
+Tangalle
+Tangalle
+Chiyoda,Osaka
+Edogawa,Sumida
+Minato
+Rotorua
+Rotorua
+Port Phillip - West
+Port Phillip - West
+Western Bay of Plenty
+Rotorua
+Seine-Saint-Denis,Paris
+Seine-Saint-Denis
+Toshima,Edogawa,Shibuya,Shinjuku
+H? Chí Minh city,Phnom Penh,Siem Reab
+Jongro
+Yongsan,Seodaemun
+Fig Tree Pocket,Port Phillip - West
+Sydney - Inner
+Jung
+New York
+Middlesex
+New York
+Niterói
+Paris
+Seine-et-Marne
+Seine-et-Marne
+Zürich
+Paris
+Haute-Savoie
+Yongsan
+Seongbuk
+Jongro
+Shanghai
+Osaka
+Badung
+Shah Alam
+Shah Alam
+Shah Alam
+Whitehorse  - Nunawading W.,Whitehorse - Nunawading E.
+Victor Harbor,Onkaparinga - Hills
+Moonee Valley - Essendon,Maroondah - Ringwood
+Port Phillip - West,Maroondah - Ringwood
+Melbourne - Inner
+E. Gippsland - Bairnsdale
+Maroondah - Ringwood
+Melaka Tengah
+Pathum Wan
+Phra Nakhon
+Phra Nakhon,Phaya Thai,Pathum Wan,Khlong Toey
+Phra Nakhon,Uusimaa
+Warsaw
+Warsaw
+Warsaw
+Warsaw
+Shanghai
+Warsaw,Shanghai
+Otwock
+Warsaw
+Central
+Paris
+Shanghai
+Westminster
+Los Angeles,San Bernardino
+San Bernardino
+Don Muang
+Khlong Toey
+Medan
+Langkat
+Langkat
+Langkat
+Medan
+Medan
+Kota Tangerang
+Muang Phuket
+Guilford
+Jongro,Jung
+Los Angeles
+Los Angeles
+Los Angeles,Ota
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Shah Alam
+Sepang
+Shah Alam
+Moulden
+Botany Bay
+Sydney - Inner
+Melaka Tengah
+Cameron Highlands
+Shenzhen
+Kyoto
+Osaka
+Jung,Haeundae
+Sydney - Inner
+Sydney - Inner
+Barcelona
+Attica
+Paris
+Nantou
+Jeju
+Siem Reab
+H? Chí Minh city
+H? Chí Minh city
+Niagara
+District of Columbia
+New York
+Jakarta Pusat
+Jakarta Selatan,Jakarta Pusat
+Jakarta Selatan
+Jakarta Selatan,Jakarta Timur,Kota Tangerang
+Badung,Gianyar
+Jakarta Selatan
+Shenzhen
+Roma,Florence
+Milano,Venezia,Cyclades
+Attica,Bakirköy
+Shah Alam
+Shah Alam
+Taipei City,Hsinchu
+Amsterdam,Haarlemmermeer
+Uusimaa
+Amsterdam
+Surabaya
+Badung
+Shah Alam
+Manjung
+Hulu Selangor,Shah Alam,Manjung
+Sepang
+Manjung
+Jongro,Seodaemun
+Muang Rayong,Bang Kapi
+Cook
+Sepang
+Camden
+Phra Nakhon
+H? Chí Minh city
+Haute-Garonne
+Haute-Garonne
+Kota Kinabalu
+Waverley
+Bang Rak
+Tianjin
+Beyoglu
+Pingtung
+Jongro,Dong-daemun
+San Francisco
+Los Angeles
+San Mateo
+Jongro
+Los Angeles
+Darmstadt,Yvelines
+Paris
+Darmstadt
+Darmstadt
+Orange
+New York
+New York
+New York
+Middlesex
+Kings
+New York
+Timur Laut
+Shah Alam
+Timur Laut
+Seongdong
+Yongsan
+Pathum Wan
+Xiamen
+Shibayama
+Koto
+Shibayama
+H? Chí Minh city
+Osaka,Narita
+Bunbury
+El Jadida
+Clark
+Washington
+Clark
+Mohave
+Chongqing
+Jakarta Pusat,Jakarta Selatan
+Jakarta Pusat
+Jakarta Pusat
+Fukuoka,Kyoto,Osaka
+Kyoto
+Shah Alam
+H? Chí Minh city
+Seongdong
+Jung,Jongro,Yongin
+Hachioji
+New York
+Los Angeles
+Kaohsiung
+Kaohsiung
+Badung
+Badung
+Badung
+Los Angeles
+San Francisco
+Thalang
+H? Chí Minh city
+San Francisco
+San Francisco
+Northampton
+New York
+Ratchathewi
+Nueces
+Nueces
+Suffolk,New York,Queens
+Jongro
+Greater Vancouver
+Greater Vancouver
+Miami-Dade
+New York
+Minato
+Shinjuku
+Badung
+Ko Samui
+Ko Samui,Ko Lanta
+Mackay - Pt A
+Greater Vancouver
+Greater Vancouver
+Paris
+Barcelona
+Bergen,Rheinhessen-Pfalz
+San Francisco
+San Francisco
+Osaka
+Izumisano,Osaka
+Cyclades
+H? Chí Minh city
+Phra Nakhon
+Phra Nakhon
+Chuo,Chiyoda
+Edogawa
+Shanghai
+Shanghai
+Osaka
+Drôme
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing,Shanghai
+Shanghai,Beijing
+Shanghai
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Drôme
+Drôme,Ardèche
+Ardèche,Drôme
+Ardèche
+Siem Reab
+Siem Reab
+Milano,Attica
+Westminster
+Bang Plee,Khlong Toey,Sathorn
+Pathum Wan
+Pathum Wan
+Pathum Wan
+Westminster,Camden
+Westminster,Camden,London,Southwark
+Westminster,Camden,Queens
+New York,Queens
+New York,Westminster,Camden,Hertfordshire,Hillingdon
+Pathum Wan,Bang Rak
+Barkly West
+Goodwood
+Barkly West
+Bang Plee,Kathu,Thalang
+Thalang
+Shinjuku,Shibuya
+Shinjuku,Shibuya
+Nakano
+Pathum Wan
+Fairfield - East,Parramatta  - Inner,Chandler-Capalaba West,Hume - Craigieburn,Monash - South-West,Melbourne - Inner,Stonnington - Prahran,Sydney - East
+Sydney - Inner,Sydney - East,Botany Bay
+Pathum Wan
+Pathum Wan,Bang Rak
+Mae Taeng,Muang Chiang Mai
+Pathum Wan
+Atlantic
+Webb
+Travis
+Niagara
+Bronx,Kings,Queens
+Bang Rak,Huai Kwang,Dusit
+Jongro
+Shenzhen
+Shah Alam
+Ratchathewi,Pathum Wan,Sathorn
+Phra Nakhon
+Johor Baharu
+Johor Baharu
+Paris,Haarlemmermeer
+Venezia,Roma
+Taito
+Osaka
+New York,District of Columbia
+New York
+Chiayi
+Honolulu,San Francisco
+New York
+New York,District of Columbia,New Castle
+New York
+Rangareddi
+Rangareddi
+Rangareddi
+Taoyuan,Haarlemmermeer,Paris
+Paris,Yvelines
+Gironde
+Rikuzentakata,Sumida,Shibuya
+Toyota
+Osaka
+Taito,Shibuya
+Mackinac
+Mackinac
+Kyoto
+La Paz
+La Paz
+Pathum Wan
+Taito
+New York
+New York
+New York
+Jakarta Pusat
+New York
+New York
+New York
+Broward
+San Mateo,Osceola,Orange
+Osceola
+Orange
+Alameda
+Seine-Maritime
+Essonne
+Essonne
+Paris
+Paris
+Paris
+Essonne
+Essonne
+Amsterdam
+H? Chí Minh city
+Siem Reab
+Siem Reab
+Paris
+Sepang
+Corangamite - South
+Contra Costa
+Napa
+Contra Costa
+Sydney - West
+Sydney - Inner
+New York,Philadelphia,District of Columbia,Anne Arundel
+Eastland
+Taoyuan
+Koto
+Kaohsiung
+Shah Alam
+Seberang Perai Tengah
+Johor Baharu
+Koto
+Yokohama
+Koto
+Koto
+Jakarta Selatan
+Sidoarjo
+San Francisco
+Multnomah
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Seria
+Los Angeles
+Marion
+Citrus
+Orange,Brevard
+Marion
+Citrus
+Citrus
+Citrus
+Citrus
+Sumter
+Citrus
+Cook
+Citrus
+Taylor
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Muscat
+Kathu
+Kathu
+Shah Alam,Bentong
+Chuo
+Osaka,Shibuya
+Taito
+Koto
+Meguro
+Badung
+Jakarta Selatan
+Jongro
+Johor Baharu
+Shah Alam,Ratchathewi,Phra Nakhon,Pathum Wan
+Pathum Wan
+Antwerpen
+Melaka Tengah
+Bexar
+Bexar
+Hillsborough
+Los Angeles
+Jung
+Orange
+Orange
+San Francisco
+Orange
+Los Angeles
+Los Angeles
+Orange
+Sankt-Peterburg gorsovet
+Priozerskiy rayon
+'s-Gravenhage
+Taipei City
+Taipei City
+Phra Nakhon
+Bang Rak,Pathum Wan,Phra Nakhon
+Bang Plee
+Bang Rak
+Chiyoda,Chuo,Kawasaki,Kamakura
+Shah Alam
+Kota Kinabalu
+Taoyuan,San Mateo
+San Mateo
+San Francisco
+Alameda
+San Francisco
+Paris
+Paris,Luzern,Milano
+Florence
+Roma
+Milano
+Wien
+Amsterdam
+Yufu
+Suyeong
+Busanjin
+Dusheti
+Khlong Toey
+Osaka
+Kangaroo Island
+West Torrens - West,Sepang
+Jongro
+Gyeyang
+Osaka
+Warsaw
+Puck
+Mragowo
+Warsaw
+Warsaw
+Timur Laut
+Madrid
+Sumida
+Minato
+Jongro
+Paris
+Paris
+Paris
+Perm' gorsovet
+Heraklion
+Heraklion
+Permskiy rayon
+Perm' gorsovet
+Perm' gorsovet
+Warsaw
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Meguro,Taito,Edogawa,Fujiyoshida,Yokohama
+Pisa,Innsbruck
+Amsterdam
+Paris
+Shah Alam
+Shah Alam
+Batam
+Johor Baharu
+Pathum Wan
+Hammersmith and Fulham
+Westminster
+Batheay,Siem Reab
+Westminster
+Mono
+Mono
+Shah Alam,Jakarta Selatan
+San Francisco,San Mateo,Santa Clara
+Clark,Los Angeles
+Contra Costa
+H? Chí Minh city
+Jongro
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Vicenza
+Narita,Santa Clara,San Francisco
+San Francisco
+San Francisco
+Combined statistics
+Combined statistics
+San Francisco
+San Francisco
+Yamagata
+Shah Alam
+Chuo,Edogawa,Minato
+Phra Nakhon
+Osaka
+Shenzhen,,Monmouth
+Monmouth
+New York
+New York
+Westchester,Monmouth
+New York
+Combined statistics
+Combined statistics
+New York
+Atlantic
+Sussex
+Sussex
+Queens
+New York
+New York
+San Diego
+New York,San Diego
+Khlong San
+San Bernardino
+Santa Barbara
+Shah Alam
+Honolulu
+Honolulu
+Osaka
+Kyoto
+Edogawa
+Jongro
+Shenzhen
+Hamilton
+Hamilton
+Bang Kho Laem
+Bang Rak
+Wien
+Wien
+Johor Baharu
+Johor Baharu
+Shah Alam
+Gianyar
+Magelang
+Yogyakarta
+Magelang
+Northamptonshire
+Gianyar
+Leicester
+Northamptonshire
+Northamptonshire
+Northamptonshire
+Greenwich
+Westminster
+Westminster
+Oxenford-Maudsland
+Ipswich - East
+Noosa - Noosa-Noosaville
+Ipswich - East
+Biggera Waters-Labrador
+Ipswich - East
+Ipswich - East,Pinkenba-Eagle Farm,South Brisbane,Biggera Waters-Labrador
+Denpasar
+Badung
+Auburn
+Oxenford-Maudsland,Main Beach-South Stradbroke,Coolangatta
+Cessnock,Bankstown - North-East,Auburn,Strathfield
+Sydney - West
+Holroyd
+Sydney - Inner,Canterbury
+Canada Bay - Concord
+North Sydney,Wollongong - Inner,Sutherland Shire - East
+Strathfield,Parramatta  - Inner
+Sydney - Inner,Auburn
+Rockdale
+Shah Alam
+H? Chí Minh city
+H? Chí Minh city
+Paris
+Salzburg,Oberbayern
+Billund,Halle
+Oberbayern,Vöcklabruck
+Innsbruck Land
+Billund
+Innsbruck Land
+Don Muang
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+Takua Pa
+H? Chí Minh city
+Siem Reab
+Pathum Wan
+Phra Nakhon,Pathum Wan
+Port Phillip - West
+Sydney - Inner
+Ryde,Sydney - Inner
+Manly,Sydney - Inner
+Leichhardt
+Sydney - Inner,Ryde
+Manly,Blacktown - South-East,Sydney - Inner,Canada Bay - Drummoyne
+Honolulu
+Hawaii
+Honolulu
+Los Angeles
+Los Angeles
+Los Angeles
+Miami-Dade
+Cook
+Pathum Wan
+Phra Nakhon
+H? Chí Minh city
+Greenbrier
+New York
+Montgomery,Loudoun,Los Angeles
+Madrid
+Taipei City
+Taipei City
+Taipei
+Taipei City
+Taipei
+Taipei City
+Phra Nakhon
+Jung
+Cook
+Sepang
+Beijing
+H? Chí Minh city
+Siem Reab
+Osaka
+Osaka
+Osaka
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Randwick
+Jongro
+Gapyeong
+Pathum Wan,Bang Kho Laem,Khlong Sam Wa
+Taito,Nakano
+Shibuya
+Yokohama
+King
+Osaka
+Kyoto
+Madrid
+Hautes-Pyrénées
+Roma
+Thon Buri
+Osaka
+Kyoto
+Osaka
+Phra Nakhon
+Phra Nakhon Si Ayutthaya
+Blacktown  - North
+Blacktown  - North
+Yongsan
+Muang Krabi
+Khlong Toey
+Siem Reab
+H? Chí Minh city,Th?a Thiên - Hu?,Hà N?i
+Siem Reab
+Hà N?i
+Sankt-Peterburg gorsovet
+Camden
+Salzburg
+Orange,Los Angeles,Honolulu
+Honolulu,Los Angeles,Orange
+Orange,Los Angeles,San Bernardino
+Orange
+Los Angeles,Orange
+Orange
+Orange,San Diego
+Orange
+Orange
+Orange,Los Angeles
+Los Angeles,Clark
+Orange,Los Angeles
+Orange
+San Bernardino,Orange
+Orange
+Los Angeles
+Orange
+Orange,Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Los Angeles
+Orange
+Orange
+Orange
+Orange
+Orange
+Orange
+Orange
+Orange
+Los Angeles,Orange
+Orange
+Orange,Los Angeles
+Orange,Los Angeles
+Los Angeles,Orange
+Los Angeles,Orange
+Orange
+Orange
+Orange
+Chiyoda,Narita,Shibuya,Shinjuku,Los Angeles,Minato
+Los Angeles,Orange
+San Bernardino,Orange
+Los Angeles,San Diego
+Orange
+Orange
+Orange
+Los Angeles
+Orange
+Orange
+Orange
+Orange
+Los Angeles
+Los Angeles
+Los Angeles,Orange
+Los Angeles
+Los Angeles
+Los Angeles,Orange
+Orange
+Orange,Clark
+Los Angeles
+Orange
+Orange
+Orange
+Orange
+Orange
+Los Angeles
+Los Angeles
+San Bernardino,Orange
+Orange
+Orange
+Orange,Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Orange
+Orange,Clark
+Los Angeles
+Orange
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Mohave
+Orange
+Maricopa
+Orange,Los Angeles
+Orange
+Los Angeles
+Orange
+Orange
+Orange
+Honolulu
+Honolulu
+Los Angeles
+Orange
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Orange
+San Diego
+Orange
+Orange
+San Diego
+San Diego
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,Orange
+Los Angeles
+San Diego
+Orange
+Hidalgo
+Hidalgo
+Jung
+Hidalgo
+Clark
+Hidalgo
+Taipei City
+Taipei City
+Guangzhou
+Shanghai
+Berakas A,Kota Batu,Ranau
+Ranau,Kota Batu
+Kota Belud,Ranau
+Minato,Shibuya
+Madrid
+Sydney - Inner
+Sydney - Inner
+Quanzhou
+Quanzhou
+Quanzhou
+Quanzhou
+Quanzhou
+Guangzhou
+Zone 3
+Zone 3
+Muang Samut Prakan
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Los Angeles
+Orange
+Westminster
+Osaka
+Narita
+San Joaquin
+Blue Earth
+Blue Earth
+Blue Earth
+Hennepin
+Los Angeles
+Muang Rayong
+Bang Plee
+Bang Plee
+Hà N?i
+Johor Baharu,,Melaka Tengah
+Minato,Bunkyo
+Osaka,Kyoto
+Ratchathewi
+Orange
+Philadelphia
+Kanazawa,Osaka,Fuefuki,Hakone,Fujikawaguchiko,Nakano,Edogawa
+Brevard
+Los Angeles
+Clark
+Beijing
+Siem Reab
+Roma
+Florence,Roma
+Venezia
+Alpes-Maritimes,Barcelona
+Barcelona
+Paris,Seine-et-Marne
+Oberbayern
+Roma
+Paris
+Badung
+H? Chí Minh city,Bà R?a - Vung Tàu
+Shah Alam,Sepang,Bentong
+Shah Alam
+Beijing
+Beijing,Hefei
+Beijing
+Mishima
+Shimizu
+Mishima
+Nagaizumi
+Osaka
+Osaka
+Gangseo
+Jeju
+Gwang-jin
+Gwang-jin
+Seocho
+Johor Baharu
+Kobe
+Taito
+Edogawa
+Langkawi
+Sepang
+Siem Reab
+Guangzhou
+Seodaemun
+Beijing
+Kurume
+Yokohama
+Orange
+Orange
+Orange
+Orange
+Osaka
+Jongro
+Siem Reab
+Taoyuan,Taipei City,Nantou
+Bupyeong,Goseong
+Gwang-jin
+Timur Laut,Shah Alam
+Amsterdam
+Haarlemmermeer
+Kempton Park
+New York
+Hulu Langat,Sepang,Shah Alam
+Kish
+Kish
+Kish
+Johor Baharu
+Johor Baharu
+Berakas A
+Shah Alam
+Sepang
+Kathu
+Shah Alam
+Shah Alam
+Timur Laut
+Khánh Hòa
+Muang Phuket
+Khánh Hòa
+Phra Nakhon,Bang Kho Laem,Pathum Wan,Don Muang
+Khánh Hòa
+Khánh Hòa
+Hà N?i
+Banteay Srei
+Paris
+Scotts Bluff
+Jongro,Jung
+Pathum Wan,Dusit,Samphantawong,Damnoen Saduak
+Phra Nakhon
+Siem Reab
+Ratchathewi
+Siem Reab
+Beijing
+Khlong Toey,Wattana,Pathum Wan,Phra Nakhon
+Pathum Wan
+Pathum Wan
+Visp
+Taipei City
+Taipei City
+Milano
+Hannover
+Hannover
+Hannover
+Westminster
+Pathum Wan,Phra Nakhon
+Pathum Wan
+Kobe
+Kobe
+Yongin
+Jakarta Selatan
+Seongbuk,Jakarta Selatan
+Jung
+Jakarta Selatan
+Siheung
+Alpes-Maritimes
+Sathorn,Phra Nakhon
+Westminster,Camden,Hammersmith and Fulham,Kensington and Chelsea
+Westminster
+Westminster,Southwark
+Kensington and Chelsea
+Botany Bay
+Sydney - Inner
+Taipei City
+Buk
+Buk
+Seongbuk
+Jongro
+West Torrens - East
+West Torrens - East
+West Torrens - East
+West Torrens - East
+West Torrens - East,West Torrens - West
+West Torrens - East,Adelaide
+Tsukuba
+Phnom Penh,Dangkao,H? Chí Minh city
+H? Chí Minh city
+Phra Nakhon
+Kaohsiung City
+Washoe
+Toronto
+Division No. 11
+Pathum Wan
+Pathum Wan
+Shah Alam
+Shah Alam
+Siem Reab
+Siem Reab
+Osaka,Kyoto
+Kyoto
+Kyoto
+Jongro
+H? Chí Minh city
+Hidalgo
+Shah Alam
+Shah Alam
+Shah Alam
+Berlin
+Thüringen
+Berlin,Paris
+Paris
+Paris
+Timur Laut
+Timur Laut
+Alicante
+Alicante
+Alicante
+Paris
+Shibuya
+Chiyoda
+Taipei
+Taipei City
+Ilan,Hualien
+Bang Lamung
+Shibuya
+Hackney
+Westminster
+Westminster
+Hackney
+Hangzhou
+Dallas
+Dallas
+Clark
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Muang Chiang Mai
+Greater Vancouver
+Greater Vancouver
+Sathorn,Phra Nakhon
+Greater Vancouver
+Division No. 15
+Division No. 15
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Division No. 15
+Nagoya
+Los Angeles
+Orange
+San Diego
+Orange
+Orange
+Fulton
+Fulton,Hamilton,Davidson,Orange
+Los Angeles
+San Joaquin,San Francisco
+Orange
+San Diego,Orange
+Orange
+Orange,Los Angeles
+Orange
+Orange
+Orange
+South 24 Parganas,Delhi,Agra,Jaipur
+Orange
+Riverside
+Orange
+Orange
+Orange
+San Diego
+Los Angeles
+San Francisco
+Orange
+Monterey,Santa Clara,San Francisco,San Mateo
+Orange
+District of Columbia,Fairfax,Arlington,New York
+New York,Bergen
+New York,Bergen
+Williamson,Davidson
+Williamson,Davidson,Shelby
+Shelby,Davidson
+Williamson
+Cobb,Davidson,Fulton,DeKalb
+Fulton
+Fulton
+Cobb,Fulton
+Cobb,Orange,Osceola
+Orange
+Los Angeles
+H? Chí Minh city,Siem Reab
+San Diego
+Berkshire,Enfield,Westminster,Camden,Tower Hamlets,Hertfordshire,London,Kensington and Chelsea,Wiltshire,Bath and North East Somerset,Paris,Barcelona,Madrid,Sevilla,Granada
+Sydney - Inner,Ryde,Auburn
+Auburn,Sydney - Inner,Blue Mountains,Sydney - East
+Mansfield,Mount Gravatt East,South Brisbane,Fig Tree Pocket,City - Remainder,Kangaroo Point,Fortitude Valley,Carina,Brookfield (incl. Brisbane Forest Park),Melbourne - Inner,Port Phillip - West,Melbourne - S'bank-D'lands
+Port Phillip - West
+Yarra Ranges - Dandenongs,Bass Coast  - Phillip Is.,Port Phillip - West
+San Francisco
+Orange
+Los Angeles
+Orange,Cook
+Cook
+Queens,Kings,New York
+New York
+New York,Kings,District of Columbia,Fairfax
+Kings
+New York
+New York
+New York
+Westminster,Greenwich
+Newham
+Shenzhen
+Bang Kho Laem
+Bang Plee
+Bang Kho Laem
+Pathum Wan
+Shah Alam
+Wayne
+Grand
+Grand
+Grand
+Grand
+Grand
+Grand
+Grand
+Grand
+San Mateo
+Hartley
+Cook
+Cádiz
+Washington
+Chatan
+Gapyeong
+Khlong Toey
+Siem Reab
+Siem Reab
+Sydney - Inner
+Siem Reab
+Kathu
+Kathu
+Glasgow
+Muttrah
+Los Angeles
+Los Angeles
+Los Angeles
+Beijing
+Shibayama
+New York
+King
+King
+San Francisco
+San Francisco
+San Francisco
+New York
+New York
+Orange,Los Angeles
+Okaloosa
+Escambia
+Orange
+Okaloosa
+Okaloosa,Los Angeles
+Los Angeles
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jongro
+Jongro
+Vladivostok gorsovet
+Vladivostok gorsovet
+Vladivostok gorsovet
+Vladivostok gorsovet
+Kaohsiung City
+Westminster
+Vlaams Brabant,Luzern
+Paris
+Westminster
+Madrid
+Barcelona
+Barcelona
+Madrid
+Cuenca
+Barcelona
+Paris
+Paris
+Paris
+Valencia
+Cuenca
+Toledo
+Segovia
+Córdoba,Granada,Sevilla
+Barcelona
+Granada
+Bruxelles,Paris,Sevilla
+Madrid
+Lisboa
+Lisboa
+Paris
+Paris
+Paris
+Cuenca
+Paris
+Salamanca
+Sevilla
+Chuo
+Chiyoda
+Chiyoda
+New York
+New York
+San Francisco
+Warsaw
+Kota Tangerang,Kota Semarang
+Kota Semarang
+Haarlemmermeer
+Reykjavík
+Reykjavík
+Reykjavík
+Vestur-Eyjafjallahreppur
+Reykjavík
+Reykjavík
+Jung,Jongro,Yongin,Nowon,Paju
+Shanghai
+Collin
+Shibayama,Shibuya
+Edogawa
+Osaka,Kobe
+Gimhae
+Gimhae
+San Mateo
+Los Angeles,Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+San Diego,Los Angeles,Clark
+Los Angeles
+San Diego
+San Diego,Arlington
+District of Columbia,Montgomery,Arlington
+San Diego
+San Diego,Los Angeles
+San Francisco
+Izumisano,Osaka,Kyoto
+Paris
+Paris
+Barcelona
+Barcelona
+Paris
+De Kalb
+Muang Phuket,Kathu
+Shah Alam
+Huai Kwang
+Wayne,Shelby
+Paris
+Oberbayern
+Washington
+Washington
+Craighead
+Shah Alam
+Oberbayern
+Jongro
+São Paulo
+Budapesti
+Beijing
+Melbourne - S'bank-D'lands
+Combined statistics
+Perth
+Minato
+Westminster
+Genève
+Amsterdam
+Amsterdam
+Oberbayern
+Pisa,Milano,Como
+Pisa
+Darmstadt
+New York,Queens
+New York
+Queens
+New York
+New York
+Queens,New York
+New York
+Queens
+Kings
+Queens,New York
+Suffolk
+New York,Suffolk
+Queens,Orange
+Brevard,Palm Beach
+Miami-Dade
+New York
+Queens
+Hudson
+Queens
+Queens
+Fairfield
+New York
+Nassau
+Suffolk
+Queens
+New York
+New York,Bronx
+Queens
+New York,Queens
+New York
+New York
+New York
+Kings
+New York
+New York
+Botany Bay
+Waitakere
+Matamata-Piako
+Seongdong
+Marion
+Shinagawa
+Yokohama
+Kita
+Chiyoda
+Setagaya
+Shibuya
+Seongbuk
+Jeju
+Badung
+Shah Alam
+Yamagata
+Jongro
+Kota Kinabalu
+Yogyakarta
+Jakarta Barat,Yogyakarta
+Shah Alam
+Shah Alam
+Siem Reab
+Bang Lamung,Si Racha
+Phra Nakhon
+Barcelona
+Baleares
+Barcelona
+Phra Nakhon
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+San Bernardino
+Magelang,Yogyakarta,Denpasar
+Los Angeles
+Los Angeles
+Clark
+Seodaemun
+Seodaemun
+Seodaemun
+Seodaemun
+Pathum Wan
+Kathu
+Bang Plee,Khlong Toey,Ratchathewi,Pathum Wan
+Pathum Wan
+Kota Tangerang,Jakarta Pusat,Jakarta Timur,Jakarta Selatan
+Johor Baharu
+Osaka,Kyoto,Nara
+Shah Alam
+Chongqing
+Taipei City
+Taipei City
+Essex
+Essex
+Cook,Dupage,Kendall,Will
+Suzhou
+Greater Bombay
+Wakayama
+Wakayama
+Johor Baharu
+Osaka
+Phra Nakhon,Kathu
+Kathu
+Taipei City
+Binjai,Medan
+Sepang
+C?n Tho
+Hamilton
+Rockingham
+Badung
+Jung,Jongro
+Beijing
+Prince William,District of Columbia,New York
+New York,Hudson
+Middlesex
+Ratchathewi,Bang Lamung
+Bang Lamung
+Sakai
+Ratchathewi
+Siem Reab
+Lenzburg,Bülach,Bremgarten,Laufenburg
+Lenzburg,Arlesheim,Basel,Brugg,Aarau,Burgdorf
+Bern
+Laufenburg,Olten
+Sissach,Laufenburg
+Hinterrhein
+Hinterrhein
+Hinterrhein
+Laufenburg
+Jongro
+Bergen
+Bergen
+Burgdorf,Bern
+Wangen,Liestal,Basel
+Arlesheim
+Sissach
+Olten
+Brig
+Basel
+Arlesheim
+Bergen
+H? Chí Minh city
+H? Chí Minh city
+Prakanong,Phnom Penh
+Phra Nakhon
+Bang Lamung,Bang Plee
+Kepulauan Riau
+Kepulauan Riau
+La Paz
+La Paz
+San Mateo
+Marne
+El Dorado
+Jung
+Clark
+Clark
+Shiki
+New York
+New York
+Westminster,Kensington and Chelsea,Camden
+Amsterdam
+Sevilla
+Barcelona
+Los Angeles
+New York,Philadelphia
+Fatih
+Hillingdon,Southwark
+Sydney - Inner
+Melbourne - Inner
+Shibuya
+Los Angeles
+Los Angeles
+Jung
+Brent
+Brent,Camden
+West-Vlaanderen
+Blue Mountains,Sydney - Inner
+Squamish-Lillooet
+Westminster,Tower Hamlets
+Amsterdam,Zürich,Haarlemmermeer,Bülach,Roma
+Roma
+Milano
+Paris,Westminster
+El Paso
+Toshima
+Narita
+Bunkyo
+Badung
+Badung
+Casey - Cranbourne
+Melbourne - Inner
+Sepang
+Sepang,Shah Alam
+Jakarta Selatan,Jakarta Pusat
+Jakarta Selatan,Jakarta Utara,Sepang
+Shah Alam,Jakarta Utara
+Jakarta Utara
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Shah Alam,Jakarta Selatan
+Sepang
+Nara
+Koto,Edogawa
+Roma
+Verona,Venezia
+Yvelines,Paris
+Paris
+Honolulu
+Barcelona
+Barcelona
+Paris,Napoli,Salerno,Roma,Florence,Venezia,Haarlemmermeer
+Hà N?i
+Khlong Toey,Wattana,Sathorn
+Khlong Toey
+Pathum Wan,Khlong Toey
+Nakano,Shibuya,Chuo
+Osaka
+Siem Reab
+Shibuya
+New York
+New York
+Kyoto
+Orange
+New York
+New York
+New York
+New York
+Shah Alam
+Phra Nakhon Si Ayutthaya,Phra Nakhon,Bang Plee
+Phra Nakhon
+Sucha
+Sucha
+Beijing,Berlin
+Sroda Slaska
+Kraków City
+Aqaba
+Voh
+Voh
+Voh
+Païta
+Siem Reab
+Camden
+Manchester
+Kyoto
+Shah Alam
+Tulsa
+King
+Seodaemun
+Los Angeles
+Seongdong
+Seongdong
+Jung
+Jongro
+Budapesti
+Budapesti
+Ruzskiy rayon
+New York
+Yangju
+Osaka
+New York
+Khlong Toey
+Paris
+Guangzhou
+Shenzhen
+Berkshire
+Pathum Wan,Ratchathewi,Phra Nakhon
+Phra Nakhon
+Dusit,Phra Nakhon
+Pathum Wan
+Khlong Toey,Bang Rak
+Khlong Toey
+Dusit
+Phra Nakhon,Dusit,Wattana,Sathorn,Pathum Wan
+Sathorn,Dusit
+Dusit
+Dusit
+Bang Rak,Sathorn
+Phra Nakhon,Wattana,Dusit,Khlong Toey,Bang Rak
+Bang Plee
+H? Chí Minh city
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Niagara,York,Toronto
+York
+Toronto
+Ko Yao
+Muang Phuket
+Toronto
+Toronto
+Toronto
+Niagara,Toronto
+York
+Toronto,Niagara
+Toronto
+Toronto
+Toronto
+Lake Hurron
+Communauté-Urbaine-de-Montréal
+Niagara
+Toronto
+Toronto
+Niagara
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Paris,Toronto
+Toronto
+Toronto
+Toronto
+Cárdenas
+Toronto,Cárdenas,Niagara
+Toronto
+Yarra - North,Willoughby
+Osaka
+Berakas B,Kota Batu,Kianggeh
+Chiyoda,Sumida
+Varese,Milano
+Milano
+Lecco,Milano
+Milano
+Verona
+Milano
+Savona
+Jongro
+Hakone,Yokosuka
+Shibuya
+Yokohama,Narita
+H? Chí Minh city
+Shah Alam
+Sydney - East
+Sydney - Inner
+Sydney - Inner
+Wien
+Zürich
+Bang Kapi
+Fayette
+Nottingham
+Shinjuku
+Chuo
+Osaka
+Yokohama
+Edogawa
+Shibuya,Sumida
+Anantapur
+Sankt-Peterburg gorsovet
+Dallas
+Pathum Wan
+Pathum Wan
+Orange
+Orange
+Lake Ontario
+New York
+San Francisco
+Santa Clara,Marin
+San Francisco
+Taoyuan
+Beijing
+Taipei City
+Gangnam
+Jung
+New York
+São Paulo
+Hà N?i
+Macomb
+Macomb
+Pathum Wan
+Pathum Wan
+Siem Reab
+Phra Nakhon
+Pom Pram Sattru
+Jongro
+Shinjuku,Shibuya,Hakone
+Koto
+New York
+New York
+District of Columbia
+New York
+Queens,Philadelphia
+New York
+Sussex,Somerset
+Middlesex
+New York,Queens
+New York
+Goyang
+Jongro
+Osaka
+Phra Nakhon,Bangkok Noi,Pathum Wan
+Ibra
+Ibra
+Ibra
+Jongro
+Jongro
+Sepang
+Shah Alam
+Batam
+Badung
+Badung
+Bunkyo
+Narita,Chuo,Minato,Koto
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Orange
+Los Angeles
+Orange
+Los Angeles
+Orange,Clark
+Orange
+Orange,Los Angeles
+Los Angeles
+Orange
+Sydney - Inner
+Woollahra,Sydney - Inner,Sutherland Shire - East
+Sutherland Shire - East,Waverley
+Chiyoda,Edogawa,Shibuya,Taito
+Taito
+Shibuya
+Koto
+Osaka
+Orange,Monmouth
+Monmouth,New York,Kings
+New York,Kings,Cook
+Kern
+Kern
+Jung,Jongro
+Jongro
+Jongro
+Shibuya,Edogawa,Sumida,Minato,Taito,Narita,Meguro
+Los Angeles
+Clark
+Clark
+Alameda
+Niagara,Steuben
+Middlesex
+Orange
+Bentong
+Bentong
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Paris
+Siem Reab
+New Plymouth
+Manukau
+Western Bay of Plenty
+Waitakere
+Los Angeles,Harris
+Harris
+Shah Alam,Timur Laut
+Haute-Savoie
+Haute-Savoie,Genève
+Sathorn,Phra Nakhon,Damnoen Saduak
+Shah Alam
+Shah Alam,Klang
+Klang
+Shah Alam,Klang
+Klang
+Timur Laut
+Shah Alam
+Shah Alam
+Nairobi,Laikipia,Nyeri,Isiolo
+Nyeri,Kiambu
+Nairobi
+Nairobi
+Shah Alam
+Shah Alam
+Warrington
+Merseyside,Warrington,Kensington and Chelsea
+Genève
+Milano
+Warrington
+Chiyoda,Sumida
+Klang
+Klang,Shah Alam
+Gianyar
+Badung
+Ratchathewi,Pathum Wan
+Shah Alam
+Langkawi
+Klang
+Montgomery
+Montgomery
+Montgomery
+Montgomery
+District of Columbia
+District of Columbia
+District of Columbia
+Montgomery
+Fairfax
+Montgomery
+Paris
+Montgomery
+District of Columbia
+Montgomery
+Prince George's
+District of Columbia
+New York
+Budapesti
+Budapesti
+Zagreb
+Budapesti
+District of Columbia
+Bernalillo
+District of Columbia
+Washington
+Madrid,Segovia
+Madrid
+District of Columbia
+District of Columbia,Loudoun
+Budapesti
+Guangzhou
+Guangzhou
+Shenzhen
+Guangzhou
+Taichung,Taichung City,Taoyuan
+Westminster,London,Camden,Amsterdam
+São Paulo
+Paris
+Paris
+Venezia
+Milano
+Amsterdam
+Sumida,Minato
+Taito,Chuo,Kyoto
+Kyoto,Osaka
+Narita,Honolulu
+Honolulu
+Pathum Wan,Bang Kho Laem,Khlong Toey
+Pathum Wan
+New York
+Queens
+New York
+Division No. 11
+Loon op Zand
+Kyoto
+Seongbuk
+Jongro
+Jongro
+Shah Alam
+Gombak,Shah Alam
+Seongbuk,Gangnam,Jongro,Jung,Gwang-jin
+Pocheon
+Jongro,Seodaemun
+Gwang-jin,Gapyeong
+Jongro
+Gapyeong
+Jongro,Gapyeong
+Jongro
+Jongro
+Hulu Langat
+Hulu Langat,Shah Alam
+Waikato
+Selçuk
+Los Angeles
+Clark
+Orange
+Forsyth
+Madrid
+Orange,Los Angeles
+Clark
+Los Angeles
+Los Angeles
+Orange
+Orange
+Los Angeles
+Oslo
+Badung
+Badung
+Melbourne - S'bank-D'lands
+Melbourne - S'bank-D'lands
+Chatuchak
+Pathum Wan
+Chuncheon
+Chuncheon
+Jongro
+Chuncheon
+Chuncheon
+Jung,Jongro
+Jongro,Jung,Seongdong
+Taipei City
+Taipei City
+New York
+Atlantic
+New York
+Sathorn
+Sathorn
+Siem Reab
+H? Chí Minh city
+Paris
+Genève
+Genève
+Jongro
+Phra Nakhon,Ratchathewi
+Shah Alam
+Pathum Wan
+Osaka,Kikugawa,Kishiwada,Nakano
+Minato,Osaka
+Summit
+Merkez
+Paris
+Shah Alam,Sepang
+Pathum Wan
+Taipei City
+Taipei
+Taipei City
+Chiyoda
+Edogawa
+Taipei City
+Taipei City
+Muang Chiang Mai,Bang Rak,San Kamphaeng,Hang Chat,Ratchathewi
+H? Chí Minh city
+Shah Alam
+Badung
+Sri Aman
+Shah Alam
+Shah Alam
+Shah Alam
+Kathu
+Muang Krabi,Seine-et-Marne,Muang Phuket
+Kathu
+Kathu
+Kampala
+Le Fjord-du-Saguenay
+Communauté-Urbaine-de-Québec
+Cape Breton
+Murcia
+Lisboa
+Southampton
+Las Palmas
+Kristiansund
+Southampton
+A Coruña
+Southampton
+Southampton
+Aurland
+Combined statistics
+Sankt-Peterburg gorsovet
+Southampton
+Haugesund
+Aurland
+Southampton
+Murcia
+Lisboa
+Lisboa
+Funchal
+Las Palmas
+Southampton
+Hamburg
+Las Palmas
+Funchal
+Aqaba
+Rambukkana
+Yangon-W
+Keelung City
+Kobe
+Yokohama
+San Diego
+Puerto Vallarta
+Acapulco de Juárez
+Hillingdon,Jung
+Los Angeles
+Clark
+Coconino,Clark
+Los Angeles
+Berkshire,Glasgow,Edinburgh
+Highland,Argyll and Bute,Glasgow
+Berkshire
+Hammersmith and Fulham,Westminster
+Richmond upon Thames,Berkshire
+Paris
+Sathorn,Phra Nakhon,Kathu,Muang Krabi
+Botany Bay,Blacktown - South-East,Sydney - Inner,Waverley,Cessnock,Gosford - East
+Melbourne - Inner
+Holroyd
+Don Muang
+Barcelona,Paris,Yvelines
+Hammersmith and Fulham,Westminster,Praha 1
+Chester
+Chester
+Pathum Wan,Damnoen Saduak,Phra Nakhon Si Ayutthaya,Bang Plee
+Port Phillip - West
+Jakarta Pusat,Jakarta Selatan
+Delhi,,Agra
+Islington,Westminster,Devon,Camden,Greenwich,London,Hampshire,Bath and North East Somerset,Warwickshire
+Islington,Ealing,Westminster,Camden,Hillingdon
+Warwickshire,Devon,Westminster
+Westminster,London
+Westminster
+Jaipur
+Taipei City,Taipei
+Taipei,Taipei City
+Westminster
+Camden
+Oslo
+Oslo,Bergen
+Forsand
+Moskenes,Bodø
+Moskenes
+Bergen
+Rennesøy,Stavanger,Forsand
+Stavanger
+Forsand,Strand,Stavanger
+Bodø
+Moskenes
+Moskenes
+Moskenes
+Bodø
+Shenzhen
+Shenzhen
+Agra
+Pathum Wan
+Taipei City,Camden,Bergen,Stavanger
+Roma,Napoli,Bologna
+Verona,Milano,Como,Lecco,La Spezia,Florence,Pisa,Siena,Venezia
+Venezia
+Trento
+Roma
+Bologna
+Bologna,Trento
+Trento
+Verona
+Verona
+Verona
+Verona
+Shah Alam
+Florence
+La Spezia
+Bergen
+Como
+Sathorn,Pathum Wan,Hua Hin
+Pathum Wan,Hua Hin
+Badung
+Badung
+Badung
+Pathum Wan,Muang Kanchanaburi,Muang Lop Buri,Muang Sukhothai,Sawankhalok,Bang Plee
+Pathum Wan
+Muang Kanchanaburi
+Badung
+Camden,Roma
+Verona
+Beijing
+Beijing
+Beijing
+Florence
+Beijing
+Sawankhalok
+Rotorua
+Ruapehu
+Wellington
+Division No. 11,Greater Vancouver
+Hà N?i
+Los Angeles
+Clark
+New York
+Essonne,Paris
+Florence
+ZONA 5
+Shah Alam
+Cordillera,Burke
+San Francisco
+Orange
+Manatee
+Hettinger
+Orange
+Orange,Darebin - Preston
+Orange
+Coweta,Marion,Manchester
+Garza
+Colchester
+Kyoto
+Tuscarawas,Orange,Maricopa
+Curitiba
+Muang Chon Buri,Los Angeles
+Darebin - Preston
+Kota Sukabumi
+Marion
+Westminster,Cordillera
+San Francisco
+Los Angeles
+Marion
+Orange,Los Angeles,San Francisco
+Orange
+Orange
+Orange,Cook
+San Francisco,Orange
+Marion
+Paris,Los Angeles,Orleans
+New York,Orange
+Kota Bogor
+Lake,Kane,Orange
+Orange,Marion
+Orange
+York
+Dubrovnik
+Maui
+Valkenburg aan de Geul,Paris
+Orange,Pisz
+Pisz
+Orange
+Orange
+York
+Xiamen
+Beijing
+Shanghai
+Les Îles-de-la-Madeleine
+Combined statistics
+Shah Alam,Sepang
+H? Chí Minh city
+Jung
+Bang Rak
+San Francisco
+Clark
+Clark
+Clark
+Los Angeles
+Wattana
+Narita
+Sumida,Shibuya
+Siem Reab
+Shibuya
+Shibuya
+Bunkyo
+Shibuya
+Minato
+Meguro
+Koto
+Chuo
+Chuo
+Minato
+Shibuya
+Jung,Gwang-jin
+Kuala Kangsar,Hulu Perak
+Bruxelles
+Chilgok
+Buk
+Pohang
+Seodaemun
+Seongdong
+Buk
+Buk
+Lahore
+Sydney - Inner
+Sydney - Inner
+Sydney - East
+Mandalay
+Pai
+H? Chí Minh city
+Mandalay
+Taipei City
+Taipei City
+Shah Alam
+Martinsville
+Beijing
+Ürümqi
+Kumamoto
+Fremantle,Perth
+Muang Chon Buri
+Lào Cai
+Hà N?i
+Bung Kum
+Bang Rak
+Taoyuan
+Düsseldorf

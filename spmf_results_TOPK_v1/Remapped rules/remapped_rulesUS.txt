@@ -1,0 +1,20 @@
+Tower Hamlets Hackney   ==> Westminster   #SUP: : 51 #CONF: 0.6071428571428571
+Paris Kensington and Chelsea   ==> Westminster   #SUP: : 55 #CONF: 0.6626506024096386
+Tower Hamlets London Camden   ==> Westminster   #SUP: : 55 #CONF: 0.859375
+London Hackney   ==> Westminster   #SUP: : 56 #CONF: 0.6666666666666666
+Paris Tower Hamlets   ==> Westminster   #SUP: : 57 #CONF: 0.7402597402597403
+Paris London   ==> Westminster   #SUP: : 57 #CONF: 0.7307692307692307
+Southwark Kensington and Chelsea   ==> Westminster   #SUP: : 59 #CONF: 0.6483516483516484
+Southwark Tower Hamlets   ==> Westminster   #SUP: : 63 #CONF: 0.6428571428571429
+Kensington and Chelsea Hackney   ==> Westminster   #SUP: : 73 #CONF: 0.6460176991150443
+Tower Hamlets Kensington and Chelsea   ==> Westminster   #SUP: : 80 #CONF: 0.7017543859649122
+Camden Hillingdon   ==> Westminster   #SUP: : 80 #CONF: 0.7207207207207207
+Southwark London   ==> Westminster   #SUP: : 89 #CONF: 0.7063492063492064
+Southwark Camden   ==> Westminster   #SUP: : 99 #CONF: 0.6387096774193548
+Kensington and Chelsea London   ==> Westminster   #SUP: : 106 #CONF: 0.7114093959731543
+Tower Hamlets London   ==> Westminster   #SUP: : 118 #CONF: 0.7108433734939759
+Paris Camden   ==> Westminster   #SUP: : 130 #CONF: 0.6341463414634146
+Tower Hamlets Camden   ==> Westminster   #SUP: : 150 #CONF: 0.7352941176470589
+Kensington and Chelsea Camden   ==> Westminster   #SUP: : 173 #CONF: 0.667953667953668
+London Camden   ==> Westminster   #SUP: : 178 #CONF: 0.714859437751004
+Yvelines   ==> Paris   #SUP: : 203 #CONF: 0.6246153846153846

@@ -1,0 +1,4430 @@
+Port Shepstone
+Lower Tugela
+Lower Tugela
+Jefferson,Cook
+Ba
+Hume - Craigieburn
+Ba
+Geelong
+Vaimauga West
+Sydney - Inner
+Melbourne - Inner
+Port Phillip - West,Melbourne - Inner,Port Phillip - St Kilda,Melbourne - S'bank-D'lands
+Paris,Rhône,Barcelona,Amsterdam,Bruxelles,Val-d'Oise,Haarlemmermeer
+Paris
+Paris
+Amsterdam
+West Torrens - West,Adelaide
+Adelaide
+Adelaide
+Shanghai
+Shanghai
+Suan Luang
+Chom Thong
+Berlin
+Berlin
+Kings
+Paris
+Kings,Philadelphia
+Goodwood
+Kings
+Kings
+Kings
+Berlin
+Berlin
+Rio de Janeiro
+Guadalupe
+Hawaii
+Honolulu
+Honolulu
+Honolulu,Hawaii
+Ko Lanta
+Liverpool - West
+Division No. 6
+Johnstone
+Sydney - Inner
+Sydney - Inner
+Munakata
+Surrey
+Ravalli
+Missoula
+Las Palmas
+Los Angeles
+Stenløse
+Canning
+Mandurah
+Kathu
+Orange
+Roma
+Sydney - Inner
+Sydney - Inner
+Leichhardt
+Newham
+Bexley
+Bexley
+Hackney
+Amsterdam
+East Sussex
+Beijing
+Sydney - Inner
+Waverley
+Sydney - West
+Kempton Park
+Kempton Park
+Wynberg
+Wynberg
+Sydney - Inner
+Johannesburg
+Hounslow
+Zhongshan
+Zhongshan
+Muang Chiang Mai
+Jongro
+Roma
+Botany Bay
+Siem Reab
+Kampong Cham
+Muang Chiang Mai
+Paris
+Dorset
+Essaouira
+Badung
+Boroondara  - Hawthorn
+Honolulu
+Sydney - Inner
+Waverley
+Waverley
+Jongro
+Haeundae
+Haeundae
+Haeundae
+Ko Samui,Botany Bay
+Ko Samui
+Ko Samui
+Kempton Park
+Harrismith
+Los Angeles
+New York
+New York,Nassau,Suffolk
+New York
+New York,Bronx,Queens
+Shinjuku
+Taito
+Izumisano
+Sydney - Inner
+Yarra - North
+Melbourne - Inner,Port Phillip - St Kilda
+Sydney - Inner
+Gianyar,Badung,Lombok Barat
+Badung
+Melbourne - Inner,Port Phillip - West,Yarra - North
+Phillip,Banyule - Heidelberg
+Port Phillip - West
+Melbourne - Inner
+Melbourne - Inner,Melbourne - S'bank-D'lands
+Melbourne - Inner,Yarra - North
+Port Phillip - West
+Melbourne - Inner,Port Phillip - West
+Yarra - North,Glen Eira - South
+Yarra - North,Melbourne - S'bank-D'lands,Port Phillip - West
+Yarra - North
+Melbourne - S'bank-D'lands
+Yarra - Richmond,Yarra - North,Melbourne - Inner
+Moonee Valley - Essendon,Melbourne - S'bank-D'lands
+Melbourne - Inner
+Yarra - North
+Port Phillip - West
+Colac-Otway - South
+Yarra - North
+Port Phillip - West
+Yarra - North
+Melbourne - Inner
+Yarra - North
+Melbourne - Inner
+Geelong
+Yarra - North
+Melbourne - Inner,Moreland - Brunswick
+Yarra - North
+Melbourne - S'bank-D'lands,Port Phillip - West
+Maribyrnong
+Port Phillip - West,Yarra - North,Melbourne - S'bank-D'lands
+Melbourne - Inner
+Burleigh Heads
+Melbourne - Inner
+Manningham - West,Melbourne - Inner
+Yarra - North
+Melbourne - Inner,Yarra - North
+Manningham - West,Port Phillip - West,Melbourne - S'bank-D'lands,Yarra - North
+Yarra - North
+Yarra - North,Yarra Ranges - Lilydale
+Port Phillip - West,Yarra - North
+Yarra Ranges - Seville
+Macedon Ranges Bal
+Yarra - North,Port Phillip - West,Ainslie
+Douglas
+Yarra - North
+Port Phillip - West,Boroondara  - Kew
+Melbourne - Inner
+Moreland - Brunswick
+Yarra - North
+Gr. Bendigo - Central
+Sydney - Inner
+Yarra - North
+Port Phillip - West
+Port Phillip - St Kilda,Yarra Ranges - Dandenongs
+Yarra - North
+Melbourne - S'bank-D'lands
+Port Phillip - St Kilda,Melbourne - S'bank-D'lands
+Ainslie
+Port Phillip - West
+Port Phillip - West
+Butte
+Sydney - Inner
+Sydney - Inner
+Anand
+Sydney - Inner
+Santiago
+São Paulo
+Rio de Janeiro
+Los Angeles
+Dallas
+Hiroshima
+Kyoto
+Vladivostok gorsovet
+Vladivostok gorsovet
+Shkotovskiy rayon
+Randwick
+Sydney - Inner
+Blantyre City
+Mérida
+New York
+Clark
+Muang Chiang Mai,Mae Rim
+Muang Krabi
+Ko Phangan,,Bang Plee
+Chiang Saen
+Manchester
+Antwerpen
+Ba
+Muang Phuket
+Sydney - South
+Perugia
+Port Phillip - West
+San Francisco
+Communauté-Urbaine-de-Montréal,Toronto
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal,Niagara
+Benito Juárez
+Benito Juárez,Clark
+Auburn
+Cairns  - City
+Ipswich - East
+Surfers Paradise
+Maroochy - Nambour
+Barcelona
+Oklahoma
+Hakuba
+Kota Kinabalu
+Maricopa
+San Diego
+San Diego
+Nanaimo
+San Diego
+Seongnam
+Hamburg
+South Yorkshire
+Oxenford-Maudsland
+Botany Bay
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam,Pathum Wan,Ratchathewi,Chatuchak
+Pathum Wan,Bang Khae
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Hulu Langat
+São Paulo
+Sydney - Inner,Randwick
+Split,Omi
+Mljet,Korcula
+Dubrovnik
+Katela
+Pinkenba-Eagle Farm
+Mérida
+Cozumel
+Montes de Oca
+Santa Cruz
+Antigua Guatemala
+Los Angeles
+Los Angeles
+Mono
+Monterey
+Del Centro
+Tetipac
+Los Angeles
+Cachapoal
+Cachapoal
+Cachapoal
+Santiago
+Cachapoal
+Cachapoal
+Cachapoal
+Cachapoal
+Cachapoal
+Valdivia
+Cachapoal
+Sydney - Inner
+Baulkham Hills - Central
+Hornsby - North
+Hornsby - North
+Port Stephens
+Snowy River
+Whitsunday
+Hume - Craigieburn
+Randwick
+Randwick
+New York
+New York
+Hawaii
+Honolulu
+Port Phillip - West
+Clark
+Hamilton
+Hamilton
+Hamilton
+Pimpama-Coomera
+Jackson
+Johnson
+Jackson
+Phnom Penh
+Division No. 6
+Iquique
+Sydney - Inner
+Sydney - Inner
+Mittelfranken
+District of Columbia,Philadelphia
+New York
+Melbourne - S'bank-D'lands,Melbourne - Inner
+Sydney - Inner
+Whitehorse - Nunawading E.,Melbourne - Inner
+Monash - South-West
+Bayside  - Brighton
+Port Phillip - West
+Port Phillip - West
+Sydney - Inner
+Randburg
+Port Phillip - West
+Port Phillip - West,Hume - Craigieburn
+Tomisato
+Taito,Seto
+Shibuya
+Koto,Bunkyo,Osaka,Okayama,Himeji,Mimasaka,Yachiyo
+Sydney - Inner,Blacktown - South-East
+Melbourne - Inner
+Port Phillip - West
+Melbourne - Inner,Port Phillip - West
+Melbourne - Inner
+Brimbank  - Keilor
+Melbourne - Inner
+Moonee Valley - Essendon,Melbourne - Inner
+Gr. Bendigo - Central,Gr. Bendigo - Inner East
+Melbourne - Inner
+Hume - Craigieburn
+Melbourne - S'bank-D'lands
+Port Phillip - West
+Maroochy - Maroochydore
+Ko Samui
+Maroochy - Mooloolaba
+Maroochy - Coastal North
+Maroochy - Mooloolaba
+Waverley
+Katela
+Gianyar
+Badung
+Waverley
+Pune
+Udupi
+Chengdu
+Gard
+Cher
+Rijssen
+Aude
+Noosa - Noosa-Noosaville
+Noosa - Noosa-Noosaville
+Noosa - Noosa-Noosaville,Noosa - Sunshine-Peregian
+Maroochy - Mooloolaba
+Sydney - Inner
+Noosa - Noosa-Noosaville
+Noosa - Noosa-Noosaville,Noosa - Sunshine-Peregian
+Maroochy - Mooloolaba
+Noosa - Sunshine-Peregian
+Noosa - Noosa-Noosaville
+Beijing
+Sydney - East
+Sydney - Inner
+Sydney - West
+New York
+New York
+New York,Kings
+Kensington and Chelsea
+Westminster
+Islington
+Islington
+Cachapoal
+Benito Juárez
+Salvaleón de Higüey
+
+Benito Juárez
+Botany Bay
+Edinburgh
+Edinburgh
+Saint Charles
+Kit Carson
+Grand
+Serua
+Serua
+Byron
+San Francisco,Marin,New York
+New York
+New York
+Clark
+San Francisco
+Los Angeles
+Los Angeles
+New York
+New York,Kings
+Los Angeles
+Los Angeles
+H? Chí Minh city
+H? Chí Minh city,Khánh Hòa
+San Francisco
+Oxenford-Maudsland
+Darmstadt
+Combined statistics
+Uusimaa
+Northern Ostrobothnia
+Pirkanmaa
+Uusimaa
+Santiago
+Kiama
+Currumbin
+Helensvale
+Honolulu
+Kauai
+Kauai
+Arnsberg
+Arnsberg
+Weser-Ems
+Weser-Ems
+Arnsberg
+Baleares
+Baleares
+Darmstadt
+Weser-Ems
+Weser-Ems
+Sydney - Inner
+Weser-Ems
+Arnsberg
+Weser-Ems
+Weser-Ems
+Weser-Ems
+Weser-Ems
+Oberbayern
+Oberbayern
+Weser-Ems
+Weser-Ems
+Düsseldorf
+Oberbayern
+Oberbayern
+Oberbayern
+Arnsberg
+Oberbayern
+Weser-Ems
+Oberbayern
+Oberbayern
+Serik
+Oberbayern
+Oberbayern
+Oberbayern
+Devon
+Badung
+Badung
+Northern
+Solnechnogorskiy rayon
+Sydney - East
+Woollahra
+Sydney - East
+Woollahra
+Sydney - Inner
+Sydney - East,Sydney - Inner
+Sydney - East
+Sydney - Inner
+Ko Samui
+Ko Samui
+Ko Samui
+Ko Phangan
+Ko Samui
+Ko Samui
+Ko Samui
+Shanghai
+Badung
+Badung
+Phra Nakhon
+Muang Krabi
+Waverley
+Waverley
+Marne
+Seine-et-Marne
+Attica
+Attica
+Badung
+Mareeba
+Bà R?a - Vung Tàu
+Thalang
+Muang Phuket
+Nadroga/Navosa
+Hume - Craigieburn
+Badung
+Bass Coast  - Phillip Is.
+Mapo
+Dong
+Delhi
+Ba
+Niedersimmental
+Oberbayern
+Paris
+Melbourne - S'bank-D'lands
+Sydney - Inner,Sydney - East
+Paris
+Praha 1
+Praha 1,Wien
+Budapesti
+Medellín
+Cartagena de Indias
+Cartagena de Indias
+Sydney - Inner
+Muang Phuket
+Muang Phuket
+Muang Krabi
+Ko Samui
+Milton Keynes
+Wandsworth
+Amsterdam
+São José dos Pinhais
+San Diego
+San Diego
+San Diego
+San Francisco
+Paris
+Westminster
+Southwark
+San Francisco
+San Francisco
+Westminster
+Westminster
+Arezzo
+Boone
+Cook
+Boone
+Saint Louis
+Orleans
+Davidson
+Boone
+Honolulu
+Los Angeles
+Squamish-Lillooet
+Niagara
+São Paulo
+Belo Horizonte
+São Paulo
+Rio de Janeiro
+São Carlos
+São Carlos
+São Paulo
+Salvador
+Itacaré
+Yarra - North
+Ba
+Ba
+Thalang
+Badung
+Badung
+Badung
+New York
+Alpes-Maritimes
+Distrito Federal
+Mosman
+Barossa  - Tanunda,Mount Barker  - Central,Adelaide
+Moyne - South
+Greater Geelong - Pt B,Port Phillip - West
+Paris
+Bouches-du-Rhône
+Bas-Rhin
+Bas-Rhin
+Bas-Rhin
+Bas-Rhin
+Freiburg
+Bas-Rhin
+Westminster
+Bas-Rhin
+Bas-Rhin
+Florence
+Matosinhos
+Vizcaya
+Bas-Rhin
+Milano
+Bas-Rhin
+Bas-Rhin
+Islington
+Brent
+Jung
+Buk
+Buk
+Gangseo
+Wien
+Sydney - Inner
+Lee
+San Francisco
+San Mateo
+San Francisco
+San Mateo
+Multnomah
+San Mateo
+Kunming
+Kunming
+La Spezia
+Hvar
+Bol
+Budapesti,Praha 1,Praha 7
+Paris
+Port Phillip - West
+Greater Geelong - Pt B
+Main Beach-South Stradbroke,Oxenford-Maudsland
+Main Beach-South Stradbroke
+Hangzhou
+Hangzhou
+Hangzhou
+Orange
+Coconino
+West Yorkshire
+West Yorkshire
+Reykjavík
+Ringerike
+Hole
+Marin
+San Mateo,Tehama
+Washington
+San Mateo
+San Mateo
+Russell
+Rawalpindi
+Northern Areas
+Islamabad
+Islamabad
+Browns Plains
+Sydney - Inner
+Hume - Craigieburn
+Port Phillip - West
+Hume - Broadmeadows
+Colac-Otway - Colac
+Islamabad,Hume - Craigieburn
+Hume - Craigieburn
+New York,Queens,District of Columbia,Fairfax,Alexandria
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Hume - Craigieburn
+Whatcom
+Whatcom
+Petrolândia
+Recife
+Recife
+Recife
+Recife
+Los Angeles
+Coconino
+Honolulu
+Oxenford-Maudsland
+Summit
+Summit
+Routt
+Boulder
+Greater Vancouver
+Division No. 15
+Columbia-Shuswap
+Columbia-Shuswap
+Columbia-Shuswap
+Columbia-Shuswap
+Fraser-Fort George
+Division No. 15
+Greater Vancouver
+Clark
+Main Beach-South Stradbroke
+Taipei City
+Capital
+Shoalhaven - Pt B
+City - Inner,South Brisbane
+City - Inner,Oxenford-Maudsland
+City - Remainder
+South Brisbane
+Muang Chiang Mai
+Muang Chiang Mai
+Chun
+Chun
+Muang Chiang Mai
+Orange,Los Angeles
+Los Angeles
+Orange
+San Diego,San Francisco,Marin,Honolulu
+Orange
+Chacabuco
+Libertador,Barrancabermeja
+Barrancabermeja
+Barrancabermeja
+Brasília
+Hà N?i,Westminster,Haputale
+Muang Rayong
+Pasay City
+Banaue
+Clark
+Kensington and Chelsea
+Surrey
+Lào Cai
+Phnom Penh
+Chatham
+Ba
+Ba
+Ba
+Melbourne - Inner,Port Phillip - West,Stonnington - Prahran
+Ba
+Sydney - Inner
+Leichhardt
+Leichhardt
+Randwick
+South Brisbane
+South Brisbane
+South Brisbane,Newstead
+Beaudesert  - Pt B
+Port Phillip - West
+Port Phillip - West
+Melbourne - Inner
+Santiago
+Valparaíso
+São Paulo
+Itanhaém
+Osaka
+Sydney - Inner
+Sutherland Shire - East
+Melton Bal
+Melton Bal,Port Phillip - West
+Manly
+Sydney - West
+Sydney - Inner
+Squamish-Lillooet
+Taoyuan
+Lat Krabang
+Westminster
+London
+Merseyside
+Merseyside
+Merseyside
+Merseyside
+Merseyside
+Merseyside
+Merseyside
+Merseyside
+Merseyside
+Merseyside
+Manchester
+Derbyshire,Venezia
+Praha 1
+Wien,Paris
+Camden,Paris
+Merseyside
+Merseyside
+Merseyside
+West Sussex
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Squamish-Lillooet
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Phra Nakhon,Hua Hin
+Hua Hin
+Muang Chiang Mai
+Houixai
+Qu?ng Bình
+Qu?ng Nam
+Riverside
+East Kootenay
+Sauk
+Sauk
+Sauk
+Sauk
+Cook
+Udaipur
+Hume - Craigieburn
+Hume - Craigieburn
+Sydney - East
+Sydney - Inner
+Sydney - East,Sydney - Inner
+Golfe (incl Lomé)
+Golfe (incl Lomé)
+Tarragona
+Gers
+Gers
+Badung
+El Nido
+Sydney - Inner
+Utsunomiya
+Shibuya
+Bunkyo,Koto,Chuo
+Shibuya
+Shibuya
+Bunkyo
+Shiwa
+Gotemba
+San Mateo,Clark,Los Angeles,Orange
+Currumbin
+Shah Alam
+Phra Nakhon
+Kathu
+Langkawi
+Buk
+Kesbewa
+Haringey
+Westminster,Haringey
+Tower Hamlets
+Barcelona
+Brent
+Alpes-Maritimes
+Cyclades
+Berlin
+Hertfordshire
+Amsterdam
+Hope Island
+Broadbeach-Mermaid Beach
+San Diego
+San Diego
+Los Angeles
+San Francisco
+Los Angeles
+Los Angeles
+Hope Island
+Pinkenba-Eagle Farm
+Sydney - Inner
+Los Angeles
+Los Angeles
+San Francisco
+Nakano
+Nakano
+Bunkyo,Osaka
+Osaka
+Osaka
+Osaka
+Minato,Sumida,Taito
+Los Angeles
+Los Angeles
+Los Angeles
+Nakano,Minato
+Minato
+Paris
+Nakano
+Nakano
+Edogawa
+South Brisbane
+Nakano
+Shibuya
+Minato
+Shibuya,Los Angeles
+Joondalup
+Joondalup
+Joondalup
+Joondalup
+Taguig
+Jongro
+Makati City
+Oxenford-Maudsland
+Greater Bombay
+Valencia
+Sydney - Inner
+Westminster
+Westminster
+Westminster
+Paris
+Westminster
+Westminster
+Surrey
+Yannawa
+Huai Kwang,Phra Pra Daeng
+Chatuchak
+Bang Plee,Muang Phuket
+Khlong Toey
+Bang Plee
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Whitsunday
+La Paz
+Jefferson
+Yokosuka
+Yokosuka
+Melbourne - Inner
+Suffolk
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+National Capital District
+Los Angeles
+Riverside
+New York,Kings,Multnomah
+Multnomah
+Multnomah
+Clackamas,Deschutes,Crook
+Los Angeles
+Badung
+Badung
+Bangli
+Multnomah
+Multnomah,Clark
+Multnomah
+Los Angeles
+Maui
+Honolulu,Maui
+Westminster
+Haut-Rhin,Freiburg,Zürich,Paris,Yvelines
+Westminster,Hackney,Havering
+Newham
+Anyang,Puyang,Clark
+Shah Alam
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Multnomah
+Orange,Los Angeles
+Los Angeles
+Orange
+Multnomah
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Maui
+Los Angeles
+Los Angeles
+Kings,New York
+New York
+Los Angeles
+Clackamas
+Haut-Rhin
+Los Angeles
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+King
+Los Angeles
+Los Angeles
+Marin
+Bang Rak
+Lat Krabang
+Si Racha
+Lat Krabang
+Muang Chon Buri
+Yannawa
+Pathum Wan
+Lat Krabang
+Sandakan
+Jinhae
+Jung
+Sydney - South
+Seongnam
+Barcelona
+Sydney - Inner,Waverley
+Sydney - Inner
+Noosa - Noosa-Noosaville
+Lot-et-Garonne
+Lot-et-Garonne
+Johor Baharu
+Kota Kinabalu
+Ba
+Port Phillip - West
+Florianopolis
+Florianopolis
+Port Phillip - West
+Melbourne - Inner
+Melbourne - Inner
+Gyeyang
+Jongro
+Jongro
+Los Angeles
+San Luis Obispo
+San Francisco
+Los Angeles
+Los Angeles
+Ba
+Pará de Minas
+Armação dos Búzios
+Belo Horizonte
+Pará de Minas
+Coração de Jesus
+Pará de Minas
+Santiago
+Guarulhos
+Pará de Minas
+Santa Luzia
+Belo Horizonte
+Pará de Minas
+Pará de Minas
+Maraú
+Nova Lima
+Nova Lima
+Blue Mountains
+Botany Bay
+Botany Bay
+Bentong
+Shah Alam,Jalandhar
+Patiala
+Kullu
+Seongbuk
+Seongbuk,Seodaemun
+Seongbuk
+Jongro
+Kings
+Jakarta Selatan
+Hà N?i
+Th?a Thiên - Hu?
+Lâm Ð?ng
+H? Chí Minh city
+Sydney - South
+Parramatta  - Inner,Blacktown  - North,Sydney - Inner
+Blacktown - South-East
+Baulkham Hills - Central
+Ba
+Sydney - Inner
+Sydney - Inner
+Honolulu
+Honolulu
+Capital
+Kensington and Chelsea
+New York
+Melbourne - Inner
+Eight Mile Plains
+Chermside
+Miami
+Badung
+Pathum Wan,Wattana
+Muang Phitsanulok
+Pathum Wan
+Muang Phitsanulok
+Muang Phitsanulok
+Chino
+Nagoya
+Shinshushin
+Nagoya
+Chino
+Hazu
+Suzuka
+Nagoya
+Gamagori
+Kuwana
+Oharu
+Kuwana
+Kaizu
+Suzuka
+Kuwana
+Taiki
+Komono
+Kuwana
+Yokohama
+Chino
+Kuwana
+Nagoya
+Nagoya,Minamichita
+Ise,Toba
+Nagoya
+Lake Biwa,Kyoto,Kuwana
+Kaizu,Nagoya
+Nagoya,Kuwana
+Ise
+Kuwana
+Yokkaichi,Kuwana,Jung
+Shibayama
+Yokohama
+Kuwana
+Narita
+Sydney - Inner
+Armadale
+Milton
+Chermside
+Hà N?i,Shinjuku
+Shinjuku,,Cook,Taipei City,Enfield,Camden,Shah Alam,Shibuya
+Hà N?i
+Bunkyo,,Wiltshire
+Sydney - Inner
+Melbourne - Inner
+Melbourne - Inner
+South Brisbane,City - Inner
+Randwick
+Rio de Janeiro
+Port Phillip - West
+Hobsons Bay - Williamstown
+Sydney - Inner
+Sydney - Inner
+Sydney - East,Sydney - Inner
+Zaanstad,Bruxelles,Amsterdam
+Paris
+Côte-d'Or,Yvelines,Paris,Wasseramt,Luxembourg,Guangzhou
+Leichhardt
+Leichhardt,Sydney - Inner
+Sydney - Inner,Melbourne - Inner
+Vincent
+entjernej
+entjernej
+entjernej
+entjernej
+entjernej
+Cres
+Cres
+Vrsar
+Thüringen
+Thüringen
+Thüringen
+entjernej
+Ljubljana
+entjernej
+Cres
+Jinan
+Jining
+Dalian
+Santafé de Bogotá
+Guatapé
+Guatavita
+Santafé de Bogotá
+San Francisco
+Bega Valley,Shoalhaven - Pt B
+Port Stephens
+Milton
+Shibuya
+Wanneroo
+Honolulu
+Joondalup
+Shah Alam
+Shah Alam
+Sumida
+Chuo
+Palilula
+Budapesti
+New York
+King,Pierce
+Pierce
+Chiyoda
+Kathu
+Kathu
+Khankayskiy rayon
+Badung
+Ussuriyskiy rayon
+Ussuriyskiy rayon
+Kathu
+Cheongdo
+Gapyeong,Seongbuk
+Hume - Craigieburn
+Adelaide
+Kalgoorlie/Boulder
+Surselva
+Visp
+Peniche
+Eagle
+Shemiranat,Theran
+Alvaro Obregón
+San Mateo,Botany Bay
+Melbourne - Inner
+Port Phillip - West
+Hertfordshire
+Florence
+Roma
+Sydney - South,Marrickville
+Newcastle - Inner City
+Los Angeles
+Teton
+Honolulu
+Honolulu
+Honolulu
+Melbourne - Inner
+Marin
+Amritsar
+Suffolk
+Qu?ng Nam
+Gianyar
+Adelaide
+Botany Bay
+Paradise Point-Runaway Bay
+Willoughby
+Willoughby
+Gosford - East
+H? Chí Minh city
+H? Chí Minh city
+Manchester
+Sydney - South
+Sutherland Shire - East
+Sydney - South,Sydney - Inner
+Sydney - Inner
+Sagaga le Falefa
+ísla de Pascua
+ísla de Pascua
+Aiga i le Tai
+Honolulu
+Honolulu
+Los Angeles
+Clark
+Honolulu
+Clark
+Mohave
+Dist. Tlacolula
+Dist. Pochutla
+Panajachel
+Antigua Guatemala
+Granada,Diriomo
+San José
+Puntarenas
+Santa Cruz
+Cusco
+Puno
+Pedro Domingo Murillo
+Pedro Domingo Murillo
+ísla de Pascua
+ísla de Pascua
+Santiago,Cordillera,Maipo
+Gianyar
+Badung
+Honolulu
+Honolulu
+Toronto
+Greater Vancouver
+Division No. 15
+Waverley,Sydney - Inner
+Sepang
+South Brisbane,Boonah
+Sydney - Inner
+Los Angeles
+Paris
+Cook
+London,Westminster
+Westminster
+Westminster
+Cardiff
+Kathu
+Pathum Wan
+Lâm Ð?ng
+Sydney - Inner
+Orange
+Shanghai
+Shanghai
+Hà N?i
+Sydney - Inner
+Randwick
+Sydney - Inner
+Lancashire
+Douglas
+San Francisco
+Los Angeles
+San Diego
+Los Angeles
+Honolulu
+Baleares
+Southend-on-Sea
+Manchester
+Sathorn,Pathum Wan,Chatuchak
+Gosford - West,Hornsby - North,Sutherland Shire - West
+Wollongong - Inner,Kiama
+Lima
+Lima
+Lima
+Lima
+Lima
+Lima
+Lima,Pisco
+Lima
+Pinellas
+Bristol
+Bristol
+Bristol
+South Gloucestershire
+Bristol
+Lima
+Drni,Zadar
+Bristol
+Bristol
+Kathu
+Oxenford-Maudsland
+Muskegon
+Lake,Cook
+Kota Kinabalu,Penampang
+Gadong
+Kianggeh
+Miri
+Kilanas
+Kuala Belait
+Guarulhos
+São João da Boa Vista
+Poços de Caldas
+São João da Boa Vista
+Ba
+Paris
+Taoyuan
+Honolulu
+Columbia-Shuswap
+Columbia-Shuswap
+Greater Vancouver
+Greater Vancouver
+Westminster
+Edinburgh
+West Yorkshire
+Camden
+Wiltshire
+Sydney - Inner
+Sydney - Inner
+Westminster
+Camden
+Rockdale
+Barcelona
+Westminster
+Maricopa
+Palm Beach,Southport
+Noosa - Noosa-Noosaville
+Maroochy - Mooloolaba
+Maroochy - Mooloolaba
+Seine-et-Marne
+Badung
+North Sydney
+Botany Bay,Sydney - East
+Los Angeles
+Los Angeles
+Sydney - Inner
+Surfers Paradise
+Los Angeles
+Los Angeles
+Santa Cruz
+San Francisco
+Clark
+Clark
+Noosa - Noosa-Noosaville
+Mitchelton,Pinkenba-Eagle Farm
+Melbourne - Inner
+Yarra - Richmond,Melbourne - Inner,Kingston - North
+Honolulu
+Honolulu
+Honolulu
+Randwick
+Ko Samui
+Blacktown  - North,Sydney - East
+Edinburgh
+Edinburgh,Paris
+Paris
+Hammersmith and Fulham
+Wandsworth,Kensington and Chelsea,Camden,Lambeth
+Mansfield
+Wakefield
+Adelaide,Unley - East
+Barossa  - Angaston
+Adelaide
+Maribyrnong,Stonnington - Prahran
+Strathbogie
+Port Phillip - West
+Honolulu
+Medan
+Gianyar
+Banyuwangi
+Hà N?i
+Hà N?i
+H? Chí Minh city
+Phra Nakhon
+Bagmati
+Narayani
+Narayani
+Bagmati
+Odongk
+Siem Reab
+Kampot
+Bagmati
+Los Angeles
+Hume - Craigieburn
+Yarra Ranges - Dandenongs,Port Phillip - West
+Port Phillip - West
+Maroochy - Nambour
+Warwickshire
+Central
+Sankt-Peterburg gorsovet
+Berlin
+Sydney - Inner
+Sydney - Inner
+Mosman
+Sydney - Inner
+Waverley
+Port Phillip - West
+District of Columbia
+Seogwipo
+Jongro
+Melbourne - Inner
+Melbourne - S'bank-D'lands,Melbourne - Inner
+Wayne
+Johnson
+Cook,Barcelona
+Manche
+Seine-Maritime
+Antwerpen
+Amsterdam
+Klaipedos
+Stockholm
+Sankt-Peterburg gorsovet
+Stryn
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Uusimaa
+Stryn
+Corfu
+Napoli
+Cádiz
+Cook
+Sydney - Inner
+City
+Probolinggo
+Kota Semarang
+Kathu
+Bouches-du-Rhône
+São Luis
+São Luis
+Los Angeles
+Los Angeles
+Los Angeles
+Cornwall
+Goodwood
+New York
+Port Phillip - West,Melbourne - Inner
+Port Phillip - West
+Melbourne - S'bank-D'lands
+Sydney - Inner,Sydney - East
+Sydney - Inner
+Sydney - East
+Sydney - Inner,Randwick
+Yarra Ranges - Seville
+Melbourne - S'bank-D'lands,Melbourne - Inner
+Maui
+Honolulu
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal,Thérèse-De Blainville
+La Rivière-du-Nord
+Suffolk,Middlesex
+Communauté-Urbaine-de-Montréal
+Joliette
+Laval
+Communauté-Urbaine-de-Montréal
+Squamish-Lillooet
+Squamish-Lillooet
+Squamish-Lillooet
+Squamish-Lillooet
+Squamish-Lillooet
+Squamish-Lillooet
+Squamish-Lillooet
+Greater Vancouver
+Badung
+Denpasar
+Buleleng
+Gianyar
+Badung
+Badung
+Badung
+Badung
+Buleleng
+Cowichan Valley
+Cowichan Valley
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Málaga
+Sochi gorsovet
+City - Inner
+Surfers Paradise
+Taipei City
+Benton
+Multnomah
+Taipei
+Hackney
+Beijing
+Beijing
+Beijing
+Los Angeles,Orange,San Mateo,Summit
+Summit
+Summit,Los Angeles
+Berlin
+Orange,Los Angeles,San Mateo,San Francisco
+Clark
+Los Angeles,Orange
+Nara,Shibuya,Jung,Minato,Jongro
+Honolulu
+Honolulu
+East Lothian
+Edinburgh
+Edinburgh
+Honolulu
+Honolulu
+Columbia-Shuswap
+Columbia-Shuswap
+Greater Vancouver
+Greater Vancouver
+Honolulu
+San Francisco
+San Mateo,Cook
+Cook
+Cook
+Robina,Byron
+Camden
+Badung
+Auburn,Warringah,Woollahra,Wollongong - Inner
+Warringah,Sydney - Inner
+Warringah
+Warringah,Manly
+Kensington and Chelsea,Westminster,Hertfordshire
+Somerset
+Edinburgh,Paris
+Venezia
+Berlin
+Greater Vancouver
+Jakarta Utara
+Jakarta Utara
+Jakarta Barat
+Sydney - Inner
+Byron
+Byron
+Melbourne - S'bank-D'lands
+Waverley
+Hornsby - North
+Manly
+Los Angeles
+Clark
+Clark
+Muang Trang
+Wake
+New York
+New York
+New York
+Sydney - Inner
+Pimpama-Coomera
+Oxenford-Maudsland
+Port Phillip - West
+Warringah
+Mosman
+Byron
+New York
+Caloundra - Caloundra S.
+Port Phillip - St Kilda
+Surfers Paradise
+Surfers Paradise
+Byron
+Surfers Paradise
+Surfers Paradise
+Tarrant
+Los Angeles,San Luis Obispo,Monterey
+San Luis Obispo
+Tyne and Wear
+Tyne and Wear
+Tyne and Wear
+Randwick
+Port Phillip - West
+Douglas
+Palauli le Falefa
+Palauli le Falefa
+Muang Krabi
+Louangphrabang
+Louangphrabang
+Muang Chiang Mai
+Badung
+Lombok Barat
+Badung
+Badung
+Cordillera
+San Francisco
+King
+Greater Vancouver
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Port Phillip - West
+King
+King
+Paris
+Paris
+Amsterdam
+Surrey
+Tower Hamlets,Westminster
+Camden
+Broadbeach Waters,Surfers Paradise
+Pinkenba-Eagle Farm
+Sydney - Inner,North Sydney
+Manly
+Oxenford-Maudsland
+Oxenford-Maudsland
+Sydney - Inner
+North Sydney
+Botany Bay
+Muang Phuket
+San Francisco
+Orange
+Niagara
+Greater Vancouver
+Sydney - Inner
+Whitsunday
+Whitsunday
+Waverley,Sutherland Shire - East
+Sydney - Inner
+Saratoga
+Davao City
+Davao City
+Davao City
+Knox - North-East,Whitehorse  - Nunawading W.
+Knox - North-East
+Port Phillip - West,Yarra Ranges - Seville
+Roma
+Muang Krabi
+Roma
+Squamish-Lillooet
+Escambia
+Wayne
+Rio de Janeiro
+Wayne
+Noosa - Noosa-Noosaville
+Port Phillip - West
+Narita
+Sydney - East
+Sydney - South
+Badung
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Baleares
+Baleares
+Salalah
+Fremantle
+Perth,Cockburn,Vincent
+Perth
+Suffolk
+New York
+Halifax
+Halifax
+Lunenburg
+Halifax,Guysborough
+Halifax
+Barcelona
+Barcelona
+Philadelphia
+Honolulu
+Honolulu
+Jaipur
+Agra
+Hoshangabad
+Pune
+Muang Nakhon Ratchasima
+Pathum Wan
+Bang Lamung
+Muang Chiang Mai
+Bulimba
+Bulimba
+Routt
+Beaudesert  - Pt C
+Mörbylånga
+Karlskrona
+Växjö
+Kalmar
+Jung
+Vladivostok gorsovet
+Vladivostok gorsovet
+Vladivostok gorsovet
+Badung
+Badung
+Badung
+Port Phillip - West
+Noosa - Noosa-Noosaville
+Noosa - Noosa-Noosaville
+Paradise Point-Runaway Bay
+Botany Bay
+Fortitude Valley,Cleveland
+Surfers Paradise
+Shanghai
+Delhi
+Delhi
+Kelaniya
+Habaraduwa
+Habaraduwa
+Habaraduwa
+Habaraduwa
+Ko Phangan
+Kinta
+Taoyuan
+Taipei,Taoyuan
+Taipei City
+Chiayi
+Taipei City
+Hualien
+Nantou
+Hume - Craigieburn
+Botany Bay
+Surfers Paradise
+Los Angeles
+Southport,Biggera Waters-Labrador
+San Francisco
+Clackamas
+Monroe
+Bern
+Bern
+Bern
+Bern
+Roma
+Roma
+Las Palmas
+La Gruyère
+Interlaken
+Bern
+Bern
+Bern
+Bern
+Vlaams Brabant
+Bern
+Bern
+Zaragoza
+Barcelona
+Tallinn
+Bern
+Pays-d'Enhaut
+Luzern
+Grindavík
+Milano
+Bern
+Grímsnes- og Grafningshreppur
+Bern
+Bruxelles
+Vilniaus
+Riga
+Zakynthos
+Bakirköy
+Newcastle - Throsby
+Newcastle - Throsby
+Bayside  - Brighton
+Port Phillip - West
+Yarra - North
+Port Phillip - West
+Westminster
+Salzburg
+Salzburg Umgebung,Salzburg
+Sydney - South,Sydney - Inner
+Cardiff
+Bristol
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Salzburg
+Surfers Paradise,Biggera Waters-Labrador
+Lombok Barat
+Stonnington - Prahran
+Burleigh Waters
+City - Inner,Annerley
+Hume - Craigieburn
+Milton
+Karlsruhe
+Freiburg
+Sydney - Inner
+Middlesex
+Melbourne - S'bank-D'lands
+Los Angeles
+Los Angeles
+District of Columbia
+Niagara
+New York
+Freiburg
+Freiburg
+Glasgow
+North Ayshire
+Glasgow
+North Ayshire
+West Yorkshire,North Yorkshire
+North Yorkshire
+Edinburgh
+Inverclyde,Fife
+Richmond upon Thames
+Richmond upon Thames
+Glasgow
+Toronto
+Renfrewshire
+Inverclyde
+Inverclyde
+Inverclyde
+West Lothian
+North Yorkshire
+Kingston upon Thames
+Melbourne - S'bank-D'lands,Port Phillip - West
+Bülach
+Bern
+Las Palmas
+Las Palmas
+Las Palmas
+Innsbruck
+Oberbayern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Nittedal
+Tromsø
+Bern
+Praha 1
+Jakarta Selatan
+Yogyakarta,Kota Semarang
+Jongro
+Salvador
+Phra Nakhon
+Ko Phangan
+Muang Chiang Mai,Mae Rim
+Muang Chiang Mai
+Ngoi
+Louangphrabang
+Louangphrabang
+H? Chí Minh city
+Bang Na
+Honolulu
+Honolulu
+Sydney - Inner,Waverley
+City - Inner
+Ko Phangan
+Girona
+Girona,Alpes-Maritimes
+Halle
+Halle
+Chemnitz
+Cambridge
+Cambridge
+Cambridge
+Cambridge
+Augusta-Margaret River
+Augusta-Margaret River
+Perth,Cambridge
+Cambridge
+Cambridge
+Perth
+Sydney - Inner
+Osaka
+Koto
+Guarulhos
+João Pessoa
+Cabedelo
+Auburn
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - East
+Sydney - Inner
+North Sydney
+Sydney - East
+Sydney - West
+Haute-Savoie,Monthey
+Haute-Savoie
+Haute-Savoie
+Haute-Savoie
+Haute-Savoie
+Haute-Savoie
+Haute-Savoie
+Pas-de-Calais,Northamptonshire
+Cheshire
+Stange,Manchester,Lillehammer,Øyer
+Denbighshire
+West Midlands
+Highland
+Cheshire
+Manchester
+Manchester
+Ceredigion
+Trento
+Trento
+Haute-Savoie
+Haute-Savoie
+Zell am See
+Muang Chiang Mai
+Shah Alam
+Kuantan
+New Hanover
+Cairns - Northern Suburbs
+Surfers Paradise
+Gianyar
+Gianyar
+Shanghai
+Baoshan
+Beijing
+Ko Samui
+Antigua Guatemala
+Riverside
+Multnomah,King
+Multnomah
+New York
+Queens,New York,Varese
+Los Angeles
+Los Angeles
+Los Angeles
+New York
+Shanghai
+Beijing
+Multnomah,Thurston,King
+King
+King,Los Angeles
+Manly,Sydney - Inner
+Sumida
+Koto
+Los Angeles
+Maribyrnong
+Maribyrnong
+Bang Plee
+Maribyrnong
+Hobsons Bay - Williamstown
+Stonnington - Prahran
+Wattana
+San Francisco
+San Francisco
+Melbourne - Inner,Melbourne - S'bank-D'lands
+Port Phillip - West,Hume - Craigieburn
+Sydney - Inner
+Sydney - Inner
+Cardiff
+Westminster
+Westminster
+Tainan City
+Taipei City
+City - Remainder
+Taipei City
+Melton Bal
+Alameda
+El Dorado
+King
+Los Angeles
+San Mateo
+Great Lakes
+Berlin
+Berlin
+Berlin
+Sydney - Inner
+San Francisco,Tarrant
+Davidson,Richmond,Mecklenburg
+New York
+New York
+Byron
+Wiltshire
+San Mateo
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,San Bernardino
+Hamilton
+Wien
+San Francisco
+Los Angeles
+La Paz
+Yarra - Richmond
+Kuching
+Kuching
+Redcliffe-Scarborough
+Jongro,Suwon
+Jongro
+Sydney - Inner
+Barcelona
+Lagos
+Sevilla
+Gladstone
+Roma
+Venezia
+Praha 1
+Sydney - Inner
+Jakarta Utara
+Sydney - Inner
+Sydney - Inner
+Hume - Craigieburn
+Badung
+Badung
+Shah Alam
+Westminster
+Westminster
+Paris
+Genova
+Amsterdam
+Noosa - Noosa-Noosaville
+Yokohama
+Melbourne - Inner
+Tovar
+Hope Island
+Surfers Paradise
+Timur Laut
+Medan
+Medan
+Medan
+Klungkung
+Klungkung
+Melipilla
+Melipilla
+Santiago
+Muang Phuket
+Osaka
+Sydney - Inner
+Phra Nakhon
+Cape
+Goodwood
+Haute-Corse
+Haute-Corse
+Mosman,Sydney - Inner
+Los Angeles,Oberbayern
+Berlin
+Cairns  - City
+Cairns  - City
+Cairns  - City
+Cairns  - City
+Cairns  - City
+Byron,Robina
+Seodaemun
+Seodaemun
+Muang Phuket
+Muang Phuket
+Maroochy
+Byron
+Byron
+Byron
+Maroochy - Mooloolaba
+Hamilton
+Central Okanagan
+Fraser Valley
+King
+Fraser Valley
+Lombok Barat
+Shah Alam
+Shah Alam
+Chanthabuly
+Muang Chiang Rai
+San Isidro
+Cairns  - City,Mareeba
+Douglas
+Eacham
+Caruaru
+Caruaru
+Curitiba
+Balneário Arroio do Silva
+Piracicaba
+Curitiba,São José dos Pinhais
+Curitiba
+Curitiba
+Curitiba
+Rio de Janeiro
+Curitiba
+Curitiba
+Guarujá
+Balneário Arroio do Silva
+Muang Chiang Rai,Mae Suai,Muang Chiang Mai
+Wang Thonglang
+Pathum Wan
+Phra Nakhon,Muang Nakhon Pathom
+Pathum Wan
+Botany Bay
+Bang Kapi,Muang Nonthaburi
+Chatuchak,Muang Nonthaburi
+Muang Nonthaburi
+Melbourne - Inner,Melbourne - S'bank-D'lands,Yarra - North
+Wang Thonglang,Chatuchak
+Wang Thonglang
+Rockdale
+Pathum Wan,Khlong Toey
+Bang Yai
+Muang Nonthaburi
+Pak Chong
+Wang Thonglang
+Wattana
+Muang Nonthaburi,Bung Kum
+Phaya Thai,Chatuchak
+Ratchathewi
+Thawi Wattana
+Min Buri,Chatuchak
+Muang Suphanburi,Doembang Nangbua
+Muang Nonthaburi
+Hakone,Nakano,Narusawa,Mitaka,Chuo
+Bang Yai,Pak Kret
+Muang Nonthaburi,Pran Buri,Pak Kret
+Muang Chanthaburi
+Muang Nonthaburi
+Lat Phrao
+Pathum Wan
+Wattana
+Rockdale,Bang Plee
+Narita,Taito
+Cha-Am
+Chatuchak
+Pak Kret
+Bang Kruai
+Bang Plee,Sydney - Inner
+Brimbank - Sunshine
+Yarra - Richmond
+Timur Laut
+Timur Laut
+Surrey
+Waverley
+Sydney - Inner
+Ko Phangan
+Amsterdam
+'s-Gravenhage
+Amsterdam
+Berlin,Haarlemmermeer
+Amsterdam
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Port Phillip - West
+Los Angeles,San Francisco
+San Francisco
+Hume - Craigieburn
+Melbourne - Inner
+Port Phillip - West
+Mosman
+Stockholm
+Hillingdon
+Roma
+Roma
+Huai Kwang
+Beijing
+Oberbayern
+Genève,Lausanne
+Muang Chiang Mai
+Muang Chiang Mai
+Westminster
+Delhi
+Budapesti
+Muang Chiang Mai
+Delhi
+Sydney - Inner
+Sydney - Inner
+Taipei City
+Camden
+Barcelona
+Fatih
+Kas
+Fatih
+Surfers Paradise
+San Pedro Cholula
+Cuernavaca
+Ocoyucan
+Orange
+Orange
+Azcapotzalco
+Guadalajara
+Miami-Dade
+Azcapotzalco
+Zoquiapan
+Azcapotzalco
+Guadalajara
+Clark
+El Paso
+Azcapotzalco
+Naucalpan de Juárez
+Querétaro
+Setagaya
+Shibuya
+Kawasaki
+Osaka
+Shibuya
+Kings
+Queens,Rockdale
+Los Angeles
+San Francisco
+Honolulu
+Maui
+Honolulu
+Honolulu
+Sydney - Inner,Cessnock
+Los Angeles
+Paris,Val-d'Oise
+Paris
+Lisboa
+Marrakech,Madrid
+Paris
+Roma
+Roma
+Siena
+Venezia
+Berlin
+New York
+Kings
+Kings
+Kings
+Los Angeles
+Los Angeles
+Los Angeles
+Sydney - Inner,Sydney - South
+Seixal
+Lancashire
+West Midlands
+Melbourne - S'bank-D'lands,Melbourne - Inner
+Yarra - North,Darebin- Northcote,Melbourne - Inner
+Puyang,Clark
+Clark,Mohave,Los Angeles
+Orange,Los Angeles,New York
+Hudson,New York
+Clark
+Greater Vancouver
+Squamish-Lillooet
+Squamish-Lillooet
+Squamish-Lillooet
+Squamish-Lillooet
+Greater Vancouver
+Squamish-Lillooet
+Greater Vancouver
+New York
+Los Angeles
+Kings
+Kings
+New York
+New York
+New York
+New York,Queens
+Kings
+New York
+Kings
+Queens
+New York
+New York
+Kings
+Nassau
+New York
+New York
+New York
+Queens
+Los Angeles
+Denver
+San Diego
+Los Angeles
+London
+Paris
+Barcelona
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Belfast
+Brescia
+Palermo
+Belfast
+Merseyside
+Belfast
+Navarra
+Surrey
+Richmond upon Thames
+Muang Satun
+Muang Satun
+Xianning
+Warringah
+Westminster
+Westminster
+Kensington and Chelsea
+Alpes-Maritimes
+Alpes-Maritimes
+Denpasar,Klungkung,Badung
+Badung
+Badung
+Badung
+Badung
+Melbourne - Inner,Melbourne - S'bank-D'lands
+Muang Krabi
+Ceredigion
+Marmaris
+Marmaris
+Marmaris
+Ba
+Port Phillip - West
+Port Phillip - West
+Hume - Craigieburn
+Gosford - West
+San Antonio de Areco
+Distrito Federal
+Ko Phangan
+Ko Samui
+Muang Krabi
+Benito Juárez
+Oxenford-Maudsland,Coolangatta
+Sydney - Inner
+Cook
+Santa Clara
+Los Angeles
+Kings
+Byron
+Pinkenba-Eagle Farm
+Hume - Craigieburn
+Harris
+Pathum Wan
+Pathum Wan
+Bang Plee
+Pathum Wan
+Kathu
+Pathum Wan
+Pathum Wan
+Yarra - North
+Glen Eira - South
+Melbourne - Inner
+Port Phillip - West
+Melbourne - Inner
+Hume - Craigieburn
+Pathum Wan
+Yarra - Richmond
+Hume - Craigieburn
+Bung Kum
+Muang Chon Buri
+Samphantawong
+Clark
+Clark
+Ventura
+Los Angeles
+City - Remainder
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Honolulu
+Lambeth
+Brent
+Sydney - Inner
+Sydney - Inner
+Jung
+Gwang-jin
+Ulju
+Santo André
+Santo André
+Badung
+San Francisco
+San Francisco
+Westminster,Tower Hamlets,Miami-Dade,Kensington and Chelsea
+Squamish-Lillooet
+Squamish-Lillooet
+Pinkenba-Eagle Farm
+Noosa - Noosa-Noosaville
+Hume - Craigieburn
+Yarra - Richmond
+Haarlemmermeer
+Westminster
+Edinburgh
+Paris
+Gloucestershire
+Westminster
+Lubbock
+Port Phillip - West
+Melbourne - Inner
+Port Phillip - West
+Port Phillip - West,Melbourne - Inner
+Badung
+Gunnison
+Denver
+Taipei City
+Timur Laut
+Kota Tinggi
+Johor Baharu
+Kota Tinggi
+Kota Tinggi
+Makati City
+Manila
+Paris
+Medellín
+Santafé de Bogotá
+Dosquebradas
+Medellín
+Gombak
+Medellín
+Medellín
+Rionegro
+Medellín
+Piedecuesta
+Panamá
+Cartagena de Indias
+Medellín
+San Diego
+San Francisco
+San Francisco
+Santa Clara
+Maui
+Honolulu
+Sonoma,Maui
+San Francisco
+New York
+Shibuya,Edogawa
+Edogawa,Minato
+Kyoto
+Hiroshima
+Edogawa
+Muang Phuket
+Muang Phuket
+Bang Kruai
+Prawet
+Din Dang
+Din Dang
+Muang Chiang Mai
+Muang Chiang Mai
+Fortitude Valley
+Byron
+Perth,Vincent,Stirling
+Kingston upon Hull
+Sydney - South
+Sydney - South
+Venezia
+Santa Clara
+Derbyshire
+Derbyshire
+Wiltshire
+Cambridgeshire
+Seine-et-Marne
+Paris
+Davao City
+Arakan
+Sydney - Inner
+Hammersmith and Fulham,Westminster,Camden,Ealing,West Midlands
+Westminster
+Ninh Bình
+Sydney - Inner
+Samarinda
+Sydney - Inner
+Sydney - Inner
+Caloundra - Rail Corridor,Caloundra - Caloundra N.
+Shoalhaven - Pt B
+Maui,Honolulu
+Honolulu
+Roma
+Berlin
+Tower Hamlets
+Kensington and Chelsea
+Hangzhou
+Morón
+Cordillera
+Cordillera
+Gloucestershire
+Fatih
+Split
+Sarajevo
+Palilula
+Budapesti
+Vaucluse
+Paris
+Haute-Garonne
+Haute-Garonne
+Phra Nakhon
+Haute-Garonne
+Haute-Garonne
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Bristol
+Westminster
+Bristol
+Bristol
+Cardiff,Rhondda,Cynon,Taff
+Bristol
+Westminster
+Stonnington - Prahran
+Stonnington - Prahran
+Brimbank  - Keilor,Stonnington - Prahran,Melbourne - S'bank-D'lands
+Shah Alam
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Los Angeles,Riverside
+New York
+New York,Queens
+New York,Los Angeles
+Waverley,Auburn
+Westminster
+Westminster,Camden
+Berlin,Amsterdam
+Paris
+Split
+Dubrovnik
+Dubrovnik,Roma
+Alpes-Maritimes
+Alpes-Maritimes
+Barcelona
+New York
+New York,San Francisco
+San Francisco
+Los Angeles
+Blue Mountains
+E. Gippsland - Bairnsdale
+Shoalhaven - Pt B
+São Paulo
+Salvador
+Mohave
+Clark
+Sydney - Inner
+Mosman
+Port Phillip - West
+Siem Reab
+Dangkao,Phnom Penh
+H? Chí Minh city
+Fatih
+Oost-Vlaanderen
+Milano
+Seixal
+São Miguel dos Milagres
+Port Phillip - St Kilda,Melbourne - Inner,Port Phillip - West
+Salerno
+Salerno
+Roma
+Salerno
+Shinjuku
+Shibuya,Nakano
+South Brisbane,Fig Tree Pocket,New Farm
+Pinkenba-Eagle Farm,South Brisbane,City - Inner
+City - Remainder,City - Inner
+South Brisbane
+City - Inner,Fortitude Valley,City - Remainder
+Nouméa
+Nouméa,Païta
+Adelaide,Holdfast Bay - North,Sydney - Inner
+Sydney - Inner,Botany Bay
+Nouméa
+Nouméa
+Nouméa
+Païta
+South Brisbane
+Charles Sturt - Inner East
+Port Adel. Enfield - Coast
+Melbourne - Inner
+Badung
+Perth,Stirling
+Melbourne - Inner,Port Phillip - St Kilda
+Paris
+Oxenford-Maudsland
+Port Phillip - West,Melbourne - Inner,Mornington P'sula - South
+Melbourne - Inner
+Osaka
+Brimbank - Sunshine
+Hume - Craigieburn
+Paris
+Riverside
+Makati City
+Azcapotzalco
+Sydney - East,Woollahra
+Waverley,Sydney - East
+Waverley
+Sydney - Inner,Willoughby
+Sydney - East
+Sydney - East
+Sydney - Inner
+Gosford - West
+Ko Phangan
+Muang Krabi
+Phra Nakhon
+Muang Sukhothai
+Muang Chiang Mai
+Muang Chiang Mai
+Muang Chiang Rai
+Sydney - East
+Sydney - East
+Woollahra
+Randwick
+Sydney - Inner
+Waverley
+Amsterdam
+Kensington and Chelsea
+Westminster
+Amsterdam
+Hume - Craigieburn
+Sepang
+Port Phillip - West
+Port Phillip - West
+Yarra - North
+Port Phillip - West
+Port Phillip - West
+Melbourne - Inner,Port Phillip - West
+Melbourne - Inner
+Melbourne - Inner
+Corangamite - South
+Melbourne - S'bank-D'lands
+Port Phillip - West
+Tawau
+Tawau,Shah Alam
+Melbourne - S'bank-D'lands
+Port Phillip - West,Port Phillip - St Kilda
+Hamburg
+Berlin
+Edinburgh
+Edinburgh
+Edinburgh
+Falls Creek Alpine Resort
+Yarra - North
+Sepang
+Tawau
+Tawau
+Port Phillip - West
+Melbourne - S'bank-D'lands
+Port Phillip - West
+Melbourne - Inner
+Shah Alam
+Shah Alam,Sepang
+Shah Alam
+Port Phillip - West
+Wyndham - South
+Melbourne - S'bank-D'lands
+Port Phillip - West,Melbourne - S'bank-D'lands,Port Phillip - St Kilda,Melbourne - Inner
+Boroondara  - Camberwell S.
+Corangamite - South
+Port Phillip - West
+Melbourne - S'bank-D'lands
+Koto,Chiyoda
+Minato
+Narita
+Melbourne - S'bank-D'lands
+Port Phillip - West
+Ninh Bình
+Chuo
+Izumisano
+Chiyoda
+Yarra - North
+Melbourne - Inner
+Edinburgh
+Porto Alegre
+Rio de Janeiro
+Rio de Janeiro
+Porto Alegre
+Waverley
+Los Angeles
+Seine-Saint-Denis
+Oise
+Darmstadt
+Wyndham - North
+Makati City
+Malay
+Makati City
+Pasay City
+Travis
+Pinkenba-Eagle Farm
+Siem Reab
+Maryborough,Perth,City - Inner
+Division No. 6
+Division No. 6
+Division No. 6
+Muang Nakhon Ratchasima
+Muang Nakhon Ratchasima
+Sydney - Inner
+Waverley
+Dane
+Cook
+Durham
+Biggera Waters-Labrador
+Port Phillip - West,Melbourne - Inner
+Moreton Island,Sydney - Inner
+Oberbayern
+Paris
+Paris
+Wiltshire,Manchester
+Fremantle
+Melbourne - S'bank-D'lands
+Waverley
+Caloundra - Caloundra S.
+Paombong
+Sydney - Inner
+Puerto Princesa City
+Puerto Princesa City,Mabalacat
+Sydney - Inner
+Amsterdam
+Tower Hamlets
+Amsterdam
+Amsterdam
+Amsterdam
+San Francisco
+New York
+Los Angeles
+Kensington and Chelsea
+Westminster
+Meknès
+Las Palmas
+New York
+Madrid
+Paris
+Rotterdam
+Uusimaa
+Hackney,Westminster
+King
+Greater Vancouver
+Sydney - Inner
+Port Phillip - West
+Haringey
+Hackney
+Westminster
+Newham
+Westminster
+Westminster
+Stockholm
+Ba
+Honolulu
+Honolulu
+Southend-on-Sea
+Melbourne - Inner,Port Phillip - West
+Stonnington - Malvern,Boroondara  - Camberwell S.
+Yarra - North
+Badung
+Ba,Nadroga/Navosa
+Nadroga/Navosa
+Los Angeles
+Manchester
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Los Angeles,Clark,Santa Clara,Middlesex,New Haven,Essex,New York,Mercer,Botany Bay
+New York
+Noosa - Noosa-Noosaville
+Santiago
+Santiago
+Ba
+Corangamite - South,Colac-Otway - South,Moyne - South
+Colac-Otway - South,Surf Coast - East,Port Phillip - West
+Melbourne - Inner,Melbourne - S'bank-D'lands
+Yarra - North
+Port Phillip - West
+Denpasar
+Badung,Gianyar
+Mornington P'sula - South,Gianyar,Lombok Barat
+Tabanan,Badung,,Buleleng
+Shah Alam
+Wattana
+Melbourne - Inner,Thon Buri,Lombok Barat
+Bang Plee
+Surrey
+Savoie
+Savoie
+Savoie
+Fife
+West Sussex
+Richmond upon Thames
+West Sussex
+Islington
+Westminster
+West Sussex
+West Sussex
+Portsmouth
+West Sussex
+West Sussex
+Richmond upon Thames
+Cambridgeshire,Surrey
+Seine-Saint-Denis
+Kensington and Chelsea
+West Sussex
+Hampshire
+Surfers Paradise
+Surfers Paradise
+Manchester
+Craigavon
+Camden,Pas-de-Calais,Barcelona
+Paris
+Roma
+New York
+Philadelphia
+New York,Kings
+New York
+Sacramento,Yolo
+San Francisco
+Orange,San Diego
+Horry
+Vaimauga West
+Vaimauga West
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Bà R?a - Vung Tàu
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Gombak
+Shah Alam
+Shah Alam
+Shah Alam
+Bagmati
+Bagmati
+Xiangxi Tujia and Miao
+Tianjin
+Cessnock
+Osaka
+Himeji
+Sydney - Inner
+Puntarenas
+New York
+Göteborg
+New York
+New York
+Orange
+Taito
+Highland
+Roma
+Roma
+Sydney - Inner,Port Phillip - West
+Phnom Penh
+Phnom Penh
+Siem Reab
+Muang Chiang Mai
+Los Angeles
+Essex
+San Francisco
+Isanti
+Clark
+New York
+New York
+Hume - Craigieburn
+Hume - Craigieburn
+New York
+New York
+Clark
+New York
+New York
+Orange
+Jackson
+Jackson
+Randburg
+Chatswoth
+Camperdown
+Yarra - North
+Vaimauga West
+Vaimauga West
+Yinchuan
+Yinchuan
+Yinchuan
+Shanghai
+Xiamen
+New York
+New York
+New York
+New York
+New York
+Kings
+Los Angeles
+La Spezia
+Roma
+Shanghai
+Badung
+Paris
+Huai Kwang
+Bang Rak
+Siem Reab
+Shah Alam
+Berkshire
+Merseyside
+Lancashire
+Yarra - Richmond
+Devon
+Caloundra - Caloundra S.,Maroochy
+Postojna
+Florence
+Bouches-du-Rhône,Haute-Savoie
+Haarlemmermeer
+Honolulu
+Hawaii
+Maui
+Maui
+Honolulu
+Honolulu
+Shah Alam
+Pasay City
+Puerto Princesa City
+Tagaytay City
+Puerto Princesa City
+Nadroga/Navosa
+Los Angeles
+Orange,Los Angeles
+San Francisco,San Mateo,Alameda
+Los Angeles,Orange
+Los Angeles
+Orange
+San Francisco
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Ealing
+Buckinghamshire,Richmond upon Thames
+Richmond upon Thames
+Barcelona
+Richmond upon Thames
+Westminster
+Buckinghamshire
+Ealing
+Ealing
+Westminster
+Cheshire
+Bouches-du-Rhône
+Bouches-du-Rhône
+Brighton and Hove
+Bandung
+Kota Bandung
+Kota Bandung
+Jakarta Selatan
+Serang
+Taipei City
+Taipei City
+Taipei City
+Taipei City
+Manly
+City
+City
+City
+Oxenford-Maudsland
+South Brisbane
+Darmstadt,Barcelona
+Roma
+Milano
+Paris
+Paris
+Barcelona
+Barcelona
+Bang Plee
+Paris
+Pyeongchang
+Beijing
+Miri
+Taipei City
+San Luis Obispo
+San Luis Obispo
+London
+Westminster
+London,Suffolk,Lancashire
+Westminster
+Westminster
+Westminster
+West Midlands
+Barcelona,Lambeth
+Westminster
+Monterey,Suffolk,Cornwall
+Apache,Chaves
+Blue Mountains
+Byron
+Inyo,Izamal
+Alvaro Obregón
+Southport
+Cape
+Goodwood
+Simon Town
+Kempton Park
+Adelaide,Barossa  - Barossa
+Port Phillip - St Kilda
+Sydney - Inner
+Thessaloniki
+Haut-Rhin
+Malmö
+Shanghai,Yinchuan
+Shibuya,Taito
+Chuo
+Bronx
+Sydney - East
+Botany Bay
+Honolulu,Maui
+Maui
+Westminster
+Melbourne - Inner
+Sydney - Inner,Sydney - East
+Kensington and Chelsea
+South Ayrshire
+Highland
+Paris
+Paris
+Paris,Yvelines
+Los Angeles,Nassau
+Tulsa
+Kings
+Harris,Kings
+H? Chí Minh city
+Cebu City
+Florianopolis
+Florianopolis
+Phra Nakhon
+Los Angeles
+Warringah
+Holta- og Landasveit,Snæfellsbær
+Värmdö
+Como
+Lugano
+Paris
+Paris
+Kuils River,Piketberg
+Goodwood
+Squamish-Lillooet
+San Francisco
+Riverside,Clark
+Queens,New York
+Greater Vancouver
+Monterey
+Delhi
+Phaya Thai
+Kane
+Milano
+Paris
+Orange
+Los Angeles
+Los Angeles
+Curitiba
+Balsa Nova
+Surrey
+Berkshire
+Islington
+Camden
+Baleares
+Hampshire
+Surrey
+Hampshire
+Westminster,Camden
+Melbourne - Inner,Melbourne - S'bank-D'lands
+Badung
+Badung
+Badung
+Badung
+Botany Bay
+Paris
+Kensington and Chelsea
+Glasgow
+Oxfordshire
+Genova
+Florence
+Hammersmith and Fulham,Brent
+Brent
+Marmaris
+Westminster,Camden
+Camden
+Westminster
+Edinburgh
+Wattana
+Noosa - Noosa-Noosaville
+Noosa - Noosa-Noosaville
+Çerkezköy
+Besiktas
+Berlin
+Berlin
+Muang Phuket
+Gianyar
+Namtha
+Cusco
+Chanthabuly
+Alpes-Maritimes
+Port Adel. Enfield - Coast
+West Yorkshire
+West Yorkshire
+West Yorkshire
+Manchester
+Alpes-Maritimes
+West Yorkshire
+West Yorkshire
+West Yorkshire
+West Yorkshire
+Imperia,Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Haute-Savoie
+Genève,West Yorkshire
+Genève,West Yorkshire
+West Yorkshire
+West Yorkshire
+West Yorkshire
+Kathu,Ko Phangan
+Ko Phangan
+Ko Phangan
+Phra Nakhon
+Mae Rim
+Bang Na
+Hà N?i,H? Chí Minh city
+H? Chí Minh city,Ti?n Giang
+H? Chí Minh city
+H? Chí Minh city
+Rotterdam
+Reimerswaal
+Preveza
+Attica
+Rotterdam
+Rotterdam
+Alpes-Maritimes
+Southwark
+Westminster,Camden,Croydon
+Croydon
+Rotterdam
+Paris
+Rotterdam
+K. Ko Chang
+K. Ko Chang
+Botum Sakor
+Rotterdam
+Rotterdam
+Antwerpen
+Caloundra - Rail Corridor
+Miriam Vale
+Sydney - Inner
+Kota Kinabalu
+Kota Kinabalu
+Kota Kinabalu
+Kota Kinabalu
+Bandung
+Shenzhen
+Seine-et-Marne
+Jakarta Utara
+Tainan City
+Coffs Harbour - Pt A
+Coffs Harbour - Pt B,Surfers Paradise
+Badung
+Badung,Denpasar
+Gianyar,Tabanan
+Bang Lamung
+Thalang
+Darmstadt
+Darmstadt
+Wien
+Wien
+Pinkenba-Eagle Farm
+Kensington and Chelsea
+La Spezia,Milano
+Milano
+Venezia
+Milano
+Paris
+Madrid
+Santiago
+Cordillera
+Thon Buri
+Ko Phangan
+Th?a Thiên - Hu?,Qu?ng Nam
+Phnom Penh
+Siem Reab
+Yarra - North
+Valparaíso
+Melbourne - Inner,Boroondara  - Camberwell S.
+Suzhou
+Taipei City
+Amsterdam
+Praha 6,Dresden
+Oberbayern
+Venezia
+Roma
+Florence,Pisa
+Paris
+San Francisco
+San Diego
+Orange
+Los Angeles
+Yongsan
+Sokcho
+Manila
+Manila
+Horsens
+Camden
+Kensington and Chelsea
+Hillingdon
+Badung
+Lombok Barat
+Kings,New York
+New York
+New York
+New York
+Los Angeles
+San Francisco,Alameda
+Los Angeles
+Lago de Nicaragua
+Paris
+Lewisham
+Botany Bay
+Goiania
+Goiania
+Goiania
+Sydney - Inner
+Sydney - Inner
+Ko Phangan
+West Yorkshire
+Badung
+York
+York
+York
+Hillingdon
+Westminster
+Botany Bay
+Malay
+Badung
+Lombok Barat
+Hume - Craigieburn
+Muang Krabi
+Maui
+Glynn
+Glynn
+Davidson,Williamson
+Glynn
+Glynn
+Port Phillip - West,Manly
+Mittelfranken
+Paris
+Hässleholm
+Travis
+Stockholm
+Combined statistics
+Oxfordshire
+Hertfordshire
+Camden
+Paris
+Val-d'Oise
+Sevilla
+La Spezia
+Salamanca
+Venezia
+São Bernardo do Campo
+São Bernardo do Campo,São Paulo
+Niagara
+Durham
+Cook
+Westminster,Cardiff
+Westminster
+Hillingdon,Clark,San Mateo
+Clark
+Waverley,Rockdale,Sydney - Inner,Sydney - East
+Rewa
+Fig Tree Pocket
+Acapulco de Juárez
+Acapulco de Juárez
+Colima
+Benito Juárez
+Cyclades
+Napoli
+Lisboa
+Broward
+Currituck
+Lexington
+Richland
+San Francisco
+San Francisco
+District of Columbia
+Middlesex
+New York
+Queens,Honolulu
+Honolulu
+Honolulu
+Camden,Southwark
+Westminster,Kensington and Chelsea
+Camden
+Cardiff,Westminster
+Wiltshire
+Edinburgh
+Camden
+Camden
+Camden
+Lambeth,Westminster
+Paris
+Badung
+Badung
+Sydney - South
+Surfers Paradise
+Surfers Paradise
+Surfers Paradise
+Surfers Paradise
+Surfers Paradise
+Richmond Valley Bal
+Surfers Paradise
+Surfers Paradise
+Broadbeach Waters,Surfers Paradise
+Southport
+Broadbeach-Mermaid Beach
+Surfers Paradise
+Surfers Paradise
+Bilinga-Tugun
+Bundall
+Surfers Paradise,Parkwood-Arundel
+Clarence Valley- Coast
+Miami,Burleigh Heads
+Broadbeach-Mermaid Beach,Southport
+Burleigh Heads
+Broadbeach-Mermaid Beach,Ashmore-Benowa,Southport
+Bundall
+Surfers Paradise
+Bundall
+Southport,Surfers Paradise
+Broadbeach-Mermaid Beach,Bundall
+Currumbin Waters
+Yarra - North
+Muang Sa Kaeo
+Muang Sa Kaeo
+Muang Sa Kaeo
+Muang Sa Kaeo
+Muang Sa Kaeo
+Muang Sa Kaeo
+Shenzhen
+Muang Sa Kaeo
+Prawet,Muang Sa Kaeo
+Muang Sa Kaeo
+Muang Sa Kaeo
+Muang Sa Kaeo
+Pom Pram Sattru,Ratchathewi,Pathum Wan
+New York
+Upper Lachlan Shire
+Gianyar
+Langkawi
+Muang Krabi
+Muang Krabi
+Siem Reab
+Ba
+Nadroga/Navosa
+Kota Kinabalu
+Malay
+Makati City
+Muang Chiang Mai
+Pai
+Pai
+Pai
+Chanthabuly
+Hà N?i
+Mandalay
+Melbourne - Inner
+Melbourne - Inner
+San Diego
+San Diego
+San Francisco
+Orange
+San Francisco
+Azcapotzalco
+Dist. Tlacolula,San Cristóbal de las Casas
+Trinidad
+Flores
+Los Angeles
+Los Angeles,Makati City
+San Diego
+Sydney - Inner,Randwick
+Sydney - Inner
+Petrolina
+Penrith - West
+Jung
+Kyoto
+Toshima
+Orange
+Honolulu
+Honolulu
+H? Chí Minh city
+Qu?ng Nam
+Hà N?i
+Shah Alam
+Distrito Federal,Tigre
+n.a354
+Ubatuba
+Rio de Janeiro,Santiago
+Waverley,Manly
+Sutherland Shire - East
+Sydney - Inner
+Pittwater
+Waverley
+Durban
+Sydney - Inner
+Melbourne - Inner
+Melbourne - Inner,Port Phillip - West
+Los Angeles
+Multnomah
+King
+Capital
+Westminster,Camden,Hillingdon,Alpes-Maritimes,Southwark,Ealing,Berkshire
+Botany Bay,Sydney - Inner,Melbourne - Inner,Melbourne - S'bank-D'lands,Port Phillip - West
+Los Angeles,Multnomah,King,Capital
+Sydney - Inner
+Iligan City
+Ko Phangan
+Ko Phangan
+Langkawi,Shah Alam
+Merkez
+Heby
+Uppsala
+Riga
+Riga
+Halmstad
+Hammersmith and Fulham,Kensington and Chelsea
+Westminster
+Hackney
+Badung
+Gianyar
+Marin,San Francisco
+District of Columbia
+New York
+District of Columbia
+Muang Chiang Mai
+Muang Chiang Mai
+Sam Phran
+Bang Plee,Krathum Baen
+Mosman
+Sydney - South
+Taoyuan
+Taipei City
+Taipei City
+Taichung
+Miri
+Miri,Sibuti
+Melaka Tengah
+Muar
+Kinta
+Sydney - Inner
+Melaka Tengah
+Shah Alam
+Melaka Tengah
+Melaka Tengah
+Shah Alam
+Melaka Tengah
+Manly
+Shah Alam
+Melaka Tengah
+Shah Alam
+Johor Baharu
+Melaka Tengah
+Honolulu
+Honolulu
+Honolulu
+North Sydney
+Los Angeles
+Los Angeles
+Sydney - Inner
+Whitsunday
+Mosman
+Los Angeles
+Los Angeles
+Clark
+Los Angeles
+Shah Alam
+Monash - Waverley East,Melbourne - S'bank-D'lands,Monash - Waverley West
+Port Phillip - West,Maribyrnong,Monash - Waverley East
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Melaka Tengah
+Shah Alam
+Seocheon
+Roma,Zürich
+Westminster
+Pathum Wan
+Pathum Wan
+Chatuchak
+Amphawa
+Bang Su
+Pathum Wan
+Orange
+Muang Lampang
+Bang Su
+Pathum Wan
+Pathum Wan,Sathorn
+Pak Kret
+Pathum Wan
+Sathorn
+Bang Plee
+Oxenford-Maudsland
+Caloundra - Rail Corridor
+Furnas
+Los Angeles
+Lancaster,Furnas
+Seward
+Hume - Craigieburn,Badung
+Badung
+Badung
+South Brisbane,Botany Bay
+South Brisbane
+Byron
+Badung
+Badung
+Badung
+Jembrana
+Jembrana
+Badung
+Badung
+Badung
+Badung
+Klungkung
+Klungkung
+Byron
+Badung
+Byron
+Badung
+Coolangatta
+Frankston - West
+Burleigh Heads
+Los Angeles
+Aqaba
+Southwark
+Islington,,Amsterdam
+Antwerpen
+Denpasar
+Surabaya
+Kepulauan Riau
+Panglao
+Pasay City
+San Francisco
+Monterey
+Los Angeles
+Los Angeles,Riverside
+Riverside
+Clark,Mohave,San Francisco
+Badung
+Badung
+Dubrovnik
+Bol,Makarska
+Wien
+Venezia
+Girona
+Valencia
+Valencia
+Baleares
+Surfers Paradise
+Surfers Paradise
+Klungkung
+Buleleng
+Badung
+Badung
+Badung
+Kathu
+Ko Phangan
+Phra Nakhon
+Narita
+Bangli
+National Capital District
+Caloundra - Rail Corridor,South Brisbane
+National Capital District
+National Capital District
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Sydney - Inner
+Sydney - Inner
+Siem Reab
+Phnom Penh
+H? Chí Minh city
+Th?a Thiên - Hu?
+Bang Plee
+Mandalay
+Muang Krabi
+Barranca
+Barranca
+Lima
+Huamanga
+Lima
+Bahía Blanca
+Bahía Blanca
+Bình Thu?n
+Lima
+Los Angeles
+Los Angeles
+Fairbanks North Star
+New York
+District of Columbia
+Fairbanks North Star
+Perth
+Perth
+Sydney - South
+Randwick
+Sydney - West
+Auburn
+Wollongong Bal
+Sydney - East
+Hurstville
+Paris
+Sydney - Inner
+Douglas
+Cairns  - Barron
+Venezia
+Roma
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Paris
+Venezia
+Paris
+Westminster
+Seongdong
+Hume - Craigieburn,Port Phillip - St Kilda
+Nadroga/Navosa
+Sydney - Inner,Sydney - South
+Barcelona
+Paris
+Kanniyakumari
+Chennai
+Chennai
+Redcliffe-Scarborough
+Redcliffe-Scarborough
+Honolulu
+Sydney - East
+Sydney - Inner
+Witrivier
+Witrivier
+Pelgrimsrus
+Westminster,Camden
+Westminster
+Brighton and Hove,Westminster,Kensington and Chelsea
+Paris
+Florence
+Corfu
+Wien
+Praha 6
+Amsterdam
+Hackney,Westminster
+Tower Hamlets,Southwark
+Barcelona
+Barcelona,Madrid
+Madrid
+Guipúzcoa
+Westminster
+Westminster
+Alpes-Maritimes
+City - Inner,Fortitude Valley
+South Brisbane,City - Remainder
+Bay
+Dresden
+Brandenburg
+Campinas
+Clontarf
+Maroochy - Mooloolaba
+Sydney - Inner
+Manly,Sydney - South,Sydney - East
+Sydney - East
+San Francisco
+Clark
+New York
+Clark
+Sydney - Inner
+Leichhardt,Sydney - South
+New York
+Leichhardt,Sydney - Inner,Randwick
+New York
+Clark
+Los Angeles
+Clark
+Clark
+Melbourne - S'bank-D'lands
+Melbourne - S'bank-D'lands
+Hume - Craigieburn
+Stonnington - Prahran
+Hume - Craigieburn
+St Lucia
+Kinta,Sydney - Inner
+Gombak
+Hackney
+Alvaro Obregón
+Naucalpan de Juárez
+Santafé de Bogotá
+Santafé de Bogotá
+Queens,New York
+New York
+Sydney - Inner
+Gianyar
+Johnson
+Johnson
+Hertfordshire,Newham
+Rotterdam
+Rotterdam
+Genève
+Aosta
+Haute-Savoie,Aigle
+Haute-Savoie
+Paris,Seine-et-Marne
+Chuo
+Jakarta Pusat
+Jakarta Pusat
+Kota Bandung
+Denpasar
+Chuo
+Chuo,Bunkyo,Narita
+Chuo
+Yogyakarta,Magelang
+Chuo,Narita
+Jakarta Pusat
+Chuo,Chiyoda
+Badung
+Jakarta Pusat
+Ljubljana
+Pathum Wan
+Narita
+Badung
+Jakarta Pusat
+Como,Milano
+Jakarta Pusat
+Jakarta Pusat
+Chuo
+Cheshire
+Halton
+Squamish-Lillooet
+Blacktown  - South-West
+Blacktown  - South-West
+Melbourne - S'bank-D'lands
+New York
+Providence
+New York
+Randburg
+Inanda
+Durban
+Ba
+Ba
+Cornwall
+Brighton and Hove
+Anglesey
+Honolulu
+Los Angeles
+Los Angeles
+San Francisco
+Capital
+Division No. 15
+Reykjavík,Vestur-Eyjafjallahreppur
+Hrunamannahreppur
+Zaanstad
+Antwerpen
+Paris
+Porto
+Cessnock
+Sydney - East
+Paris
+Barcelona
+Guipúzcoa
+Pontevedra
+Porto
+Seixal
+Lisboa
+Lagos
+Madrid,Barcelona
+Waverley
+Magpet
+Pathum Wan
+Chatuchak
+Pathum Wan
+Makati City
+Panglao,Loboc
+Lapu-Lapu City
+Quezon City
+Makati City
+San Juan
+Makati City
+Makati City
+Makati City
+Mandaluyong
+Quezon City
+Makati City
+Calamba City
+Parañaque
+Makati City
+Kalookan City
+Calamba City
+Quezon City
+Quezon City
+Los Baños
+Quezon City
+Quezon City
+Quezon City
+Santa Rosa City
+Nagcarlan
+Kalookan City
+Quezon City
+Nadroga/Navosa
+Almaty (Alma-Ata)
+Karasayskiy
+Argyll and Bute,North Yorkshire,Westminster,Perthshire and Kinross
+Nadroga/Navosa
+Burnett  - Pt A
+East Pilbara
+East Pilbara
+Hackney
+Paris
+Brandenburg
+Stockton-on-Tees,North Yorkshire
+Stockton-on-Tees,Tyne and Wear
+Clark
+Durham
+Redcar and Cleveland
+Berlin
+Berlin,,North Yorkshire
+Stockton-on-Tees,Redcar and Cleveland
+North Yorkshire
+Amsterdam
+Rustenburg
+North Yorkshire
+Stockton-on-Tees
+Botany Bay,North Sydney,Sydney - Inner
+Xiangtan
+Xiangtan
+Nanning
+Nanning
+Changsha
+Nanning
+Nanning
+Nanning
+Nanning
+Changsha
+Wuhan
+Xiangtan
+Wuhan
+San Bernardino
+Xiamen
+Hennepin
+Cheongju
+Khong
+Cheongju
+Tübingen
+Camden
+Amsterdam
+Barcelona
+Barcelona
+Barcelona
+Paris
+Paris
+Dordogne
+Los Angeles
+Los Angeles
+Hills District
+Beaudesert  - Pt B
+New York
+Stockholm
+Newham
+Westminster,Stockholm
+Stockholm
+Stockholm
+Var
+K. Ko Chang
+Combined statistics,Lund
+Oslo,Vinje
+Vinje
+Vinje
+Oslo
+Ballarat  - Central
+Hume - Craigieburn
+Combined statistics
+San Francisco
+Paris
+Shanghai,Jiaxing
+Uusimaa
+Uusimaa
+Uusimaa
+Pirkanmaa
+Southern Savonia
+South Karelia,Southern Savonia
+Oxenford-Maudsland
+Main Beach-South Stradbroke,Currumbin,Helensvale
+Port Phillip - West
+Camden,Hertfordshire
+Kent
+Hackney
+Camden
+Camden,Kent,Nord
+Zagreb,Palilula
+Palilula
+Stari Grad,Palilula
+Palilula
+Praha 1,Praha 5
+Amsterdam,Camden
+Kensington and Chelsea
+Maroondah - Ringwood
+Port Phillip - St Kilda
+Maroondah - Ringwood
+Los Angeles,Clark
+Los Angeles
+Santa Cruz
+Travis
+Los Angeles
+Sydney - West
+Parramatta - North-West,Paris
+Shah Alam
+Muang Krabi
+Phra Nakhon
+Kings,Denver
+San Mateo,Alameda
+Multnomah
+Larimer
+Alameda
+Napa
+Alameda,San Francisco
+San Francisco
+Dan Makham Tia
+Sattahip,Muang Rayong,Bang Lamung,Muang Samut Songkhram
+Bang Lamung,Hua Hin,Pak Tho
+Bang Lamung
+Taoyuan
+Los Angeles
+Distrito Federal
+San Francisco
+Clark
+Hyderabad
+Tateyama
+Marin
+Marin
+Marin,Los Angeles,Orange
+Orange
+Los Angeles
+San Francisco
+Sydney - South
+Vaimauga West
+Vaimauga West
+Vaimauga West
+'s-Gravenhage
+'s-Gravenhage
+Kathu
+City - Remainder
+Los Angeles,Botany Bay,Boulder,Denver
+Boulder
+Boulder,Jefferson
+Boulder
+Denver,Boulder
+Denver
+Denver
+Denver,Boulder
+Denver,Saguache
+Denver
+Denver,Clear Creek,Summit
+Denver
+Adams,Denver,Mecklenburg,Miami-Dade
+Los Angeles
+Los Angeles,Orange,Riverside
+Clark,Benito Juárez
+Benito Juárez,Harris
+Denver
+Denver
+Boulder
+Denver
+Denver
+Denver
+Denver
+Denver,Boulder
+Denver
+Jefferson
+New York
+New York
+New York
+Kings
+Norfolk
+New York
+Philadelphia,Ocean,New York
+New York
+New York
+New York
+New York
+District of Columbia
+New York
+New York
+New York
+Cook
+Kings
+New York
+New York
+New York
+New York
+New York
+Philadelphia
+Kings
+New York
+Macon
+Orange
+Los Angeles
+Clark
+Los Angeles
+Meguro
+Koto,Takamatsu
+Wien
+Wien
+Nueva San Salvador
+Harris
+Cartagena de Indias
+Sydney - Inner
+Sydney - Inner,Manly,Hornsby - South
+Auburn
+Pittwater
+Butler
+Shibayama
+Schleswig-Holstein
+Schleswig-Holstein
+Schleswig-Holstein
+Barcelona
+Venezia
+Westminster
+Shenyang
+Shenyang
+Shenyang
+Sydney - West
+Manly,Warringah,Sydney - Inner,Waverley,Sydney - East,Mosman,North Sydney,Woollahra,Randwick
+Sydney - Inner,Rockdale
+Newcastle - Inner City
+Newcastle - Throsby
+Badung
+Badung
+Byron
+Melbourne - S'bank-D'lands
+Botany Bay
+Bang Rak,Bang Kho Laem
+Phnom Penh
+Phnom Penh
+Siem Reab
+Phnom Penh
+Pathum Wan
+Nyeri
+Niagara
+Sydney - Inner
+Mosman,Sydney - Inner,Canada Bay - Concord
+Botany Bay,Auburn
+Central Bosnia
+Central Bosnia
+Sarajevo
+Sarajevo
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Ryde,Canada Bay - Concord
+Lapu-Lapu City
+Tagbilaran City,Pasay City,H? Chí Minh city
+Qu?ng Nam
+Sydney - East
+Sydney - Inner
+Paris,Praha 1,Southwark
+Orange
+Kyoto
+Bagmati
+Bagmati
+New York
+Makati City
+Badung
+Thalang
+Waverley
+Sydney - Inner
+Brighton and Hove
+Alamosa
+San Juan,Coconino,Clark
+Clark
+Cumbria
+Cornwall
+Cornwall
+Cornwall
+Cornwall
+Cornwall
+Newcastle - Outer West
+Newcastle - Throsby
+Phra Nakhon
+K. Bang Sao Thon
+Hà N?i
+Hà N?i
+Hà N?i
+Khánh Hòa
+Colombo
+Shibuya
+Shibuya
+Shinjuku
+Rockdale,Sydney - Inner
+Honolulu
+Honolulu
+North Sydney
+Sydney - East
+Madrid
+Vizcaya
+Paris
+Roma
+Roma
+Monterrey
+Phra Nakhon
+Muang Chiang Mai
+Muang Chiang Mai,Pai
+Muang Chiang Mai
+Takua Thung
+Phra Nakhon
+Phra Nakhon
+H? Chí Minh city
+Hà N?i
+Chanthabuly
+Bijeljina
+Bijeljina
+Bijeljina
+Melbourne - Inner
+Knox - South
+Mornington P'sula - South
+Mornington P'sula - South
+Launceston - Pt C
+Launceston - Pt C
+Hume - Craigieburn
+Nadroga/Navosa
+Nadroga/Navosa
+Paris
+Port Phillip - West
+Port Phillip - West
+Batam
+Yarra - North
+Barcelona
+Hammersmith and Fulham
+Innsbruck
+Alpes-Maritimes,Rhône
+Honolulu
+South Goa
+North Goa
+Bangalore Urban
+Melbourne - S'bank-D'lands,Melbourne - Inner,Yarra - North
+Sydney - Inner
+Strathbogie
+Mornington P'sula - South
+Maroondah - Croydon
+Melbourne - S'bank-D'lands
+Ko Samui
+Minato
+Chiyoda,Minato
+Isesaki
+Hillingdon
+Glen Eira - South,Melbourne - Inner,Stonnington - Prahran
+Sydney - Inner
+Byron
+Byron
+Noosa - Noosa-Noosaville
+Isis,Rockhampton
+Johnstone
+Alice Springs- Stuart
+Alice Springs- Stuart
+Sydney - Inner
+Phra Nakhon Si Ayutthaya
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Oslo
+Combined statistics
+Combined statistics
+Combined statistics
+Southwark,Westminster,Tower Hamlets
+Kensington and Chelsea,Hertfordshire
+Dragsholm
+Combined statistics
+Stockholm
+New York
+New York
+New York
+New York
+Shah Alam
+Ballina
+Remainder of ACT
+Sydney - Inner
+Paris
+Chandler-Capalaba West
+Distrito Federal
+Pilar
+Pilar
+Pilar
+Port Phillip - St Kilda,Port Phillip - West
+Westminster,Paris
+Camden
+Westminster
+Hackney
+Camden
+Hackney
+Westminster
+Hackney
+Hackney
+Westminster
+Brighton and Hove
+Honolulu
+Honolulu
+Honolulu
+Beijing
+Gianyar
+Qingdao
+Örebro
+Örebro
+Noosa - Noosa-Noosaville
+Barcelona
+Honolulu
+Camden
+Westminster
+Barcelona
+Barcelona
+Westminster
+Greater Vancouver
+Barcelona
+Phra Nakhon,Bang Lamung
+Phra Nakhon
+Muntinlupa
+Pasig City,Muntinlupa,Mandaluyong
+Makati City
+Berlin
+Melbourne - S'bank-D'lands
+Clark
+Sydney - Inner
+Multnomah
+Sutherland Shire - East
+Sutherland Shire - East
+Waverley,Sutherland Shire - East
+Essex,Cornwall
+Cornwall
+Tower Hamlets,Camden,Westminster,Kensington and Chelsea,Southwark
+Essex,Baleares
+Westminster,Essex
+Hertfordshire
+Hertfordshire
+Los Angeles
+Sutherland Shire - East
+Hertfordshire
+Hertfordshire
+Essex
+Essex,Tower Hamlets
+Hertfordshire,Essex
+Ba
+Sutherland Shire - East
+Wollongong - Inner
+Wollongong - Inner
+Glamorgan-Spring Bay
+Hobart
+Cook
+Hennepin
+Clark
+Fayette
+Allegheny
+District of Columbia
+Jongro
+Los Angeles
+Dist. Pochutla
+Del Centro
+Miguel Hidalgo
+Tultitlán,Alvaro Obregón
+Waverley
+Muang Chiang Mai
+Distrito Federal
+Melbourne - S'bank-D'lands,Melbourne - Inner
+Naga City
+Sydney - Inner
+Sydney - East
+Surfers Paradise
+South Brisbane
+Sydney - West
+Seine-Saint-Denis,Paris
+Interlaken,Pisa,Roma,Verona,Venezia,Wien,Bratislava II,Budapesti,Kraków City,Praha 7,Praha 5,Praha 1,Berlin,Haarlemmermeer,Amsterdam,West-Vlaanderen,Camden
+Hulu Langat
+Shah Alam
+Shah Alam,Hulu Langat
+Bentong,Shah Alam
+Hulu Langat
+Shah Alam
+Hulu Langat
+Manjung
+Shah Alam
+Hulu Langat
+Shah Alam
+Bentong
+Shah Alam
+Hulu Langat
+Hulu Langat
+Shah Alam
+Sepang
+Taipei City
+Shah Alam
+Manjung
+Hulu Langat
+Hulu Langat
+Johor Baharu,Kota Tinggi
+Hume - Craigieburn
+Bagmati
+Ba
+Hà N?i
+Qu?ng Nam
+Augusta-Margaret River
+Perth,Augusta-Margaret River
+Itapevi
+Itapevi
+Osasco
+Armação dos Búzios
+Caraguatatuba
+São Paulo
+São Paulo
+Itapevi
+São Paulo
+Barueri,Osasco
+Osasco
+Barueri
+Peruíbe
+São Paulo
+São Paulo,Barueri
+Caraguatatuba
+Barueri
+Florianopolis
+Rockdale
+Muang Phuket
+Clark,San Bernardino,Woollahra
+Randwick
+Sydney - Inner
+King
+Muntinlupa
+Marikina
+João Pessoa
+Khlong Toey
+Badung
+Badung
+Shah Alam
+Kinta
+Galle Four Gravets
+Colombo
+Shah Alam
+Shah Alam
+Meguro
+Kumamoto
+Kumamoto
+Uto
+Kumamoto
+Kumamoto
+Kumamoto
+Uto
+Warringah
+Ba
+Kaeb
+Siem Reab,Lào Cai,Phnom Penh,C?n Tho
+Tainan City
+Taitung
+Taitung
+Wollongong - Inner
+Narita
+Edogawa,Chuo
+Manly
+Westminster
+Southwark
+Camden,Westminster
+Honolulu
+Lijiang
+North Sydney
+Cádiz
+Lane Cove
+Blue Mountains
+Sydney - Inner
+North Sydney,Waverley
+Sydney - Inner
+Botany Bay
+Cádiz,Málaga
+Los Angeles
+Denpasar,Badung
+Port Phillip - West
+Surf Coast - West
+Hà N?i
+Hà N?i,Lào Cai
+Qu?ng Nam
+H? Chí Minh city
+Sydney - East
+Sydney - South
+Ahmadabad
+Yarra - North
+San Francisco
+Port Phillip - West
+Maricopa
+San Diego
+San Diego
+Gila
+Rockdale
+Westminster
+Mono
+Mono
+Mono
+Mono
+Mono
+Mono
+Dongjak
+Sokcho,Goseong
+Seongdong
+Gwang-jin
+Miami-Dade
+Los Andes
+Shemiranat
+Shemiranat
+Waverley
+Ba
+Rewa
+Mae Chaem
+Bang Plee
+Khlong Toey
+Pathum Wan
+Osaka
+Shibuya
+Taito
+Port Phillip - West,Santiago,Cardenal Caro,Valparaíso
+Auburn
+Cheshire
+Manchester
+Surf Coast - East
+Shanghai
+Tuaban
+Badung
+Chiang Dao
+Denpasar
+Shah Alam
+Nouméa
+Nouméa
+Nouméa
+Cairns  - City
+Moselle
+Moselle
+Southwark
+Westminster
+Paris
+Isle of Wight
+Hillingdon
+Isle of Wight
+Isle of Wight
+Brent
+Westminster
+Westminster

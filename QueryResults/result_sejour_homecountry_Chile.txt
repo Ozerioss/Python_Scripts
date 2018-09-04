@@ -1,0 +1,4895 @@
+Broward
+Cook
+Cook
+New York
+New York
+New York
+Azcapotzalco,Miguel Hidalgo,Naucalpan de Juárez
+Lima
+Distrito Federal,San Isidro
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Lacar
+Lima
+Cañete
+São Sebastião
+São Paulo
+Alameda
+São Paulo
+Verona
+Milano
+Verona
+Roma
+Roma
+Pedro Domingo Murillo
+Communauté-Urbaine-de-Montréal
+Orange
+Santafé de Bogotá
+Santafé de Bogotá
+Rió Chico
+Distrito Federal
+Rio de Janeiro
+Cuajimalpa de Morelos
+Cuajimalpa de Morelos
+Barcelona
+Barcelona
+Roma
+Venezia
+Seine-Saint-Denis,Roma
+Lima
+Cusco
+Cusco
+Lima
+Lima
+Distrito Federal
+Lima
+Pedro Domingo Murillo,Manco Kapac
+Talara
+Talara
+Garopaba
+Palavecino
+Iribarren
+Iribarren
+Iribarren
+Iribarren
+Iribarren
+Tacna
+Distrito Federal
+Bariloche
+Sydney - Inner,Rio de Janeiro
+Libertador
+Chacao
+Chacao
+Baruta
+Baruta
+Baruta
+Baruta
+Libertador
+Caroní,Libertador
+Baruta
+El Hatillo
+Sotillo,Independencia
+Libertador
+Amsterdam
+Brabant Wallon
+Paris
+Florence
+Varese
+Capital
+Valencia
+Barinas
+Miami-Dade
+Orange
+Volusia
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Capital
+Capital
+Lima
+Orange
+Osceola
+Orange
+Orleans
+Eagle
+Los Angeles
+Orange
+Los Lagos
+Salvador
+Cairu,Salvador
+Cairu
+Distrito Federal
+Distrito Federal
+Clark
+Paris
+Santa Clara
+Madrid
+Bariloche
+Capital
+Capital
+New York
+Roma
+Distrito Federal,Esteban Echeverría
+Distrito Federal
+Maracaibo
+Maracaibo
+Guayaquil
+Distrito Federal
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+Lago Argentino
+Lago Argentino
+Lago Argentino
+Lago Argentino
+São Paulo
+New York
+Kings
+Distrito Federal
+Armação dos Búzios
+Armação dos Búzios
+New York
+Santafé de Bogotá
+Medellín
+Arraial do Cabo
+Pedro Domingo Murillo
+Suchitoto
+Capital
+Balneário Arroio do Silva
+Balneário Arroio do Silva
+Maceió (capital)
+Maceió (capital)
+Santafé de Bogotá,San Andrés
+San Andrés,Santafé de Bogotá
+Clark
+Cusco
+Cusco
+Cusco
+Orange
+Bariloche,Los Lagos,Futaleufú
+Madrid
+Madrid
+Madrid
+Valencia
+Madrid
+Westminster
+Paris,Westminster
+Roma
+Roma
+Campinas
+São Vicente
+New York
+New York
+Paris
+Paris
+Amsterdam
+Combined statistics
+Berlin
+Berlin
+Berlin,Praha 7
+Oberbayern,Salzburg
+Zell am See,Budapesti,Palilula
+Sisli,Attica
+Cyclades
+Cyclades,Attica,Thessaloniki,Stolichna,Sarajevo
+Dubrovnik,Wien,Venezia
+Florence,Roma,Napoli,Salerno
+Roma,Alpes-Maritimes
+Barcelona
+Barcelona
+Sevilla
+Madrid,Roma,Venezia,Toledo,Alpes-Maritimes
+Guipúzcoa,Pyrénées-Atlantiques
+Westminster,Camden,Kensington and Chelsea,Lambeth,Hackney,Newham,Gloucestershire,Paris
+Salvaleón de Higüey
+
+Los Lagos
+Lago Argentino
+Confluencia
+Confluencia
+Lago Argentino
+Distrito Federal
+H? Chí Minh city
+Capital
+São José dos Campos
+Taubaté
+Taubaté
+São Paulo
+Guarulhos
+Barcelona
+Barcelona
+Köln
+Köln
+São Paulo
+San Francisco
+San Francisco
+San Francisco
+Arequipa
+Cusco
+Fairfield
+Urubamba
+Urubamba
+Miami-Dade
+Paris
+Bariloche
+Iribarren
+Ospino
+Iribarren
+New York
+Centro Habana
+Cárdenas
+Cusco
+Urubamba
+Mariestad
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Fatih
+Paris
+Paris
+Milano
+Milano
+Camden
+Westminster
+Roma
+Barcelona
+Benito Juárez
+Cairu
+Cairu
+Bariloche,Los Lagos
+Bariloche,Los Lagos
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Darmstadt
+Darmstadt
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Paris
+Byron
+Girardot
+Distrito Federal
+Niterói
+Balneário Arroio do Silva
+Hillingdon,Guarulhos,Harrow,Westminster,Tower Hamlets,London,Camden,Val-d'Oise,Paris,Seine-Saint-Denis,Seine-et-Marne
+Hillingdon,Harrow,Westminster
+Paris
+Harrow
+Blumenau,Balneário Arroio do Silva
+Blumenau
+Paris
+Westminster
+Paris
+Cozumel
+Cozumel
+Santafé de Bogotá
+Contralmirante Villar
+Puerto López
+Puerto López
+Baños
+Baños
+Piura
+Hennepin
+Maceió (capital)
+Barra de São Miguel,Maceió (capital)
+Barra de Santo Antônio,Guarulhos,Maceió (capital)
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Rio de Janeiro
+Rio de Janeiro
+Armação dos Búzios
+Lima
+Distrito Federal
+Los Angeles
+New York
+Los Angeles
+Murcia
+Madrid
+Vera Cruz
+Aracati
+Aracati
+Icapuí
+Fortaleza
+Clark
+Los Angeles
+Aracati
+Benito Juárez,Cozumel
+Miami-Dade
+Aracati
+Lago Argentino
+Lago Argentino
+Lago Argentino
+Lago Argentino
+Lago Argentino
+Suffolk
+Middlesex,Suffolk
+Suffolk
+Suffolk
+New York
+Norfolk
+Santo André
+Toledo,Madrid,Valencia
+Barcelona,Valencia
+n.a339
+n.a354
+n.a354
+Rio de Janeiro
+Rio de Janeiro
+Lima
+Orange
+n.a354
+Salvador
+Cairu
+Salvador
+Capital
+Darmstadt
+Milano,Verona
+Dresden
+Barcelona
+Lago Argentino
+Distrito Federal
+Salvaleón de Higüey
+
+Maceió (capital)
+Maceió (capital)
+Maceió (capital)
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Hammersmith and Fulham
+Barcelona
+Madrid
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Milano
+Milano
+Miami-Dade
+Broward
+Miami-Dade
+Onslow
+Onslow
+Los Angeles
+Los Angeles,Santa Barbara
+Cusco
+Tacna
+San Rafael del Yuma
+Goodwood
+Knysna
+Knysna
+Kempton Park,Guarulhos
+Roma
+Konak
+Attica
+Casablanca
+Málaga
+Distrito Federal
+New York
+New York
+New York
+Los Angeles
+Cook
+New York,Hudson
+New York
+Cook
+Los Angeles
+Honolulu
+Cook
+Cook,Suffolk,Middlesex
+San Isidro,Distrito Federal
+Cook
+Los Angeles
+San Francisco
+Los Angeles,Riverside
+Orange
+Rio de Janeiro
+Cozumel
+Bariloche
+Distrito Federal,Bariloche
+Bariloche
+Capital
+Florianopolis
+Florianopolis
+Andrés Ibáñez
+Oropeza
+Porto Alegre
+Cairu
+Araricá
+Bocaiúva
+Capital
+Bariloche,Los Lagos
+Botany Bay
+Tasman
+Manchester
+Roma
+Balneário Arroio do Silva
+Pedro Domingo Murillo
+Azcapotzalco
+Asunción
+Asunción
+Valencia
+Valencia
+Valencia
+New York
+Bariloche
+Varginha
+Varginha
+Varginha
+Varginha
+Varginha
+Varginha
+Varginha
+Varginha
+Varginha
+Varginha
+Varginha
+Varginha
+Varginha
+Ushuaia
+Ushuaia
+Lago Argentino
+Lago Argentino
+Lago Argentino
+Erie
+Carson City
+Washoe,Whatcom
+King
+Talara
+Talara
+Beijing
+Beijing
+Beijing
+Queens
+Kings,New York
+New York
+Communauté-Urbaine-de-l'Outaouais
+Communauté-Urbaine-de-Montréal
+Toronto
+Papineau
+São Paulo
+Guaymallén
+Guaymallén
+Luján de Cuyo
+Capital
+Salvador,Cairu
+Rio de Janeiro
+Sydney - Inner
+Sydney - Inner
+Bariloche
+Distrito Federal
+Paris
+Paris
+Guayaquil
+São Paulo
+São Paulo
+São Paulo
+Harris
+Cozumel
+Los Lagos
+Paris
+Genève,Pays-d'Enhaut
+Harris
+Guarulhos,Florianopolis
+Florianopolis
+Cartagena de Indias
+Cartagena de Indias
+Madrid,Beyoglu
+A Coruña
+A Coruña,Paris,Roma
+Paris
+Clayton,Shinagawa
+Chuo,Taito,Shinagawa
+Huiliches,Aluminé
+Bariloche
+Bariloche
+Tacna
+Tacna
+São Paulo
+São Paulo
+São Paulo
+Genova
+Roma
+Paris
+San Francisco
+Baleares
+Baleares
+Kensington and Chelsea
+Portsmouth
+Vizcaya
+Lagos
+Callao
+Madrid
+Distrito Federal
+Cusco
+Vangvieng
+Qu?ng Nam
+Santa Marta (Dist. Esp.)
+Cartagena de Indias
+Madrid
+Westminster,Madrid
+Venezia,Florence,Barcelona
+Barcelona,Sevilla
+Val-d'Oise,Seine-et-Marne
+Biedma
+Distrito Federal
+New York
+New York
+Toluca
+Toluca
+Toluca
+Cusco
+Playas
+Samborondón
+Constanza
+Constanza
+Cercado
+Cercado
+Capital
+Paris,Vlaams Brabant,Bruxelles,Barcelona
+Barcelona
+Zell am See
+Zell am See
+Wien
+Distrito Federal
+Medellín
+Lima
+Lima,Callao
+Miami-Dade
+Miami-Dade
+Wien,Seine-Saint-Denis
+Seine-Saint-Denis
+Paris
+Wien
+Wien
+Paris
+Paris
+Westminster,Paris
+Verona
+Florence
+Westminster
+Paris
+Paris
+Paris
+Orange
+New York
+Kings
+New York
+Kings
+Kings
+New York
+New York,Queens
+Los Angeles
+San Bernardino,Riverside
+San Bernardino,Los Angeles,Riverside
+Los Angeles
+Los Angeles,Orange
+Clark
+Clark,San Francisco
+Natal,Extremoz
+Tibau do Sul,Natal
+Cozumel
+Porto Seguro
+Porto Seguro
+Miguel Hidalgo,Gustavo A. Madero
+Miguel Hidalgo
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+León
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+West-Vlaanderen
+Berlin
+Stockholm
+Baleares,Madrid
+Barcelona
+Sevilla
+Barcelona
+Barcelona,Seine-et-Marne
+New York
+Kings,New York
+Miami-Dade
+Miami-Dade
+Salvaleón de Higüey
+
+New York
+Distrito Federal
+San Rafael del Yuma
+San Rafael del Yuma
+San Rafael del Yuma
+San Rafael del Yuma
+San Rafael del Yuma
+San Rafael del Yuma
+Clark
+San Francisco
+Paris
+Santafé de Bogotá
+Berlin
+Berlin
+Amsterdam
+Westminster
+Salvaleón de Higüey
+
+Cabo Frio,Armação dos Búzios,Rio de Janeiro
+Armação dos Búzios
+Armação dos Búzios
+Armação dos Búzios
+Armação dos Búzios
+Armação dos Búzios
+Angra dos Reis
+Guarulhos
+São Paulo
+Los Angeles
+Distrito Federal
+Distrito Federal
+Clark
+Copacabana
+Bello
+n.a540
+Los Angeles
+Clark
+Jerusalem
+Bethlehem
+Jerusalem
+Kraków City
+Benito Juárez
+Cozumel
+Cozumel
+Cozumel
+Distrito Nacional
+Santo Domingo Este,Distrito Nacional
+Salvaleón de Higüey
+
+San Rafael del Yuma
+Cozumel
+Cozumel
+Distrito Federal
+Distrito Federal
+Libertador
+Baruta
+Chacao
+Chacao
+Libertador
+Baruta,Vargas,Libertador
+Port-au-Prince
+Port-au-Prince
+Barueri
+Libertador
+Port-au-Prince
+Port-au-Prince,Miami-Dade
+Baruta
+Brión
+Vargas
+Santafé de Bogotá,Zipaquirá,Orange,Cook
+Saint Louis,New York
+New York
+Hudson,District of Columbia
+District of Columbia,Loudoun
+Carrizal
+Libertador
+Chacao
+Vargas
+Port-au-Prince
+New York
+Camden,Burlington,Philadelphia
+Baruta
+Libertador
+Vargas
+Port-au-Prince
+Port-au-Prince
+Port-au-Prince
+Port-au-Prince
+Carrizal
+Libertador
+Vargas
+Escazú,Alajuela
+Escazú,San José
+Escazú,Santa Ana,Aguirre
+Carrizal
+Libertador
+Baruta
+Libertador,Chacao
+Libertador
+Vargas,Atures,Libertador
+Libertador
+Libertador,Chacao
+Libertador
+Vargas,Miami-Dade
+Libertador
+Libertador,Chacao,El Hatillo
+Libertador
+Libertador
+Vargas,Harris,,Essex
+Jerusalem
+Camden
+Camden,Burlington
+Bethlehem
+Libertador
+Libertador,Vargas,Carrizal
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Vargas
+Suffolk,Middlesex,,Rio de Janeiro
+Libertador
+Vargas
+Villa Elisa,Asunción
+Asunción
+Villa Elisa,Asunción
+Luque
+Luque
+Asunción,Luque
+Luque
+Asunción
+Distrito Federal
+Distrito Federal
+Distrito Federal,Asunción,Luque,Villa Elisa
+Distrito Federal
+Asunción
+Luque
+Asunción
+Luque
+Distrito Federal,Luque
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Asunción
+Ignacio Warnes,Andrés Ibáñez,Villa Elisa,Asunción,Luque
+Carrizal
+Sucre,Carrizal
+Distrito Federal
+Callao
+Asunción,Cercado,Ignacio Warnes
+Distrito Federal,Asunción,Luque
+Distrito Federal
+Pedro Domingo Murillo
+Pedro Domingo Murillo,Andrés Ibáñez,Ignacio Warnes,Asunción
+Distrito Federal,Tigre
+Asunción
+Asunción,Distrito Federal
+Clark,Miami-Dade
+Broward,Orange,Miami-Dade
+Clark
+São Paulo,Guarulhos,Asunción
+São Paulo,Belém,Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Distrito Federal
+Asunción
+Esteban Echeverría,Luque
+Burlington,Tarrant
+Miami-Dade
+Camden
+Burlington
+Philadelphia
+Miami-Dade
+Rainville
+Rio de Janeiro
+Narita
+Minato,Chiyoda,Meguro
+Osaka
+Kyoto,Osaka
+Osaka
+Narita
+Nakano
+Chiyoda
+Sumida
+Osaka
+Koto
+Osaka
+Distrito Federal
+Orange
+Orange
+Williamson
+Williamson
+Madrid
+Davidson
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Arequipa
+Cusco
+Cusco
+Ashiya
+Osaka
+Miyako
+Kobe
+Distrito Federal
+São Paulo
+Tacna
+Dutchess
+Dutchess
+Dutchess,Orange
+Dutchess
+São Paulo
+Barcelona
+Berlin
+Distrito Federal
+Baleares
+Paris
+Madrid
+Madrid
+Madrid
+Madrid
+n.a351
+Distrito Federal
+Lambayeque
+Palm Beach
+Venezia,Paris
+n.a354,Venezia,Paris
+Capital
+Iguazú
+San Andrés
+Arraial do Cabo
+Rio de Janeiro
+Tacna
+Miami-Dade
+Clark
+Fulton
+Distrito Federal
+Centro Habana
+Guadalajara de Buga
+Distrito Federal
+Paris
+Lima,Benito Juárez
+Cozumel
+Rio de Janeiro
+Rio de Janeiro
+Penha,Balneário Arroio do Silva
+Balneário Arroio do Silva
+Distrito Federal,Campana
+Köln
+Amsterdam
+Praha 1
+Maceió (capital)
+Maceió (capital)
+n.a289
+n.a351
+Ipojuca
+Ipojuca
+n.a351,Distrito Federal
+La Plata
+Tacna
+São Paulo
+São Paulo
+n.a354,n.a343
+Botkyrka
+Järfälla
+New York
+New York
+Santafé de Bogotá
+Bariloche
+Amsterdam
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+La Paz
+La Paz
+Panamá
+Rosario
+Rosario
+Bariloche
+New York
+Armação dos Búzios
+Kensington and Chelsea
+Lambeth
+Paris
+Haringey
+Hammersmith and Fulham
+Barcelona
+Westminster
+São Francisco do Sul
+Joinvile,Niterói
+Niterói,Cabo Frio
+Cabo Frio
+Cabo Frio
+Armação dos Búzios,Cabo Frio
+Cabo Frio,Armação dos Búzios
+Cabo Frio,Niterói,Rio de Janeiro
+Distrito Federal
+Callao
+Distrito Federal
+Camden
+Miranda
+Saint Joseph
+Cook
+Saint Joseph
+Santafé de Bogotá
+San Andrés
+Clark
+San Francisco
+San Francisco,Cook
+New York,Kings,Los Angeles
+Rio de Janeiro
+São Paulo,Tibau do Sul
+Rio de Janeiro
+Rio de Janeiro
+Santa Clara
+San Mateo
+San Francisco
+Darmstadt
+Amsterdam,Combined statistics
+Central
+Berlin
+Tarrant
+Palm Beach,Miami-Dade
+Palm Beach
+Clark
+Clark
+Mysore
+Distrito Federal
+Distrito Federal
+Rio de Janeiro
+Madrid
+Attica
+Cyclades
+Madrid
+Rio de Janeiro
+Cartagena de Indias
+Distrito Federal
+Oropeza
+Alpes-Maritimes,Agrigento
+New York
+New York
+New York
+Lacar
+Los Angeles
+Lima
+Tacna
+Cusco
+Curitiba
+Guarujá
+North Savonia
+North Savonia
+Santafé de Bogotá
+Medellín
+Medellín
+Angra dos Reis
+Plaza de la Revolución
+Centro Habana,Plaza de la Revolución
+Plaza de la Revolución,San Miguelito
+Lago Argentino
+Lago Argentino
+Pedro Domingo Murillo
+Sydney - Inner
+Sydney - Inner,Waverley
+Byron
+Sydney - Inner
+Sydney - Inner
+Sydney - East
+Sydney - Inner
+Sydney - East
+Sydney - Inner
+Hurstville
+Sydney - Inner
+Sydney - Inner
+Waverley
+Randwick
+Noosa - Noosa-Noosaville
+El Nido
+Huai Kwang
+Muang Chiang Mai
+Mae Taeng
+Hà N?i
+Lào Cai
+Lào Cai,Chanthabuly
+Andrés Ibáñez
+Ko Phangan
+H? Chí Minh city
+Gianyar
+Lombok Barat
+Lombok Barat
+Sathorn
+Urubamba
+Urubamba
+Urubamba
+Lima
+Lima
+New York
+Madrid
+Barcelona
+Barcelona
+Barcelona
+West-Vlaanderen
+Bruxelles
+Madrid,Roma,,Genova
+Genova,Alpes-Maritimes
+Azcapotzalco
+Ezequiel Montes
+Lima
+Distrito Federal
+Mangaratiba
+Rio de Janeiro
+Lima
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Rio de Janeiro
+Rio de Janeiro
+Clayton
+District of Columbia
+Fairfax
+District of Columbia
+District of Columbia
+District of Columbia
+Clayton
+Benito Juárez
+Distrito Federal
+Distrito Federal
+Muang Phuket
+Kathu,Muang Phuket
+Orange
+Güer Aike
+Distrito Federal
+Distrito Federal
+Niagara,Waterloo
+Distrito Federal
+Distrito Federal,Esteban Echeverría
+Cusco
+Cusco
+Cusco
+Cusco
+Madrid
+Cook
+Walworth,Cook
+Cook,Miguel Hidalgo,Azcapotzalco,Alvaro Obregón
+Lima,Callao
+Distrito Federal
+King,San Mateo
+São Paulo,Rio de Janeiro
+Rio de Janeiro
+Distrito Federal
+Distrito Federal
+Queens
+New York
+New York,Queens
+Miami-Dade
+Miami-Dade
+Orange
+Hudson
+Marion
+Distrito Federal
+Naucalpan de Juárez
+Lago Argentino,Distrito Federal
+Roteiro,Marechal deodoro,Barra de São Miguel
+Miami-Dade
+Eagle
+Eagle
+Guangzhou,Zhanjiang
+Cuernavaca,Ningbo,Guangzhou
+Celestún,Mérida
+Izamal,Valladolid,Cozumel
+Westminster,Southwark
+Merseyside
+Merseyside
+Division No. 15
+Division No. 15
+New York
+Huixquilucan
+Cottonwood
+Urubamba
+Cusco
+Distrito Federal
+Distrito Federal
+Belo Horizonte
+São Paulo
+São Paulo
+São Paulo,Belo Horizonte
+Guarulhos
+São Paulo
+São Paulo
+Belo Horizonte
+New York
+New York
+New York
+New York
+Girardot
+Paris
+Ocumare de la Costa de Oro
+
+Cabo Frio
+Cabo Frio
+Cabo Frio
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Penha
+Distrito Federal
+Distrito Federal
+n.a540
+Cairu
+Cairu,Guarulhos
+Cairu
+Urubamba
+Rio de Janeiro
+Queens
+Biedma
+Güer Aike
+Alvaro Obregón
+Vargas
+Ko Samui
+Ko Phangan
+Phra Nakhon
+Bangkok Yai
+Siem Reab
+Qu?ng Nam
+Los Lagos
+São Paulo
+Paris
+Oberbayern
+Rocklea
+Beaudesert  - Pt B
+Beaudesert  - Pt B
+Beaudesert  - Pt B
+Balneário Arroio do Silva
+Balneário Arroio do Silva
+Urubamba
+Querétaro
+Puerto Vallarta
+Puerto Vallarta
+Querétaro
+Osceola,Orange
+Seine-et-Marne
+Westminster
+Roma
+Lagos
+Los Angeles
+Parauapebas
+Sumaré
+Miami-Dade
+São Paulo
+São Paulo
+Confluencia
+General Roca
+General Roca
+Cozumel
+Cozumel
+Miami-Dade
+Miami-Dade
+Salvaleón de Higüey
+
+Miami-Dade
+New York
+New York
+Ritto
+Angra dos Reis
+Rio de Janeiro
+Seine-Maritime
+Roma
+Paris
+Antwerpen
+Antwerpen
+Antwerpen
+Cusco
+Maynas
+Morelia
+Orange
+Orange
+Miami-Dade
+Arraial do Cabo
+n.a351
+n.a354
+Distrito Federal
+Rio de Janeiro
+Rio de Janeiro
+Armação dos Búzios,Arraial do Cabo
+Cusco
+Stockholm
+Stockholm
+Stockholm
+Salvaleón de Higüey
+
+Laval
+Madrid
+Arequipa
+Distrito Federal
+Isla Mujeres,Benito Juárez,Cozumel
+Distrito Federal
+Jaén
+Madrid
+Madrid
+Napoli
+Jaén
+Rio de Janeiro
+Unterfranken
+Unterfranken
+Cambridgeshire
+Westminster
+Westminster
+Madrid
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+La Unión de Sucre
+Santiago de Cali
+Santiago de Cali
+San Francisco
+Los Angeles,San Bernardino,Clark,San Mateo
+Clark
+Clark
+Clark
+Peel
+Brighton and Hove
+East Sussex
+Hillingdon
+Brighton and Hove
+Westminster
+Brighton and Hove
+Westminster
+East Sussex
+Westminster
+Westminster
+Luján de Cuyo
+Distrito Federal
+Distrito Federal
+Vicente López,Distrito Federal
+Santafé de Bogotá
+San Andrés
+Düsseldorf
+Düsseldorf
+Barcelona,Paris
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Capital
+São Paulo,Caieiras,Sertaozinho,Tibaji,Ribeirao Preto
+São Paulo
+Distrito Federal
+Distrito Federal
+Campinas
+Rio Claro,Sertaozinho
+Ribeirao Preto
+n.a354
+Distrito Federal
+Distrito Federal
+n.a328
+n.a328
+Asunción
+Luque
+Distrito Federal
+n.a351,n.a339,n.a349
+Miami-Dade,Orange
+Miami-Dade
+Miami-Dade
+Cusco
+Urubamba
+Cusco,Urubamba
+Lima,Cusco
+Distrito Federal
+Distrito Federal
+Lima
+Lima
+Barcelona
+New York
+Miami-Dade
+New York
+Guarulhos,Madrid
+Roma
+Venezia,Beyoglu,Fatih
+Beyoglu
+Paris
+Paris
+David
+Cartagena de Indias
+Santa Marta (Dist. Esp.)
+Santa Marta (Dist. Esp.),Cartagena de Indias,Boca del Río
+Veracruz
+Toluca,Naucalpan de Juárez
+Toluca,Almoloya de Juárez
+Toluca,Almoloya de Juárez
+Cuauhtémoc
+Puno,Cusco,Callao
+Distrito Federal
+New York,Queens
+New York
+New York,Queens
+New York
+New York
+New York,Kings,Queens
+New York,Queens
+New York
+Queens,New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Capital
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Westminster
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Cambridgeshire
+Port-au-Prince
+Salvaleón de Higüey
+
+Las Heras
+Denver
+Roma,Florence,Venezia
+Alpes-Maritimes,Hérault
+Yvelines
+Paris
+Santa Clara
+Capital
+Los Reyes
+Los Reyes
+Santafé de Bogotá
+Santafé de Bogotá
+Barcelona
+Madrid
+Figueira da Foz
+Lisboa
+Westminster
+Los Angeles
+Paris
+Marin
+Vicente López,Distrito Federal
+Hsinchu
+Foz do Iguaçu
+Paris
+Westminster
+Merseyside
+Amsterdam
+Praha 1
+Venezia,Florence
+Pisa,,Roma,Napoli
+Barcelona
+Praha 1
+Medellín
+Bariloche
+Godoy Cruz
+Biedma
+Biedma,Rawson
+Cusco
+Kings
+Tulsa
+Otavalo
+Cozumel
+Distrito Federal
+Lima
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Lima
+Cuautitlán Izcalli
+Trujillo
+Bariloche
+Distrito Federal
+Lima
+São Paulo
+São Paulo
+n.a354
+Arequipa
+Urubamba
+Distrito Federal
+Choya
+Rio de Janeiro,Armação dos Búzios
+Los Angeles,San Francisco
+Bariloche
+Bariloche
+Bariloche
+Rio de Janeiro
+Rio de Janeiro
+Hà N?i
+Hilversum
+Berlin
+Wien,Roma
+Andrés Ibáñez
+Andrés Ibáñez
+San Antonio de Areco
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Los Angeles
+n.a540
+Middlesex
+Suffolk
+Manchester
+Mata de São João
+Madrid
+New York
+Distrito Federal
+Lima
+Lima
+Lima
+Capital
+Darmstadt
+Guarapari
+Vitoria
+New York
+New York
+Vila Velha,Vitoria
+Vila Velha,Vitoria
+Vitoria
+Vila Velha
+Vitoria
+L'Aquila,Roma,Teramo
+Florence
+Venezia
+Miami-Dade
+Paris
+Westminster
+London
+Camden
+New York
+New York
+New York
+Tacna
+Lima
+Lima
+Lima
+New York
+New York,Barcelona,Queens
+Communauté-Urbaine-de-Montréal
+Niagara
+Los Angeles
+Las Heras
+Capital
+Capital
+Maipú
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+San Francisco
+Kathu
+Beijing
+Shanghai
+Puno
+Distrito Federal
+Distrito Federal
+Westminster
+Distrito Federal
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Libertador
+Libertador,Baruta
+Libertador
+Libertador
+Baruta
+Baruta
+Libertador
+Libertador
+Baruta
+El Hatillo,Baruta
+Libertador
+Baruta
+Baruta
+Baruta
+Libertador
+Baruta
+Baruta
+Baruta
+Baruta
+Freiburg
+Darmstadt
+Capital
+Clark
+Kohat
+Kohat
+Kohat
+Kohat
+Kohat
+Kohat
+Santa Elena
+Santa Elena
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+Almirante Brown
+Contralmirante Villar
+Cartagena de Indias
+Cartagena de Indias
+Paris
+São Paulo
+Distrito Federal
+n.a354
+n.a339
+Lima
+Tacna
+Paris
+Paris
+Paris
+Santafé de Bogotá
+n.a540
+Pierce
+King
+King
+King
+Talara
+Puerto López
+Baños
+Antigua Guatemala,Lanquín
+Flores
+Panamá,Bocas del Toro
+Bocas del Toro
+Cusco
+Urubamba
+Melbourne - Inner
+Yarra - North
+Port Phillip - West
+Hobsons Bay - Williamstown,Banyule - Heidelberg
+Yarra Ranges - Dandenongs
+Melbourne - Remainder
+Melbourne - Inner,Darebin - Preston
+Melbourne - S'bank-D'lands
+Melbourne - Inner
+Frankston - West
+Banyule - Heidelberg
+Brimbank  - Keilor
+Geelong
+Port Phillip - West
+Gianyar
+Lombok Barat,Klungkung
+n.a354
+n.a351
+Manco Kapac
+Communauté-Urbaine-de-Montréal
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+New York
+Miami-Dade
+Miami-Dade
+Lima
+Westminster,Kensington and Chelsea,Southwark,Camden
+Baleares,Madrid
+Madrid
+Lacar
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Distrito Federal
+Bariloche
+Eagle
+Eagle
+Eagle
+Paris
+Nord
+Var
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São José do Rio Preto,São Paulo
+São Paulo
+São Paulo
+Boituva
+São Paulo
+São Paulo
+São Paulo
+São Vicente
+São Paulo
+São Paulo
+São Paulo
+Distrito Federal
+Middlesex,Santafé de Bogotá
+Hernandarias,Asunción,Santa Rita
+Panamá
+Flores,New York
+Centre
+Distrito Nacional
+Lima
+Jardín
+Lima
+Tibau do Sul
+Tibau do Sul
+Ipojuca
+Distrito Federal
+Santafé de Bogotá,Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cozumel
+Miami-Dade
+Washington
+Orange
+Pedro Domingo Murillo
+Distrito Federal
+Tacna
+Arequipa
+Arequipa
+Arequipa
+Ariana Médina
+Madrid
+Madrid
+Madrid
+Paris
+Broward
+Salvaleón de Higüey
+
+Orange,Polk
+Orange
+Andrés Ibáñez
+Andrés Ibáñez
+Capital
+Capital
+Capital
+Lima
+Middlesex
+Westminster
+Seixal
+Roma
+Guarulhos
+Bariloche
+Val-d'Oise
+Arequipa
+Arequipa
+Warringah
+Stockholm
+Paris
+Split,Katela,Bruxelles,West-Vlaanderen
+Amsterdam,Berlin,Oberbayern,Schwaben,Mittelfranken,Karlsruhe
+Schwaben,Järfälla,Mittelfranken,Oberbayern,Stockholm,Amsterdam
+Uusimaa
+Schwaben
+Uusimaa
+Uusimaa
+Katela
+Uusimaa
+Bruxelles
+Sydney - Inner
+Manly,Sydney - Inner,Woollahra
+Oberbayern,Katela
+Berlin
+Sydney - Inner
+Uusimaa,Sydney - Inner
+Sydney - West
+Sydney - East
+Paris
+Sydney - Inner
+Waverley
+Lake Macquarie  - North
+Sydney - Inner
+Hornsby - North
+Sydney - Inner
+Hornsby - North,Waverley
+Woollahra
+Sydney - Inner
+Orleans
+New York
+New York
+Sydney - Inner
+Sydney - Inner
+London
+Paris
+Paris
+Randwick
+Sydney - Inner
+Leichhardt
+Orange
+Miami-Dade
+Miami-Dade
+Lima
+Los Angeles
+Los Angeles
+Los Angeles
+Ritto
+Madrid
+Evros
+Florianopolis
+Venezia
+Venezia
+Brescia
+Brescia
+Brescia
+Rio de Janeiro
+Azcapotzalco,Naucalpan de Juárez
+Azcapotzalco
+Miguel Hidalgo
+Gustavo A. Madero,Azcapotzalco
+Miguel Hidalgo,Gustavo A. Madero
+Alvaro Obregón
+Azcapotzalco
+Tarrant
+Azcapotzalco
+Azcapotzalco
+Miguel Hidalgo
+New York
+Hennepin
+New York
+New York
+Azcapotzalco
+New York
+Azcapotzalco,Atizapán de Zaragoza,Temascalapa
+New York
+Azcapotzalco
+Järfälla
+Stockholm
+Stockholm
+Alicante
+Alicante
+Barcelona
+Camden,Southwark,Westminster
+Greater Vancouver
+Distrito Federal
+n.a540
+Distrito Federal
+Orange,Franklin
+Orange
+Miami-Dade,Broward
+Miami-Dade
+Distrito Federal
+Quito
+Quito
+Latacunga
+Distrito Federal
+Distrito Federal
+Distrito Federal
+New York
+New York
+New York,Kings
+Distrito Federal,Vicente López
+Vicente López
+Barcelona,Madrid
+San Rafael del Yuma
+San Rafael del Yuma
+San Rafael del Yuma
+San Rafael del Yuma
+San Rafael del Yuma
+Vosges
+Bruxelles
+Badung
+Paris
+Balneário Arroio do Silva
+Balneário Arroio do Silva
+Murcia
+Miami-Dade
+San Rafael del Yuma
+Orange
+Orange
+Miami-Dade
+Santafé de Bogotá
+Santafé de Bogotá
+Orange
+Miami-Dade
+Miami-Dade
+Rio de Janeiro
+Florianopolis
+Rio de Janeiro,Florianopolis
+Florianopolis
+Florianopolis
+Miami-Dade
+Lomas de Zamora
+Almirante Brown
+Lomas de Zamora
+New York
+Orange
+Orange
+Sargodha
+Santafé de Bogotá,San Andrés
+Quito
+Santafé de Bogotá
+Chía
+Santafé de Bogotá
+Atenco
+Capital
+Balneário Arroio do Silva,Blumenau
+Armenia
+Armenia
+Madrid
+Rio de Janeiro
+Rio de Janeiro,Armação dos Búzios
+Porto
+Porto
+Madrid
+Barcelona
+Paris
+Porto
+Porto
+Nova Lima
+São Paulo
+São Paulo
+Bragança Paulista
+Embu
+Rio de Janeiro
+Cuiaba
+Rio de Janeiro
+Capital
+Capital
+Panamá
+Panamá
+Panamá
+Panamá
+Panamá
+Panamá
+Panamá
+Panamá
+Panamá
+Panamá
+Bariloche
+Baltimore,Anne Arundel
+Kings
+New York
+Cozumel
+Cozumel
+Tinúm
+Cozumel
+Valladolid
+Santiago de Cali
+Braunschweig
+Merseyside
+Hackney
+Venezia
+Praha 1
+Praha 1
+Wollongong Bal
+Florianopolis
+Florianopolis
+Florianopolis
+Lima
+Lima
+Urubamba
+H? Chí Minh city
+Tigre
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal,Tigre
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+San Isidro
+Lima
+Mandalay
+Phra Nakhon
+Ko Samui
+Tacna
+Luján de Cuyo
+Capital
+Capital
+Las Heras,Capital
+Capital
+Luján de Cuyo
+Rio de Janeiro,Armação dos Búzios
+Rio de Janeiro
+Maturín
+Sucre
+Baruta
+Baruta
+Sucre
+Libertador,Chacao
+Baruta
+Distrito Federal
+Vicente López
+Tigre,Distrito Federal
+Distrito Federal
+n.a354
+n.a354
+Cozumel
+Cozumel
+Cozumel
+Lima
+Ica
+Arequipa
+Tacna
+Pisco
+Rió Hondo
+Monroe
+Capital
+Capital
+Reeuwijk
+Capital
+Santa Cruz
+Carrillo
+Panamá
+Santafé de Bogotá
+Val-d'Oise,Amsterdam
+Tower Hamlets,Westminster
+New York
+Orange
+Orange
+Sydney - Inner
+Madrid
+Distrito Federal
+n.a354
+Rio de Janeiro
+Rio de Janeiro
+Distrito Federal
+Rio de Janeiro
+Armação dos Búzios
+Capital
+Porto Belo
+Balneário Arroio do Silva
+Utah
+Salt Lake
+Paris
+Amsterdam
+Praha 1
+Wien
+Florence
+Roma
+Amsterdam
+Miguel Hidalgo,Gustavo A. Madero,Azcapotzalco
+Temascalapa
+Tlalnepantla
+Azcapotzalco
+Bariloche
+Bariloche
+Santafé de Bogotá
+Santafé de Bogotá
+Capital
+Capital
+Quito
+Guarulhos
+Rio de Janeiro
+Sonoma
+San Mateo
+San Francisco
+Monterey,Santa Barbara,Los Angeles
+Capital,Luján de Cuyo
+Napa
+Sonoma
+Los Angeles
+Orange
+Orange
+Madrid
+Rotterdam
+Rotterdam,Schiedam
+Schiedam
+Delft
+Schiedam
+Rotterdam
+Rotterdam
+Rotterdam,Schiedam
+Rotterdam
+Rotterdam
+Nieuw-Lekkerland
+Schiedam
+Rotterdam
+Rotterdam
+Schiedam
+Schiedam
+Rotterdam
+Rotterdam
+Schiedam
+Schiedam
+Rotterdam
+Rotterdam
+Rotterdam
+Rotterdam
+Rotterdam
+Vlaardingen
+Paris
+São Paulo
+São Paulo
+São Paulo
+Paris
+Venezia
+Fortaleza
+Jijoca de Jericoacoara
+Distrito Federal
+Sauk
+Sauk
+Sauk
+Jefferson
+Sauk
+Sauk
+Sauk
+Sauk
+Sauk
+New York
+New York
+Miami-Dade
+Blumenau
+Balneário Arroio do Silva
+Hillingdon
+Westminster,Cumbria
+Bariloche
+Cusco
+Miami-Dade,Fulton
+Miami-Dade
+Santafé de Bogotá
+Itagüí
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Orange
+n.a354
+n.a354
+Westminster
+Venezia
+Distrito Federal
+Broward,Miami-Dade
+Miami-Dade
+New York
+New York
+Distrito Federal
+Macerata
+Roma
+Roma
+Capital
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Manco Kapac
+Distrito Federal
+Bariloche
+Bariloche
+Distrito Federal
+New York,Baltimore
+Union
+Orange
+Belo Horizonte
+Santos
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Meguro,Shibuya
+Kyoto
+Shinjuku
+Shibuya
+New York
+Kings,Minato
+Distrito Federal
+Jipijapa,Santa Elena
+Rio de Janeiro
+Distrito Federal
+Rio de Janeiro
+Distrito Federal
+Cyclades
+Amsterdam,Fatih
+Khánh Hòa
+H? Chí Minh city,Qu?ng Nam,Phnom Penh,Dangkao,Siem Reab
+Bagmati
+Maharajganj
+Jaipur
+Fatih
+Fatih
+Merkez
+Attica
+Cyclades
+Palilula
+Ljubljana
+Budapesti
+Darmstadt
+Darmstadt
+Berlin
+Amsterdam
+Amsterdam
+Bruxelles
+Barcelona,Madrid
+Barcelona
+Paris
+Yvelines
+Cusco
+Urubamba
+Rio de Janeiro
+Armação dos Búzios,Cabo Frio
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Chía
+Santafé de Bogotá
+San Andrés
+Santafé de Bogotá,San Andrés
+Soacha
+Distrito Federal
+Distrito Federal
+General Pueyrredón
+Cusco
+Cusco
+Bariloche
+Bariloche,Huiliches
+Capital
+Balneário Arroio do Silva
+Antón
+New York
+Libertador
+Valencia
+Valencia
+Díaz
+Iribarren
+Chacao
+Independencia
+Lago Argentino
+Kern
+Kern
+San Diego
+Orange
+São Paulo
+Paris,Westminster
+Amsterdam
+Madrid
+Madrid
+Talara
+Baños
+Barbosa
+Talara
+Baños
+Roma
+São Paulo
+São Paulo
+Waygal
+Waygal
+Benito Juárez
+Benito Juárez
+Berisso
+Lomas de Zamora,Distrito Federal
+Berisso
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Belo Horizonte
+Belo Horizonte
+Rio de Janeiro
+Maipú
+Luján de Cuyo
+Cartagena de Indias
+Paris,Combined statistics,Armação dos Búzios
+Amsterdam
+Tacna
+Barcelona
+Albula
+Albula
+Imboden
+Imboden
+Imboden
+Imboden
+Barcelona
+Waitakere
+Miami-Dade
+Girardot
+Girardot
+Lima
+Asunción
+José Angel Lamas
+José Angel Lamas
+Girardot
+Distrito Federal
+Distrito Federal
+Girardot
+Girardot
+Cozumel
+Cozumel
+Cozumel
+Guayaquil,Santa Elena
+Santa Elena
+Callao,Lima
+Orange
+Miami-Dade
+Orange
+Orange
+Salvador
+Alagoinhas
+Salvador
+Salvador
+New York
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+Guarulhos
+Tibau do Sul
+Guarulhos
+Lima
+Armação dos Búzios
+Cusco
+Urubamba
+Cusco
+Orange
+Orange
+Orange
+n.a354
+New York
+Guarulhos
+Orange
+Orange
+Tibau do Sul
+Tibau do Sul
+Rió Chico
+Verona
+Urubamba
+Antonio Quijarro,Tomás Frías
+Puno
+n.a337
+Baleares
+Baleares
+Baleares
+Dielsdorf
+n.a351
+Lima
+Antonio Quijarro,Yunguyo
+Capital
+Botany Bay
+Shanghai
+Rio de Janeiro
+Miami-Dade
+Orange
+Miami-Dade
+Rió Chico
+Santafé de Bogotá
+Santafé de Bogotá
+Maipú
+Distrito Federal
+Florida
+Pedro Domingo Murillo
+Pedro Domingo Murillo
+Pedro Domingo Murillo
+Pedro Domingo Murillo
+Madrid
+Madrid
+Madrid
+Madrid
+Espinho
+Stuttgart
+Dresden
+Madrid
+Berlin
+Madrid
+Vizcaya
+Girona
+Rosario
+Rosario
+Maceió (capital)
+Marechal deodoro
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Tacna
+Lacar
+Brasília
+São Paulo
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Salvador,Cairu
+Cairu
+São Paulo
+Ubatuba
+Ubatuba
+Distrito Federal
+Rio de Janeiro
+Barcelona
+Lisboa
+Amsterdam
+Capital
+New York
+Samphantawong
+H? Chí Minh city
+Distrito Federal
+Distrito Federal
+Manco Kapac
+Marin
+n.a289
+Distrito Federal
+Orange
+Dorchester
+Cusco
+New York
+New York
+New York
+Tacna
+Orange
+Orange
+Miami-Dade
+Orange
+Rio de Janeiro
+Pointe-à-Pitre
+Valencia
+Paris,Amsterdam
+Amsterdam
+Barcelona
+Paris
+Capital
+Balneário Arroio do Silva
+Distrito Federal
+Rio de Janeiro
+São Paulo
+São Paulo
+Madrid
+Madrid
+Orange,Guarulhos
+Orange
+Curitiba
+Dresden
+Florianopolis
+Florianopolis
+Talara
+Lima
+Lima
+São Paulo
+Santos
+Santos
+Capital
+Capital
+San Pedro Garza García
+Monterrey
+Rawson
+Rivadavia
+Rivadavia
+Alajuela
+Broward
+Uberlândia
+Uberlândia
+Uberlândia
+Uberlândia
+Erechim
+Asunción
+Portoviejo
+Portoviejo
+Portoviejo
+Portoviejo
+Portoviejo
+Manco Kapac
+Paris
+Orange
+Miami-Dade
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Lajemmerais
+Champlain
+Communauté-Urbaine-de-Montréal
+Champlain
+Communauté-Urbaine-de-Québec
+Champlain
+Champlain
+Toronto
+District of Columbia
+District of Columbia
+Norfolk
+Armação dos Búzios
+Roma
+Fatih
+Berlin
+Florence
+Alpes-Maritimes
+Haute-Garonne
+Barcelona
+Madrid
+Confluencia
+Capital
+Bariloche
+Campinas
+Val-d'Oise,Hillingdon
+Edinburgh
+Lima
+Panamá
+Puntarenas
+Puntarenas
+Santa Cruz
+Talamanca
+Aguirre
+Arequipa,Lima
+Tacna
+Arequipa
+Arequipa
+Arequipa
+Arequipa
+Baleares
+Warrington
+Manchester
+Cusco
+Fife
+Landes
+Edinburgh
+Barcelona
+Barcelona
+Venezia
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Distrito Federal,Tigre
+Distrito Federal,Tigre
+Fulton
+n.a342
+Las Heras
+Las Heras
+Distrito Federal
+Distrito Federal
+Salvador
+Cairu
+Arequipa
+Cusco,Urubamba
+Florianopolis
+São Paulo
+Rio de Janeiro
+Lima,Rio de Janeiro
+Rio de Janeiro
+Lima
+Lima
+Rio de Janeiro
+Lima
+Lima
+Lima
+Lima
+Tacna,Trujillo
+Lima
+San Pedro Garza García
+Capital
+Praha 2
+Cantabria
+Capital
+Capital
+n.a354,n.a339
+Miami-Dade,San Salvador
+ZONA 13,Miami-Dade
+Madrid
+Dubrovnik
+Korcula,Ston,Dubrovnik,Hvar
+Hvar,Split,Bol,Supetar,Pucica
+Zagreb
+Distrito Federal
+n.a523,n.a337
+Lima
+Roma
+Verona,Brescia,Venezia,Genova
+Genova
+Fernando de Noronha
+Westminster
+Tower Hamlets
+Amsterdam
+West-Vlaanderen
+Berlin
+Barcelona
+Roma
+Barcelona,Madrid
+Roma
+Roma
+Paris
+Venezia
+Andrés Ibáñez
+n.a291
+n.a339,Distrito Federal
+n.a354
+n.a351
+Vizcaya
+Medellín
+New York
+District of Columbia
+District of Columbia
+Orleans
+Orleans
+Cook
+Cook
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Calca,Urubamba
+Cusco
+Cusco
+Andrés Ibáñez
+Andrés Ibáñez
+Rio de Janeiro
+Distrito Federal
+Los Angeles
+Los Angeles
+Armação dos Búzios
+Toronto
+New York
+Niagara
+Capital
+Las Heras
+Cozumel
+Tres de Febrero
+Cook
+Cook
+Cook
+New York
+Orange
+Orange
+Santa Clara
+Santa Clara
+Santa Clara
+San Francisco,Marin
+Distrito Federal
+Distrito Federal
+Lago Argentino
+Cartagena de Indias
+Rio de Janeiro
+Tacna
+Arraial do Cabo
+Rio de Janeiro
+Yarra Ranges - Seville
+Sydney - South
+Libertador
+San Pedro
+Distrito Federal,General Sarmiento
+Ionia
+Les Jardins-de-Napierville
+Cusco
+Urubamba,Cusco
+Tacna
+Lima
+Paris
+Distrito Federal
+n.a351
+Stuttgart
+Oberbayern
+Stuttgart
+Olbia-Tempio
+Stuttgart
+Marrakech
+Vizcaya
+Attica
+Cyclades
+Cantabria
+Errachidia,Essaouira
+Shah Alam
+Langkawi
+Langkawi
+Langkawi
+Essaouira
+Cusco,Urubamba
+Distrito Federal
+Madrid,Valencia,Val-d'Oise,Yvelines,Paris
+Amsterdam,Berlin,Brandenburg
+Venezia,Florence,Roma,,Lisboa,Madrid
+Florence,Paris,Roma
+Roma
+Blumenau
+Cusco
+Barcelona
+Paris
+Westminster,Paris
+Tower Hamlets
+Amsterdam
+Berlin
+Dubrovnik
+Roma
+Angra dos Reis
+Rio de Janeiro
+Baleares,Madrid
+São Paulo
+n.a354
+Miami-Dade
+New York,Kings
+New York
+Madrid
+New York
+Los Angeles
+Madrid
+Milano,Venezia,Islington,Westminster,London,Tower Hamlets,Southwark,Paris,Camden,Yvelines
+Roma,Grosseto,Siena,Lucca
+La Spezia
+Guarulhos
+Naucalpan de Juárez
+Azcapotzalco
+New York,Middlesex,Suffolk
+New York
+New York,Kings
+Madrid
+Lisboa,Cádiz,Barcelona,New York
+Bento Gonçalves
+Clark
+Clark
+Clark
+Santa Marta (Dist. Esp.)
+Cartagena de Indias
+Distrito Federal
+Huesca
+Kings
+Cook
+San Andrés
+San Andrés
+Ocean
+New York
+Kings,New York
+Lot
+Combined statistics
+Edinburgh
+Lago Argentino
+Hudson
+Middlesex
+Santa Fe
+Franklin
+Middlesex
+Middlesex
+Middlesex
+Middlesex
+Bronx,Middlesex
+Middlesex
+Middlesex
+Middlesex
+San Bernardino
+San Bernardino
+San Bernardino
+San Bernardino
+Riverside,Los Angeles
+Parati
+Orange
+Orange
+Miami-Dade
+Tumbaya,Capital
+Capital
+Jijoca de Jericoacoara
+Jijoca de Jericoacoara
+Miami-Dade
+Rio de Janeiro
+Los Salias
+Azcapotzalco
+Azcapotzalco
+Azcapotzalco
+Carrizal
+Lacar
+Barcelona
+Salvaleón de Higüey
+
+Pradera
+Pradera
+Berkshire
+Lecco
+Lecco
+Stolichna
+Barcelona
+Poznan City,Düsseldorf
+Arnsberg
+Cusco
+São Luis
+Barreirinhas
+São Luis
+Lima
+Panamá
+Arraiján
+Maneiro
+Bergen
+Bergen
+Bergen
+District of Columbia
+Prince George's,New York
+Montgomery
+Prince George's
+Seixal,Distrito Federal
+Distrito Federal
+Oslo
+Distrito Federal
+Pergamino
+Tübingen
+Miami-Dade
+Broward
+Miami-Dade
+Orange
+Orange
+São Paulo
+São Paulo
+Hammersmith and Fulham
+Attica,Cyclades
+Los Angeles
+Dhaka
+Harris
+Los Angeles,Welkom
+Westminster
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Otavalo
+Otavalo
+Otavalo
+Otavalo
+Otavalo
+Cozumel
+Cozumel
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Berlin
+Amsterdam
+Osceola,Orange
+Miami-Dade
+Broward
+Distrito Federal
+Cárdenas
+Cárdenas
+Florence
+Madrid
+Santafé de Bogotá
+Baruta
+Chacao
+Los Angeles
+Distrito Federal
+Santafé de Bogotá
+Santafé de Bogotá,Tovar
+Distrito Federal
+Cercado
+Pedro Domingo Murillo
+Cusco
+Guayaquil
+Quito
+Iribarren,Valencia,Girardot
+El Hatillo
+New York
+District of Columbia
+Hudson
+City of Georgetown
+Meerzorg,Rainville
+Rémire-Montjoly
+Macapa,Belém
+Recife
+Rio de Janeiro,São Paulo
+São Paulo
+Guarulhos
+Distrito Federal
+São Paulo
+Capital
+Bariloche
+Balneário Arroio do Silva
+Balneário Arroio do Silva
+Bariloche
+Balneário Arroio do Silva
+Rio de Janeiro
+Clark
+Miami-Dade
+Queens
+Rio de Janeiro,Armação dos Búzios
+n.a351
+Jung,Suwon
+Orange
+Bang Lamung
+King
+Darmstadt,Karlsruhe
+Los Angeles
+Laufenburg
+Schaffhausen,Zürich,Arlesheim,Laufenburg
+Roma
+Laufenburg
+Zürich
+Barcelona
+Güer Aike
+Distrito Federal
+Distrito Federal
+Paris
+Orange
+Orange
+Curitiba
+Curitiba
+Curitiba
+Orange
+Fortaleza
+Natal
+New York
+Cozumel
+Cozumel
+Talara,Tumbes
+New York
+Baltimore,District of Columbia
+Bernalillo,Santa Fe
+Contralmirante Villar
+Contralmirante Villar
+Orange
+Bologna
+Paris
+Lago Argentino
+Surabaya
+Gresik
+Gresik
+Gresik
+Gresik
+Gresik,Shah Alam,Langkawi
+Muang Krabi
+Ko Phangan
+Siem Reab
+Phnom Penh
+Hà N?i
+Arraial do Cabo
+Cusco
+San Andrés
+San Andrés
+Urubamba
+San Andrés
+San Andrés
+New York
+Venezia
+Urubamba
+Urubamba
+Distrito Federal
+Tarrant
+Greater Vancouver,Capital
+Greater Vancouver
+Greater Vancouver
+Naucalpan de Juárez
+Orange
+Orange,Miami-Dade
+Greater Vancouver
+Cowichan Valley
+Greater Vancouver
+Orange
+Rivadavia
+Capital,San Rafael
+Distrito Federal
+Antonio Quijarro
+Caroní
+Caroní
+Chacao
+Caroní,Vargas
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Distrito Federal
+Kings
+New York
+New York,Kings
+Capital
+Cozumel
+Randwick
+Orange
+Miami-Dade
+Broward
+Miami-Dade
+Ibagué
+Fortaleza
+Distrito Federal
+Distrito Federal
+Santo Antônio de Jesus
+Monterey,San Diego
+Clark
+Düsseldorf
+Hangzhou,Jiaxing
+Hangzhou
+Seine-et-Marne
+Los Angeles
+São Paulo
+Los Angeles
+Paris
+Amsterdam
+Budapesti
+Roma
+Distrito Federal
+Puno
+Valencia,Naguanagua
+Constanza
+Nicolás Romero,Dist. Pochutla
+Azcapotzalco
+Coolangatta
+Noosa - Noosa-Noosaville,Coolangatta
+Waverley
+Waverley
+Waverley
+Sydney - Inner
+Sydney - Inner
+Badung
+General Luna
+El Nido
+Hà N?i
+Qu?ng Nam
+Qu?ng Nam,H? Chí Minh city
+Sydney - Inner
+Coolangatta
+New York
+Cozumel
+Cozumel
+Cozumel
+San Diego
+San Diego
+San Diego
+San Diego
+Cozumel
+Cozumel
+Ensenada
+San Diego
+San Francisco
+San Francisco
+Marin
+Arraial do Cabo
+Capital
+Uppsala
+Uppsala
+Uppsala
+Uppsala
+Uppsala
+Uppsala
+Uppsala
+Uppsala
+Nevada,Placer
+Distrito Federal
+n.a351
+Rosario
+Bariloche
+Santafé de Bogotá
+Pedro Domingo Murillo,Andrés Ibáñez
+Distrito Federal
+Distrito Federal
+Cusco
+Santafé de Bogotá
+Santafé de Bogotá
+Los Angeles
+Rio de Janeiro
+Mogi Mirim
+Mogi Mirim
+Mogi Guaçu
+Los Angeles,Clark
+El Dorado
+San Francisco
+Los Angeles
+Los Angeles
+Jacutinga
+Araricá
+Hennepin
+Los Angeles
+Emmet
+Clayton
+São José dos Campos
+Balneário Arroio do Silva
+Cusco
+Talara
+Clark
+Queens
+Murcia
+Granada
+Florianopolis
+Florianopolis,Guarulhos
+Cairu
+Cairu
+Bariloche
+West-Vlaanderen
+Cercado,Pedro Domingo Murillo
+Distrito Federal
+Capital,Las Heras
+Tacna
+Distrito Federal
+Madrid
+Barcelona
+Barcelona
+Barcelona,Lleida
+Praha 1,Ostrava
+Ostrava,Katowice City,Kraków City,Bierun-Ledziny,Berlin
+Berlin,Attica,Cyclades
+Cyclades
+Barcelona
+Lleida
+Capital
+Lima
+Lima
+Lima
+Lima
+Bocas del Toro
+Libertador
+Rio de Janeiro
+Split,Jelsa
+Split,Jelsa,Venezia
+Baleares
+Baleares
+Baleares
+Barcelona
+Oberbayern
+Oberbayern
+Zürich
+Oberbayern
+Central Ostrobothnia
+Uusimaa
+Finland Proper
+Uusimaa
+Distrito Federal
+Benito Juárez
+Benito Juárez
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Chía
+Cartagena de Indias
+Palhoça
+São Paulo
+Capital
+Santa Elena
+Santa Elena
+Santa Elena
+Gustavo A. Madero
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Barcelona
+Westminster
+Kensington and Chelsea
+Paris
+Fès
+New York
+New York
+New York,Miami-Dade
+New York
+New York
+Union
+New York,Miami-Dade
+Miami-Dade
+Cozumel
+Cozumel
+Cozumel
+Westminster
+Pyrénées-Atlantiques
+Pyrénées-Atlantiques
+Miami-Dade
+Miami-Dade
+New York
+New York
+n.a339,n.a337
+n.a540
+Broward
+Cozumel
+Broward
+Pyrénées-Atlantiques
+Paris
+Paris
+Miami-Dade
+Suffolk
+Queens,New York
+New York,Queens
+Los Angeles
+Clark
+Los Angeles
+Suffolk
+Suffolk,Orange
+Miami-Dade
+Miami-Dade
+Cozumel
+Piura
+New York
+Pedro Domingo Murillo
+Talamanca
+Cartago
+Chiclayo
+Maynas
+Çatalca
+Darmstadt
+Muang Chiang Mai
+Essex
+Tunuyán
+Balneário Arroio do Silva
+Balneário Arroio do Silva
+Penha
+Balneário Arroio do Silva,Penha
+Blumenau,Balneário Arroio do Silva
+Tacna
+Los Angeles
+Oxfordshire,Westminster
+Miami-Dade
+Cozumel
+Darmstadt
+Darmstadt
+Darmstadt
+Arnsberg
+Sankt Gallen,Freiburg
+Edinburgh
+Edinburgh
+Reutte
+Darmstadt
+Sankt Gallen
+Zürich
+Darmstadt
+Darmstadt
+Schwaz
+Sankt Gallen
+Puok,Siem Reab
+Siem Reab
+Appenzell Innerrhoden
+Zürich
+Stuttgart
+Düsseldorf
+Capital
+Capital
+Florianopolis
+Chacabuco
+Capital
+General Pueyrredón
+General Pueyrredón
+Chacabuco
+General Pueyrredón
+Chacabuco
+Chacabuco
+Tigre
+Tigre
+General Pueyrredón
+General Pueyrredón
+Las Heras
+Monroe
+Lima
+Barranca
+Godoy Cruz
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Montgomery
+Lima
+Suffolk
+Suffolk
+New York
+Lexington
+Minato,Narita
+Shanghai,Camden,Croydon
+Uusimaa,Stockholm,Oslo,Combined statistics,Darmstadt,Guarulhos
+Distrito Federal
+Callao
+Santafé de Bogotá
+Distrito Federal
+Los Angeles
+Toronto,Broward
+Sydney - Inner,Warringah
+Chiyoda,Shinagawa,Taipei City,Shanghai
+Stockholm,Uusimaa,Tallinn,Oslo,Zagreb
+Camden,Kensington and Chelsea
+Distrito Federal
+Distrito Nacional
+Santa Ana
+Distrito Federal
+Division No. 6,Greater Vancouver,King
+Skagway-Yakutat-Angoon
+San Francisco
+Tarrant
+Hefei,Chuxiong Yi
+Guangzhou,Kunming
+Guangzhou
+Godoy Cruz,Capital
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Distrito Federal
+Botany Bay
+Shanghai
+Shanghai
+Chuo
+Distrito Federal
+Val-d'Oise,Uusimaa,Tallinn,Stockholm
+Stockholm
+Paris
+Shanghai
+Taipei City
+Rio de Janeiro
+New York
+n.a354
+n.a328
+n.a351
+Benito Juárez
+Benito Juárez
+Benito Juárez
+Benito Juárez
+Panamá
+Distrito Federal
+Distrito Federal
+Salvaleón de Higüey
+
+Angra dos Reis
+Angra dos Reis
+Angra dos Reis
+Rio de Janeiro
+New York
+Maturín
+Libertador
+Libertador
+New York
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal,Villa Gesell
+San Diego
+Madrid
+Wadi Musa
+Quaira,Beirut
+Jbayl,Beirut
+Beirut
+Sour
+Phra Nakhon,Sathorn
+Badung
+Gianyar,Badung
+Gianyar
+Gianyar
+Lombok Barat
+Yangon-W
+Mandalay
+Sathorn,Don Muang
+Sathorn
+Bang Kho Laem
+Khlong San,Phra Nakhon,Bang Rak,Samphantawong
+Camden,Westminster
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+São Paulo
+São Paulo
+Cusco
+Cusco
+Urubamba
+Azcapotzalco
+Azcapotzalco
+Rio de Janeiro
+Miami-Dade
+Miami-Dade
+Miami-Dade,Broward
+Broward,Miami-Dade
+Broward
+Broward
+Broward
+Broward
+Broward
+Distrito Federal
+Distrito Federal
+New York,Miami-Dade
+Miami-Dade
+Distrito Federal,Esteban Echeverría
+Miami-Dade
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Miami-Dade
+Miami-Dade,Orange
+Orange,Miami-Dade
+Lima
+New York
+New York
+Los Angeles
+Tulare
+San Francisco
+Santa Clara
+Los Angeles
+Suffolk
+District of Columbia
+District of Columbia
+New York
+Shanghai
+Baleares
+Baleares
+Baleares
+Lima
+Amsterdam
+Barcelona
+Santafé de Bogotá
+Cartagena de Indias
+Angra dos Reis
+Angra dos Reis
+Alpes-Maritimes
+Milano
+Leeuwarden
+Rijssen,Bruxelles
+Haarlemmermeer,Tower Hamlets,Westminster,Southwark
+Los Angeles
+Los Angeles
+Malay
+Puerto Princesa City
+Taunggye
+Muang Krabi
+Ko Phangan
+Thimbirigasyaya
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santiago de Cali
+Santiago de Cali
+Camaçari
+São Paulo
+São Paulo
+Callao
+Santafé de Bogotá
+São Paulo
+Delhi
+Distrito Federal
+Capital
+Godoy Cruz
+Godoy Cruz
+Panamá
+Frederick
+Distrito Federal
+Westminster
+Braço do Norte
+Caxias do Sul
+Braço do Norte
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+Santa María
+Colón
+Capital
+Colón
+Capital
+Rockwall
+Santafé de Bogotá
+New York
+Tacna
+Sutherland Shire - East
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Chautauqua
+Distrito Federal
+Guarulhos
+Bas-Rhin
+Paris
+Bas-Rhin
+Benito Juárez
+Cozumel,San Andrés
+Lima
+Lima
+Lima
+Lima
+Oxfordshire
+Orange
+Miami-Dade
+Orange
+Orange
+n.a351
+Baleares,Praha 1
+Armação dos Búzios
+Arequipa,Cusco
+Balneário Arroio do Silva
+Rio de Janeiro
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade,Broward
+Portoviejo
+Portoviejo,Guayaquil
+Cozumel
+Miami-Dade
+Brasília
+Rio de Janeiro
+n.a351
+n.a351
+San Felipe de Puerto Plata
+San Felipe de Puerto Plata
+San Felipe de Puerto Plata
+Pisa
+Peel
+Beijing
+Jinzhong
+Xi'an
+Shanghai
+Shanghai,Hangzhou
+Shanghai
+Santa Bárbara d'Oeste
+Americana,Santa Bárbara d'Oeste
+Americana
+Distrito Federal
+Distrito Federal
+Recife,Olinda
+Cabo
+Recife
+Recife,Olinda
+Recife
+Recife,Olinda,Cabo
+Santafé de Bogotá
+Santafé de Bogotá
+Distrito Federal
+Distrito Federal
+Cartagena de Indias
+Waitakere
+Miami-Dade
+Azcapotzalco
+Bariloche
+Capital
+Godoy Cruz
+Madrid
+Paris
+Paris
+Barcelona
+Barcelona
+Guarulhos
+Rosario
+Rosario
+São Paulo
+Paris
+Tower Hamlets
+Quilmes
+Distrito Federal
+Puno
+Lima
+Urubamba
+Santa Clara
+Tarrant
+Lima
+Distrito Federal
+Distrito Federal
+Dallas
+Denton,Dallas,Collin
+Tarrant,Collin,Dallas
+Lima
+Distrito Federal
+Lima
+Lima,Callao
+Tarrant,Santa Clara,San Francisco
+Distrito Federal
+Lima
+Andrés Ibáñez
+Distrito Federal,Asunción,Luque
+Medellín,Rionegro
+Santa Clara
+Lima
+Distrito Federal,Vicente López
+Distrito Federal
+Distrito Federal
+Capital
+Naucalpan de Juárez,Azcapotzalco,Guadalajara,Gustavo A. Madero,Coyoacán
+Denver,Tarrant
+Lima,Callao
+Distrito Federal
+Santafé de Bogotá
+Santa Clara
+Santa Clara
+Lima
+Lima
+Distrito Federal
+Distrito Federal,Esteban Echeverría
+Clark
+Clark
+Santa Clara
+Tarrant
+Lima
+Lima
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Santafé de Bogotá
+Guarulhos
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Capital
+Capital
+Capital
+Capital
+Madrid
+Paris
+Alpes-Maritimes
+Roma
+Cozumel
+Isla Saona
+New York
+New York
+New York
+New York
+New York
+Paris
+Seine-et-Marne
+Ventura
+Los Angeles
+Los Angeles
+n.a354,n.a349,n.a339,n.a351
+Distrito Federal
+Vargas,Callao,Libertador,Santafé de Bogotá,Retiro,Envigado,Medellín,Santiago de Cali,Rionegro,Palmira,Lima
+Angra dos Reis
+Angra dos Reis
+New York,Kings
+New York
+New York
+New York
+New York
+Guadalajara
+Guadalajara
+Manzanillo
+Zapopan
+La Huerta
+Cuajimalpa de Morelos
+Belén
+Poços de Caldas
+San Francisco
+Bariloche
+Cozumel
+Cozumel
+Distrito Federal
+Muang Krabi
+Botany Bay
+Miami-Dade
+Distrito Federal
+Girardot
+Baruta
+Baruta
+Libertador,Baruta
+Baruta,Libertador
+Baruta
+Baruta
+Baruta
+Benito Juárez
+Distrito Federal,Tigre
+Lima
+Distrito Federal
+Orange
+Miami-Dade,Orange
+São Paulo
+Guarulhos
+Panamá
+Panamá
+Capital
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Callao,Azcapotzalco
+Cook
+Cook
+Lima
+Cusco
+Urubamba
+Cusco
+Distrito Federal
+Distrito Federal
+Cusco,Urubamba
+Azcapotzalco
+San Diego
+Ullum,Capital
+Los Angeles
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+San Francisco
+King
+Cartagena de Indias
+Panamá
+Rio de Janeiro
+Rio de Janeiro
+Camden,London,Kensington and Chelsea,Haringey
+Reykjavík,Mýrdalshreppur
+Reykjavík,Moskenes,Vestvågøy,Flakstad
+Oslo,Vestvågøy
+Rio de Janeiro
+Sintra,Évora,Reguengos de Monsaraz,Lisboa
+Rio de Janeiro
+Rio de Janeiro
+São Paulo
+Armação dos Búzios
+Siena
+Pisa,Siena,Livorno
+São Paulo
+Rio de Janeiro
+São Paulo
+Distrito Federal
+Distrito Federal
+Lima
+São Paulo
+São Paulo
+Guarujá
+Guarujá
+Lima
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Arequipa,Pisco
+Pisco
+Cusco
+Cusco
+Puno
+Pedro Domingo Murillo
+San Francisco
+San Francisco
+Mohave
+New York
+Tacna
+Distrito Federal
+Distrito Federal
+Miami-Dade
+Urubamba
+Urubamba
+Distrito Federal
+Distrito Federal
+Santafé de Bogotá
+Orange,Osceola
+Orange,Osceola
+Osceola
+Miami-Dade
+Tbilisi
+Capital
+Darmstadt
+Darmstadt
+Darmstadt,Köln
+Amsterdam,Bruxelles,Paris
+Paris,Val-de-Marne
+Madrid
+Barcelona
+Barcelona
+Southwark
+Berlin
+Barcelona
+Praha 1
+Barcelona
+Paris
+Quito
+Quito
+Quito
+Santa Elena
+Miami-Dade
+Bariloche
+Tacna
+Tacna
+Tacna
+Cusco
+Tiruvannamalai
+Ajmer
+Ajmer
+Ajmer
+Ajmer
+Phra Nakhon
+Arequipa
+Madrid
+Paris,Seine-et-Marne
+Brevard
+Osceola
+Greater Vancouver
+Brevard
+Brevard
+Orange
+Rio de Janeiro
+Guarulhos
+Porto Seguro
+Rio de Janeiro
+Rio de Janeiro
+New York,Kings
+Kings,New York
+Madrid
+Antwerpen
+Antwerpen
+West-Vlaanderen
+Paris
+Barcelona
+Mansfield
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Santafé de Bogotá
+A Coruña
+A Coruña
+A Coruña
+A Coruña
+Paris
+Barcelona,Paris
+Salvador
+Roma
+Westminster
+Santa Elena
+Santafé de Bogotá
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá,Cartagena de Indias
+Pisa
+Napoli
+Napoli
+Cosenza
+Palermo
+Trapani
+Roma
+Florence
+Zagreb
+Bol,Split
+Attica
+Cyclades
+Thessaloniki,Stolichna,Varna
+Palilula,Sarajevo,,Tiranës
+Ohrid,Cair
+Stolichna,Fatih,Beyoglu
+Fatih
+Beyoglu
+Jerusalem,,Jericho
+Bethlehem,Hebron
+Budapesti,Gyál,Uusimaa
+Jaipur,Jodhpur
+Ajmer
+Ajmer
+Agra,Delhi
+Chandauli,Varanasi,North 24 Parganas,Kolkata
+Huai Kwang,Muang Chiang Mai,Mae Taeng,Chiang Khong
+Louangphrabang
+Hà N?i,Qu?ng Ninh,H?i Phòng
+Hà N?i,H? Chí Minh city
+Siem Reab
+Siem Reab
+Ko Phangan,Bang Rak,Huai Kwang
+Huai Kwang
+Madrid
+New York,Hà N?i
+Azcapotzalco
+Botany Bay,Manila,Pasay City,Malay
+Malay
+Rio de Janeiro
+Aalborg
+Distrito Federal
+Monterrey
+Benito Juárez
+Amsterdam
+Amsterdam
+Luzern
+Budapesti
+Madrid
+Kings
+Kings
+Kings
+Hudson
+New York,Hudson
+Hudson
+New York
+New York
+Hudson
+Communauté-Urbaine-de-Montréal
+Hudson
+New York,Hudson,Tarrant
+Kings
+Kings
+Budapesti,Venezia,Yvelines
+Roma,Napoli
+Barcelona
+Sevilla,Madrid,Toledo
+Panamá
+Ritto
+Medellín
+Medellín
+Medellín
+Medellín
+Medellín
+Talara
+Sydney - Inner
+São Paulo
+São Paulo
+São Paulo,Ilhabela
+São Paulo
+Distrito Federal
+n.a351
+n.a523
+Capital
+Capital
+Tacna
+Treviso
+Capital
+San Rafael del Yuma
+San Rafael del Yuma
+San Rafael del Yuma
+Godoy Cruz
+Distrito Federal
+Orange
+Distrito Federal
+Distrito Federal
+Balneário Arroio do Silva
+Badajoz
+Granada,Toledo,Madrid
+Barcelona
+Barcelona
+Paris,Amsterdam,Brandenburg,Berlin,Praha 6,Praha 1,Roma
+Barcelona
+Barcelona
+Westminster
+Distrito Federal
+New York
+New York
+New York
+Verona
+Verona
+Lima
+Barcelona
+Barcelona
+Las Palmas
+Barcelona
+Barcelona
+Val-d'Oise,Milano
+Milano
+Tower Hamlets
+Barcelona
+Praha 1
+Barcelona
+Alpes-Maritimes
+Barcelona
+n.a354
+n.a351
+Distrito Federal
+Bariloche
+Porto Alegre
+Niagara
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+New York
+New York
+Freiburg
+Freiburg
+Freiburg
+Freiburg
+Bas-Rhin,Freiburg
+San Francisco
+Rio de Janeiro
+Milano
+Arequipa
+Division No. 6
+Greater Vancouver
+Division No. 11
+New York
+New York
+New York
+New York
+New York
+New York,Kings
+Medellín
+Medellín
+Rio de Janeiro
+Bay,Walton
+Lima
+Lima
+Cook
+Barcelona
+Distrito Federal
+São Paulo
+Rio de Janeiro
+Cusco
+Puno
+Puno,Manco Kapac,Pedro Domingo Murillo
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Cartagena de Indias
+San Diego
+San Diego
+Orange
+Harris
+São Paulo
+Rio de Janeiro
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+New York
+New York
+Cook
+Pennington,Adams
+Mohave
+Washington,Clark,Kern,Los Angeles
+Armação dos Búzios
+Rio de Janeiro
+Rio de Janeiro
+New York
+New York
+New York,Kings
+Rio de Janeiro
+New York
+New York
+Callao
+Lima
+Combined statistics
+Combined statistics
+Girona
+Paris,Madrid
+Rio de Janeiro
+Rio de Janeiro
+Lima
+Chiclayo,Talara,Piura
+Lima
+Distrito Federal
+Maipú
+Capital
+Capital
+Luján de Cuyo
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Capital,Tunuyán
+Alpes-Maritimes
+Alpes-Maritimes,Val-d'Oise
+Orange
+Orange
+Amsterdam
+San Francisco
+Cozumel
+Curitiba
+Recife
+Recife
+David
+Mariño
+Westminster,Camden
+Westminster,Hounslow
+Westminster
+New York
+New York
+Pedro Domingo Murillo
+Murcia
+Madrid
+Tyne and Wear
+Norfolk
+Charlottesville
+Charlottesville
+Godoy Cruz,Capital
+Capital
+Cozumel
+Vargas
+Vargas
+Orange
+Miami-Dade
+New York
+New York
+New York
+Miami-Dade
+Rio de Janeiro
+Mangaratiba
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Delhi
+Pauri Garhwal
+Kangra
+Kangra
+Kangra
+Pauri Garhwal
+Chandauli,Varanasi
+Phra Nakhon
+Muang Chiang Mai
+Muang Chiang Mai
+Pai
+Pai
+Pai
+Muang Chiang Mai
+Mae Ai
+Muang Chiang Rai
+Pakbeng
+Louangphrabang
+Ngoi
+Namtha
+Chanthabuly
+Vangvieng
+Vangvieng
+Saravane,Khong
+Khong
+Stueng Traeng
+Siem Reab
+Siem Reab
+Siem Reab,Banteay Srei
+Svay Pao
+Phnom Penh
+Mittakpheap
+Chhatarpur
+Agra
+Barcelona
+Nottingham
+Kensington and Chelsea,London
+Cusco
+Cartagena de Indias
+Cartagena de Indias
+Distrito Federal
+General Sarmiento
+General Sarmiento
+Bariloche
+Distrito Federal
+Yvelines
+'s-Gravenhage
+Köln,Paris,Yvelines,Amsterdam,Darmstadt
+Rio de Janeiro
+Rio de Janeiro
+Cartagena de Indias
+Berazategui
+Barcelona,Paris
+Berlin
+Roma
+Beyoglu,Besiktas
+Beyoglu,Bakirköy,Praha 1,Praha 6
+Quito
+Quito
+Guayaquil
+Azcapotzalco
+East Renfrewshire
+Seine-et-Marne
+Paris
+Paris
+Edinburgh
+Glasgow,Stirling
+Glasgow
+Glasgow,Argyll and Bute
+Clayton
+Rio de Janeiro
+Capital
+Capital
+Seine-et-Marne
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Cusco
+Iguazú
+Foz do Iguaçu
+San Francisco
+Uusimaa
+Northern Ostrobothnia
+Northern Ostrobothnia
+Tallinn
+Uusimaa,Southampton
+Wien
+Wien
+Northern Ostrobothnia
+Arequipa
+Milano
+Distrito Federal
+'s-Hertogenbosch
+João Pessoa
+Recife,Paulista
+Recife
+Santafé de Bogotá
+Santafé de Bogotá
+Balneário Arroio do Silva
+Balneário Arroio do Silva
+Angra dos Reis
+Lacar
+Distrito Federal
+Distrito Federal
+Capital
+New York
+Kings
+New York
+New York
+Lago Argentino
+Lago Argentino
+Orange,Osceola
+Distrito Federal
+Toluca
+Almoloya de Juárez
+Toluca
+Toluca
+New York,Queens
+Orange,Queens,New York,Kings
+Orange,New York
+New York,Kings,Queens,Bergen
+Esteban Echeverría
+Quito
+Maracaibo
+Howard
+New York
+King
+Osceola
+Miami-Dade
+Cercado
+Caxias do Sul
+Caxias do Sul
+Kings
+Cockburn
+Perth
+Taito
+Capital
+Broward
+Miami-Dade
+Flagler
+Miami-Dade
+Düsseldorf
+Paris
+Schleswig-Holstein
+Westminster
+Edinburgh
+Berlin
+Amsterdam,Lochem
+Ifrane
+Venezia
+Tower Hamlets
+Paris
+Medellín
+Westminster
+Dallas
+Santafé de Bogotá
+Santafé de Bogotá
+Distrito Federal
+New York
+Muang Krabi
+Pilar,Morón,Merlo
+Distrito Federal
+Rosario
+Morón,Lomas de Zamora,Esteban Echeverría
+Miami-Dade
+Lima
+Distrito Federal
+Distrito Federal
+Lima
+Ishkashim
+Lima
+Lima
+Lima
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Sierre
+Paris,Sierre
+Sierre
+Sierre
+Sierre
+Sierre
+Sierre
+Sierre
+Sierre
+Paris
+Lima
+San Andrés
+San Andrés
+San Andrés
+Guarulhos
+Recife
+Jaguaripe
+Puno
+São Paulo
+Distrito Federal
+San Miguelito,Panamá
+Libertador
+Camaguán,Baruta
+Libertador
+Libertador
+Libertador
+Libertador
+Libertador
+Libertador
+Libertador
+Camaguán
+Camaguán
+Camaguán
+Libertador
+Libertador
+Cuiaba
+Quito
+Lima
+Miami-Dade
+Miami-Dade
+Broward
+Manchester
+San Mateo,San Francisco,Marin
+Marin
+San Francisco
+San Francisco
+San Francisco
+Santa Clara,Los Angeles
+Paris,Westminster,Camden
+Camden
+Distrito Federal
+Distrito Federal
+Capital
+São Paulo
+Paris
+Çankaya
+Beyoglu
+Beyoglu
+Palmira,Guadalajara de Buga
+Pradera,Palmira
+Santa Rosa de Cabal
+Rio de Janeiro
+Makati City
+Distrito Federal
+Middlesex
+King
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Capital
+São Paulo
+São Paulo
+São Paulo
+Villa Gesell
+São Paulo
+Madrid,Marrakech
+Marrakech
+Napoli,Salerno
+Fatih,Beyoglu
+Çesme
+Phra Nakhon,Pathum Wan,Sathorn
+Ko Phangan
+Muang Krabi
+Muang Krabi
+Muang Krabi
+Hà N?i
+Shah Alam
+Gianyar
+Badung
+Lombok Barat
+Badung
+Salvador
+New York,Middlesex,Suffolk
+Santafé de Bogotá
+Santafé de Bogotá
+Rio de Janeiro
+Westchester
+São Paulo
+Sydney - Inner
+Parramatta  - Inner
+Sydney - Inner
+Hornsby - North
+Marrickville
+Pittwater
+Kings
+Queens
+Lima
+Quito
+Huaraz
+Ica
+Urubamba
+Cusco
+Arequipa
+Pedro Domingo Murillo
+Andrés Ibáñez
+Santiago de Cali
+Santiago de Cali
+Palín
+Santiago de Cali
+Santiago de Cali
+San Martín
+Monterrey
+Guanta
+Bolívar
+Bolívar
+Clark
+Kings
+Alameda
+Morbihan
+Camden,Westminster
+Westminster
+Morbihan
+Praha 1,Praha 6,Praha 8
+Camden,Westminster,Berkshire
+Foz do Iguaçu,Guaraniaçu,Asunción
+São Mateus do Sul
+Canoinhas
+Caxias do Sul
+Canoinhas
+Canoinhas
+Capital
+Canoinhas
+São Mateus do Sul
+San Cosme
+Rio do Sul
+La Capital,São Mateus do Sul
+Brusque
+Canoinhas
+São Mateus do Sul
+São Mateus do Sul
+Miami-Dade
+São Paulo
+Navarra
+Darmstadt
+Watthana Nakhon,Bang Lamung,Bang Plee
+Los Angeles,Orleans
+Cook,District of Columbia
+New York
+Allegheny
+Allegheny
+Delaware
+Ushuaia
+Iguazú
+São Paulo
+Salvador
+Santafé de Bogotá,Medellín,Santiago de Cali
+Santafé de Bogotá
+San Andrés
+San Andrés
+San Andrés
+Capital
+Capital
+Capital
+Bariloche
+Güer Aike
+Güer Aike
+Güer Aike
+Päijänne Tavastia
+Maragogi
+Maceió (capital)
+Guaymallén
+Distrito Federal
+Bariloche
+Bariloche
+Plymouth
+Plymouth
+Wiltshire
+Plymouth
+Plymouth
+Los Angeles
+Rio de Janeiro
+Rio de Janeiro
+Santa Cruz
+San Luis Obispo
+Los Angeles
+Naucalpan de Juárez,Huixquilucan
+Huixquilucan
+Armação dos Búzios
+Armação dos Búzios
+New York
+New York
+Miami-Dade
+Miami-Dade
+New York
+New York
+Benito Juárez
+Tinúm
+Sarthe,Hauts-de-Seine,Paris
+Westminster
+Paris
+Capital
+Tomás Frías
+Distrito Federal
+Arequipa
+Guayaquil
+Cartagena de Indias
+Santafé de Bogotá
+Lima
+Lima
+Lima
+Cañete
+Lima
+Lima
+Lima
+Maceió (capital)
+Distrito Federal
+Distrito Federal
+Westminster
+Camden
+Girona
+Girona
+Barcelona
+Barcelona
+Westminster
+Hackney,London
+Paris
+Cambridgeshire
+Camden
+Camden,Westminster
+Hackney
+Wiltshire,Hackney
+Westminster
+Rio de Janeiro
+New York
+New York
+New York
+Madrid,Kensington and Chelsea,Westminster,Hackney
+Camden,Kensington and Chelsea
+Kensington and Chelsea,Westminster
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Madrid
+Madrid
+Madrid
+Santafé de Bogotá
+Santa Marta (Dist. Esp.)
+Santafé de Bogotá
+Bariloche,Los Lagos
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Bern,Broye-Vully,Lausanne,Luzern
+Jura-North Vaudois,Genève
+Niedersimmental,Interlaken,Wasseramt,Thun,Riehen
+Verbano-Cusio-Ossola
+La Gruyère,Bern
+Tandil
+Madrid
+Salzburg
+Oberbayern
+Amsterdam,Berlin
+Tandil
+Lecce
+Davidson
+Fulton
+Fulton
+Davidson
+Opico
+Antigua Guatemala
+ZONA 13
+Davidson
+Sevier
+Fulton
+Fulton
+Distrito Federal
+Madrid
+Madrid
+San Francisco
+Los Angeles
+Miami-Dade
+New York
+New York
+Lima
+Lima
+Madrid
+Barcelona,Madrid,Valencia
+Madrid
+Baleares
+Madrid
+Central
+Los Angeles
+Amsterdam
+Rio de Janeiro
+São Paulo
+São Paulo
+São Paulo
+Confluencia
+Confluencia
+De Kalb
+New York
+New York
+Communauté-Urbaine-de-Québec
+La Côte-de-Beaupré
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Toronto
+Toronto
+District of Columbia
+Communauté-Urbaine-de-Québec
+Cook
+Sevilla
+Sevilla
+Capital
+Rio de Janeiro
+Distrito Federal
+Distrito Federal
+Bariloche
+Urubamba
+San Andrés
+Santafé de Bogotá
+Cusco
+San Francisco
+Azcapotzalco
+Distrito Federal
+Libertador
+Libertador
+Libertador
+Darmstadt
+Miami-Dade
+Miami-Dade
+Orange
+Guarulhos
+Paris
+Sorocaba
+New York
+São Sebastião
+São Paulo
+Queens,New York
+New York
+Distrito Federal
+Distrito Federal
+Montes de Oca
+Barueri
+Cook
+Cook
+Lima
+Cozumel
+Cozumel
+Cambridgeshire
+Cambridgeshire
+Talara
+Los Angeles
+Los Angeles
+Los Angeles
+New York
+New York
+Trujillo
+Trujillo
+Trujillo
+Trujillo
+Trujillo
+Trujillo
+Trujillo
+Santafé de Bogotá
+Santafé de Bogotá
+Roma
+Cusco
+Miami-Dade
+Campeche
+Benito Juárez
+New York
+New York
+Verona
+Verona
+Verona
+Sydney - Inner
+Rio de Janeiro
+Baruta
+Chacao
+Libertador
+Lago Argentino,Distrito Federal
+Cusco,Urubamba,Calca
+Salvador
+Aratuípe,Cairu
+Cairu
+Salvador
+District of Columbia
+Lima,Cusco
+Urubamba
+Lima
+Suffolk
+Westminster
+Paris
+New York
+Broward,Miami-Dade
+Tacna
+Suffolk,Middlesex
+Middlesex
+Communauté-Urbaine-de-Montréal
+Cumberland,Saint John
+Halifax,Cape Breton
+Suffolk
+Miami-Dade
+Mariposa
+Monterey,San Benito,San Mateo
+Miami-Dade
+Distrito Federal
+Fresno
+Ushuaia
+Berazategui
+Miami-Dade
+Orange
+Salvador
+Distrito Federal
+Waitakere
+Madrid
+Paris,Madrid
+Paris
+Madrid,Toledo
+Los Angeles
+Miami-Dade
+Madrid
+Barcelona
+Capital
+New York
+Rio de Janeiro
+ZONA 18
+Distrito Federal
+Distrito Federal
+Santafé de Bogotá
+Sydney - Inner
+Urubamba
+King
+Miami-Dade
+Miami-Dade
+n.a354
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Tigre
+Distrito Federal
+Foz do Iguaçu
+Capital
+Lima
+Lima
+Lima
+Mittakpheap
+Communauté-Urbaine-de-Québec
+Hancock
+Paris
+Roma
+Distrito Federal,n.a540
+Lima
+Cusco
+Santa Elena
+Santa Elena
+Distrito Federal
+General Pueyrredón
+La Tebaida,Dosquebradas
+Rio de Janeiro
+Angra dos Reis
+Londrina
+Campina Grande do Sul
+Balneário Arroio do Silva
+Florianopolis
+Londrina
+Londrina
+Cusco
+Cook
+Bern
+Roma
+Tacna
+Salvaleón de Higüey
+
+Esteban Echeverría
+Barcelona
+Paris
+Barcelona
+Madrid
+Rio de Janeiro
+Tacna
+Itajaí
+Madrid
+Florianopolis
+Balneário Arroio do Silva
+New York
+Paris
+Westminster
+Westminster,Paris
+Centro Habana
+Panamá
+Arraiján
+Hilversum
+Monza and Brianza
+Florida
+Tacna
+Bariloche,Los Lagos
+Orange
+Orange
+Cairu,Salvador
+Arequipa
+Tacna
+Berlin
+Berlin
+Berlin
+Cook
+Milano
+Florence
+Kraków City
+Berlin
+Florence
+Amsterdam
+Praha 1
+Berlin
+Florence
+Varese
+Quito
+Distrito Federal
+Distrito Federal
+Distrito Federal
+New York
+New York
+New York
+Distrito Federal
+New York
+General Pueyrredón
+General Pueyrredón,Distrito Federal
+Tecoh
+Esteban Echeverría,Distrito Federal
+São Paulo
+São Paulo
+Cuiaba
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Cartagena de Indias,Santafé de Bogotá,San Andrés
+San Andrés
+Shibayama
+Melaka Tengah
+Paris
+Sevilla
+Orange
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+San Andrés,Santafé de Bogotá
+San Andrés
+New York
+Bas-Rhin
+Distrito Federal
+New York
+New York
+Balneário Arroio do Silva
+Los Angeles
+Las Heras
+Las Heras
+Las Heras
+Las Heras
+Las Heras
+Las Heras
+Las Heras
+Las Heras
+Distrito Federal
+Deventer
+Santa Cruz
+Grecia
+Montes de Oca
+Guayaquil
+Guayaquil
+Guayaquil
+Las Heras
+Miami-Dade,New York,Westminster,Barcelona,Paris
+Distrito Federal
+Puerto Cabello
+Libertador
+Santafé de Bogotá
+Arraial do Cabo
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Iguazú
+Iguazú,Foz do Iguaçu,Distrito Federal
+Iguazú
+Iguazú,Foz do Iguaçu
+Iguazú
+Iguazú
+Multan
+Miami-Dade
+Tacna
+Andrés Ibáñez
+Andrés Ibáñez
+Andrés Ibáñez
+Lima
+Miami-Dade
+Miami-Dade
+Andrés Ibáñez
+Tacna
+Monroe
+Tacna
+Recife
+Recife
+Recife
+Recife
+Brasília
+Jackson
+Asunción
+Ernakulam
+Thiruvananthapuram
+Thiruvananthapuram
+Thiruvananthapuram
+Thiruvananthapuram
+Tiruvannamalai
+Galle Four Gravets
+Gianyar
+Gianyar
+Bellary
+Jodhpur
+Jaisalmer
+Pauri Garhwal
+Urubamba
+Urubamba
+Pedro Domingo Murillo
+Les Laurentides
+Toronto
+Capital
+Distrito Federal
+Quito
+Venezia
+Paris
+Wiltshire
+Talara
+Talara
+São Paulo
+Rio de Janeiro
+El Carmen,Distrito Federal
+Distrito Federal
+Bariloche
+Barcelona
+Baleares
+Barcelona
+Westminster,Camden
+Tower Hamlets,Westminster,Amsterdam
+Amsterdam,Rotterdam
+Berlin,Brandenburg,Kassel
+Roma
+Florence,Paris
+Barcelona
+Barcelona
+Barcelona
+Camden
+Paris
+Cuiaba
+Rio de Janeiro
+Tacna,Urubamba
+Distrito Federal
+Distrito Federal
+Santa Elena
+Santa Elena
+Lima
+Hampshire

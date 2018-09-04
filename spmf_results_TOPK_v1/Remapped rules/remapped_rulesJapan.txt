@@ -1,0 +1,11 @@
+Kensington and Chelsea Islington   ==> Westminster   #SUP: : 10 #CONF: 0.8333333333333334
+Westminster Kensington and Chelsea Hackney   ==> Camden   #SUP: : 10 #CONF: 0.8333333333333334
+Camden Kensington and Chelsea Hackney   ==> Westminster   #SUP: : 10 #CONF: 0.7692307692307693
+Southwark Kensington and Chelsea   ==> Westminster   #SUP: : 12 #CONF: 1.0
+Hackney Islington   ==> Westminster   #SUP: : 12 #CONF: 0.8571428571428571
+Kensington and Chelsea Hackney   ==> Westminster   #SUP: : 12 #CONF: 0.75
+Taipei Taoyuan   ==> Taipei City   #SUP: : 13 #CONF: 0.8125
+Kensington and Chelsea Hackney   ==> Camden   #SUP: : 13 #CONF: 0.8125
+Camden Islington   ==> Westminster   #SUP: : 15 #CONF: 0.8333333333333334
+Camden Southwark   ==> Westminster   #SUP: : 18 #CONF: 0.8181818181818182
+Queens Kings   ==> New York   #SUP: : 26 #CONF: 0.8125

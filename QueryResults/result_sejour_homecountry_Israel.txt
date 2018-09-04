@@ -1,0 +1,11057 @@
+Paris,Amsterdam
+Westminster
+New York
+New York,Queens
+New York
+New York
+New York
+New York
+New York
+New York
+Bristol,Barnstable
+Clark
+New York
+New York
+Albany
+New York
+Jerusalem
+Lecco
+Berlin
+Bethlehem
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Hebron
+Berlin
+Madaba
+Madaba
+Madaba
+Madaba
+Babruysk
+Babruysk
+Madaba
+Madaba
+Aqaba
+Aqaba
+Bethlehem
+Bethlehem
+Heraklion
+Heraklion,Khania
+Bethlehem
+Bethlehem
+Jerusalem
+Fthiotis
+Bethlehem
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Fatih,Beyoglu
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Solomians'kyi
+Shevchenkivs'kyi
+Simferopol's'ka
+Simferopol's'kyi
+Ialtyns'ka
+Bakhchysarais'kyi
+Simferopol's'ka
+Simferopol's'ka
+Beryslavs'kyi
+Mykolavs'ka
+Jerusalem
+Milano,Venezia
+Roma,Florence
+Sour
+Sour
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Bloemfontein
+Bloemfontein
+Amsterdam
+Kauno
+Berlin
+Amsterdam
+Vilniaus
+Innsbruck Land
+Ko Phangan,Ko Samui
+Brescia
+Kraków City
+Nottingham
+Ramallah and Al-Bireh
+Bent Jbayl
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Fthiotis
+Roma
+Dodecanese
+Warsaw
+Warsaw
+Muang Chiang Mai
+Hà N?i
+Pathum Wan
+Paris,Amsterdam,Madrid
+Madrid,Barcelona
+Hebron
+Heraklion
+Myingyan
+London
+New York
+Madaba
+Nesebar
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Marjayoun
+Dodecanese
+Manavgat
+Omskiy rayon
+Berlin
+Berlin
+Berlin
+Merkez
+Barcelona
+Seine-et-Marne
+Seine-et-Marne
+Jerusalem
+Barcelona
+Fortaleza
+Rio de Janeiro
+Brasília
+Kensington and Chelsea
+Jerusalem
+Marjayoun
+Barcelona
+Muang Chiang Mai
+Ko Phangan
+Aqaba
+Barcelona
+Brandenburg
+Madaba
+Visp
+Pays-d'Enhaut
+Berlin
+Palm Beach
+Palm Beach
+Jizeh
+Warsaw
+Kensington and Chelsea
+Paris
+Madrid,Barcelona
+Barcelona
+Queens,New York
+Suffolk
+Durham
+Suffolk
+New York
+New York
+New York
+Clark
+Queens
+New York
+Heraklion
+Catania
+Torino,Genève
+Roma
+Napoli,Salerno
+Charles Sturt - Coastal
+Victor Harbor
+Murray Bridge
+Robe
+Sydney - East
+Sydney - Inner
+Mierlo,Loon op Zand,Amsterdam
+Marion - Central
+Holdfast Bay - South
+Adelaide
+Victor Harbor
+Port Adel. Enfield - East
+Botany Bay
+Ballina
+Manly,Sydney - Inner
+Santiago
+Madaba
+'s-Gravenhage
+Rotterdam
+Barcelona
+Cook
+Budapesti
+Orleans
+Distrito Federal
+Budapesti
+Wien
+Oberpfalz
+Oberbayern
+New York
+Madaba
+Berlin
+Praha 6
+Praha 1,Praha 6
+Westminster
+Westminster,Camden
+Budapesti
+Madrid
+Dodecanese
+Beyoglu,Bakirköy
+Berlin
+Venezia
+Amsterdam
+Amsterdam
+Kathu
+Ko Samui
+Ko Samui
+Ko Samui
+Trento
+Marjayoun
+Amsterdam
+Schwaz
+Sour
+Olbia-Tempio
+Washington,Coconino
+Los Angeles
+Maui
+New York
+Locarno
+Westminster
+Bent Jbayl
+Newham
+Budapesti
+Andelfingen
+Freiburg
+Haut-Rhin
+Jerusalem
+Randburg
+Randburg
+Randburg
+Tulkarm
+Merkez,Kemer
+Merkez
+Dodecanese
+Jerusalem
+Bethlehem
+Jerusalem
+Southwark
+Nablus
+Jerusalem
+Qalqilya
+Nablus
+Zamosc,Warsaw
+Santafé de Bogotá
+Muang Chumphon
+Kensington and Chelsea
+Muang Chiang Mai
+Muang Chiang Mai
+Queens
+Berlin
+Aqaba
+Miami-Dade
+Paris
+New York
+Cairu
+Pedro Domingo Murillo
+Lima
+Qalqilya
+Ramallah and Al-Bireh
+Clark
+Bruxelles
+South Goa
+Barcelona
+Madaba
+New York
+Hume - Craigieburn
+Boquete
+Madaba
+New York
+New York
+Budapesti
+Ramallah and Al-Bireh
+Amsterdam
+Roma
+Roma
+Bologna
+Seine-et-Marne,Paris
+Madrid
+Qalqilya
+Salfit
+Hebron
+Aqaba
+Ramallah and Al-Bireh
+Bethlehem
+Bierun-Ledziny
+Lisboa
+Jerusalem
+Jerusalem
+Clark
+Los Angeles
+Paris
+Barcelona
+Paris
+Landeck
+Berlin
+Kings,New York
+New York
+Queens,New York
+Queens,New York
+Atlantic,New York
+Berlin
+Jerusalem
+Ko Phangan
+Kings
+New York
+Muang Kanchanaburi,Phra Nakhon
+Phra Nakhon,Ko Samui
+Ko Phangan
+Ko Phangan
+Dodecanese
+Barcelona
+Kathu
+Ko Samui
+Berlin
+Ernakulam
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Kings
+Orange
+Hume - Craigieburn
+Mitchell - South
+Yarra - North
+Jericho
+Melbourne - S'bank-D'lands
+Nabatiyeh
+Aqaba
+Devon
+Devon
+Devon
+Salt
+Salt,Amman,Um El-Basatien
+Um El-Basatien
+Salt,Um El-Basatien
+Um El-Basatien
+Salt
+Salt
+Salt
+Um El-Basatien
+Salt
+Salt
+Oberbayern
+Tarnów
+Kraków City
+Nesebar
+Kraków City
+Bergen
+New York
+Ramallah and Al-Bireh
+Paris
+New York
+New York
+New York
+New York
+Distrito Federal
+Iguazú
+Cairu
+Cairu
+Cairu
+Rio de Janeiro
+Jerusalem
+Jerusalem
+Jerusalem
+Ramallah and Al-Bireh
+Budapesti
+Noordwijkerhout
+Jerusalem
+Ko Phangan
+Ko Phangan
+Koper
+Olbia-Tempio
+Kitzbühel
+Salzburg
+Venezia
+Oberbayern
+Kitzbühel
+Salzburg
+Paris
+Oberbayern
+Paris
+Oberbayern
+New York
+Paris
+Paris
+Dodecanese
+New York
+Lancaster,Kings
+Amsterdam
+Amsterdam
+Fatih,Sisli
+Besiktas
+Paris
+Barcelona
+Milano
+New York,Kings
+Kings
+New York
+Kings
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Dodecanese
+Wien
+Wien
+Westminster,Tower Hamlets,Kensington and Chelsea
+Salfit
+Warsaw
+Kraków City,Kraków
+Bethlehem
+Amsterdam
+Barcelona
+Barcelona,Baleares
+Jericho
+Salfit
+Bethlehem
+Bang Plee
+Kathu
+Kathu,Muang Krabi,Huai Kwang,K. Bang Sao Thon
+Jerusalem
+Hebron
+Aqaba
+Aqaba
+Westminster
+Westminster
+Jerusalem
+Düsseldorf
+Düsseldorf
+Bruxelles
+Düsseldorf
+Düsseldorf,Köln
+Jerusalem
+Wien
+Wien,Wien Umgebung
+Köln
+Düsseldorf,Köln
+Dessau
+Düsseldorf
+Köln
+Düsseldorf
+Düsseldorf
+Köln
+Köln
+Berlin
+Köln
+Köln
+Köln
+Köln
+Köln
+Salfit
+Utrecht
+Köln
+Berlin
+Amsterdam
+Ramallah and Al-Bireh
+Kensington and Chelsea
+Savoie
+Savoie
+Hillingdon
+Sri Jayawardanapura Kotte
+Attica
+Berlin
+Jerusalem
+Besiktas
+Ko Phangan
+Westminster
+New York,Brevard
+Jerusalem
+Westminster
+Barcelona
+Besiktas
+Berlin
+Berlin
+Bolzano
+Jerusalem
+Cambridgeshire,Westminster
+Westminster
+Amsterdam
+New York
+New York
+Saratoga
+New York
+Sokal's'kyi
+Sokal's'kyi
+Kremenchuts'kyi
+L'vivs'ka
+Kremenchuts'kyi
+Kremenchuts'kyi
+Kremenchuts'ka
+Zaanstad,Amsterdam
+Kangra
+North Goa
+Monroe
+Warsaw
+Warsaw
+Burgas
+Madaba
+Alberni-Clayoquot
+Honolulu
+Santiago
+Heraklion
+Shevchenkivs'kyi
+Madaba
+Ternopil's'ka
+Chernivets'ka
+Boryspil's'ka,Paris
+Hillingdon
+Hillingdon,Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Jerusalem
+Zaporiz'ka
+Shevchenkivs'kyi
+Zaporiz'ka
+Holosiïvs'kyi
+Zaporiz'ka
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Praha 1
+Roma
+L'vivs'ka
+Distrito Federal
+Distrito Federal
+Iguazú,Foz do Iguaçu
+Capital
+New York
+New York
+San Diego
+San Diego
+San Diego
+Orange
+Jerusalem
+Queens
+Westminster
+Venezia
+Verona
+Brescia
+Lublin City
+Warsaw
+Westminster,London
+Berlin
+Berlin
+Loon op Zand
+Limburg
+Amsterdam,Haarlemmermeer
+Berlin
+Berlin
+Distrito Federal
+Distrito Federal
+Tigre
+Jerusalem
+Jerusalem
+Hebron
+Amsterdam
+Heraklion
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+KryvyiRig
+Zaporiz'ka
+Tskaltubo
+Kobuleti
+Tsalenjikha,Kobuleti
+Kalutara
+Kalutara,Kegalle
+Kalutara
+Zaporiz'ka
+Zaporiz'ka
+Zaporiz'ka
+Zaporiz'ka
+Boryspil's'ka
+Zaporiz'ka
+Zaporiz'ka
+Zaporiz'ka
+New York
+Berlin
+Napoli
+José Ballivián
+Cairu
+Rio de Janeiro
+Jerusalem
+Jerusalem
+Berlin
+Budapesti
+Jericho
+Vienne,Gironde
+Kensington and Chelsea
+Barcelona
+Jerusalem
+Santafé de Bogotá
+Santafé de Bogotá
+Barcelona
+Paris
+Barcelona
+Westminster
+Amsterdam
+Islington
+Islington
+Islington,Hackney
+Islington
+Westminster
+Hammersmith and Fulham,Westminster
+Westminster
+Hackney,Westminster,Paris,Yvelines
+Westminster
+Bethlehem
+Delhi
+Camden,Westminster
+Bakirköy
+Westminster
+Budapesti
+Klagenfurt Land
+Westminster,Jesenice,Race-Fram,Budapesti
+Plitvicka Jezera
+Westminster
+Bethlehem
+Salfit
+Jerusalem
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Madaba
+Sochi gorsovet
+Sochi gorsovet
+Madaba
+Central
+Tambovskiy rayon
+Tambovskiy rayon
+Tambovskiy rayon
+Tambovskiy rayon
+Roma
+Roma
+Roma
+Berlin
+Ramallah and Al-Bireh,Homyel'
+Pyetrykaw
+Bethlehem
+Pyetrykaw
+Pyetrykaw
+Pyetrykaw
+Homyel'
+Homyel'
+Pyetrykaw
+Pyetrykaw
+Pyetrykaw
+Pyetrykaw
+Pyetrykaw
+Saratovskiy rayon
+Brest
+Pyetrykaw
+Homyel'
+Pyetrykaw
+Minsk
+Minsk
+Budapesti
+Praha 6,Praha 1,Praha 5
+Praha 2,Praha 7,Praha 1
+Var
+Alpes-Maritimes
+Vucitrn
+Berlin
+Berlin
+Jerusalem
+Wien
+Wien
+New York
+New York
+New York
+Wattana
+Heraklion,Rethymnon
+Heraklion
+Phra Nakhon
+Berlin
+Heraklion
+Khania
+Squamish-Lillooet
+São Paulo
+São Paulo
+Simon Town
+Mecklenburg-Vorpommern
+Belém
+Bouches-du-Rhône
+Barcelona
+São Paulo
+Maranguape
+São Paulo
+Haarlemmermeer
+Westminster,Brent
+Westminster
+Westminster
+Ramallah and Al-Bireh
+New York
+New York
+New York
+Bronx
+New York
+New York
+New York
+Queens
+Allegheny
+New York
+Jerusalem
+New York
+District of Columbia
+Nassau
+Berlin
+Berlin
+Freiburg
+Köln
+'s-Gravenhage
+'s-Gravenhage
+Haarlemmermeer
+Zürich,Bülach
+Berlin
+Berlin
+Berlin
+Berlin
+Ahmadabad
+Bethlehem
+Heraklion
+Berlin
+Qu?ng Ninh,Hà N?i
+Ko Phangan
+Visp
+Salfit
+Pothuvil
+Pothuvil
+Amsterdam
+Antwerpen
+Amsterdam
+Berlin
+Miami-Dade,Broward
+Westminster
+Tower Hamlets
+Westminster
+Westminster,Surrey
+Berlin
+Berlin
+Zagreb
+Jerusalem
+Ille-et-Vilaine
+Genève
+Genève
+Lisboa
+Madrid
+San Francisco
+San Francisco
+Coconino
+Maricopa
+El Paso
+Orleans
+Fulton
+Charlottesville,District of Columbia,New York
+Ciudad Real
+Camden
+Lisboa
+Sour
+Bang Plee,Greater Geelong - Pt B
+Geelong
+Geelong
+Melbourne - Inner
+Newtown
+Paris
+Paris
+Barcelona
+Madrid
+Soest
+Ermelo
+Westminster
+Westminster
+Westminster
+Sankt-Peterburg gorsovet
+Madaba
+Budapesti
+Budapesti
+Budapesti
+Stolichna
+Dodecanese
+Las Palmas
+Barcelona
+Valencia
+Barcelona
+North-Western
+Central
+Central
+Corfu
+Madaba
+Ramallah and Al-Bireh
+Darmstadt
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Tulkarm
+Tulkarm
+Central
+Solnechnogorskiy rayon
+Roma
+San Francisco
+Clark
+New York
+Barcelona
+Barcelona
+Ramallah and Al-Bireh
+Roma
+Fatih
+Amsterdam
+Amsterdam
+Tulkarm
+Baleares
+Baleares
+Dodecanese
+Dodecanese
+Las Palmas,Madrid
+Paris
+Paris
+Heraklion
+Cautín,Curicó
+Cautín
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Santiago
+Santiago
+Barcelona
+Berlin
+Barcelona
+Barcelona
+Goodwood
+Ceres,Simon Town
+Randburg
+Varna
+New York
+New York
+Praha 1
+Düsseldorf
+Nablus
+Nablus
+Nablus
+Nablus
+Nablus
+Westminster
+Praha 1
+Bethlehem
+Cyclades
+Cyclades
+Berlin,Boryspil's'ka
+Berlin
+Milano
+Sour
+Jerusalem
+Jerusalem
+Central,Western,Sochi gorsovet
+Central
+Coconino
+Corfu
+Madrid
+Combined statistics
+Combined statistics
+Praha 4
+Westminster
+Gdansk City
+Dodecanese
+Amsterdam
+Amsterdam
+Kensington and Chelsea
+Kensington and Chelsea
+Kensington and Chelsea
+Niagara
+Ramallah and Al-Bireh
+Warsaw
+Jericho
+Marjayoun
+Marjayoun
+Aqaba
+Praha 1
+Capital
+Iguazú
+Iguazú
+Rio de Janeiro
+Armação dos Búzios
+Armação dos Búzios
+Pisco
+Cusco
+Cusco
+Panamá
+Bocas del Toro
+Paris
+Paris
+Madrid
+Marjayoun
+Marjayoun
+Division No. 11
+Jerusalem
+Iguazú
+Odes'ka
+Miami-Dade
+Orange
+Barcelona
+Heraklion
+Rethymnon
+Freiburg
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Jerusalem
+Amsterdam
+Dodecanese
+Dodecanese
+Var
+Var
+Jerusalem
+Ramallah and Al-Bireh
+Jericho
+Stuttgart
+Savoie
+Savoie
+Savoie
+Genève
+Jerusalem
+Paris
+Hauts-de-Seine,Paris
+Paris
+Paris
+Bethlehem
+Ramallah and Al-Bireh
+Peel,York,Toronto
+York
+Niagara
+Peel
+Queens,Kings
+Kings
+Bergen,Kings
+Boryspil's'ka
+Krynychans'kyi,Dnipropetrovs'ka
+Antwerpen,Amsterdam
+Swidnica
+York,Toronto
+Haliburton
+Haliburton
+York
+New York,Bronx
+Podil's'kyi
+Jerusalem
+Jerusalem
+Dnipropetrovs'ka
+L'vivs'ka,Rzeszów City,Kraków City,Lódz,Warsaw
+Combined statistics
+Combined statistics
+Ramallah and Al-Bireh
+Islington,London,Camden,Southwark
+Paris
+Praha 1
+Brandenburg
+Tulkarm
+New York
+New York
+Barcelona
+Philadelphia
+Maui
+Wien
+Qalqilya
+Westminster
+Westminster,Kingston upon Thames
+Warsaw
+Kraków City
+Westminster
+Cyclades
+Westminster,Hackney
+Berkshire
+New York
+Westminster
+Pinellas
+Clark
+Santa Clara
+Kraków
+Sour
+Jerusalem
+Darmstadt
+Dodecanese
+Dodecanese
+Ramallah and Al-Bireh
+Barcelona
+Kusadasi
+Nowy Targ
+Girona
+Barcelona
+Girona
+Berlin
+Berlin
+Jerusalem
+Roma
+Jerusalem
+Jerusalem
+Roma
+Milano
+Verona
+Milano,Brescia
+Berlin
+Barcelona
+Ramallah and Al-Bireh
+Idanha-a-Nova
+Bethlehem
+Oslo
+Oslo
+Central
+Roma
+Oppegård
+Combined statistics
+Sankt-Peterburg gorsovet
+Paris
+Los Angeles
+Ekaterinburg gorsovet,Central,Northern
+Travis
+Suffolk
+New York
+Central
+Oslo
+Berlin
+Amsterdam
+Darmstadt,Lisboa
+Amsterdam,Haarlemmermeer
+Darmstadt,Lisboa
+Madaba
+Berlin,Haarlemmermeer,Edinburgh
+Berlin
+Madaba
+Madaba
+Madaba
+Berlin
+Paris
+Paris
+Qalqilya
+Jerusalem
+Tayybeh
+Jerusalem
+Jerusalem
+Halifax
+New York
+New York
+Seine-Saint-Denis,Paris
+Marin
+Jerusalem
+San Francisco
+San Francisco
+San Francisco
+Warwickshire
+Thessaloniki
+Thessaloniki,Pella
+Venezia,Verona
+Vicenza,Verona
+Brescia
+Baleares
+Merkez
+Baleares
+Rajkot
+Slunj
+Opatija/Veprinac
+Bethlehem
+Jerusalem
+Hauts-de-Seine
+Hammersmith and Fulham,Westminster,Seine-et-Marne,Paris,Southwark,Camden,Luton
+Milano,Verona,Roma,Venezia
+Prato
+Siena,Roma
+Suffolk
+Nassau
+Chester,Philadelphia
+Chester
+Berlin
+Dodecanese
+Marjayoun
+Los Angeles
+Inyo
+Clark
+New York
+New York
+Amsterdam
+Amsterdam
+Amsterdam
+Madrid
+Madrid
+Jerusalem
+Heraklion
+Heraklion
+Berlin
+Barcelona
+Los Angeles,San Francisco
+Alameda,San Mateo,Sonoma,San Francisco
+Santa Clara,San Francisco,San Mateo
+Münchwilen,Schaffhausen
+Landeck
+Oberbayern
+Gaza
+Marjayoun
+Marjayoun
+Venezia,Ljubljana
+Venezia
+Westminster
+Westminster
+Jizeh
+Salfit
+Salfit
+Cyclades
+Los Angeles
+Warsaw
+Bierun-Ledziny
+Minsk
+Hastings
+Peel
+Jerusalem
+Miami-Dade
+New York
+New York
+New York,Kings
+Kings
+New York
+Linz
+Linz
+Sour
+Barcelona
+Lapland
+Lapland
+Lapland
+Brescia
+Modena
+Paris
+Heraklion
+Heraklion
+Heraklion
+Beijing
+Beijing
+Brits
+Wynberg
+Muang Chiang Mai,Mae Taeng
+Pathum Wan
+Madaba
+Berlin
+Barcelona
+Valencia
+Paris
+Madrid
+Westminster
+Roma
+Aqaba
+Budapesti
+Budapesti
+Genève,Savoie
+Savoie
+Genève
+Cobb,Clayton
+Miami-Dade
+Düsseldorf,Broward,Bakirköy
+Berkshire
+Jerusalem
+Paris
+Westminster,Luton
+Shibuya
+Koto,Wien
+Barcelona
+Barcelona
+Goodwood
+Warsaw
+Utrecht
+Camden,Westminster
+Genève,Baleares
+Baleares
+Baleares,Oberbayern
+Budapesti
+Málaga
+Barcelona
+Berlin
+Ramallah and Al-Bireh
+Jerusalem,Tulkarm
+Shevchenkivs'kyi
+Shevchenkivs'kyi,Vilniaus
+Nesebar
+Antwerpen,Paris
+Paris
+Landeck,Bludenz
+Seine-et-Marne
+Ramallah and Al-Bireh
+Freiburg
+Ko Samui
+Bolzano
+Trento
+Bolzano
+Bierun-Ledziny
+Bierun-Ledziny
+Rybnik City,Kraków City
+Bierun-Ledziny
+Warsaw
+Bierun-Ledziny
+Girona
+Muang Chiang Rai
+Ko Phangan
+Ko Samui
+Ko Phangan
+Ko Phangan
+Ko Phangan
+Ko Samui
+Muang Krabi
+Madaba
+Madaba
+Dodecanese
+Jerusalem
+Camden
+Westminster
+Westminster,Berkshire
+Kraków City,Bierun-Ledziny
+Zambrów,Warsaw,Bialystok
+Pierce
+Ramallah and Al-Bireh
+Barcelona
+Barcelona
+New York
+Heraklion
+Salfit
+Salfit
+Florence
+Roma
+Salfit
+Ko Phangan
+Ko Phangan
+Ko Phangan
+Khlong Toey
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Jerusalem
+Salfit
+Val-d'Oise,Paris
+Jericho
+Marjayoun
+Paris
+Roma
+Santa Clara La Laguna
+Isla Mujeres
+Cozumel
+Carmen
+Amsterdam
+Hérault
+Hérault
+Hérault
+Milano
+Budapesti
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Barcelona
+Barcelona
+Barcelona
+Amsterdam
+Liemeer
+Amsterdam
+L'vivs'ka
+Verona,Venezia,Trento
+Brescia
+Pustomytivs'kyi
+L'vivs'ka
+L'vivs'ka
+Verona
+Brescia
+Amsterdam
+Loon op Zand
+Haarlemmermeer
+Westminster
+Barcelona
+Barcelona
+Florence
+Roma
+Clark
+Clark
+Monterey
+Los Angeles
+San Diego
+Barcelona
+Barcelona
+Ko Phangan
+Bethlehem
+Alpes-Maritimes
+Gard
+Savona
+Jericho
+Jerusalem
+Southwark
+Amsterdam
+Phra Nakhon
+Bo Phloi
+Kathu
+Riga
+Riga
+Riga
+Riga
+Barcelona
+Norfolk
+Jerusalem
+Beijing
+Attica
+Attica
+Esparza
+Ramallah and Al-Bireh
+Aqaba
+Kraków City
+Kraków City
+Warsaw
+Berlin
+Jerusalem
+Jerusalem
+Marjayoun
+Huesca
+Almaty (Alma-Ata)
+Zürich
+Solnechnogorskiy rayon
+Tallinn
+Tallinn
+Barcelona
+Girona
+Barcelona
+Jerusalem
+Distrito Federal
+Distrito Federal
+Lago Argentino
+Cushamen
+Bariloche
+Bariloche
+Florianopolis
+Capital
+Lima
+Abangares
+Santa Ana
+Aqaba
+Bratislava I,Nové Zámky,Wien Umgebung
+Barcelona
+Barcelona
+Barcelona
+Muang Chiang Mai
+Muang Krabi
+Franca,Cristais Paulista
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade,New York
+Jerusalem
+Cristais Paulista
+Cristais Paulista
+Cristais Paulista,Franca
+Cristais Paulista
+Cristais Paulista
+Franca
+Hamburg
+Cristais Paulista,Franca
+Cristais Paulista
+Miami-Dade
+Miami-Dade
+Miami-Dade
+New York
+New York
+Miami-Dade
+Miami-Dade
+Miami-Dade
+New York
+New York
+New York
+Miami-Dade
+Miami-Dade
+New York
+New York
+Kensington and Chelsea,Westminster,Camden
+Jerusalem
+Peel
+New York
+New York
+Jerusalem
+New York
+Surrey
+Delhi
+Palermo
+Niterói
+Berlin
+Heraklion
+Heraklion
+Nesebar
+Chai Prakarn
+Muang Chiang Mai
+Kathu
+Ko Phangan
+Pathum Wan
+Torino
+Antwerpen
+Antwerpen,Vlaams Brabant
+Ramallah and Al-Bireh
+Sondrio
+Jerusalem
+Berlin
+Praha 1
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Jericho
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Aqaba
+Jericho
+Warsaw
+New York
+Palm Beach,Monroe
+Palm Beach,Broward
+Zürich
+Dodecanese
+Dodecanese
+Madaba
+Phra Nakhon
+Kathu
+Phra Nakhon
+Madaba
+Glasgow
+Westminster
+New York
+Suffolk
+New York
+Benito Juárez,Cozumel
+Queens
+Warsaw
+Cyclades
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Aqaba
+Dodecanese
+Hamburg
+Hamburg
+Ekaterinburg gorsovet
+Verkhnyaya Pyshma gorsovet
+Huiliches
+Bang Plee
+Muang Krabi
+Ko Phangan,Ko Samui
+Ko Phangan
+New York
+New York,Bronx
+New York
+Southwark,Westminster
+Trinidad
+Tulkarm
+Westminster
+Westminster,Camden
+Barcelona
+Aqaba
+Heraklion
+Berlin
+Berlin
+Jericho
+Los Angeles
+Los Angeles
+New York
+Los Angeles
+Madaba
+Ramallah and Al-Bireh
+Aqaba
+New York
+New York
+Pathum Wan
+Amsterdam
+Milano
+Florence
+Seine-et-Marne
+Seine-et-Marne,Paris
+Paris
+Berlin
+Agra,Nijmegen
+Roma
+Wien
+Billund
+Kings
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Praha 1
+Krasnodar gorsovet
+Madaba
+Krasnodar gorsovet
+Krasnodar gorsovet
+Jerusalem
+Roma
+Westminster
+Nesebar
+Nesebar
+Heraklion
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Jericho
+Jerusalem
+Barcelona
+Berlin
+Innsbruck
+Innsbruck Land
+Madrid
+Wadi Musa
+Sydney - Inner
+Mosman
+Bethlehem
+Budapesti
+New York
+Qalqilya
+Ramallah and Al-Bireh
+Barcelona
+Barcelona
+Westminster
+London
+Kensington and Chelsea,Westminster,,London
+Paris
+Haut-Rhin
+Bas-Rhin
+Huesca
+Navarra,Guipúzcoa
+Dordogne,Genève,Lot
+Dordogne,Haute-Garonne
+Dêqên Tibetan
+Dêqên Tibetan
+New York
+New York
+New York
+Amsterdam
+Berlin
+Cyclades
+Trento
+Ramallah and Al-Bireh
+Lublin City
+Warsaw
+Bierun-Ledziny
+Jenin
+Jenin
+Jenin
+Varna
+Dodecanese
+Gandaki
+Kangra
+Kangra
+Kangra
+Kullu
+Kullu
+Kullu
+Bern
+Jerusalem
+Ramallah and Al-Bireh
+Bern
+Interlaken,Zürich
+New York
+New York
+New York
+District of Columbia
+Ulster
+Bennington,Ulster
+Coos
+Barnstable
+New York,Queens
+Jerusalem
+New York
+New York
+Phra Nakhon
+Queens
+Thessaloniki,Pella,Trikala
+Thessaloniki
+Ramallah and Al-Bireh
+Jerusalem
+Rethymnon
+Heraklion,Rethymnon
+Messina,Catania
+New York
+District of Columbia
+Capital
+Bergen
+Sankt Johann im Pongau
+Sankt Johann im Pongau
+Klagenfurt
+Trento
+Trento
+Trento
+Berlin
+Madaba
+Douglas
+Cairns  - Barron
+Main Beach-South Stradbroke
+Main Beach-South Stradbroke
+Genova
+Milano
+Alpes-Maritimes
+Var
+Alpes-Maritimes
+Alpes-Maritimes
+Olbia-Tempio
+Olbia-Tempio
+Salerno
+Corfu
+Darmstadt
+Darmstadt
+Darmstadt
+Attica
+Attica
+Attica
+Dodecanese
+Central
+Krasnogorskiy rayon,Solnechnogorskiy rayon
+Alpes-Maritimes
+Darmstadt
+Makati City
+Sydney - Inner
+Cairns - Northern Suburbs
+Northern
+Darmstadt
+Solnechnogorskiy rayon
+Muang Phuket
+Muang Krabi
+Pathum Wan
+Douglas,Cairns - Northern Suburbs
+Cairns - Northern Suburbs
+Melbourne - S'bank-D'lands
+Cairns  - City
+Verona
+New York,Los Angeles
+Los Angeles
+Mohave
+Alpes-Maritimes
+Darmstadt
+Central
+Darmstadt
+Darmstadt
+Darmstadt
+Sydney - Inner
+Heraklion
+Heraklion
+Jerusalem
+Jerusalem
+Deir Al-Balah
+Deir Al-Balah
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Roma
+Val-de-Marne
+Berlin
+Amsterdam
+Amsterdam
+North Gonder,West Gojam
+Berlin
+Clark
+New York
+New York,Niagara
+Warsaw
+Roma
+Corfu
+Savoie
+Bethlehem
+Amsterdam
+Azcapotzalco
+Cozumel
+Baleares
+Amsterdam
+Amsterdam
+Camden
+Cozumel
+Cozumel
+Cozumel
+Isla Mujeres
+Cozumel
+Praha 1,Dresden
+Central
+San Francisco
+San Francisco
+Altagracia
+New York
+Kings
+Berlin
+Ko Samui
+Ko Phangan
+Phra Nakhon
+Southwark
+Jerusalem
+Bethlehem
+Paris
+Ko Samui
+Ko Samui
+Pathum Wan
+Kraków
+Los Angeles
+Berlin
+Berlin
+New York
+Westminster
+Berlin
+Dodecanese
+Madaba
+Torino
+Kathu
+Budapesti
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Zakynthos
+Zakynthos
+Westminster
+Staffordshire
+Jerusalem
+Qalqilya
+Baleares
+Cumbria
+Westminster
+Cumbria
+Westminster
+Jerusalem
+Barcelona
+Tayybeh
+Jericho
+Barcelona
+Jerusalem
+Ajmer
+Uttar Kannand
+New York
+Santa Cruz
+District of Columbia
+Barcelona
+Westminster
+Pothuvil
+Amsterdam
+Arezzo
+Arezzo,Siena
+Qalqilya
+Muang Nonthaburi
+Bang Plee,Ko Phangan,Ko Samui
+Ko Phangan
+Pathum Wan,Bangkok Noi,Bang Plee
+Heraklion
+Jericho
+Ramallah and Al-Bireh
+Lasithi
+Berlin
+Berlin
+Berlin
+Amsterdam
+Ramallah and Al-Bireh
+Madaba
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Tower Hamlets,London
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Lódz
+Sour
+Hebron
+Paris
+Paris
+Zürich
+Bülach
+Berlin
+Berlin
+Heraklion,Rethymnon
+Mittelfranken
+Mittelfranken
+Mittelfranken
+New York
+Kings
+Kings
+Kings
+New York,Kings
+New York
+Kings
+Sussex
+New York
+Bülach,Mittelfranken,Oberfranken,Oberbayern
+Ramallah and Al-Bireh
+Berlin
+Berlin
+Kings
+Sathorn
+Sathorn
+Dodecanese
+Aqaba
+Heraklion
+Berlin
+Amsterdam
+Kaskazini 'A'
+Westminster
+Westminster
+Haute-Savoie
+Haute-Savoie
+Haute-Savoie
+Haute-Savoie
+Sigtuna,Stockholm,Österåker,Lidingö
+Oslo,Kristinehamn
+Kristinehamn,Lidingö
+Haute-Savoie
+Florence
+Berlin
+Barcelona
+Arezzo,Florence,Siena
+Sour
+Lublin,Kraków City
+Jerusalem
+Qalqilya
+Cozumel
+Los Angeles,Orange,New York,Kings,Queens
+New York
+Queens
+Milano,Como
+Los Angeles
+Alameda,San Mateo,Los Angeles
+Los Angeles
+Los Angeles
+New York,Queens
+Los Angeles
+Orange,Los Angeles
+Milano,San Gil
+Ramallah and Al-Bireh
+Milano
+Attica
+Attica
+Essex,Camden,Hackney,Islington,Westminster,Kensington and Chelsea,Hammersmith and Fulham
+Los Angeles
+Roma
+Roma
+Lasithi,Heraklion
+Lasithi
+Westminster
+New York
+New York
+Warsaw
+Merkez
+Ramallah and Al-Bireh
+Berlin
+Westminster
+Valparaíso
+New York
+Los Angeles,San Francisco
+Los Angeles
+Capital
+Milano
+Osaka
+Dodecanese
+Dodecanese
+Amsterdam
+Amsterdam,Zaanstad
+Aqaba
+Stuttgart,Darmstadt,Rheinhessen-Pfalz,Haarlemmermeer,Amsterdam,Edam-Volendam,West-Vlaanderen,Oost-Vlaanderen
+Oost-Vlaanderen
+Oost-Vlaanderen
+Aqaba
+New York,Kings,Union,Atlantic
+New York,Kings,,Hudson
+Heraklion
+Heraklion
+Heraklion
+Heraklion
+Heraklion
+Heraklion
+Clark,San Francisco
+San Francisco,Queens
+New York
+Lublin City
+Cozumel
+New York
+New York
+Amsterdam
+Amsterdam
+Amsterdam
+Culemborg,Amsterdam
+Paris
+Jerusalem
+Jerusalem
+Nesebar
+Nesebar
+Madaba
+Westminster,Kensington and Chelsea,Southwark
+Islington
+Amsterdam
+Muang Chiang Rai
+Muang Chiang Rai
+Pai
+Ko Phangan
+Muang Krabi
+Phra Nakhon
+Cape
+Heraklion
+Ramallah and Al-Bireh
+Jerusalem
+Ramallah and Al-Bireh
+Kyievo-Sviatoshyns'kyi
+Vilniaus
+Kyievo-Sviatoshyns'kyi
+Radomyshl's'kyi
+Holosiïvs'kyi
+Vilniaus
+Vilniaus
+Vilniaus
+Vilniaus
+Vilniaus
+Shevchenkivs'kyi
+Roma
+Roma,Pisa,Siena
+Shevchenkivs'kyi
+Chiyoda
+Darmstadt
+Roma
+Loir-et-Cher
+Paris
+Dodecanese
+Ilia
+New York
+Berlin
+Berlin
+Heraklion
+Warsaw
+Heraklion
+Koblenz
+Darmstadt
+Madaba
+Dodecanese
+Distrito Federal
+Bariloche
+Bariloche
+Cautín
+Distrito Federal
+Capital
+Iguazú
+São Paulo
+Angra dos Reis
+Angra dos Reis
+Rio de Janeiro
+Rio de Janeiro
+Cairu
+Cairu
+Pedro Domingo Murillo
+José Ballivián
+Cusco
+Cusco,Urubamba
+Cusco
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Santa Marta (Dist. Esp.)
+Santa Marta (Dist. Esp.)
+Cartagena de Indias
+Cartagena de Indias
+Cozumel
+Cozumel
+Cozumel
+Benito Juárez,Isla Mujeres
+Cozumel
+Cozumel
+Nesebar
+Nesebar
+Ko Phangan,Thalang
+Berlin
+Westminster,Enfield
+Barcelona
+Barcelona
+Paris
+Berlin
+Berlin
+Berlin
+Cyclades
+Cyclades
+Cyclades
+North Goa
+Kangra
+Kangra
+Kangra
+Kangra
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Jerusalem
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Combined statistics
+Barcelona
+Barcelona
+Amsterdam
+Berlin
+Berlin
+Heraklion
+Budapesti
+Bologna
+Vicenza
+Amsterdam
+Braunau am Inn
+Darmstadt
+Härryda
+Shibuya
+Wien Umgebung,Mosonmagyaróvár
+Surrey,Hillingdon
+Inn,Küssnacht,Obwalden
+Oberbayern
+Blumenau,São Paulo
+Columbia-Shuswap
+Oliveira do Hospital
+Sárbogárd,Tamás
+Luzern
+Bülach,Berlin
+Tulkarm
+Piraquara
+Bülach
+Loire
+Rio de Janeiro,São Paulo,Bülach
+Berlin
+Bülach
+Bülach
+Darmstadt,Cuauhtémoc
+Cuauhtémoc
+Innsbruck
+Luzern
+Lisboa,Bülach,Hamburg,Darmstadt
+Bang Plee
+Bülach,Curitiba
+Florianopolis
+Tulkarm
+Delhi,North Goa
+North Goa
+Bülach
+Vitoria,Rio de Janeiro,Bülach
+Darmstadt,Morelia
+Gustavo A. Madero
+Budapesti
+Härryda,Bülach
+São Paulo,Bülach
+Hamburg,Bülach
+Natal,Belém,São Paulo
+Bakirköy,Menderes
+Inn,Bülach
+Tulkarm
+Berlin
+Emmaboda
+Albula,Obwalden,Gyál,Darmstadt
+Antwerpen,Vlaams Brabant,Hauts-de-Seine
+Tulkarm
+Hamburg
+Combined statistics
+Uri,Bülach
+Bülach,Camden,Freiburg,Basel,Southwark
+Darmstadt
+Bülach
+Brasília,Curitiba,São José dos Pinhais,São Paulo,Darmstadt
+Darmstadt,Hume - Craigieburn
+Hume - Craigieburn
+Tulkarm
+Porto,Darmstadt
+Cuauhtémoc
+Greater Bombay,North Goa
+San Francisco,San Mateo
+Los Angeles
+Darmstadt
+Bülach,North Goa
+Lisboa,Bülach,Darmstadt
+Goodwood
+Wien Umgebung
+Tayybeh
+Bülach
+São Paulo,Guarulhos
+Combined statistics
+Bülach
+Praha 1,Praha 6,Haute-Garonne
+São Paulo,Porto Alegre
+Vaucluse
+Bülach
+Obwalden
+Tamás,Luzern,Obwalden
+Luzern
+Nidwalden
+Obwalden
+Obwalden,Bergen
+Distrito Federal
+Obwalden
+Bülach,Hamburg
+Bern
+Obwalden
+Hackney
+Nidwalden
+Rhône
+Bülach
+Budapesti
+Obwalden
+Guarulhos,Rio de Janeiro
+Obwalden
+Bülach,Shibayama,Shinjuku,Shibuya
+Tübingen
+Camden
+Gironde
+Oberbayern,Vaucluse
+Los Angeles
+Paris,Stockholm,Bregenz
+Combined statistics
+Schwyz
+Obwalden
+Salvador
+Barcelona
+Zürich
+São Paulo
+Recife
+Haute-Garonne
+Distrito Federal
+Zürich
+Westminster
+Zürich
+San Mateo
+São Paulo
+Budapesti
+Budapesti
+Los Angeles
+Seixal,Porto,Camden
+Luzern
+Attica,Luzern
+Philadelphia
+Lancaster
+Lancaster
+Suffolk
+Lancaster
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Barcelona
+Muang Krabi
+Ko Samui,Ko Phangan
+Ko Phangan
+Westminster,Newham
+Shanghai
+Paris
+Benito Juárez
+Cozumel,Benito Juárez
+Amsterdam
+Tarragona,Girona
+Hebron
+Fatih
+Florence
+Florence
+Florence
+Amsterdam
+Amsterdam
+Nesebar
+Jerusalem
+New York
+New York
+New York
+Queens
+New York
+New York
+New York,Kings
+New York
+New York
+New York
+Kings
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Kings
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Isla Mujeres
+New York
+New York
+New York
+Queens
+New York
+New York
+New York
+New York
+New York
+Kings
+Queens
+Kings
+New York
+New York
+New York
+New York
+Kings
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+San José
+Sarapiquí
+Parrita
+Alajuela
+Washington
+Amsterdam
+Clark
+Clark
+Clark
+Berlin
+Berlin
+Beijing
+Ko Samui
+Kathu
+Phaya Thai
+Kangra
+Berlin
+Berlin
+Paris
+Greater Vancouver
+Thüringen
+Tashkent City
+Tashkent City
+Basel
+Seine-Maritime
+Kraków City
+Ede
+Wien
+Oberbayern,Schwaben
+Niederbayern
+Oberbayern
+Oberbayern
+Trento
+Bolzano
+Attica
+Roma
+Var
+Var
+Bethlehem
+Madaba
+Madaba
+Roma
+Paris
+Jerusalem
+Jericho
+Warsaw
+Lublin City
+Lubliniec
+Ramallah and Al-Bireh
+Budapesti
+Wien
+Jerusalem
+Ramallah and Al-Bireh
+Qalqilya
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Heraklion
+Heraklion
+Charlotte,Nesebar
+Hua Hin
+Newham
+Westminster
+Westminster
+Amsterdam
+Westminster
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Aqaba
+Aqaba
+Barcelona
+Luxembourg
+Bethlehem
+Jerusalem
+Jericho
+New York
+Dallas
+New York
+Rustenburg
+Knysna
+Goodwood
+Wynberg
+Paarl
+Goodwood
+New York
+Barcelona
+Berlin
+Sonoma
+Dodecanese
+Hackney,Tower Hamlets
+Combined statistics
+Bologna,Milano
+Milano
+Muang Phuket,Muang Krabi
+Jerusalem
+Jerusalem
+Dresden
+Dresden
+Central
+Northern
+Paris
+Paris
+Paris
+Paris
+Seine-et-Marne
+Paris
+Paris
+Paris
+Paris
+Seine-Maritime
+Paris
+Paris
+Paris
+Paris
+Paris
+Hauts-de-Seine
+Paris
+Charente-Maritime
+Paris
+Roma
+Roma
+Amsterdam
+Dodecanese
+Berlin
+Ko Samui
+Ko Samui
+Siena,Florence
+Brescia
+Bled,Radovljica
+Slunj
+Trogir
+Aqaba
+Aqaba
+Ekaterinburg gorsovet
+Wlodawa
+Kraków City
+Bierun-Ledziny
+Nesebar
+Burgas
+Shah Alam
+Warsaw
+Paris,Bruxelles
+Sour
+Sour
+Paris
+Berlin
+Berlin
+Ottawa
+San Luis Obispo
+Roma
+Berlin
+Pathum Wan,Ratchathewi
+San Sai,Mae Taeng,Muang Chiang Rai
+Takua Thung
+Roma
+Roma
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Madrid
+Ramallah and Al-Bireh
+Aqaba
+Amsterdam
+Aqaba
+Amsterdam,Haarlemmermeer
+Ramallah and Al-Bireh
+Westminster
+Enfield
+Berlin
+Toronto
+Jerusalem
+Aqaba
+Sour
+Orange,Los Angeles
+Los Angeles
+San Francisco
+Clark
+San Diego
+New York
+New York
+New York
+New York
+Bergen,District of Columbia,New York
+Berlin
+Brandenburg
+Berlin
+Barcelona
+New York
+Clark
+Los Angeles
+Cook
+Camden
+Amsterdam,Haarlemmermeer
+Hillingdon
+Ramallah and Al-Bireh
+Paris
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Brandenburg
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Dunedin
+Buller
+Westchester
+New York
+New York
+New York
+Var
+Budapesti
+Heraklion
+Broward
+Miami-Dade
+Clark
+Clark
+Jerusalem
+Camden,Westminster
+Málaga
+Wood
+Bled
+Wien
+Jerusalem
+Stolichna
+Cyclades
+Roma
+Aqaba
+Heraklion
+Heraklion
+Jakarta Selatan
+Budapesti
+Ko Samui
+Jerusalem
+Kemer
+Barcelona,Baleares
+Ko Phangan
+Manavgat
+Westminster
+New York
+New York
+Ko Samui
+Ko Phangan
+Budapesti
+Praha 1
+Qalqilya
+Hvar
+Dodecanese
+Berlin
+Jerusalem
+Landeck
+Landeck
+Benito Juárez
+Cozumel
+Cozumel
+Benito Juárez
+Cozumel,Isla Mujeres
+Cozumel
+Cozumel
+Barcelona
+Vlaams Brabant
+Cyclades
+Westminster,Tower Hamlets
+Westminster
+Savoie
+Savoie
+Madrid
+Madrid
+Baleares
+Paris
+Paris
+Antwerpen
+Westminster
+Paris
+Amsterdam
+Jerusalem
+Jerusalem,Bethlehem
+Jerusalem
+Mercer
+Mercer
+Dutchess,Mercer
+Madrid
+Middlesex
+Middlesex,New York
+New York
+Mercer
+Mercer
+New York
+Mercer
+New York
+Mercer
+Jerusalem
+Aqaba
+Venezia,Udine
+Bohinj,Ljubljana
+Jerusalem
+Cozumel
+Cozumel
+Benito Juárez
+Amsterdam
+Warsaw
+Kraków City
+Sour
+Jerusalem
+Jerusalem
+Lima,Huaraz
+Cusco
+Urubamba
+Distrito Federal
+Distrito Federal
+Bariloche
+Salfit
+Harris
+Harris
+Jerusalem
+Jerusalem
+Hebron
+Ramallah and Al-Bireh
+Hebron
+Ramallah and Al-Bireh
+Jericho
+Köln,Berlin
+Dordogne
+Dordogne
+Riga
+Oslo
+Rhône
+Paris
+Seine-et-Marne
+Paris
+Paris
+Jerusalem
+Jerusalem
+Aqaba
+Haute-Corse
+Haute-Corse
+Paris
+Nesebar
+Barcelona
+Bruxelles
+Roma
+Heraklion
+Kraków City
+Baleares
+Budapesti
+Budapesti
+Szentendre
+Ramallah and Al-Bireh
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti,Siófok
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti,Korneuburg,Wien
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti,Wien
+Gyál
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Gyál,Budapesti
+Budapesti
+Budapesti
+Budapesti
+Gyál
+Budapesti
+Budapesti
+Budapesti
+Queens,Los Angeles,Clark,New York
+Clark
+Alpes-Maritimes
+Barcelona
+Barcelona
+Barcelona
+Budapesti
+Budapesti
+Amsterdam
+New York
+New York,Los Angeles
+Los Angeles,Clark
+Clark,Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,New York
+Los Angeles
+Los Angeles
+Jerusalem
+Aqaba
+Verona
+Barcelona
+Madrid
+Baleares
+Jericho
+Luxembourg
+Aube
+Nablus
+Amsterdam,Berlin,Bethlehem
+Aqaba
+Barcelona
+Westminster,Kensington and Chelsea
+Ko Phangan
+Saphan Sung
+Praha 1
+Qalqilya
+New York
+New York
+New York
+New York
+Westminster
+Westminster
+New York
+Cozumel
+Isla Mujeres
+Qalqilya
+New York
+New York
+Paris
+Paris
+Paris
+Bethlehem
+Lublin
+Praha 4,Praha 1
+Barcelona,Baleares
+Berlin
+Berlin
+Berlin
+Stockholm
+K. Ko Chang
+K. Ko Chang
+Budapesti
+Budapesti
+Berlin
+Berlin
+Genova
+Milano
+Milano
+Westminster
+Praha 1
+Praha 1
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Barcelona
+Barcelona
+Almaty (Alma-Ata)
+Almaty (Alma-Ata)
+Jerusalem,Madrid
+Madrid
+Almaty (Alma-Ata),Madrid
+Budapesti
+Budapesti
+Budapesti
+Warsaw
+Jerusalem
+Muskoka
+Peel
+Peel
+New York
+Marjayoun
+Warsaw
+Jerusalem
+Paris
+Schleswig-Holstein
+Graz
+Stockholm
+Tulkarm
+Tulkarm
+Tulkarm
+Lisboa,Sintra
+Tulkarm
+Tulkarm
+Tulkarm
+Dodecanese
+Westminster
+Westminster,London
+Westminster
+Westminster
+Westminster
+Florence,Venezia
+Venezia,Siena
+Ajmer
+Paris
+Seine-Saint-Denis
+Ramallah and Al-Bireh
+Bethlehem
+Amsterdam
+Baleares
+Baleares
+Amsterdam
+Khania,Heraklion,Attica
+Haarlemmermeer
+Jericho
+Bethlehem
+Girona
+Camden,Southwark
+Jackson,Clay
+Berlin
+Warsaw
+Warsaw
+Warsaw
+Kathu
+Muang Krabi
+Muang Krabi
+Ko Phangan
+Ko Phangan
+Pathum Wan
+Pathum Wan
+Bethlehem
+Sour
+Broward
+Miami-Dade
+Miami-Dade
+Heraklion
+Madrid
+Madrid
+Madaba
+Muang Chiang Mai
+Pathum Wan
+Barcelona
+Berlin
+Andaman Islands
+Andaman Islands
+Delhi
+Ajmer
+Delhi
+Paris
+Amsterdam
+Dodecanese
+Dodecanese
+Dodecanese
+Dodecanese
+Attica
+Tbilisi
+Paris
+Warsaw
+Bierun-Ledziny
+Bierun-Ledziny
+Girona
+Barcelona
+Merkez
+Newham,London
+Paris
+Merkez
+Jerusalem
+Florence
+Florence
+Warsaw
+Amsterdam
+Milano
+Cyclades
+Paris
+Penobscot
+Belknap
+Combined statistics
+New York
+Stockholm
+Ventura
+Clark
+Los Angeles
+Berlin
+Madrid
+Roma
+Roma
+New York
+New York
+New York
+New York
+Madaba
+Central
+Domodedovskiy rayon
+Cozumel
+Cozumel
+Cozumel
+Salfit
+Dodecanese
+Seine-Saint-Denis
+Paris
+Paris
+Leipzig
+Westminster
+Miami-Dade
+Niagara
+Hudson
+Baleares
+São Paulo,Roma
+New York
+New York
+New York
+Budapesti
+Napoli
+Salerno
+Manchester
+Jerusalem
+Bethlehem
+Jerusalem
+Paris
+Jerusalem
+Berlin
+New York
+Welipitiya
+Kaskazini 'A'
+Stockholm
+Combined statistics
+Berlin
+Perthshire and Kinross
+Highland
+Wadi Essier
+Siena
+Siena
+Siena
+Sour
+Amsterdam
+Amsterdam
+Amman
+Los Angeles
+Los Angeles
+Los Angeles
+Clark,Los Angeles
+Paris
+Hauts-de-Seine,Paris
+Qalqilya
+Berlin
+Berlin
+Berlin
+New York
+New York
+New York
+Los Angeles
+Los Angeles
+San Diego
+Paris
+Paris
+Jerusalem
+Combined statistics,Vlaams Brabant
+Sour
+Paris,Seine-Saint-Denis
+Fairfax,Montgomery
+District of Columbia,Montgomery
+Kensington and Chelsea,Hackney
+Jerusalem
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Monmouth
+New York
+Atlantic
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Jerusalem
+New York,Monmouth
+Monmouth
+New York
+Paris
+Talisay
+Loon op Zand
+Jerusalem
+Jericho,Bethlehem
+Nesebar
+Nesebar
+Burgas
+Orange
+Paris
+Providence
+Berkshire
+Bansko,Plovdiv
+Stolichna
+Jericho
+Barcelona
+Berlin
+Oberbayern
+Hamburg
+Bruxelles
+Odense
+Paris
+Westminster
+Manchester,Westminster,Camden
+Paris
+Orange
+District of Columbia
+New York
+London
+Budapesti
+Khania
+Bruxelles
+Antwerpen
+Bruxelles
+Chai Prakarn,Muang Chiang Rai
+Nua Khlong
+Ko Samui
+Ko Phangan
+Pathum Wan
+New York
+Barcelona
+New York,Bergen
+New York
+Khania
+Jerusalem
+Heraklion
+Hebron
+Muang Chiang Rai
+Ko Samui
+Ko Samui
+Muang Krabi
+Pathum Wan
+Heraklion
+Berlin
+Kraków City
+Qalqilya
+Warsaw
+Barcelona
+Aqaba
+Aqaba
+Cyclades
+Muang Krabi,Kathu
+Ko Samui
+Ko Phangan
+Ko Phangan
+Ko Phangan
+Paris,Yvelines
+Barcelona
+Shooneh Janoobiyyeh,Jericho
+Ramallah and Al-Bireh
+Brandenburg,Berlin
+Aqaba
+Amsterdam,Edam-Volendam
+Enkhuizen
+Los Angeles
+Honolulu
+New York
+Dodecanese
+Westminster
+Aqaba
+Heraklion
+Berlin
+Antwerpen
+Berlin
+Muang Chiang Mai,K. Mae On
+Ko Phangan
+Izmal's'ka
+Odes'ka
+Kings,New York,Bergen
+Kings,Saint Lawrence
+Kings
+Kings
+Kings
+Kings
+Kings
+Kings
+Kings
+Kings
+Kings
+Kings
+Kings
+Kings
+Ramallah and Al-Bireh
+Salfit
+Salfit
+Ramallah and Al-Bireh
+Salfit
+Salfit
+New York
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+New York
+New York
+New York,Kings
+Kings
+New York
+Kings
+New York,Orange
+Kings
+New York,Kings
+New York
+New York,Kings
+Kings
+Kings
+Kings
+Kings,New York
+New York
+New York
+New York
+New York
+New York
+New York
+Kings,New York
+New York
+Jerusalem
+New York
+New York
+Barcelona
+Heraklion
+Amsterdam
+Tubas
+Jerusalem
+Ramallah and Al-Bireh
+Gardabani
+Gori
+Batumi
+Tskaltubo
+Kareli,Tskaltubo
+Mestia
+Kazbegi
+Tsalenjikha,Mestia
+Berlin
+Telavi
+Telavi
+Dusheti,Kazbegi
+Jerusalem
+Tubas
+New York
+New York
+Bethlehem
+Bethlehem
+Bethlehem
+Madaba
+Kazbegi
+Bethlehem
+Barcelona
+Barcelona
+Mtskheta
+Mtskheta
+Madaba
+Amsterdam
+Ouder-Amstel
+Madaba
+Westminster
+Westminster
+Camden,Westminster
+Mtskheta
+Bergen
+Aurland
+Oslo
+Oslo
+Dordogne
+Oslo
+Aurland
+Mtskheta
+Amsterdam,Ouder-Amstel,Haarlemmermeer
+Ouder-Amstel
+Paris
+Lowicz,Lódz East
+Tbilisi
+Ramallah and Al-Bireh,Jerusalem
+Girona
+Muang Krabi
+Muang Krabi,Phra Nakhon
+Praha 1
+Praha 1
+Barcelona
+Barcelona
+Barcelona
+New York
+Kings
+New York
+Barcelona
+Heraklion
+Clark
+Clark
+Paris
+New York
+New York
+London
+Los Angeles
+Los Angeles
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Dodecanese
+Westminster
+Berlin
+Barcelona
+Enfield
+Westminster
+London
+Lago Argentino
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Jerusalem
+Qalqilya
+Qalqilya
+Qalqilya
+Rapides
+Rapides
+Rapides
+Rapides
+Rapides
+Rapides
+Rapides
+Orleans
+Norfolk,Suffolk
+Norfolk
+Suffolk
+Norfolk
+Providence
+Essex
+Suffolk
+Suffolk
+Nablus
+Salfit
+Jericho
+Jericho
+Qalqilya
+Qalqilya
+Salfit
+Qalqilya
+Salfit
+Qalqilya,Rapides
+Lafayette
+Terrebonne
+Jefferson
+Terrebonne
+Terrebonne
+Terrebonne
+Terrebonne
+Terrebonne
+Terrebonne
+Orleans
+Norfolk
+Middlesex,Norfolk
+Norfolk
+Middlesex,Norfolk
+Suffolk
+Norfolk,New York
+Norfolk
+Barnstable
+York
+Essex
+Norfolk
+Middlesex
+Bennington
+Amsterdam
+Jericho
+La Spezia
+Salerno
+Girona
+Lot
+Paris
+Isla Mujeres
+Santa Clara La Laguna
+Lapland
+Jerusalem
+Madaba
+Dodecanese
+Dodecanese
+Dodecanese
+Amsterdam
+Amsterdam,Zaanstad
+Paris
+Verona
+Sour
+Dodecanese
+Jerusalem
+Aqaba
+Roma,Bologna
+Khania
+Muang Chiang Mai
+Ko Samui
+Takua Thung,,Pathum Wan,Ko Samui
+Wien
+Wien
+Wien
+Heraklion
+Dodecanese
+Dodecanese
+Warsaw
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Zakynthos
+Barcelona
+Barcelona
+Seine-et-Marne
+Ramallah and Al-Bireh
+Pathum Wan
+New York
+San Francisco
+Qalqilya
+Qalqilya
+Qalqilya
+Wien
+Heraklion
+Paris
+Paris,Seine-Saint-Denis
+Amsterdam
+Broward
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Broward
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Davidson
+Los Angeles
+Bethlehem
+Berlin
+Heraklion
+Les Laurentides
+Jerusalem
+Hamburg
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Madaba
+Qalqilya,Jerusalem
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Roma,Salerno,Napoli,Qalqilya
+Salerno,Qalqilya,Roma
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Marjayoun
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Salfit
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Jerusalem,Ramallah and Al-Bireh
+Qalqilya
+Qalqilya
+Ramallah and Al-Bireh
+Qalqilya
+New York,Monmouth
+New York
+Ramallah and Al-Bireh
+Hillingdon
+Westminster,London,Southwark
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+New York
+New York
+New York
+Queens,New York
+New York
+New York
+Guangzhou
+Paris
+Paris
+New York,Kings
+San Francisco
+New York
+Dodecanese
+Lasithi
+Iziums'ka
+Jerusalem
+Madaba
+Sour
+Sour
+Jerusalem
+Jerusalem
+Madaba
+Jerusalem
+Marjayoun
+Jerusalem
+Jenin
+Warsaw
+Madaba
+Berlin
+Jericho
+Berlin
+Berlin
+Praha 1,Praha 6
+Essex,Morris,New York
+Morris,Bergen,Essex,New York,Kings
+Essex
+Morris,Essex
+New York
+New York
+Orleans
+New York,Essex
+Essex
+Kings
+Kings
+Kings
+New York
+Hudson
+Morris,Queens
+Kings
+Morris
+Queens
+New York
+Communauté-Urbaine-de-Montréal
+New York
+Bergen
+Fatih
+Mjini
+Beyoglu,Besiktas
+New York,Kings
+Essex
+Orleans
+Orleans
+Ocean
+New York
+Kings
+Ocean
+Kings
+Queens
+Sussex
+Lamoille,Chittenden
+Essex
+New York
+Orleans
+Kings
+New York
+Randburg,Glasgow
+Antrim
+New York
+Ko Samui
+Warsaw
+Kraków City
+Leninskiy rayon,Krasnogorskiy rayon,Central
+Heraklion
+Heraklion
+Syracuse
+Enna
+Tallinn
+New York
+Queens
+Cook
+Cook
+Paris
+Berlin
+Panamá
+Bocas del Toro
+León
+León,Cozumel
+Cozumel
+Isla Mujeres
+Gustavo A. Madero,Benito Juárez
+Tubas
+Palm Beach
+New York
+New York
+District of Columbia
+Solano
+Clark
+Westminster
+Paris
+Paris
+Seine-et-Marne
+Sevilla
+Kaskazini 'A'
+Kaskazini 'A'
+Florence
+Florence
+Jerusalem
+New York
+New York
+New York
+New York
+New York
+New York
+Bergen
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Miami-Dade
+New York
+New York
+New York
+New York
+Zakynthos
+Zakynthos
+Jerusalem
+New York,Kings
+New York
+Bülach
+Visp
+New York
+New York
+New York
+Como
+New York
+New York
+New York
+Milano
+Paris
+New York
+Shevchenkivs'kyi
+L'vivs'ka
+Darnyts'kyi
+Freiburg
+Westminster
+New York
+Westminster,Kensington and Chelsea
+Kensington and Chelsea
+Khalkidiki
+Baleares
+Entremont
+Central
+Jerusalem
+Central,Northern
+Northern,Klinskiy rayon
+Central
+Salfit
+Ramallah and Al-Bireh
+Jerusalem
+Berlin
+Tubas,Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Hebron
+Jerusalem
+Jerusalem
+Jerusalem
+Bethlehem
+Hebron
+Jerusalem
+Jerusalem
+New York
+Jerusalem
+Jerusalem
+Queens,Kings
+Jerusalem
+Queens
+Jerusalem
+Jerusalem
+New York
+Los Angeles
+Jerusalem
+New York,Los Angeles
+Nassau
+Los Angeles
+Los Angeles
+Los Angeles
+Nassau
+New York
+Nassau
+Divinópolis
+Dallas
+Combined statistics
+Paris
+Besiktas
+Bethlehem
+Wien,Bülach
+Selçuk
+Selçuk
+Jerusalem
+Jerusalem
+Jerusalem
+Bradley
+Dnipropetrovs'ka
+Kharkivs'ka
+Kharkivs'ka
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Brandenburg
+Brandenburg
+Dodecanese
+Puntarenas
+Puntarenas
+Puntarenas
+Puntarenas
+Puntarenas
+Paris
+Paris
+Paris
+Val-de-Marne
+Jerusalem
+Jerusalem
+Paris
+Praha 1,Praha 7
+Baleares
+Bethlehem
+Bethlehem
+Tulkarm
+Tulkarm
+Distrito Federal
+Esteban Echeverría
+Roma
+Kraków City
+Kraków City
+Boryspil's'ka
+Odes'ka
+Central
+Bethlehem
+Niagara
+Cook,San Mateo,Clark
+San Mateo
+New York,Cook
+New York
+Stockholm
+Cook
+New York
+New York
+Hudson
+New York
+New York
+New York
+New York
+New York
+New York
+Cook
+New York
+New York
+Hudson
+New York
+New York
+Hudson
+Hudson
+New York,Hudson
+New York
+Hudson,New York,Onondaga,Cayuga,Broome
+New York,Hudson
+Hudson,New York
+Hudson
+Hudson
+Hudson
+New York,Hudson
+Hudson
+Hudson
+Hudson
+New York,Hudson
+Hudson
+Hudson,New York
+Hudson
+New York
+New York,Hudson
+Hudson
+Hudson
+Hudson
+Hudson
+Hudson
+Hudson
+New York,Hudson
+New York
+Hudson
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Kings
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Onondaga
+New York
+Kings
+New York
+New York
+Thimbirigasyaya
+Queens,New York
+New York,Hudson
+Heraklion
+Jerusalem
+Nesebar
+Nesebar
+Minsk
+Minsk
+El Nido,Takua Pa
+Barcelona
+Aqaba
+Praha 1
+Brandenburg,Praha 1
+Praha 1
+New York
+New York
+Los Angeles
+New York
+Salfit
+Salfit
+Dodecanese
+Muang Chiang Rai
+Muang Chiang Rai
+Muang Chiang Rai
+Muang Chiang Rai
+Jerusalem
+Varna
+Heraklion
+Ko Phangan
+Ko Samui
+Muang Krabi
+Berlin
+Berlin
+Qalqilya
+Ramallah and Al-Bireh
+Westminster,Camden
+Kent,Westminster
+Westminster,London,Camden,Hammersmith and Fulham
+Hillingdon
+Westminster
+Essex
+Harris
+Harris,Brazoria,District of Columbia,Arlington
+New York
+New York
+Girona
+Merkez
+Merkez
+New York
+Clark
+Broward
+Broward
+Cozumel
+Praha 1
+Praha 6
+Roma
+Tower Hamlets,Westminster,Enfield,Camden
+New York,Kings
+New York
+Düsseldorf
+Arnsberg
+Magnesia
+Magnesia
+Magnesia
+New York
+Jenin
+Hebron
+Bent Jbayl
+Bent Jbayl
+Berlin
+Jerusalem
+Los Angeles
+Los Angeles,Orange
+Clark,Miami-Dade
+Miami-Dade
+Cozumel
+Jerusalem
+Berlin
+Berlin
+Berlin
+Heraklion
+Lasithi
+Baleares
+Baleares
+Jerusalem
+Warsaw
+Barcelona
+Barcelona
+Aqaba
+Haute-Savoie
+New York
+Paris
+Miami-Dade
+Sour
+Roma
+Roma
+Ikpoba-Okha
+Jerusalem
+New York
+Oberbayern
+Riverside,San Francisco
+Santa Clara,San Mateo
+Richmond upon Thames
+Clark
+San Mateo,Santa Clara,San Francisco,San Diego
+San Diego
+Darmstadt
+Santa Clara
+Barcelona
+Barcelona
+Santa Clara
+Santa Clara,San Francisco,New York
+Oberbayern
+Oberbayern
+San Francisco,Santa Clara,San Joaquin
+Paris,Seine-Saint-Denis
+Santa Clara,Santa Cruz
+Santa Clara
+San Mateo
+Amsterdam
+Amsterdam
+Clark
+Clark,San Francisco,Santa Clara
+Nablus
+San Mateo,Los Angeles,San Francisco,Santa Clara
+Santa Clara
+Ko Phangan
+Ko Phangan
+Ko Phangan
+Bang Plee
+Santa Clara
+San Mateo,Santa Clara,Darmstadt
+Essex,Harris,Travis,Clark
+Clark,Santa Clara
+Santa Clara
+Milano,La Spezia,Genova
+Essex,San Francisco,Santa Clara
+Los Angeles
+New York
+San Francisco,Santa Clara
+Essex
+Jericho
+Clark
+Santa Clara
+Santa Clara
+Santa Clara,San Mateo
+New York,San Francisco
+San Francisco,Napa,Marin,Santa Clara
+Santa Clara
+Berlin
+New York
+Santa Clara
+Jericho
+Budapesti
+Jericho
+Amsterdam
+Santa Clara
+San Francisco,San Mateo
+New York
+San Mateo,San Francisco
+Santa Clara
+San Francisco,New York
+Combined statistics
+Dodecanese
+Dodecanese
+Dodecanese
+Warsaw
+Ilia
+Ilia
+Zakynthos
+Seine-Saint-Denis
+Treviso
+Ko Phangan
+Goodwood
+Goodwood
+Ko Phangan
+Dodecanese
+Dodecanese
+Dodecanese
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Roma,,Siena,Florence,Viterbo
+Kings
+Kings,New York,Bergen
+Madrid
+Madrid
+Heraklion
+Heraklion
+Heraklion
+Bierun-Ledziny
+Kraków City
+Wien
+Ramallah and Al-Bireh
+Colombo,Thimbirigasyaya
+Ratnapura,Ambagamuwa,Colombo,Imbulpe,Nuwara Eliya,Ella,Pothuvil,Lahugala
+Lahugala,Pothuvil,Thimbirigasyaya,Kolonnawa,Colombo
+Qalqilya
+Tulkarm
+Barcelona
+New York
+New York
+New York
+Paris
+Seine-Saint-Denis
+Seine-Saint-Denis
+Seine-Saint-Denis
+Val-de-Marne
+Paris
+Seine-Saint-Denis
+Queens
+New York
+Broward
+Broward
+Queens
+New York
+Barcelona
+Barcelona
+Westminster
+Berlin
+Savoie
+Roma
+New York
+Jerusalem
+Salfit
+Salfit
+Ramallah and Al-Bireh
+Salfit
+Orange
+Praha 1
+Dodecanese
+Utrecht
+Westminster
+Berlin
+Ramallah and Al-Bireh
+Modena
+Olbia-Tempio
+Manavgat
+Bologna
+Pathum Wan,Phra Nakhon
+Marrakech
+Bologna
+New York
+New York
+New York
+New York
+Gaza ash Shamaliyah
+Orange
+Berlin
+Berlin
+Amsterdam
+Dodecanese
+Jerusalem
+Warsaw
+Greater Vancouver
+Darmstadt
+Warsaw
+Westminster
+Barcelona
+Berlin
+Göteborg
+Stockholm
+Stockholm
+Stockholm
+Stockholm
+Stockholm
+Stockholm
+Göteborg
+Gundagai
+Langkat
+Hume - Craigieburn
+Aqaba
+Praha 1,Jicín
+Praha 1
+Jerusalem
+Lódz
+Bierun-Ledziny
+Berlin,Alphen aan den Rijn,Amsterdam
+Ramallah and Al-Bireh
+Warsaw
+Barcelona
+Barcelona
+Hebron
+Jericho
+Jericho
+Jericho
+Kemer
+Kemer
+Kemer
+Solnechnogorskiy rayon
+Sour
+Tarragona
+Oberbayern
+Zürich
+Baleares
+Ramallah and Al-Bireh
+Kusini,Rombo
+New York,Queens
+New York
+Westminster,Hackney
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Jerusalem
+Los Angeles
+Los Angeles
+Los Angeles
+Jerusalem
+Última Esperanza
+Santo Amaro da Imperatriz,Florianopolis
+Loreto,Santa Cruz,Quito
+Amsterdam,Santa Cruz
+Última Esperanza
+Florianopolis
+Split
+Pojezerje
+Bernalillo
+New York
+Bernalillo
+Bernalillo
+Los Angeles
+Bernalillo
+Bernalillo
+Santa Fe
+Pula
+New York
+Hudson,New York
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Randwick
+Parkes
+New York
+Sydney - East
+Sydney - Inner
+Randwick
+Sydney - East
+Ramallah and Al-Bireh
+Jerusalem
+Odes'ka
+Bologna,Florence
+Jerusalem
+Oktyabr'skiy
+Jerusalem
+Jericho
+Kurskiy rayon
+Aqaba
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Salfit
+Jericho
+Salfit
+Amsterdam
+Bariloche
+Bariloche
+Iguazú
+Salvador
+Tibau do Sul
+Madaba,Jerusalem
+Tulkarm
+Qalqilya
+Nablus
+Salfit
+Salfit
+Jericho
+Qalqilya
+Dordogne
+Bethlehem
+Canoas
+Madrid,Jerusalem
+Xangri-lá
+Santa Vitória do Palmar
+Xangri-lá
+Xangri-lá
+Porto Alegre
+Viamão,Porto Alegre
+Porto Alegre
+Xangri-lá
+Holosiïvs'kyi
+Hammersmith and Fulham,Tower Hamlets,Westminster
+Tulkarm
+Ramallah and Al-Bireh
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,San Francisco
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,San Bernardino
+Los Angeles
+Riverside,San Bernardino
+Los Angeles
+Los Angeles
+Los Angeles
+San Bernardino
+San Bernardino
+Clark
+San Bernardino
+Monterey
+Los Angeles
+Imperial
+Imperial
+San Bernardino
+San Bernardino,Los Angeles
+San Bernardino
+San Bernardino
+Los Angeles
+Pinal,Maricopa
+Travis
+Travis,Blanco,Bexar
+Bexar
+Botetourt,Montgomery,Arlington
+Baltimore
+Frederick
+District of Columbia
+Anne Arundel
+Philadelphia
+Kings
+New York
+Jerusalem
+Jerusalem
+Jerusalem
+Bethlehem
+Kings
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Washington
+Communauté-Urbaine-de-Montréal
+Middlesex
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Mirabel
+Communauté-Urbaine-de-Montréal
+Kings
+Kings
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Queens
+Paris
+Paris
+Hauts-de-Seine
+Jericho
+Amsterdam
+Westminster
+Tower Hamlets
+Kuils River,Strand
+Westminster
+Hammersmith and Fulham
+Jerusalem
+Madaba
+Muang Chiang Mai
+Ko Samui
+Bethlehem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Salfit
+Benito Juárez
+Gaza
+Muang Chiang Mai
+Muang Chiang Mai,Muang Chiang Rai
+Ko Phangan
+Roma
+Roma
+Amsterdam,Edam-Volendam
+Budapesti
+Berlin
+Amsterdam
+London
+Yangon-W
+H? Chí Minh city
+Naucalpan de Juárez
+Madaba
+Kings
+Kings
+Madaba
+Kings
+Queens
+New York
+Lasithi
+Jerusalem
+Budapesti
+Arnsberg
+Darmstadt
+Arnsberg
+Darmstadt
+Opatija/Veprinac
+Budapesti
+Westminster
+Budapesti
+Dodecanese
+Paris
+Barcelona
+Dodecanese
+Paris
+Paris
+Morbihan
+Morbihan
+Khalkidiki
+Khalkidiki
+London,Kensington and Chelsea
+Jerusalem
+Berlin
+Jericho
+Westminster
+Camden
+Los Angeles
+San Francisco,Sonoma,San Mateo
+Broward
+Cozumel
+Bolzano
+Jerusalem
+Trinidad
+Paris
+Paris
+Ramallah and Al-Bireh
+Roma
+Barcelona
+Jackson
+Cozumel
+Urubamba
+Cusco
+Cusco
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Guarne
+Pedasí
+New York
+Paris
+Benito Juárez
+Los Angeles
+Barcelona
+Kathu
+Ko Phangan
+Ko Phangan
+Milano
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Paris
+Hauts-de-Seine
+Wayne
+Paris
+Jericho
+Shooneh Janoobiyyeh
+Cyclades
+Cyclades
+Cyclades
+Cyclades
+Nablus
+Nablus
+Cyclades
+Jericho
+Madaba
+Madaba
+Barcelona
+Kraków City
+Kangra
+Combined statistics,Ljungby
+Zürich,Combined statistics
+Paris
+Jerusalem
+Varese
+Verona,Brescia
+Verona
+Mushin,Bellville
+Hammerfest
+Barcelona
+Barcelona
+Barcelona
+Phra Nakhon,Ko Samui
+Kathu
+Kathu
+Ramallah and Al-Bireh
+Zakynthos
+Roma
+Roma
+Aqaba
+Aqaba
+Berlin
+Karlsruhe
+Karlsruhe
+Darmstadt
+Los Angeles
+Cozumel
+New York
+Westminster,Hammersmith and Fulham
+Amsterdam
+Praha 1
+Praha 1
+Berlin
+Oberbayern
+Darmstadt,Amsterdam
+Fatih
+Fatih
+Bierun-Ledziny
+Heraklion
+Jerusalem
+Tulkarm
+Barcelona
+New York
+New York
+Santiago
+Monterrey
+Monterrey
+Monterrey
+Monterrey
+Monterrey
+Western,Orenburg
+Western
+Orenburg
+Ramallah and Al-Bireh
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Ventura
+Los Angeles
+Los Angeles
+Ventura
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Ventura
+Los Angeles
+Orange
+Orange
+Varna
+Varna
+Varna
+Los Angeles
+Orange
+Orange
+Orange
+Orange
+Clark
+Los Angeles
+Los Angeles,Queens
+Madaba
+Albany
+Baleares
+Baleares
+Rodopi
+Kathu
+Ko Samui
+Pathum Wan
+Vlaams Brabant
+Lasithi
+District of Columbia
+Dodecanese
+Dodecanese
+Amsterdam,Ouder-Amstel
+Ramallah and Al-Bireh
+Khania
+Sour
+Roma
+Granada
+Bierun-Ledziny
+Warsaw
+Manila,San Pablo City
+Jerusalem
+Jerusalem
+Jericho
+Jericho
+Jericho
+Jericho
+Jericho
+Jericho
+Jericho
+Roma
+Aqaba
+Barcelona
+New York
+New York,Essex
+Chester
+Essex
+Sankt-Peterburg gorsovet
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+New York
+New York
+District of Columbia
+Essex
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Madaba
+New York
+Barcelona
+Camden
+Enfield,London
+Amsterdam
+Amsterdam
+Amsterdam
+Kings
+New York
+Heraklion
+Heraklion
+Heraklion
+Berlin
+Ko Samui
+Ko Samui
+Ko Phangan
+Ko Phangan
+Ko Phangan,Ko Samui
+Madaba
+Clark
+Heraklion
+Lasithi
+Savoie
+Savoie
+Savoie
+Barcelona
+Amsterdam
+Warsaw,Sokolów
+Brzesko|Brzeg
+Heraklion
+Heraklion
+Heraklion
+Düsseldorf
+Roma
+Florence
+Port Phillip - West
+Port Phillip - West
+Berlin
+Khimki
+Uglegorskiy rayon
+Northern
+Jerusalem
+Cyclades
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Central
+Miami-Dade
+Los Angeles
+Los Angeles
+Dodecanese
+Dodecanese
+Dodecanese
+Newham,Islington,Westminster,Bromley,Hillingdon
+New York
+Paris
+Paris
+Botum Sakor
+Botum Sakor
+Botum Sakor
+Tajiri,Onna,Izumisano
+Motobu
+Benito Juárez
+Lázaro Cárdenas
+Lázaro Cárdenas
+Berlin
+Praha 5
+Praha 1
+New York
+Barcelona
+Bierun-Ledziny
+Heraklion
+Oberbayern
+Como
+Heraklion
+Heraklion
+Bolzano,Trento
+Innsbruck Land
+Garabito
+Roma
+Roma
+Ko Samui
+Muang Krabi
+Roma
+Heraklion
+Heraklion
+Eastern
+Jerusalem,Ramallah and Al-Bireh
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Bergamo
+Clark
+Los Angeles
+Gorssel
+Gorssel
+Aqaba
+New York
+New York
+New York
+Worcester
+Queens
+Ramallah and Al-Bireh
+Jericho
+New York
+Suffolk
+Kings
+Madrid
+Los Angeles
+Barcelona
+Barcelona
+Sour
+Tarnów
+Amsterdam
+Brandenburg
+Kristiansand,Billund
+Villach Land
+Mae Taeng,Muang Chiang Mai
+Ko Samui
+Ko Samui
+Baleares
+Kensington and Chelsea,Westminster
+Nablus
+Pechers'kyi,Obukhivs'kyi,Kremenchuts'ka
+Zaporiz'ka
+Barcelona
+Jerusalem
+Praha 1
+Praha 1,Praha 6
+New York
+New York
+Varese
+Libertador
+Jerusalem
+Jerusalem
+Kraków City
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Barcelona
+Barcelona
+Dorset
+Madaba
+Berlin
+Berlin
+Wien
+Ramallah and Al-Bireh
+Horry
+Horry
+Horry
+Los Angeles
+Los Angeles
+Jerusalem
+Westminster
+Heraklion
+Heraklion
+Jericho
+Jerusalem
+Jerusalem
+Jerusalem
+Broward
+Broward
+Miami-Dade
+Kraków
+Jerusalem
+Warsaw
+Heraklion
+Heraklion
+Heraklion
+Heraklion
+Madrid
+Dodecanese
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Amsterdam
+Queens
+Queens
+Madrid
+Madrid
+New York
+Jerusalem
+Amsterdam
+Amsterdam
+Barcelona
+Amsterdam
+Enfield
+Cyclades
+Cyclades
+Cyclades
+Camden,Enfield
+Camden
+Cyclades
+Cyclades
+Clark
+Clark,New York
+New York
+Bansko
+Bansko
+Westminster
+Roma
+Ko Samui
+Ko Samui
+Cyclades
+Cyclades
+Jerusalem
+Jerusalem
+Bethlehem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Bethlehem
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Freiburg
+Darmstadt
+Barcelona
+Barcelona
+Paris
+Khalkidiki
+Domodedovskiy rayon
+Central
+Krasnogorskiy rayon
+Jerusalem
+Barcelona
+Roma
+Jerusalem
+Aqaba
+Aqaba
+Berlin
+Ramallah and Al-Bireh
+Lublin,Opatów
+Kraków City,Bierun-Ledziny
+Bethlehem
+Jerusalem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Hebron
+Bethlehem
+Jerusalem
+Jericho
+Jerusalem
+Berlin
+Amsterdam
+Haarlemmermeer
+Sour
+Bethlehem
+Bethlehem
+Bethlehem
+Jerusalem
+Bethlehem
+Bethlehem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Ramallah and Al-Bireh
+Lublin City
+Warsaw
+Dodecanese
+Heraklion
+Heraklion
+Kraków City,Bierun-Ledziny
+Jerusalem,Ramallah and Al-Bireh
+Qalqilya
+Qu?ng Nam
+Berlin
+Berlin
+Phra Nakhon
+Madaba
+Warsaw
+Westminster
+Jerusalem
+Jerusalem
+Roma
+Phra Nakhon
+Jericho
+Barcelona
+Lasithi
+Nesebar
+Los Angeles,Orange
+Los Angeles
+Los Angeles
+Heraklion
+Heraklion
+Heraklion
+Heraklion
+Wyszków,Pisz
+Warsaw
+Ramallah and Al-Bireh
+Westminster,Southwark,Camden
+Berlin
+Baltimore
+Baltimore
+Queens
+Oklahoma,Denton,Dallas
+North-Western
+North-Western,Central,South-Eastern
+Dodecanese
+Dodecanese
+Jerusalem
+Jerusalem
+South-Western,Central
+Jerusalem
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Madaba
+Madaba
+Northern
+North-Eastern,Central
+Central
+Oost-Vlaanderen,Antwerpen
+Madrid
+Madrid
+Jerusalem
+Qalqilya
+Roma
+Roma
+Roma
+Nesebar
+Wien
+New York
+Broward
+Paris
+Manavgat
+Argolis,Corinth
+Amsterdam
+Edinburgh,Glasgow
+Berlin
+Zürich
+Salfit
+Westminster
+Hillingdon
+Alpes-Maritimes
+Alpes-Maritimes
+Jerusalem
+Barcelona,Girona
+Barcelona
+Barcelona
+Barcelona
+Jerusalem
+Jerusalem
+Berkshire
+Berkshire
+Amsterdam
+Qalqilya
+Qalqilya
+Schwaz
+Qalqilya
+Barcelona
+Tulkarm
+Budapesti
+Budapesti
+Division No. 11
+Division No. 15
+Szeged
+Amsterdam
+Zürich
+Venezia
+Snæfellsbær
+Jericho
+Heraklion
+Heraklion
+Varna
+Madaba
+Aqaba
+Malay
+Manila
+Malay
+Warsaw
+Heraklion
+Heraklion
+Ramallah and Al-Bireh
+Shibuya,Musashino
+Shibuya
+Amsterdam
+Alicante
+Alicante
+Leipzig
+Amsterdam
+New York
+New York
+New York
+Los Angeles
+Paris
+Warsaw
+Warsaw
+Barcelona
+Rzeszów City
+Saida
+Queens
+New York
+Camden
+Kings
+Litchfield
+Kings,New York
+Westminster
+Westminster
+Milano
+Venezia
+Berlin,Warsaw
+Bierun-Ledziny
+Warsaw
+New York,Essex
+La Romana
+La Romana
+La Romana
+Westminster
+Westminster
+Toronto
+Berlin
+Berlin
+Barcelona
+Barcelona
+Alpes-Maritimes
+Jerusalem
+Hauts-de-Seine
+Northern
+Central
+Krasnogorskiy rayon
+Krasnogorskiy rayon
+Los Angeles
+Los Angeles
+Clark
+Clark
+Dodecanese,Heraklion
+Qalqilya
+Qalqilya
+Qalqilya
+Girona
+Atlantic
+Niagara
+Los Angeles
+Zakynthos
+Zakynthos
+Amsterdam
+Salfit
+Salfit
+Salfit
+Salfit
+Zakynthos
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Ko Samui
+Ko Phangan
+Ko Phangan
+Muñoz City
+Malay
+Darmstadt
+Camden,Westminster
+Wien
+Wien
+Paris
+Ramallah and Al-Bireh
+Bethlehem
+Bethlehem
+Berlin
+Falkirk
+Highland
+Edinburgh
+Westminster
+Aqaba
+Jerusalem
+Phra Nakhon
+Camden
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Jerusalem
+Jerusalem
+Los Angeles
+Los Angeles,San Mateo
+San Francisco
+San Francisco
+Monroe
+Shanghai
+Jerusalem
+Bethlehem
+Dodecanese
+Jerusalem
+Budapesti
+Jerusalem
+Salfit
+Niagara,New York
+Lublin City
+Bierun-Ledziny
+New York
+Tompkins
+Fermo,Macerata
+Bethlehem
+Aqaba
+Berlin
+Zakynthos
+Barcelona
+Barcelona
+Saratoga
+New York
+Jerusalem
+Jerusalem
+Roma
+Cook
+Macon
+Santa Barbara
+Harris
+Fukuoka
+New York
+Nesebar
+Warsaw
+Corinth
+Berlin
+Cautín
+Cairu
+Jijoca de Jericoacoara
+Pedro Domingo Murillo
+José Ballivián
+Cusco
+Cusco
+Cusco
+Cusco
+San Ramón
+Cozumel
+Cozumel
+Isla Mujeres
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Roma
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Aqaba
+Jerusalem
+Praha 1
+Jerusalem
+Berlin
+Berlin
+Dessau
+Dessau
+Berlin
+Dessau
+Dessau
+Dessau
+Berlin
+Ko Phangan
+Ko Samui
+Jerusalem
+Warsaw
+Heraklion
+Iguazú
+Praha 7
+Alicante
+Barcelona
+Northern Ostrobothnia
+Marjayoun
+Dodecanese
+Dodecanese
+Berlin
+Qalqilya
+Heraklion
+Salfit
+Hamburg
+Ko Samui
+Jerusalem
+Qalqilya
+Greater Vancouver
+Suffolk
+New York
+Budapesti
+Imperia
+New York
+New York
+Cook
+Cook
+Cyclades
+Warsaw
+Warsaw,Kraków
+Salerno,Napoli
+Roma
+Aqaba
+Brescia
+Aqaba
+Amsterdam
+Ramallah and Al-Bireh
+Berlin
+Alpes-Maritimes
+Heraklion
+Jerusalem
+Attica
+Amsterdam
+Jerusalem
+Kraków City,Kraków,Lublin,Warsaw,Lublin City
+Hebron
+Minato
+Barcelona
+Savoie
+Savoie
+Lublin City
+Bierun-Ledziny
+Hebron
+Jerusalem
+Nesebar
+Roma
+Oslo
+Magnesia
+Berlin
+Berlin
+Berlin
+Dodecanese
+Bierun-Ledziny
+Dodecanese
+Dodecanese
+Ko Lanta
+Ko Samui
+Ko Samui
+Levkas,Kefallinia
+Kefallinia
+Amsterdam
+Heraklion
+Gustavo A. Madero
+Amsterdam
+Krosno City
+Roma,Rimini
+Rimini
+Roma
+Krosno City
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Var
+Heraklion
+Syracuse
+Budapesti
+Dodecanese
+New York
+Berlin
+Heraklion
+Milano
+Venezia,Milano
+Madrid
+Ekaterinburg gorsovet
+Oost-Vlaanderen
+Central
+Warsaw
+Darmstadt,Westminster,Kensington and Chelsea,Hammersmith and Fulham,Hillingdon
+Paris
+Budapesti
+Budapesti
+Madaba
+Central
+North-Western
+Budapesti
+Sankt-Peterburg gorsovet
+New York
+Clark
+Carrillo
+Combined statistics
+Gdansk City,Warsaw,Attica
+Tallinn
+Palilula
+Ramallah and Al-Bireh
+Kraków City
+Baltimore
+Jerusalem
+Darmstadt
+Karlsruhe
+Berlin
+Berlin
+Jerusalem
+Warsaw
+Warsaw
+Miami-Dade
+Miami-Dade
+Pojezerje
+Kullu
+Wien
+Clark
+Ramallah and Al-Bireh
+Jerusalem
+Qalqilya
+Amsterdam
+Palm Beach
+Broward
+Palm Beach
+Palm Beach
+Palm Beach
+Cusco
+Wien
+Warsaw
+Jerusalem
+Paris
+Southwark
+Camden
+Manchester
+Los Angeles
+San Francisco
+Oakland
+Miami-Dade
+Hudson
+Bethlehem
+Madrid
+New York
+New York
+Amsterdam
+Amsterdam
+Milano
+Bethlehem
+New York
+Madrid
+New York
+Roma
+Barcelona
+District of Columbia
+New York
+New York
+Cozumel
+Paris
+Verona
+Verona
+Dodecanese
+Dodecanese
+Barcelona
+Westminster
+London
+Kensington and Chelsea
+Aqaba
+Heraklion
+Heraklion
+Heraklion
+Westminster
+Redbridge
+Westminster
+Westminster
+Westminster,Camden
+Qalqilya
+Qalqilya
+Barcelona
+Girona
+Qalqilya
+Tower Hamlets,Westminster
+Westminster
+Heraklion
+Attica
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Westminster
+Berlin
+New York,Bergen
+Olbia-Tempio
+Jerusalem
+Berlin
+Varese
+Lasithi
+Madaba
+Jerusalem
+Jerusalem
+Jerusalem
+Bang Plee
+Ramallah and Al-Bireh
+Rio de Janeiro
+Foz do Iguaçu
+Harris
+Harris
+Harris
+Tower Hamlets,Westminster
+Paris
+Paris
+Muang Chiang Mai,Mae Rim
+Muang Chiang Mai,Ko Phangan
+New York
+Solnechnogorskiy rayon
+London
+Jerusalem
+Jerusalem
+Bergen
+Amsterdam
+Seine-et-Marne
+Jerusalem
+Ramallah and Al-Bireh
+Berlin
+Nesebar
+Kraków City
+Lubliniec
+Ramallah and Al-Bireh
+Darmstadt
+Madrid
+Budapesti
+Gyál
+Nesebar
+Warsaw
+Muang Krabi
+Muang Krabi
+Kathu
+Ko Phangan
+Ko Phangan
+Ko Phangan
+Pathum Wan
+Jerusalem
+Jerusalem
+Jerusalem
+Jericho
+Dodecanese
+Dodecanese
+Dodecanese
+Zamosc
+Val-d'Oise,Hauts-de-Seine
+Hauts-de-Seine
+Deir Al-Balah
+Ramallah and Al-Bireh
+Barcelona
+Harford
+Pinellas,Orange
+Harford,Hillsborough,New York
+Laval,New York,Hillsborough,Genesee
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Aqaba
+Orange
+Miami-Dade,Niagara
+New York
+New York
+Brescia
+Hudson,New York
+Niagara
+Montgomery
+Miami-Dade
+Gaza ash Shamaliyah
+Gaza
+Paris
+Loire
+Attica
+Attica
+Vendée
+Budapesti
+Jerusalem
+Jerusalem
+Cook
+Jerusalem
+Mecklenburg
+Mecklenburg
+New York
+New York
+Kings,New York
+District of Columbia
+New York
+New York
+Hebron
+New York
+New York
+Nesebar
+Nesebar
+York
+Sour
+Ain
+Koblenz
+Berlin
+Berlin
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Warsaw
+Warsaw
+Jerusalem
+San Luis Obispo,Clark
+Garfield
+Clark
+Landeck
+Landeck
+Magdeburg
+Magdeburg
+San José
+Warsaw
+Warsaw
+Hasbaya
+Marjayoun
+Marjayoun
+Utrecht
+Heraklion
+Heraklion
+Bethlehem
+Hebron
+Tayybeh
+Pai
+Ko Samui
+Ko Samui
+Ko Phangan,Ko Samui
+Ko Phangan,Ko Samui
+Ko Samui,Muang Krabi
+Kathu
+Pathum Wan,Khan Na Yao,Bang Plee
+Jericho
+Nesebar
+Nesebar
+Nesebar
+Hebron
+Deux-Montagnes
+Jerusalem
+Barcelona
+San Francisco
+San Mateo
+San Francisco
+Madaba
+Luxembourg
+Milano
+Varese,Milano
+Milano
+Milano
+Jerusalem
+Jerusalem
+Marjayoun
+Varna
+Varna
+Bethlehem
+Budapesti
+Darmstadt
+Darmstadt
+Alanya
+Bruxelles
+Paris
+Kings
+Bülach
+New York
+Los Angeles
+Darmstadt
+San Francisco,San Diego
+Varese
+Cook,Berlin
+Berlin
+Middlesex
+Middlesex
+New York
+London
+Hennepin
+Jerusalem
+New York
+New York
+Kings,New York
+Kings
+Los Angeles
+Hennepin
+Essex
+Paris
+Landeck
+Landeck
+Kings
+Paris
+Hamburg
+Berlin
+Berlin
+Las Palmas
+Jericho
+Southwark
+Islington,Camden
+Beyoglu,Fatih
+Beyoglu
+Westminster
+Hennepin,Worth,Polk
+New York
+New York
+Pelgrimsrus
+Knysna
+Los Angeles
+Los Angeles
+New York
+Hennepin
+Hennepin
+Polk
+Bern
+Heraklion
+Barcelona
+Salfit
+Ko Phangan
+Ko Samui
+Pathum Wan
+Muang Krabi
+Phra Nakhon
+Muang Chiang Mai
+Muang Chiang Mai
+Kathu
+Huai Kwang
+Cozumel
+Plaza de la Revolución
+Isla Mujeres
+Cozumel,Benito Juárez
+Benito Juárez
+Santiago
+Rio de Janeiro
+Rio de Janeiro
+Soest
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Roma
+Bethlehem
+Barcelona
+Amsterdam
+Waterland,Bergen,Amstelveen,Edam-Volendam
+Loon op Zand
+Waterland
+Jerusalem
+Madaba
+Madaba
+Khania
+Khania
+Conarky
+Boké
+Sathorn
+Jerusalem
+Paris
+Paris
+Paris
+Paris
+Yangon-W
+Mandalay
+Jerusalem
+Jerusalem
+Jerusalem
+Sarajevo
+Jerusalem
+Zone 3
+Zone 3
+Zone 3
+Zone 3
+New York
+New York
+Halifax
+Amsterdam
+Jerusalem
+Beijing
+Madaba
+Lillehammer,Trondheim,Eide,Stranda
+Voss,Aurland,Bergen
+Stavanger
+Oslo,Ås
+Jerusalem
+Westminster
+Westminster
+Roma
+Berlin
+Peniche,Seixal,Barcelona
+Cyclades
+Heraklion
+Heraklion
+Salfit
+Amsterdam
+Luton
+Tallinn
+Lake Ontario,Niagara
+Bas-Rhin,Freiburg
+Darmstadt
+Westminster
+Wien
+Berlin
+Berlin
+Roma
+Berlin
+Berlin
+Merkez
+Westminster,Camden
+Karlsruhe
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+San Diego
+Barcelona
+Barcelona
+Var,Bouches-du-Rhône
+Var
+Paris
+Salfit
+Ramallah and Al-Bireh
+Salfit
+Salfit
+Salfit
+Paris
+Paris
+Paris
+Paris
+Salfit
+Paris
+Salfit
+Salfit
+Paris
+Paris
+Paris
+Fortaleza
+Paris
+Paris
+Madaba
+Madaba
+Verona
+Budapesti
+Heraklion
+Heraklion
+Jerusalem
+Chai Prakarn
+Heraklion
+Nesebar
+Nesebar
+Jerusalem
+Barcelona
+Barcelona
+Barcelona
+Praha 1
+Jerusalem
+Machala
+Machala,Contralmirante Villar
+Salfit
+Barcelona
+Jerusalem
+Nablus
+Nablus
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Hebron
+Muang Chiang Mai
+Ko Phangan
+Marjayoun
+Amsterdam
+Warsaw
+Barcelona
+Jerusalem
+Wien
+Wien
+Riga
+North-Eastern,Central
+Ovidiopol's'kyi
+Tashkent City,Oqdaryo
+Novosibirskiy rayon
+Tbilisi,Mtskheta
+Northern,Oqdaryo
+Oqdaryo
+Vilniaus
+Tallinn
+Moletu
+Moletu
+Moletu
+Riga
+Kathu
+Ko Samui
+Ko Samui
+Benito Juárez,Isla Mujeres
+New York
+New York
+Dodecanese
+Barcelona
+Barcelona
+Heraklion
+Heraklion
+Jerusalem
+Kings
+Paris
+Paris
+Madrid
+Ramallah and Al-Bireh
+Silistra
+Jerusalem
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Jerusalem
+Bethlehem
+Berlin
+Palm Beach
+New York
+Nesebar
+Bethlehem
+Bethlehem
+Cyclades
+Cyclades
+Beijing
+Berlin
+Benito Juárez
+New York
+Muang Chiang Mai,Mae Taeng
+Barcelona
+Barcelona
+Barcelona
+Jerusalem
+Amsterdam
+New York
+Kings,Bronx,New York
+New York
+Rosario
+New York
+New York
+Antwerpen
+Westminster
+Bakirköy
+New York
+Queens
+Suffolk,New York
+Cyclades
+Cyclades
+New York
+New York
+Los Angeles
+Los Angeles
+Jericho
+New York
+New York
+Portimão
+Sevilla
+New York
+New York
+Cook
+Malmö
+Hood River,Snohomish
+Cook,Queens,New York
+New York
+New York
+Cook
+Cook
+Cook
+Cook
+Los Angeles
+Los Angeles
+Miami-Dade
+Miami-Dade
+Cook
+Cook
+Oberbayern
+Cook
+Clark
+Kent
+Cook
+Cook
+Cook
+Paris
+Praha 1
+San Francisco
+Clark
+New York
+New York
+New York
+San Francisco
+London,Westminster
+Kensington and Chelsea
+Westminster
+Gaza
+Jerusalem
+Dodecanese
+Ko Phangan
+Ko Phangan
+Los Angeles
+Almada
+Berlin
+Union
+Amsterdam
+Cyclades
+Aqaba
+Jerusalem
+Pathum Wan
+Ko Samui
+Lienz,Trento
+Jerusalem
+Baleares,Barcelona
+Baleares
+Baleares
+Almora
+Kullu
+Kullu
+Kullu
+Barcelona
+Baleares
+Heraklion
+Jerusalem
+Berlin
+Berlin
+New York
+New York
+Los Angeles
+Clark
+Budapesti
+Budapesti
+Santa Clara
+El Dorado,Washoe
+San Francisco,San Mateo
+San Francisco
+San Mateo
+Jerusalem
+Bethlehem
+Mtskheta
+Lublin City
+Jerusalem
+Sour
+Heraklion
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Jenin
+Jenin
+Shevchenkivs'kyi
+Phra Nakhon
+Itacaré
+Isla Mujeres
+Cozumel
+Ticuantepe
+Marjayoun
+Port Macquarie-Hastings - Pt A
+Byron
+Great Lakes
+Botany Bay
+Amsterdam
+Kefallinia
+Toronto,Niagara
+Cook
+New York
+Schwaz
+Schwaz
+Washington,New York
+Dodecanese
+Barcelona
+Aqaba
+Amsterdam
+Roma
+Jaisalmer
+Ko Samui
+Berlin
+Cozumel
+Bologna
+Bologna
+Amsterdam
+Mittakpheap
+Muang Chiang Mai
+Qalqilya
+Qalqilya
+Heraklion
+Westminster
+Westminster
+Pisa,Livorno
+Udine
+Roma
+Udine
+Udine
+Jerusalem,Ramallah and Al-Bireh
+Udine
+Udine
+Udine
+Udine
+Barcelona
+Barcelona
+Cyclades
+Zagreb,Bohinj,Bled,Postojna
+Amsterdam
+Roma
+Roma
+Brasília,Rio de Janeiro
+São Paulo
+Jerusalem
+Kensington and Chelsea
+Kensington and Chelsea,London
+Paris
+New York
+Barcelona
+Paris,Yvelines
+Seine-et-Marne,Paris
+Praha 1,Ceský Krumlov
+Madaba
+Kraków City
+Roma
+Roma
+Merkez
+Merkez
+Berlin
+Orange
+New York
+Nablus
+Madaba
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Tulkarm
+Bethlehem
+Berlin
+Bethlehem
+Ramallah and Al-Bireh
+New York
+New York,Queens
+Los Angeles
+San Francisco
+Santa Cruz
+Los Angeles
+New York
+L'vivs'ka
+Podil's'kyi
+Podil's'kyi
+Vyshhorods'kyi
+Kyievo-Sviatoshyns'kyi
+Central
+Central
+Westminster,Kensington and Chelsea
+Hackney
+Westminster
+Attica
+Berlin
+Camden,Westminster,Ealing,Hillingdon
+Ramallah and Al-Bireh
+Berlin
+Madaba
+Westminster,Camden
+Camden
+Aqaba
+Madaba
+Aqaba
+Aqaba
+Charleston
+Madaba
+Buxoro
+Oberbayern
+Jerusalem
+Jerusalem
+Tulkarm
+Oberbayern
+Oberbayern
+Girona
+Barcelona
+Praha 1,Karlovy Vary
+Madaba
+Salerno
+Westminster
+New York
+Orange
+Zürich
+Zürich
+Essonne
+Paris
+Paris
+Essonne
+Paris
+Barcelona
+Paris
+Paris
+Essonne
+Essonne
+Paris
+Paris
+Paris,Seine-et-Marne
+Paris
+Paris
+Paris
+Hauts-de-Seine
+Paris
+Paris
+Paris
+Paris
+Paris
+London,Camden,Westminster,Kensington and Chelsea
+Barcelona
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Roma
+New York
+Miami-Dade
+Clark
+Los Angeles
+Heraklion
+Vilniaus
+Vilniaus
+Berlin
+Berlin
+Girona,Barcelona
+Central
+Khánh Hòa
+Khánh Hòa
+South-Eastern
+Desnians'kyi
+Pechers'kyi
+Shevchenkivs'kyi
+Podil's'kyi
+Darnyts'kyi
+Shevchenkivs'kyi
+Dniprovs'kyi
+Podil's'kyi
+Desnians'kyi
+Shevchenkivs'kyi
+Dodecanese
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Tubas
+Jerusalem
+Tubas
+Tulkarm
+Tulkarm
+Tulkarm
+Dodecanese
+Camden
+Sour
+Berlin
+Berlin
+Jerusalem
+Sour
+Camden
+Camden
+Camden,Hounslow
+Cairu
+Queens,New York
+Kings
+Clark
+New York
+Heraklion
+Luzern
+Belfast
+Schwyz
+Ko Phangan
+San Mateo
+Napoli
+Warsaw
+Jerusalem
+Merkez
+Napoli
+Napoli
+Central
+Odintsovskiy rayon
+Jerusalem
+Barcelona
+Lisboa
+Barcelona
+Jerusalem
+Qalqilya
+Qalqilya
+Qalqilya
+Alicante
+Jerusalem
+New York
+Clark
+Cass,Hennepin,Ramsey
+Kings,New York
+Kings
+Ko Phangan
+Madaba
+Barcelona
+Dodecanese
+Roma
+Roma
+Jericho
+Sour
+Gmunden
+Wien,Vöcklabruck
+Málaga
+Jerusalem
+Warsaw
+Interlaken
+Affoltern,Zürich
+New York
+Madaba,Bethlehem
+Trinidad
+Cozumel
+Antigua Guatemala
+Cozumel
+Cozumel
+Boryspil's'ka,Paris
+Boryspil's'ka
+Berlin,Dresden
+Berlin
+Berlin
+Brandenburg
+Lasithi
+District of Columbia
+New York
+District of Columbia
+Baltimore,District of Columbia
+District of Columbia
+District of Columbia
+District of Columbia
+Montgomery
+Baltimore
+District of Columbia
+New York
+District of Columbia
+District of Columbia
+Queens
+District of Columbia
+Baltimore
+District of Columbia
+District of Columbia
+New York
+Buncombe
+Hamilton
+Pasig City
+Pasig City,Sagada
+Pasig City,Mandaluyong,Parañaque
+Pasig City
+New York
+Madrid
+Barcelona
+Lisboa
+Bethlehem
+Greenwich
+Aqaba
+Westminster
+Ramallah and Al-Bireh
+Jerusalem
+Heraklion
+Obwalden,Interlaken
+Jerusalem
+Jericho
+Jerusalem
+Jerusalem
+Düsseldorf
+Barcelona
+Jericho
+Westminster
+Camden
+Milano
+Brescia
+Brescia
+King
+Berlin
+Brandenburg
+District of Columbia
+District of Columbia
+Baltimore,District of Columbia
+New York
+Banaue,Pasig City
+Panglao,Pasig City
+Malay
+Madrid
+Granada
+New York
+Warsaw
+Broward
+Broward
+Clark
+Roma
+Roma
+Praha 1,Praha 6
+Qalqilya
+Salfit
+Qalqilya
+Madrid
+Haarlemmermeer
+Essex
+Clark
+Philadelphia,Clark
+Clark
+Haarlemmermeer,Fatih
+Ljubljana,Plitvicka Jezera
+Negotin
+De Ronde Venen
+Wien Umgebung
+Ko Samui
+Oberbayern
+Barcelona
+Barcelona
+New York
+Odense
+Côte-d'Or
+Paris
+Roma
+New York
+Cyclades
+Cyclades
+Communauté-Urbaine-de-Montréal
+Heraklion
+Los Angeles
+Berlin
+Jongro
+Kizugawa
+Naoshima
+Nakano,Shibuya
+Nakano
+Jung
+Sydney - Inner,Waverley
+Sydney - Inner
+Melbourne - S'bank-D'lands
+Glen Eira - Caulfield
+Melbourne - Inner
+Yarra Ranges - Dandenongs
+Stonnington - Prahran
+Greater Hume Shire - Pt A,Greater Hume Shire - Pt B,Tamworth Regional - Pt A
+Moreland - Brunswick
+Cairns  - City
+Melbourne - Inner
+Glen Eira - Caulfield
+Port Phillip - St Kilda
+Corangamite - South,Colac-Otway - South
+Andaman Islands
+Ajmer
+Udaipur
+Jodhpur
+Pauri Garhwal
+Pauri Garhwal
+Kullu
+Kullu
+Kullu
+Kullu
+Delhi
+Pothuvil
+Dodecanese
+Bolzano
+Westminster
+Kensington and Chelsea
+Westminster
+Berlin
+Dodecanese
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Paris
+Waltham Forest,Camden,Newham
+Hackney,Camden
+Newham,Kensington and Chelsea
+Varna
+Varna
+Warsaw
+Kensington and Chelsea
+Jerusalem
+Philadelphia
+Philadelphia
+Philadelphia
+Miami-Dade
+Philadelphia
+Philadelphia
+Philadelphia
+Montgomery
+Fatih
+New York
+Philadelphia
+Philadelphia
+Philadelphia
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Bialystok,Bierun-Ledziny
+Jerusalem
+Salfit
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Bierun-Ledziny
+Jerusalem
+Jerusalem
+Bialystok
+Bethlehem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jericho
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Girona
+Girona,Barcelona
+Barcelona
+Ramallah and Al-Bireh
+Heraklion
+Jerusalem
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Aqaba
+Århus
+Århus
+Århus
+New York
+New York
+Antwerpen
+Antwerpen
+Antwerpen
+Antwerpen
+Antwerpen,Vlaams Brabant
+Antwerpen
+Toronto
+Ottawa
+Jerusalem
+Florence
+Vlaams Brabant,Antwerpen
+Goodwood,Wynberg,Simon Town
+Goodwood,Kuils River,Paarl,Val-d'Oise
+Merkez,Alanya
+Alanya
+Beyoglu
+Antwerpen
+Antwerpen,West-Vlaanderen,Amsterdam
+Antwerpen
+Sevilla,Córdoba
+Paris,Antwerpen
+Hackney,Brighton and Hove
+New York
+Sour
+Barcelona
+Baleares
+Jerusalem
+Jenin
+Jerusalem
+Ramallah and Al-Bireh
+Beesel
+Beesel
+Düsseldorf,Munster
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Ramallah and Al-Bireh
+Shevchenkivs'kyi
+Salfit
+Edam-Volendam,Utrecht,Lisse,Amsterdam
+Westminster,Derby,Derbyshire,Manchester
+Amsterdam
+Roma
+Los Angeles
+Northumberland
+New York
+New York
+Muang Chiang Mai
+Muang Chiang Mai
+Köln
+Warsaw
+Kraków City
+Tubas
+Tulkarm
+Muang Chiang Mai
+Ko Phangan
+Ko Phangan
+Warsaw
+Los Angeles,San Diego
+Washington
+San Francisco
+San Francisco
+Jerusalem
+Jerusalem
+Kyoto
+Chiyoda
+Westminster,Camden
+New York,Hillingdon
+Jerusalem
+Prince George's
+Bierun-Ledziny
+Jerusalem
+Barcelona
+Barcelona
+Baleares
+Salfit
+Salfit
+Salfit
+Salfit
+Ramallah and Al-Bireh
+Amsterdam
+Amsterdam
+Botum Sakor
+Khong
+Vangvieng
+Ko Samui
+Ko Phangan
+Muang Krabi
+Thalang
+Pedasí
+Tamanique
+Cyclades
+Berlin
+Camden
+Westminster
+Darmstadt
+Paris
+Dodecanese
+Beyoglu
+Tema
+Los Angeles
+Los Angeles
+New York,Kings
+Kings
+Alameda
+Los Angeles
+Kensington and Chelsea
+Kensington and Chelsea
+Westminster
+Azcapotzalco
+Miguel Hidalgo
+Dist. Pochutla
+Dist. Pochutla
+Chihuahua
+New York
+New York
+New York
+New York
+New York
+Kings
+Coconino
+Washington
+Gustavo A. Madero
+Cuajimalpa de Morelos
+Miami-Dade
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Queens
+Philadelphia
+New York
+New York
+New York
+Madaba
+Jerusalem
+Bethlehem
+Jerusalem
+Sour
+Jerusalem
+Alvaro Obregón
+Tultitlán
+Azcapotzalco
+Azcapotzalco
+Hertfordshire
+Hillingdon
+Brent
+New York
+Sarapiquí
+Alajuela
+Miami-Dade
+Tulkarm
+Aqaba
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Rethymnon
+Roma
+Roma
+Roma
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Jerusalem
+Jenin
+Philadelphia
+Welwel & Warder
+Welwel & Warder
+Jariiban
+Grândola,Sesimbra
+Lisboa
+Genève
+La Sarine
+Bas-Rhin
+Affoltern
+Horgen
+Koice II
+Amsterdam,Haarlemmermeer
+Amsterdam,Haarlemmermeer
+Amsterdam
+Rethymnon
+Amsterdam
+Nesebar
+Apeldoorn
+Apeldoorn
+Mae Rim
+Mae Taeng
+New York
+Roma
+Westminster
+Westminster
+Cardiff
+Jerusalem
+Jerusalem
+Kranjska Gora,Ljubljana
+Zagreb
+Jerusalem
+Warsaw
+Suffolk,Chittenden,Washington,Queens,Hudson,New York
+Chittenden
+Freiburg
+Camden
+Camden
+Berlin
+Budapesti
+Budapesti
+Dodecanese
+Rethymnon
+Khania,Rethymnon
+Khania
+Khania
+Khania,Rethymnon
+Khania
+Rethymnon
+L'vivs'ka,Sokal's'kyi
+Bierun-Ledziny
+Warsaw
+Warsaw,Kraków City
+L'vivs'ka,Sokal's'kyi
+Warsaw
+Warsaw
+Warsaw
+Warsaw
+Sokal's'kyi
+Warsaw
+Ramallah and Al-Bireh
+Jerusalem
+Dodecanese
+Dodecanese
+Dodecanese
+Dodecanese
+Jerusalem
+Jerusalem
+Ko Phangan
+Phra Nakhon,Pathum Wan
+Taling Chan,Ko Samui
+Ko Phangan
+Phra Nakhon
+Phra Nakhon
+Dnipropetrovs'ka
+Paris
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Paris,Dnipropetrovs'ka
+Dnipropetrovs'ka
+Paris
+Dnipropetrovs'ka
+Paris
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Roma
+Milano
+Paris
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Dnipropetrovs'ka
+Kensington and Chelsea
+Jerusalem
+Reykjavík,Þingvallahreppur,Hrunamannahreppur,Biskupstungnahreppur,Grindavík,Ísafjarðarbær,Súðavíkurhreppur,Húsavík,Akureyri,Skútustaðahreppur,Vestur-Eyjafjallahreppur,Austur-Eyjafjallahreppur,Mýrdalshreppur,Sveitarfélagið Hornafjörður,Amsterdam,Haarlemmermeer
+Barcelona,Girona
+Girona
+Oberbayern
+Jerusalem
+Camden
+Hackney
+Camden
+Madrid
+Barcelona
+Barcelona
+Madrid
+Bang Lamung
+Bang Yai
+Ratchathewi
+Amsterdam
+Amsterdam
+Varna
+Jerusalem
+Jerusalem
+Dharwad
+Jerusalem
+Orleans
+Dodecanese
+Bethlehem
+South Goa
+Idukki
+Pune
+Pune
+Budapesti
+Barcelona
+Antwerpen
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Florence
+Siena
+Siena
+Trapani
+Trapani
+Oxfordshire
+Oxfordshire
+Oxfordshire
+Oxfordshire
+Oxfordshire
+Oxfordshire
+Oxfordshire
+New York
+Barcelona
+Siena,Florence
+Zeewolde
+Jericho
+Dodecanese
+Bethlehem
+Ramallah and Al-Bireh
+Oberbayern
+Amsterdam
+Wien
+Berlin
+Attica
+Jerusalem
+Corfu
+Berlin
+Dodecanese
+Milano
+Dodecanese
+Madaba
+Bethlehem
+Budapesti
+Berlin
+Berlin
+Hamilton
+Hamilton
+Ontario
+New York
+Kings
+New York,Kings
+Venezia,Roma
+Paris
+Paris,Hauts-de-Seine
+Marjayoun
+Jerusalem
+Paris
+Paris,Calvados
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Calvados
+Paris
+Paris
+Paris
+Paris
+Milano,Paris
+Paris
+Seine-Maritime
+Paris
+Paris
+Yvelines
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Yvelines
+Gard
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris,Salerno,Napoli
+Napoli
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris,Bouches-du-Rhône
+Paris
+Paris
+Paris
+Paris
+Paris
+Jerusalem
+Messina
+Tulkarm
+Marrakech
+Málaga
+Sevilla
+Seine-et-Marne
+Madrid
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Berlin
+Praha 1
+Ekaterinburg gorsovet
+Jerusalem
+Sondrio
+Sondrio
+Alcochete
+Sabrosa
+São João da Pesqueira
+Porto
+Boulder
+Boulder
+Division No. 15
+Division No. 15
+Boulder
+Denver
+Kings
+Amsterdam
+Vlaams Brabant,West-Vlaanderen
+Bethlehem,Jericho
+Essex
+Westminster
+Antwerpen
+Paris
+Paris
+Greater Bombay
+Ernakulam
+Mysore,Kancheepuram,Puducherry
+Madurai
+Berlin
+Berlin
+Amsterdam,Haarlem,Rijswijk
+Hamburg
+Cyclades
+Wien
+Miami-Dade
+Miami-Dade,Broward
+Miami-Dade
+Travis,Bexar
+New York
+Kings
+New York
+New York
+New York
+New York
+Essex
+New York
+Miami-Dade
+Bronx
+Kings
+New York
+New York
+Dutchess
+New York,Oneida
+New York
+Kings
+New York
+New York
+Queens,Kings
+Cook
+Cook
+San Francisco,Merced
+Clark
+Clark
+Ramallah and Al-Bireh
+Jerusalem
+Paris
+Bas-Rhin
+Haut-Rhin
+Nassau
+Queens,Orange
+Orange
+Nassau
+New York
+Nassau
+Milano
+Bologna
+Milano
+Venezia
+New York
+New York
+Morris
+Berlin
+Berlin
+Amsterdam
+Milano
+Milano
+Milano
+Berlin
+Berlin
+Berlin
+Barcelona
+Barcelona
+Madrid
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Cushamen
+Cautín
+Itacaré
+Itacaré
+Manchester
+New York
+Barcelona
+Heraklion
+Barcelona
+New York
+New York,Queens
+Madaba
+Paris
+San Francisco
+São Paulo,Belo Horizonte,Rio de Janeiro
+São Paulo
+Barcelona
+São Paulo
+New York
+New York
+New York
+São Paulo
+São Paulo,Rio de Janeiro
+Rio de Janeiro
+San Francisco
+San Francisco
+Jerusalem
+São Paulo
+São Paulo,Rio de Janeiro
+Rio de Janeiro
+New York
+New York
+New York
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Jerusalem
+San Francisco
+Essex
+Berlin
+Paris
+Paris,Val-d'Oise
+San Francisco
+San Francisco
+Darmstadt,San Francisco
+New York
+New York
+New York
+San Francisco
+San Francisco
+Clark,New York
+New York
+New York
+Jerusalem
+San Mateo
+San Francisco,Santa Clara
+Islington,Camden,Hounslow,Westminster
+San Francisco
+Los Angeles
+Praha 1
+King
+King,Jackson
+San Francisco
+Barcelona
+New York
+New York
+New York
+New York
+New York
+Wien
+Bruxelles
+Lasithi
+Camden
+Westminster,Camden
+San Francisco
+San Francisco
+Los Angeles
+Westminster
+Western
+Western
+Western
+Leninskiy rayon
+Odintsovskiy rayon
+Western
+Miami-Dade
+Miami-Dade
+Alpes-Maritimes
+Heraklion
+Berlin
+Berlin
+Amsterdam
+Kensington and Chelsea,Hackney
+San Diego
+Ko Phangan
+Shenzhen
+Shenzhen
+Clark,New York
+San Diego
+New York
+Westminster
+Westminster
+Siena
+Siena
+Heraklion
+Freiburg
+Washington
+Hebron
+Barcelona
+Sour
+Benito Juárez
+Benito Juárez
+Benito Juárez
+New York
+Amsterdam
+Bruxelles
+Jerusalem
+Jerusalem
+Bethlehem
+Ramallah and Al-Bireh
+South-Western
+North-Western
+North-Western
+North-Western
+North-Western
+Western
+North-Western
+Western
+North-Western
+Sour
+Roma
+Roma
+Jerusalem
+Höfe
+Paris
+Paris
+Paris
+Berlin
+Berlin
+Madaba
+Jerusalem
+New York
+Middlesex
+Hancock
+Hancock,Coos,Carroll,Jefferson
+Hancock
+District of Columbia
+Jefferson
+Orleans
+Westminster
+Westminster
+Sankt Johann im Pongau
+Rijeka
+Warsaw
+Cook
+Cook
+Cook
+Ramallah and Al-Bireh
+Schaffhausen
+Cook
+Madrid
+Pathum Wan
+Cook
+Tulkarm
+Berlin
+Berlin
+Berlin
+Los Angeles
+Los Angeles
+Omagh
+Jerusalem
+New York
+New York
+New York
+Ain,Haute-Savoie
+Paris
+Cozumel
+Isla Mujeres
+Bruxelles,West-Vlaanderen,Oost-Vlaanderen
+Oost-Vlaanderen
+Jerusalem
+New York,Queens
+New York
+Philadelphia
+Osceola
+Düsseldorf
+Düsseldorf
+East Riding of Yorkshire
+Berkshire
+Bruxelles
+Kraków City
+Barcelona
+Barcelona
+Zakynthos
+Zakynthos
+Berlin
+Jerusalem
+Jerusalem
+Barcelona
+Barcelona
+Berlin
+Baleares
+Oslo,Stockholm,Manchester
+Azilal
+Ko Samui
+Berlin
+Berlin
+Berlin
+Qalqilya
+Philadelphia,Clark,Los Angeles
+Amsterdam,Haarlemmermeer
+Berlin
+Barcelona
+Amsterdam
+Haarlemmermeer
+New York,Essex
+Clark
+Barcelona
+Amsterdam
+Vlaams Brabant
+Barcelona
+Jerusalem
+Darmstadt
+Camden
+Madaba
+Heraklion
+Heraklion
+Praha 1
+Westminster
+Amsterdam,Haarlemmermeer
+Rio de Janeiro
+Rio de Janeiro
+Foz do Iguaçu
+Attica
+Beyoglu
+Jerusalem
+Paris,Nakano,Shibuya,Minato
+Paris
+Nesebar
+Berlin
+Jerusalem
+Kensington and Chelsea
+Hammersmith and Fulham,Westminster
+Camden
+Berlin
+Berlin
+Cyclades
+Attica
+Madrid
+Madaba
+Hebron
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Tayybeh
+Jerusalem
+Tbilisi
+Bethlehem
+Bethlehem
+Summit
+Denver
+Baltimore
+New York
+Jerusalem
+Jericho
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Budapesti
+Tayybeh
+Verbano-Cusio-Ossola
+Venezia
+Amsterdam
+Zaanstad,Amsterdam
+Qalqilya
+New York
+Hudson
+New York
+Madrid
+New York,District of Columbia,Arlington
+New York,Santa Clara
+Jerusalem
+New York,San Mateo,Santa Clara,San Francisco
+New York
+San Mateo,Santa Clara,New York
+Barcelona
+New York
+Westminster
+New York
+Peel
+New York
+Toronto
+Peel
+Niagara
+Ramallah and Al-Bireh
+New York
+Santa Clara
+New York
+New York
+Roma
+Roma
+Madaba
+Madaba
+New York
+New York
+Praha 7,Praha 1
+Toronto
+Praha 7
+New York
+Kings
+Toronto
+Santa Clara
+San Mateo
+New York
+San Mateo
+Oberbayern
+Camden
+New York
+Berlin
+Amsterdam
+Amsterdam
+Dodecanese
+Fulton
+Barcelona
+Sankt-Peterburg gorsovet
+Praha 3
+Somerset
+Somerset
+Detmold
+Wien
+Tower Hamlets
+Amsterdam,Haarlemmermeer
+Berlin
+Amsterdam
+Ga East
+Camden
+Camden
+Camden,London
+New York
+Los Angeles,San Luis Obispo
+Napa
+Jerusalem
+Salerno
+New York
+Suffolk
+Barnstable
+Paris
+Ko Samui
+Phra Nakhon
+Camden
+Frosinone
+Miami-Dade
+Greene
+Miami-Dade
+Miami-Dade
+Monroe
+Monroe
+Warsaw
+Budapesti
+Westminster
+Milano
+Jerusalem
+South Goa
+Savoie
+Savoie
+Banaue
+Puerto Galera
+Ko Samui
+New York
+Jerusalem
+Central
+Berlin,Brandenburg
+Braunschweig
+Berlin
+Hebron
+Nagoya
+Taito,Minato
+Bethlehem
+Madaba
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Bethlehem
+Jerusalem
+Bethlehem
+Bethlehem,Hebron
+Bethlehem
+Bethlehem
+Vicenza
+Dodecanese
+Jerusalem
+Barcelona
+Girona
+Girona
+Warsaw
+Kraków City
+Cornwall
+Salzburg Umgebung
+Roma
+Konak
+Amsterdam,Haarlemmermeer
+Konak
+Jerusalem
+Jerusalem
+Urla
+Çesme
+Konak
+Bariloche
+Distrito Federal,Tigre
+Amsterdam
+Çesme
+Khios
+Varna
+Douglas
+Douglas
+Jerusalem
+Qalqilya
+Jericho
+Verona
+Jerusalem
+Cartagena de Indias
+Cusco
+Cusco
+Lima
+Bruxelles
+Camden
+Enfield,Westminster,Hammersmith and Fulham,Kensington and Chelsea,Camden,Brent,Islington
+Islington,Hammersmith and Fulham
+Ramallah and Al-Bireh
+Westminster,Kensington and Chelsea,Southwark,Camden
+Kensington and Chelsea,Camden,Westminster
+Jerusalem
+Paris
+Paris
+Paris
+Cambridgeshire,Hammersmith and Fulham,Camden
+Jericho
+Ramallah and Al-Bireh
+Westminster
+Ramallah and Al-Bireh
+Warsaw
+Warsaw
+Berlin
+Roma
+Hà N?i,Thái Nguyên,B?c K?n
+Qu?ng Nam,H? Chí Minh city,C?n Tho
+Westminster,Kensington and Chelsea
+Jerusalem
+Westminster,Camden,Hammersmith and Fulham,Hackney
+Delhi
+Sawai Madhopur,Jaipur
+Bakirköy
+Guipúzcoa
+Pyrénées-Atlantiques
+Ramallah and Al-Bireh
+Jerusalem
+North Goa
+Huddinge
+Kauno
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Madrid
+Barcelona
+Coihaique
+Cushamen
+Distrito Federal
+Hebron
+Jerusalem
+Praha 1
+Hebron
+Hebron
+Heraklion
+Heraklion
+Praha 1
+Westminster
+Westminster,Kent
+Westminster
+Westminster
+Westminster,Camden
+Temascalapa
+London
+Jerusalem
+Jerusalem
+Berlin
+Bruxelles
+Paris
+Dodecanese
+Kitzbühel
+Greater Vancouver
+Heraklion
+Warsaw
+Tarnów City
+Jerusalem
+Jerusalem
+Berlin
+Jongro,Jung,Yongsan,Paju,Dong
+Jerusalem
+Barcelona
+Dodecanese
+Dodecanese
+New York
+New York
+Cuneo
+Olbia-Tempio
+Olbia-Tempio
+Sierre
+Panamá
+Antón
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Darmstadt
+Sydney - West,Sydney - Inner
+Milano
+Ramallah and Al-Bireh
+Simon Town,Stellenbosch
+Goodwood,Kuils River
+Leipzig
+Berlin
+Stockholm,Eskilstuna
+Southwark
+Nynäshamn,Gotland
+Stockholm
+Southwark,Camden
+Paris
+Milano
+Kostroma
+Århus
+Århus
+Århus
+Saint Johns
+Alachua
+New York
+Monroe
+Alachua
+Alachua
+Alachua
+Alachua
+Gadsden
+Clay
+New York
+New York
+New York
+Queens
+Genova
+Varese
+Edinburgh
+New York
+Çankaya
+Habaraduwa
+Ramallah and Al-Bireh
+Vangvieng
+Vangvieng,Sikhottabong
+Ko Phangan
+Ko Phangan
+Ko Phangan
+Barcelona
+La Spezia
+Southwark,Camden
+Marjayoun
+Barcelona
+Cyclades
+Cyclades
+Cyclades
+San Francisco
+Messina
+Qalqilya
+Ramallah and Al-Bireh
+Jerusalem,Ramallah and Al-Bireh
+Sama Serhan,Amman,Salt,Wadi Essier
+Jizeh,Ramallah and Al-Bireh,Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Jericho
+Jerusalem
+Jericho,Jerusalem
+Gaza,Gaza ash Shamaliyah
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Bethlehem
+Ramallah and Al-Bireh
+Napoli,Queens
+Bethlehem
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Khan Yunis,Gaza,Gaza ash Shamaliyah
+Gaza
+Deir Al-Balah,Gaza ash Shamaliyah,Gaza
+Ramallah and Al-Bireh
+Gaza ash Shamaliyah,Khan Yunis,Gaza
+Hebron
+Gaza,Gaza ash Shamaliyah
+Amman
+Jenin
+Jerusalem
+Jerusalem
+Jerusalem,Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Beirut,Baalbek
+Florence
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Khan Yunis
+Casablanca
+New York
+Varese
+Jerusalem
+Beyoglu,Besiktas,Fatih
+Ramallah and Al-Bireh
+Jerusalem
+Amsterdam
+Amsterdam
+Aqaba
+Aqaba
+Pushkinskiy rayon
+Pushkinskiy rayon
+Roma
+Roma
+Ottawa
+New York
+New York
+Berlin
+Pathum Wan
+Ko Phangan,Ko Samui
+Jerusalem
+Barcelona
+Alpes-Maritimes
+Corinth
+Berlin
+Jerusalem
+Bethlehem
+Bethlehem
+Westminster
+Kazbegi,Borjomi
+Badung
+Barcelona
+Barcelona
+Qalqilya
+Jerusalem
+Darmstadt
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+District of Columbia
+Loudoun
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Toronto
+Greater Vancouver
+Capital
+Squamish-Lillooet
+Jerusalem
+Alpes-Maritimes
+Alpes-Maritimes
+Westminster
+Barcelona
+Corinth
+Corinth
+Saint Louis
+Union
+Union
+Los Angeles,Orange
+Clark
+Yavapai
+Coconino
+New York
+Ramallah and Al-Bireh
+District of Columbia
+New York
+District of Columbia
+Baleares
+Qalqilya
+Jerusalem
+New York
+District of Columbia
+Jerusalem
+Maastricht
+New York
+New York
+Sour
+Amsterdam
+Amsterdam
+Camden
+Camden,Hackney,Westminster,Kensington and Chelsea
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Jerusalem
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Jerusalem
+Jerusalem
+Köln,Liège,Vlaams Brabant
+Barcelona
+Barcelona
+Santa Clara
+San Francisco
+San Francisco
+San Mateo,Darmstadt
+Bruxelles,West-Vlaanderen,Oost-Vlaanderen
+Distrito Federal
+New York
+New York
+Kensington and Chelsea
+Cyclades
+New York
+Kharkivs'ka
+Kharkivs'ka
+New York
+New York
+New York
+Jerusalem
+Jerusalem
+Jerusalem
+Ramallah and Al-Bireh
+Kostroma
+Dodecanese
+Dodecanese
+Aqaba
+Jericho
+Savoie
+Bethlehem
+Bent Jbayl
+Savoie
+Nesebar
+Khalkidiki
+Westminster
+New York
+Qalqilya
+Budapesti
+Berlin
+Ramallah and Al-Bireh
+Berlin
+Amsterdam
+Ramallah and Al-Bireh
+Hackney,Islington,Westminster,London
+Barcelona
+Dodecanese
+Roma
+Barcelona
+Barcelona
+Distrito Federal,Ealing
+Westminster
+Westminster
+Levkas
+Attica
+Dodecanese
+Enfield,Haringey,Westminster,Southwark
+Jericho,Bethlehem
+Bethlehem
+Belfast
+Belfast
+Muang Krabi
+Combined statistics
+Barcelona
+Pyrénées-Orientales
+Barcelona
+Qalqilya
+Los Angeles
+Westminster
+Kings
+Arlington
+Berlin
+New York
+New York
+Nassau,New York
+Kings
+New York
+New York
+Jerusalem
+Westminster,Kensington and Chelsea,London,Hackney
+H? Chí Minh city
+Lào Cai,Hà N?i
+Westminster,Camden
+Westminster
+Alpes-Maritimes
+Qalqilya
+Argolis
+Roma,Attica,Salerno
+Los Angeles,New York
+New York
+Jerusalem
+Barcelona
+Barcelona
+Ko Phangan
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Jerusalem
+Bethlehem
+Bethlehem
+Western
+Dniprovs'kyi
+Dniprovs'kyi
+Northern,Eastern,Central
+Bethlehem
+Central
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Jericho
+Bethlehem
+Jerusalem
+Bethlehem
+Ramallah and Al-Bireh
+Jerusalem
+Val-d'Oise,Paris,Seine-Saint-Denis
+Amsterdam
+Ramallah and Al-Bireh
+Bethlehem
+Bethlehem
+Bethlehem
+Western
+Northern,Chernogolovka
+Tyumen'
+Western
+Shevchenkivs'kyi
+New York
+Dallas
+Dallas
+Dallas
+Dallas
+Madrid
+Madrid
+Amsterdam
+Palilula
+Unterfranken
+Oberbayern,Oberfranken
+North Yorkshire
+Pothuvil
+Qalqilya
+Barcelona,Girona,Pyrénées-Orientales
+Barcelona
+Barcelona
+Barcelona
+Aqaba
+Philadelphia
+Ocean
+Praha 1
+Hebron
+Hebron
+Wien
+Jerusalem
+Dodecanese
+Berlin
+Los Angeles
+Los Angeles
+New York,Queens,Distrito Federal
+Jerusalem
+Roma,New York
+New York
+New York
+Roma
+Roma
+Jerusalem
+Roma
+Napoli
+Toronto
+Coconino,Los Angeles
+Milano
+New York
+New York
+Cook
+Qalqilya
+Berlin
+Minsk
+Madaba
+New York
+New York
+New York
+Trincomalee Town and Gravets
+Pothuvil
+Pothuvil
+Pothuvil
+Nuwara Eliya
+Kaskazini 'A'
+Mjini
+Kangra
+Madrid
+Savoie
+Madaba
+San Ramón
+Tola
+Isla Mujeres
+Pathum Wan
+Toronto
+Toronto,Niagara
+New York
+New York
+Randburg,Johannesburg
+Roma
+Los Angeles
+Randburg
+Khlong Toey
+Verona
+Phra Nakhon
+New York
+Phra Nakhon
+New York
+Bath and North East Somerset
+San Andrés
+Cusco
+Muang Chiang Mai
+Muang Chiang Mai
+Ko Samui
+Ko Samui
+Barcelona
+Heraklion
+Heraklion
+Heraklion
+Heraklion
+Warsaw
+Lublin
+Kraków City
+Berlin
+Berlin
+Barcelona
+Paris
+Paris
+Paris
+Jerusalem
+York
+York
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Westminster
+Westminster
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Aqaba
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Amsterdam,Ouder-Amstel
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Ramallah and Al-Bireh
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jericho
+Jerusalem
+Jerusalem
+Jerusalem
+Bethlehem
+Jerusalem
+Jerusalem
+Jerusalem
+Irkutskiy rayon,Ulan-Ude
+Ulan Bator
+Barcelona
+Wien
+Berlin
+Cyclades
+Attica
+Aqaba
+Ramallah and Al-Bireh
+Andelfingen,Freiburg
+Praha 5
+Praha 1,Praha 5
+Praha 8,Praha 6
+Paris
+Paris
+Barcelona
+Bethlehem
+Jerusalem
+Bethlehem
+Ramallah and Al-Bireh
+Madaba
+Madaba
+Madaba
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Berlin
+Ko Phangan
+Amsterdam
+Tulkarm
+Euboea
+Euboea
+Euboea
+Aqaba
+Berlin
+Darmstadt
+São Vicente
+Tyne and Wear
+Fthiotis
+Ramallah and Al-Bireh
+Paris
+Paris,Seine-Saint-Denis
+Alpes-Maritimes
+Paris,Seine-Saint-Denis
+Pays-d'Enhaut
+Seine-Saint-Denis,Pas-de-Calais
+Wien Umgebung,Alpes-Maritimes,Bouches-du-Rhône
+Communauté-Urbaine-de-Montréal,Peel
+Praha 7,Praha 1
+Berlin,Mecklenburg-Vorpommern
+Berlin,Warsaw
+Seine-Saint-Denis,Rhône,Paris
+Darmstadt,Thüringen
+Brent
+Berlin
+Berlin
+Budapesti,Gyál
+Attica
+Attica
+Argolis
+Basel
+Hackney
+Roma
+Pisa
+Jerusalem
+Barcelona
+Barcelona
+Leipzig
+Warsaw
+Enfield
+Rafah
+Jerusalem
+Suffolk,Middlesex
+Division No. 11
+New York
+Queens
+New York
+Praha 7
+Berlin
+Salfit
+Salfit
+Stuttgart
+Bas-Rhin
+Freiburg
+Hammersmith and Fulham
+Westminster
+Camden
+New York,Queens,Kings
+New York,Queens
+New York
+Jerusalem
+Barcelona
+Paris
+New York
+Shevchenkivs'kyi,Holosiïvs'kyi
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Vasyl'kivs'kyi
+Jerusalem
+Shevchenkivs'kyi
+Desnians'kyi
+Shevchenkivs'kyi,Holosiïvs'kyi,Desnians'kyi
+Shevchenkivs'kyi,Desnians'kyi
+Shevchenkivs'kyi
+Shevchenkivs'kyi,Desnians'kyi
+Shevchenkivs'kyi
+Combined statistics
+Berlin
+Berlin
+New York
+New York
+New York
+New York
+Jerusalem
+Paris
+Salfit
+Alpes-Maritimes
+Madrid
+Makati City,Madrid
+Ramallah and Al-Bireh
+Marjayoun
+Central
+Khersons'ka
+Praha 10,Praha 5,Dresden
+Vilniaus
+Tallinn
+Tallinn
+Qalqilya
+Marjayoun
+Brighton and Hove,Kent,East Sussex
+Westminster
+London,Surrey
+East Sussex
+Ramallah and Al-Bireh
+Qalqilya
+Summit
+Los Angeles
+Los Angeles
+San Francisco
+Clark
+Clark
+Clark
+Clark
+Jerusalem
+Madrid
+Barcelona
+Amsterdam
+Lasithi
+Roma
+New York
+Utila
+Roatán
+Utila
+León
+Lago de Nicaragua
+Lago de Nicaragua
+Tola
+Santa Cruz
+Santa Cruz
+Alajuela
+Maués
+Santa Cruz
+Salvador
+Foz do Iguaçu
+Anne Arundel
+Bucks
+Queens
+San Carlos
+Puntarenas
+Puntarenas
+New York
+Berlin
+Lasithi
+Amsterdam
+Fethiye
+Fethiye
+Westminster
+Westminster
+Innsbruck
+Verona
+Berlin
+Berlin
+Berlin
+Cyclades
+Amsterdam
+Madrid
+Clark
+Amsterdam
+Halton
+Halton
+Halton
+Toronto
+Halton
+Halton
+Halton
+Madrid
+Distrito Federal
+Distrito Federal
+Bariloche
+Bariloche
+Bariloche
+Cautín
+Capital
+Iguazú
+Iguazú
+Rio de Janeiro
+Cairu
+Cairu
+Cairu
+Luque
+Andrés Ibáñez
+Florida
+Oropeza
+Sud Chichas
+Pedro Domingo Murillo
+Pedro Domingo Murillo
+Abel Iturralde
+Pedro Domingo Murillo
+Cusco
+Praha 1
+Budapesti
+Bethlehem
+Aqaba
+Aqaba
+Madaba
+York
+Division No. 11
+San Cristóbal de las Casas
+Cozumel
+Cozumel
+New York
+Baleares
+Bethlehem,Jericho
+Samara
+Muang Chiang Mai,Mae Rim
+Ko Lanta
+Sathorn
+Roma
+Samara
+Westminster
+Sour
+Camden
+Camden
+Ialtyns'ka
+Hamburg
+Schleswig-Holstein
+Westminster
+Hamburg
+Berlin
+Jerusalem
+Cook
+Cook
+Cook
+Orleans
+Cook,Lake
+Kraków City
+Monroe
+Cook
+Budapesti
+Budapesti
+Ladakh (Leh)
+Jerusalem
+Kemer
+Dodecanese
+Gapyeong
+Mapo
+Berlin
+Berlin
+Warsaw
+Sokolów
+Barcelona
+Barcelona
+Interlaken
+Roma
+Jericho
+Berlin
+Paris
+Paris
+Hammersmith and Fulham
+Ramallah and Al-Bireh
+New York
+New York
+New York,Kings
+Cozumel
+Cozumel
+Cozumel
+Lasithi
+Lasithi
+Westminster,Camden
+Berlin
+Berlin
+Berlin
+Clark
+Berlin
+Berlin
+Jerusalem
+Camden,Westminster,Kensington and Chelsea,London,Lambeth
+Hà N?i,Lào Cai
+Yannawa
+Pathum Wan
+Berlin
+Jericho
+Jerusalem
+Jerusalem
+Paris,Seine-Saint-Denis
+Paris
+Wien
+Wien
+Barcelona
+Messinia
+Messinia
+Messinia
+Nesebar
+New York
+Kraków City
+Kraków City
+San Carlos
+Lublin City
+Kraków City
+Heraklion
+Heraklion
+Heraklion
+Beijing
+Jerusalem
+Oberbayern
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Haarlemmermeer,Amsterdam
+Haarlemmermeer,Amsterdam
+Amsterdam
+Haarlemmermeer
+Kensington and Chelsea
+Salfit
+New York
+Nassau,Queens
+Westminster,London,Camden
+Amsterdam
+Tulkarm
+Hebron
+Berlin
+Dessau
+Dessau
+Rachaya
+Fatih,Sisli
+Clark
+Clark
+San Diego
+Los Angeles
+New York
+New York
+Clark
+Ko Phangan
+Antwerpen
+Ramallah and Al-Bireh
+Bethlehem
+Kings
+New York
+New York
+Cook,Saint Louis,Mecklenburg,Boryspil's'ka,Queens
+Barcelona
+Paris
+Karlsruhe
+Paris
+Paris
+Zürich
+Hammersmith and Fulham
+Derby
+Derby
+Jerusalem
+Lasithi,Heraklion
+Jericho
+Berlin
+Hebron
+Hebron
+Budapesti
+London,Westminster,Camden
+Madrid
+Miami-Dade
+Monroe
+Monroe,Middlesex,Suffolk,New York
+Sullivan
+Sullivan
+New York
+New York,District of Columbia
+Ramallah and Al-Bireh
+Amsterdam
+Amsterdam
+Barcelona
+Amsterdam
+Amsterdam
+Westminster
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Aqaba
+Praha 1,Praha 5,Praha 6
+Qalqilya
+Qalqilya
+Qalqilya
+Barcelona
+Düsseldorf
+Budapesti
+Stockholm
+Madrid
+Cozumel
+Heraklion
+Girona
+Westminster
+Westminster
+Amsterdam
+Bethlehem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Dodecanese
+Tayybeh
+Marjayoun
+Amsterdam
+Barcelona
+Wadi Musa
+Cairu
+Rio de Janeiro
+Salvador
+Rio de Janeiro
+Monterey
+Whakatane,Ruapehu
+Sydney - Inner
+Cook
+Bialystok,Lublin City
+Chrzanów
+Paris
+Paris,Val-de-Marne
+Paris
+Praha 1
+Dodecanese
+Berlin
+District of Columbia
+Charleston
+Alexandria
+San Francisco
+Division No. 11
+Jerusalem
+Wadi Musa
+Jerusalem
+Split,Hvar
+Dubrovnik
+Leipzig
+Dessau
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Jerusalem
+Ramallah and Al-Bireh
+Bethlehem
+Miami-Dade
+Miami-Dade
+Shibuya,Yokohama
+Hamburg
+Hamburg
+Westminster
+Berlin
+Berlin
+Hackney
+Praha 1
+Nablus
+Gandaki
+Delhi
+Rotterdam
+Barcelona
+Jerusalem
+Camden,Hackney
+Westminster
+Messina
+Syracuse
+Central,Northern
+Savoie
+Savoie
+Savoie
+Savoie
+Central,Darmstadt
+Makati City,Imus,Mandaluyong,Baliuag
+Manila
+Yongsan,Gangnam
+Ko Samui
+Northern
+Kemer
+Lisboa
+Jericho
+Jericho
+Jericho
+Tubas
+Qalqilya
+Qalqilya
+Jerusalem
+Ko Phangan
+Berlin
+Paris
+Warsaw
+Barcelona
+Barcelona
+Barcelona
+San Cristóbal de las Casas
+Chamula
+San Cristóbal de las Casas,Las Margaritas
+Palenque,Cozumel
+Cozumel
+Cozumel
+Flores
+Antigua Guatemala
+NA
+Santafé de Bogotá
+Santafé de Bogotá
+Berlin,Santafé de Bogotá
+Berlin
+Berlin
+Trinidad
+Trinidad
+Sancti Spíritus
+Pinar del Río
+Sancti Spíritus,Taxisco
+Centro Habana
+Sancti Spíritus
+Southern,Central
+Central
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Vicenza,Trento
+Trento
+Milano
+San Pedro La Laguna
+Trento
+Tsalenjikha,Mestia,Zugdidi,Tbilisi,Kutaisi
+Mtskheta
+Tbilisi
+Mestia
+Mestia
+Tskaltubo
+Tbilisi
+Tbilisi
+Mestia
+Mestia
+Mestia
+Barcelona
+Orange
+New York
+Mestia
+Mestia
+Orange
+Tbilisi
+Kensington and Chelsea
+Islington
+Paris
+Seine-Saint-Denis
+New York
+New York
+Westminster,Hounslow
+New York
+Maués
+Amsterdam
+Muang Krabi
+Berlin
+Sour
+Jerusalem
+Jerusalem
+Darmstadt
+Freiburg
+Freiburg
+Freiburg
+Freiburg
+Boeotia
+Nassau,New York
+Los Angeles,Orange
+Roma
+Roma
+Barcelona
+Kraków City
+Westminster,Hammersmith and Fulham
+Budapesti
+Madrid
+Kraków City
+Kraków City
+Cozumel
+Cozumel
+Cozumel
+Madaba
+Ko Samui
+King
+Snohomish
+Clallam
+Milano
+Como
+Milano
+Bülach
+Phra Nakhon
+Ko Samui
+Kathu
+Kathu
+Khlong Toey
+Thon Buri,Kathu
+Kathu
+Pathum Wan
+Phra Nakhon
+Kathu
+Khlong Toey
+Jerusalem
+Peel,Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,Ocean
+New York,Ocean,Essex
+Warsaw
+Flores
+Amsterdam
+Florence
+Rio de Janeiro
+Cairu
+Cairu
+Cusco
+Garabito,Puntarenas
+Lanquín
+Lanquín
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Marjayoun
+Milano,Varese,Florence,Pisa,Roma
+Milano,Pisa
+Roma
+Pisa
+Milano,Roma
+Roma
+Chengdu,Dêqên Tibetan
+Manchester,Westminster,Luton
+Westminster
+Westminster
+Westminster
+Camden
+Aqaba
+Jerusalem
+New York
+New York
+New York
+Queens,New York,Kings
+New York
+Roma
+Paris
+Paris
+Budapesti
+Budapesti
+Westminster,Tower Hamlets,Camden
+Berlin
+Berlin
+Berlin
+Barcelona
+Berlin
+Wien
+Wien
+Southwark,Kensington and Chelsea,Camden
+Cambridgeshire,Suffolk
+Westminster,London
+Westminster
+Wien
+Wien Umgebung,Amsterdam
+Milano
+Milano
+Milano
+Paris
+Paris
+Roma
+Gandaki
+Central
+York
+Berlin
+Berlin
+Amsterdam
+Chenango
+New York
+New York
+New York
+Kensington and Chelsea
+Qalqilya
+Belluno,Varese,Verbano-Cusio-Ossola
+Verona,Padua
+Milano
+Barcelona
+Barcelona
+Heraklion
+Heraklion
+Jerusalem
+Broadbeach-Mermaid Beach
+Dodecanese
+Warsaw
+Bierun-Ledziny
+Kraków City
+Berlin
+New York
+New York
+Camden,Westminster,Tower Hamlets,Islington
+Suwon
+Philadelphia
+Nassau
+Barcelona
+Berlin
+New York
+New York
+New York
+Santa Clara
+San Mateo,Los Angeles
+Los Angeles,Darmstadt
+Hertfordshire
+Westminster
+Los Angeles
+Charente-Maritime
+Messina
+Seine-et-Marne
+Paris
+Paris
+Val-d'Oise
+Paris
+Tarragona
+Tulkarm
+Camden,Westminster
+Barcelona
+Jerusalem
+Sankt-Peterburg gorsovet
+Jerusalem
+New York
+Miami-Dade
+Stormont,Dundas and Glengarry
+San Francisco
+San Francisco
+New York
+Orange
+Jerusalem
+Campinas
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Zone 3,Zone 4
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Merkez
+Adalar
+Üsküdar
+Kadiköy
+Philadelphia
+Philadelphia
+New York
+Konak
+Paris
+Roma
+Berlin
+Alpes-Maritimes
+New York
+New York
+New York
+New York
+New York
+New York
+Berlin
+Cyclades
+Cyclades
+Rio de Janeiro
+New York
+Lisboa
+Rio de Janeiro
+Barcelona
+Odivelas
+Los Angeles
+Fatih
+Seine-Saint-Denis
+Distrito Federal
+Westminster
+New York
+Dodecanese
+Heraklion
+Dodecanese
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Central
+Varna
+Barcelona
+Olbia-Tempio
+Roma
+Roma
+Los Angeles
+Barcelona
+New York
+New York,Bergen
+New York
+Westminster
+Westminster
+District of Columbia
+District of Columbia
+Los Angeles
+Amsterdam
+Warsaw
+Jerusalem
+Jerusalem
+Praha 6
+New York
+New York
+Kings
+Los Angeles
+Coron
+Camden
+San Francisco
+Lisboa
+Albufeira
+Albufeira
+Alpes-Maritimes
+Madaba
+Madaba
+Dabrowa
+Venezia
+Berlin
+Maricopa
+Barcelona
+Valencia
+Madrid
+Girona
+Girona
+Siena
+Paris
+Westminster,Islington
+Paris
+Aqaba
+Northern,Central
+Berlin
+Guangzhou
+Hertfordshire
+Los Angeles
+Los Angeles
+Los Angeles
+Armação dos Búzios
+Orange
+Berlin
+Bocas del Toro
+Cozumel
+Cozumel
+Paris
+Amsterdam
+Amsterdam,Ouder-Amstel
+Amsterdam
+Amsterdam
+Ouder-Amstel
+Amsterdam
+Roma
+Lublin
+Kraków City
+Paris
+Jerusalem
+Schwaz
+Aqaba
+Jerusalem
+Jerusalem
+Salzburg Umgebung,Hallein,Schwaz
+Arbon
+Seine-et-Marne,Paris
+Drni
+Medulin
+Verona
+Florence
+Northern
+New York
+Wadi Musa
+Tayybeh
+Dodecanese
+Dodecanese
+Arcadia
+Praha 1
+Jerusalem
+Messinia
+Northampton
+San Diego
+Orange
+Orange
+Orange
+Los Angeles
+Orange
+Orange
+Orange
+Orange
+Orange
+Riverside
+New York
+Val-de-Marne
+Jerusalem
+Bethlehem
+Hebron
+Thessaloniki
+Attica
+Monroe
+North Gonder
+North Gonder,Zone 3
+Amsterdam
+Jerusalem
+Nablus
+Jerusalem
+Jerusalem
+Ramallah and Al-Bireh
+Santa Clara
+Orange
+Orange
+Orange
+Orange
+Dallas
+Orange
+Orange
+Orange
+Monroe
+Monroe
+Monroe
+Monroe
+Washtenaw
+Monroe
+Manavgat
+Manavgat
+Kraków City
+Kraków City
+Orange
+Orange
+Stratford
+Queenstown-Lakes
+Queenstown-Lakes
+Southland
+Sydney - Inner
+Cairns  - City
+Barcelona
+Manchester
+Camden
+Ramallah and Al-Bireh
+Manchester
+Jerusalem
+Ko Samui,Ko Phangan
+Barcelona
+Amsterdam
+Heraklion
+Derbyshire
+Zell am See
+Jerusalem
+Jerusalem
+Bethlehem
+Queens
+Queens
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Marjayoun
+Heraklion
+Heraklion
+Jenin
+Berlin
+Heraklion
+Heraklion
+Sarajevo,Herzegovina-Neretva
+Jerusalem
+Kensington and Chelsea,Hackney
+Lisboa
+Kensington and Chelsea
+Kensington and Chelsea
+Westminster
+Nesebar
+Unknown
+Kraków City
+Warsaw
+Mae Taeng
+Thalang,Kathu
+Aqaba
+Aqaba
+San Diego
+San Diego
+San Diego
+Los Angeles
+Clark
+Bolzano
+Bolzano
+Bolzano
+Paris
+Paris
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Tulkarm
+Ramallah and Al-Bireh
+Nablus
+Ramallah and Al-Bireh
+Barcelona
+Barcelona
+Berlin
+Qalqilya
+New York
+New York
+New York
+Jerusalem
+Qalqilya
+Gloucestershire,Hackney
+Gloucestershire
+Qalqilya
+Qalqilya
+Oberbayern
+Berlin
+Tulkarm
+Queens
+New York
+New York
+Heraklion,Lasithi
+Heraklion
+Eastern
+Eastern
+Jerusalem
+Jerusalem
+Manchester
+Manchester
+Ottawa
+Manchester
+Manchester
+North-Western,Northern
+Central
+Central,Northern
+Shevchenkivs'kyi
+Tallinn
+Sankt-Peterburg gorsovet,Northern,Central,North-Eastern
+Western,Northern,Central
+Northern,Central,South-Eastern
+Western,Central,Northern
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Qalqilya
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet,Central,North-Eastern
+Central,North-Eastern,Northern
+Central,Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet,Central
+Sankt-Peterburg gorsovet
+Jerusalem
+Sankt-Peterburg gorsovet
+Islington,Westminster,Kensington and Chelsea,Camden,Hackney,Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Central,Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Westminster,Camden,Southwark,Tower Hamlets,London,Newham,Hillingdon,Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet,Southern,Central
+Northern
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet,Western
+Northern,Sankt-Peterburg gorsovet
+Northern
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet,Central
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Central
+Central,Northern,North-Eastern
+Northern,Southern,Central,Solnechnogorskiy rayon,Qalqilya,Sankt-Peterburg gorsovet
+Northern
+Sankt-Peterburg gorsovet
+Central,Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Northern,Odintsovskiy rayon,Naro-Fominskiy rayon,Sankt-Peterburg gorsovet
+Eastern
+Eastern
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Central
+Northern,Western,Domodedovskiy rayon
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Northern,Central,Solnechnogorskiy rayon
+Nakano,Chuo,Taito,Koto
+Beijing
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+North-Eastern,Central,Vsevolzhskiy rayon
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Central
+Central
+Central
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Paris
+Paris
+Paris
+Sankt-Peterburg gorsovet,Northern
+Northern
+Northern
+Marjayoun
+Central
+Northern
+Central
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Solnechnogorskiy rayon
+Sankt-Peterburg gorsovet,Central
+Sokhumi,Gudauta,Gagra
+Northern,Central
+Central,Sankt-Peterburg gorsovet
+Central,Western
+Northern,Palilula
+Roma
+Vicenza
+Brescia,Vicenza
+Paris
+Westminster,Camden,Kensington and Chelsea,London
+Hillingdon
+Barcelona
+Paris
+Kraków City
+Roma
+Cozumel
+Clark
+Ko Samui
+Johannesburg
+Gaborone
+Gaborone
+Gaborone
+Jerusalem
+Kraków City
+Ramallah and Al-Bireh
+Jericho
+Ramallah and Al-Bireh
+Barcelona
+Barcelona
+Bergen
+New York
+New York
+Richmond
+Passaic
+New York,Kings,Union
+Union,New York
+New York,Bronx
+Muang Chiang Rai,Mae Taeng
+Ko Phangan
+Ko Samui
+Muang Krabi
+Muang Krabi
+Ko Samui
+Ko Samui
+Muang Krabi
+Ko Yao
+Ko Samui
+Ko Samui
+Ko Phangan
+Ko Yao
+Ko Samui
+Ko Samui
+Muang Krabi
+Muang Phuket
+Ko Samui
+Ko Phangan
+Nua Khlong
+Kraków City
+Budapesti
+Niagara
+Kings,Niagara
+Kings,New York,Queens,Nassau
+New York
+New York
+Clark
+Clark
+San Francisco
+San Francisco,New York,San Mateo
+Marin
+El Dorado
+Los Angeles
+Los Angeles
+Ramallah and Al-Bireh
+Los Angeles
+Los Angeles
+Marin,San Francisco
+Queens
+Sour
+Imst
+New York
+Polk
+Pedasí
+Paris
+Paris
+Jerusalem
+Warsaw
+Barcelona
+Barcelona
+Milano
+Westminster,Tower Hamlets,Camden
+Kangra
+Kangra
+Ajmer
+Ernakulam
+Thiruvananthapuram
+Bethlehem
+Luton,Lewisham
+Westminster
+Lewisham
+Lewisham,Surrey
+Belmonte
+Coimbra
+Cascais
+Madrid
+Zambrów
+Westminster
+Hackney
+Nesebar
+Burgas
+Zundert
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Barcelona
+Berlin
+Roma
+Roma
+Roma
+Jerusalem
+Jerusalem
+Jerusalem
+Verona
+Venezia
+Jerusalem
+Jerusalem
+Ramallah and Al-Bireh
+Sankt-Peterburg gorsovet
+Vsevolzhskiy rayon
+Jerusalem
+Sankt-Peterburg gorsovet
+Málaga
+Madrid
+Dodecanese
+Dodecanese
+Paris
+Lago Argentino
+Bariloche
+Lacar
+Bariloche
+Iguazú
+Muang Chiang Mai
+Clark
+Jerusalem
+Jerusalem
+Hebron
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jericho
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Tarragona
+Tarragona
+Tarragona
+Tarragona
+Sour
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Los Angeles
+Los Angeles
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Madaba
+Jerusalem
+Jerusalem
+Jerusalem
+Westminster,Camden
+San Pedro La Laguna
+Roma
+Los Angeles,Santa Clara
+New York
+New York
+New York
+Queens
+Berlin
+Fthiotis
+Kraków City
+Ramallah and Al-Bireh
+Mae Rim
+Ko Samui
+Ramallah and Al-Bireh
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Hebron
+Budapesti
+McLennan
+McLennan
+New York
+San Francisco
+Los Angeles
+Los Angeles
+New York
+Distrito Federal
+Steenwijkerland,Lelystad
+Zeewolde
+Trento
+Trento,Brescia
+Verona
+Roma
+Napoli
+Ragusa
+San Diego
+San Diego
+New York
+Camden
+Westminster
+Sour
+Barcelona
+Roma
+Dodecanese
+Dodecanese
+Qalqilya
+Qalqilya
+Jerusalem
+Barcelona
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Isla Mujeres
+Benito Juárez
+Paris
+Paris,Val-d'Oise
+Dodecanese
+Amsterdam
+New York
+Lasithi
+Westminster,Camden
+Kensington and Chelsea
+Westminster,Hackney,Hammersmith and Fulham
+Amsterdam
+Qalqilya
+Ljubljana
+Ljubljana
+Berlin
+Barcelona
+Stockholm
+Stockholm
+Jerusalem
+Stockholm
+Stockholm
+Leksand
+Stockholm,Järfälla
+Stockholm
+Stockholm
+Stockholm
+Solna,Stockholm
+Stockholm
+Stockholm
+Stockholm
+Stockholm
+Stockholm
+Stockholm
+Stockholm
+Alpes-Maritimes
+Var,Alpes-Maritimes,Sigtuna,Stockholm
+Stockholm,Vallentuna
+Norrtälje
+Strängnäs
+Stockholm
+Stockholm
+Uusimaa,Stockholm
+Stockholm
+Stockholm
+Stockholm
+Stockholm
+Solna
+Los Angeles
+Clark
+San Francisco
+Los Angeles
+Stockholm
+Stockholm
+Dodecanese
+Hackney
+Hackney
+Stockholm
+Venezia
+Rovinj
+Minato,Shibuya,Taito
+Kings
+Los Angeles
+Clark,Nye
+Los Angeles
+Essex,New York
+Verona
+Bethlehem
+Bethlehem
+Jerusalem
+Bethlehem
+Jerusalem
+Roma
+Paris
+Paris
+Wien,Budapesti
+Freiburg
+Freiburg
+Marjayoun
+Vlaams Brabant,Oost-Vlaanderen
+Amsterdam,Zwolle,,Edam-Volendam
+Arnhem,Loon op Zand
+Amsterdam
+Aqaba
+Madrid
+Seine-Saint-Denis
+Bethlehem
+Heraklion
+Heraklion
+Aqaba
+Muang Chiang Mai
+Ko Samui
+Ko Samui
+Pathum Wan
+Madaba
+Berlin
+Berlin
+Brandenburg
+Maloja
+Eagle
+Torino
+Torino,Pisa
+Berlin
+San Mateo
+Santa Clara
+Santa Clara
+Santa Clara
+San Francisco
+San Francisco
+Santa Clara
+Santa Clara
+San Mateo
+Santa Cruz
+San Mateo
+San Mateo
+Alameda
+San Mateo
+Darmstadt
+Harris
+Orange
+Bethlehem
+Barcelona
+Barcelona
+Dodecanese
+Dodecanese
+Dodecanese
+Kings
+New York
+Kings
+San Francisco
+San Francisco,Sonoma,Tuolumne
+Napa,Mariposa,Santa Clara,Monterey,Solano
+Los Angeles
+Los Angeles
+Los Angeles
+Amsterdam
+Cozumel
+Lázaro Cárdenas
+Barcelona
+Barcelona
+Tulkarm
+Bethlehem
+Kraków City
+Bethlehem
+Ramallah and Al-Bireh
+New York
+New York
+Los Angeles
+Los Angeles
+Clark
+Clark
+Miami-Dade
+Berlin
+Amsterdam
+Amsterdam
+Haarlemmermeer
+Cairu
+Rio de Janeiro
+Distrito Federal
+Lima
+Cozumel
+Benito Juárez
+New York
+Var
+Jericho
+Jerusalem
+Berlin
+New York
+New York
+New York
+Westminster
+Westminster,Southwark,Kensington and Chelsea
+Barcelona
+Barcelona
+Westminster,Camden
+Kings
+Serik
+Bakirköy
+Los Angeles
+San Mateo
+Florence
+Jerusalem
+Bierun-Ledziny
+Lódz
+Oberbayern
+Barcelona
+Cozumel
+Darmstadt
+Roma
+Baleares
+Barcelona
+Cuautitlán Izcalli
+Gallatin
+Hancock
+Ko Samui
+Ko Phangan,Ko Samui
+Bang Rak
+Bang Rak
+Loire-Atlantique
+Loire-Atlantique
+Tulkarm
+Praha 1
+Madaba
+Tubas
+Tubas
+Roma
+Florence
+Paris
+Paris
+Hillingdon
+Broward
+Miami-Dade,Broward
+Miami-Dade
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Siena
+Roma
+Ramallah and Al-Bireh
+New York
+New York
+New York
+Darmstadt
+Paris
+New York
+Kings
+Ulster
+New York
+Berlin
+Muang Chiang Mai
+Khlong Toey
+Landeck
+Landeck
+Westminster,Islington
+Camden
+Amsterdam
+Bolzano
+Bolzano
+Pasig City
+Westminster
+Ramallah and Al-Bireh
+Melitopol's'kyi
+Melitopol's'kyi
+Melitopol's'kyi
+Melitopol's'kyi
+Aqaba
+Warsaw
+Warsaw
+Warsaw
+Huelva
+Huelva
+Huelva
+Huelva
+San Francisco
+Praha 4
+Praha 4
+Praha 1
+Wien
+Corfu
+Jericho
+Paris
+Paris
+Dodecanese
+Barcelona
+Florence
+Roma
+Antigua Guatemala
+Flores
+Venezia,Verona
+Verona,Venezia
+Central
+Central
+Central
+Western
+Central,Northern
+Heraklion
+Madaba
+Madaba
+Ko Samui
+Ko Samui
+Marjayoun
+Heraklion
+Ramallah and Al-Bireh
+Jerusalem
+Heraklion
+Kolo
+Dodecanese
+Marjayoun
+Broward
+Barnstable
+Norfolk
+Norfolk
+Norfolk
+New York,Barnstable
+Muang Krabi
+Wang Thonglang
+San José
+San Carlos
+Westminster
+Balchik
+Warsaw
+Baleares
+Baleares
+Zeewolde
+Berlin
+Berlin
+Madaba
+Roma
+Seine-Saint-Denis
+Paris
+Garabito
+Garabito
+Puntarenas
+Puntarenas
+Talamanca
+Bocas del Toro
+Panamá
+Berlin
+Isla Mujeres
+Cozumel
+Amsterdam
+Dusheti
+Dusheti
+Tbilisi
+Jerusalem
+Savoie
+Savoie
+Paris
+Heraklion
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Ramallah and Al-Bireh
+Savoie
+New York
+San Pedro Garza García
+Monterrey,San Pedro Garza García
+Haute-Garonne
+Haute-Garonne
+Haute-Garonne
+Puerto Vallarta,Miguel Hidalgo
+Helsingborg
+Magnesia
+Berlin
+Bas-Rhin
+Wien
+Berlin
+Milano
+Milano
+New York
+Paris
+Milano
+Berlin
+Shah Alam
+Landeck
+Beyoglu
+Berlin
+Hackney,Westminster,Islington
+Jerusalem
+Beyoglu
+Oberbayern
+New York
+Kempton Park
+Pelgrimsrus
+Knysna,Goodwood
+Suffolk
+Los Angeles
+Los Angeles
+Los Angeles
+New York
+Kings
+Hennepin
+Hennepin
+Polk
+Hennepin
+Ko Samui
+Seminole
+São Paulo,Roma,,Combined statistics
+Pisa,Florence,Modena,Verona,Brescia
+Milano
+Madaba
+Andrés Ibáñez
+South-Eastern
+South-Eastern
+North-Western,South-Eastern
+South-Eastern
+South-Eastern
+South-Eastern
+South-Eastern
+South-Eastern
+Ritto
+Karlsruhe
+Attica
+Attica
+Aqaba
+Jerusalem
+Los Angeles
+Barcelona
+Tayybeh
+Khania
+Heraklion
+Madrid
+Madrid
+Mae Taeng
+Ko Phangan
+Ko Phangan
+Heraklion
+Jerusalem
+Lublin City
+Lublin City
+Aqaba
+Amsterdam
+New York
+New York
+New York
+Prince William
+Fairfax
+Prince William
+Purwokerto
+Dodecanese
+Westminster,Islington
+Camden
+Kensington and Chelsea
+Camden
+Westminster
+Trento
+Westminster,Camden,London
+Heraklion
+Heraklion
+Bülach
+Paris
+Ouder-Amstel
+Darmstadt
+Camden
+New York
+Clark
+Barcelona
+Camden
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+New York
+New York
+Madaba
+Seine-Saint-Denis
+Union
+Westminster
+Cozumel
+Clark
+Clark
+New York
+Ramallah and Al-Bireh
+Berlin
+Ramallah and Al-Bireh
+New York
+New York
+Kings
+Ramallah and Al-Bireh
+Amsterdam
+Amsterdam
+New York
+New York
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Kraków City
+Aqaba
+Paris
+Jerusalem
+Barcelona
+Berlin,Verona
+Essex,New York,Baltimore
+New York
+Baltimore,District of Columbia,New York
+Barcelona
+Baltimore
+District of Columbia
+New York,Baltimore
+New York
+Union,Madrid
+Madrid,Barcelona
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Barcelona,Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Oberbayern
+Schwaben
+Berlin
+Berlin
+Berlin
+Mittelfranken
+Madaba
+Madrid
+Berlin
+Queens,New York
+Queens
+Bakirköy,Madrid
+Amsterdam
+Amsterdam
+Travis
+San Pedro Garza García
+Monterrey
+Monterrey
+Monterrey,San Pedro Garza García
+Darmstadt
+Dodecanese
+Jerusalem
+New York,Miami-Dade,Clark
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Miami-Dade
+Clark
+Amsterdam
+Barcelona
+Jericho
+Westminster
+Verona
+Alessandria
+Bethlehem
+Madrid
+Barcelona
+Berlin
+Distrito Federal
+Iguazú
+Orleans
+Dawson
+Dodecanese
+Berlin
+Arnsberg,Oberbayern
+Barcelona
+Bethlehem,Jerusalem
+Muang Krabi
+Muang Krabi
+Maricopa
+Maricopa
+Jerusalem
+Mecklenburg
+San Diego
+Los Angeles
+Maricopa
+New York
+Clark
+Maricopa
+Kensington and Chelsea
+Islington
+Berlin
+Hackney
+Heraklion
+Heraklion
+Tulkarm
+Jerusalem
+Corfu
+Luxembourg,West-Vlaanderen,Geldrop
+Amsterdam
+Bethlehem
+Jerusalem
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Praha 1
+Bremen
+Como,Brescia,Verona,Venezia
+Terni
+Roma
+South-Western
+Praha 1
+Berlin
+Berlin
+Wien
+Wien
+Cairu
+Cairu
+Val-d'Oise
+Westminster
+San Francisco
+Freiburg
+Roma
+Westminster
+Los Angeles
+New York
+Orange
+Heraklion
+Northern
+Jerusalem
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Ramallah and Al-Bireh
+Berlin
+New York
+Phra Nakhon
+Vangvieng
+Louangphrabang
+Beijing
+Beijing
+New York
+Putnam,Rockland
+Orange
+Jerusalem
+Queens
+Westchester
+Greene
+New York
+New York
+Queens
+Kings
+New York
+Queens
+Queens
+Queens,Kings
+Queens
+New York
+Queens
+Queens
+Queens
+Queens
+Kings
+Kings
+New York
+Queens
+Monroe
+Fethiye
+Niagara,Ottawa
+Ramallah and Al-Bireh
+Milano,Como
+Stolichna
+San Francisco
+Los Angeles
+Jerusalem
+Barcelona
+New York
+Praha 1
+Merkez
+Küçükçekmece
+Amsterdam
+Central
+Benito Juárez
+Jerusalem
+Attica
+Bethlehem
+Westminster
+Paris
+Odes'ka
+Iavorivs'kyi
+Paris
+Madaba,Jerusalem
+Ko Samui
+Warsaw
+Kraków,Sandomierz
+Orange
+New York
+Heraklion
+Madaba
+Berlin
+Ramallah and Al-Bireh
+Ramallah and Al-Bireh
+Milano
+Shooneh Janoobiyyeh
+Jerusalem
+Jerusalem
+Shooneh Janoobiyyeh
+Jerusalem
+Jerusalem
+Bethlehem
+Hebron
+Lima
+Amsterdam
+Jerusalem
+Nesebar
+Nesebar
+Budapesti
+Jerusalem
+Hebron
+Central
+Central
+Berlin
+Kings
+Kings,New York
+Kings
+Berlin
+Berlin
+Roma
+Westminster
+Erie
+Marjayoun
+Melk
+Salzburg,Zell am See
+Division No. 15
+Erie
+Division No. 15
+Queens
+Haeundae
+Jericho
+Berlin
+Como
+Amsterdam
+Chelyabinsk gorsovet
+Pathum Wan,Ban Pong
+Barcelona
+Barcelona
+Berlin
+Western
+Monmouth
+Queens
+New York
+Tulkarm
+Berlin
+Berlin
+Ramallah and Al-Bireh
+Alpes-Maritimes
+Rockland
+Jerusalem
+New York
+New York
+Jerusalem
+Jerusalem
+Jerusalem
+Port Phillip - West
+Vincent
+Perth
+Perth
+Cambridge
+Vincent
+Perth
+Marjayoun
+Jerusalem
+Jerusalem
+Bethlehem
+Jerusalem
+Praha 1
+Praha 1
+Sankt-Peterburg gorsovet
+Tashkent City
+Tashkent City
+Aqaba
+Aqaba
+Marjayoun
+Kings,New York,Atlantic
+Kings
+Jerusalem
+Greater Bombay
+Jerusalem
+Greater Bombay
+Jerusalem
+Greater Bombay
+Bethlehem,Jerusalem
+Madaba
+Madaba
+Manado
+Manado,Minahasa,Minahasa Utara
+Jerusalem
+Minahasa Utara,Minahasa
+Minahasa Utara
+Minahasa Utara
+Shenzhen
+Berlin
+Hebron
+Ioannina
+Contagem
+Clark
+Los Angeles
+Nablus
+Jerusalem
+Aqaba
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Fulton
+Southwark,Trutnov,Praha 6,Amsterdam,West-Vlaanderen,Praha 1,Roma
+Paris
+Halifax
+Halifax
+Halifax
+Westminster
+Westminster
+Barcelona
+Enfield,Hackney
+Kensington and Chelsea
+Southwark
+Praha 1
+Dresden
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Budapesti
+Barcelona
+Barcelona
+Warsaw
+Lublin City,Bierun-Ledziny
+Berlin,Amsterdam
+Nablus
+Freiburg
+Qu?ng Nam
+Khánh Hòa
+Kullu
+New York
+Orange
+Nassau
+New York
+New York
+Milano
+Milano
+Jerusalem
+New York
+Newham,Camden
+Camden
+Camden
+Hackney
+Seine-Saint-Denis
+Hertfordshire
+West Sussex
+Amsterdam
+Gyál
+Budapesti
+Dodecanese
+Nowy Targ
+Barcelona
+Madrid
+Jerusalem
+Shah Alam
+Ramallah and Al-Bireh
+Madrid,Distrito Federal
+Iguazú
+Cairu
+Rio de Janeiro
+Rio de Janeiro
+Urubamba
+El Nido
+Amsterdam
+Cairu
+Bariloche
+Pedro Domingo Murillo
+Pedro Domingo Murillo
+Muang Chiang Mai
+Mae Suai
+Muang Chiang Mai
+Heraklion
+Heraklion
+Berlin
+Bas-Rhin
+Amsterdam
+Avellino
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Muang Chiang Mai
+Kathu
+Ko Samui
+Ko Samui
+Merkez,Alanya
+Beneov
+Barcelona
+Barcelona
+Aqaba
+Varna
+Girona
+Salfit
+Dodecanese
+Dodecanese
+Dodecanese
+Barcelona
+Barcelona
+Camden
+Berlin
+Berlin
+Berlin
+Tulkarm
+Hà N?i
+Jerusalem
+San Juan
+Riverside
+Clark
+Madaba,Jericho
+Bethlehem
+Jerusalem
+Jerusalem
+Sacramento
+San Juan
+King
+King
+Westminster
+Pai
+Kraków City
+Plunges
+Barcelona
+Islington,Westminster
+Camden
+Porto
+Venezia
+Roma
+Roma
+Jerusalem
+Jerusalem
+Sankt-Peterburg gorsovet
+Haarlemmermeer
+Minsk
+Oberbayern
+Minsk
+Minsk
+Domodedovskiy rayon
+Warsaw
+Amsterdam
+Amsterdam
+Bethlehem
+Westminster,Tower Hamlets,Islington
+Bierun-Ledziny
+Trutnov
+Praha 6
+Jerusalem
+Berlin
+Berlin
+Berlin
+Barcelona
+Ajmer
+Siena
+Jerusalem
+Jericho
+Chouf
+Westminster
+Muang Krabi
+Muang Krabi
+Amsterdam
+Amsterdam
+Haarlemmermeer
+Muang Krabi
+Muang Phuket,Kathu
+Ko Samui
+Ko Samui
+Ko Samui,Pathum Wan
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Qalqilya
+Jerusalem
+New York
+New York
+New York
+Milano
+Milano
+Milano
+Paris
+Berkshire,Hounslow,Köln
+Barcelona,Pyrénées-Orientales,Girona
+Nassau,Queens
+New York
+DeKalb
+Westchester,New York
+New York
+Berlin
+Berlin
+Warsaw
+Warsaw
+Qalqilya
+Essex
+Dauphin
+Nesebar
+Delhi
+Lahore,Amritsar
+Kullu,Amritsar,Kangra
+Kullu
+Haridwar,Pauri Garhwal,Meerut,Rudra Prayag,Kangra,Muzaffarnagar
+Muzaffarnagar
+Pauri Garhwal
+Jerusalem
+Aqaba
+King
+Skamania
+New York
+New York
+New York
+Minato,Chuo,Hakone
+Chiyoda,Hiroshima,Okayama,Kyoto
+Kyoto
+King
+Niagara
+Jericho
+Bethlehem
+Aberdeenshire,Angus
+Aberdeenshire,Westminster
+Aberdeenshire
+Delhi
+Delhi
+Si Racha
+Tatra
+Paris
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Homyel'
+Bryansk
+North-Western,Northern,Central
+North-Western
+Aqaba
+Oberbayern
+North-Western
+Western
+Eastern
+New York
+Barcelona
+Paris
+Vilniaus
+Tallinn
+Madaba
+Madaba
+Jakarta Pusat
+Jakarta Selatan
+Tomohon
+Jerusalem
+Hebron
+Hebron
+Ramallah and Al-Bireh
+Jerusalem
+Bethlehem
+Bismil
+Kraków City
+Kraków City
+Berlin
+Ratchathewi
+Muang Chiang Rai
+Muang Chiang Mai
+Varna
+Berlin
+Berlin
+Haarlemmermeer
+Trento
+Trento
+Varese
+Trento
+Vaucluse
+Vaucluse
+Messinia
+Queens
+Essex
+Distrito Federal
+Iguazú
+São Paulo
+Amsterdam
+Amsterdam,Ouder-Amstel
+Grosseto
+Heraklion
+Central
+Gorodishchenskiy rayon,Solnechnogorskiy rayon,Minsk
+Central
+Central
+Central
+Western
+Alpes-Maritimes
+Freiburg
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Jerusalem
+Jerusalem
+Madaba
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Budapesti
+Budapesti
+Dodecanese
+Dodecanese
+Budapesti
+Alessandria
+Milano
+Milano
+Westminster
+Tulkarm
+Dodecanese
+Jerusalem,Los Angeles,Paris,Clark
+Warsaw
+Qalqilya
+Bang Kho Laem
+Mae Rim,Muang Chiang Mai
+Kathu
+Kathu
+Zansibar Central
+Zansibar Central
+Dodecanese
+Amsterdam
+Madaba
+Westminster,Enfield
+Westminster,Camden
+Hammersmith and Fulham
+Paris
+Barcelona
+Rotterdam
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+New York
+Kings
+New York
+Barcelona
+Hackney
+Barcelona
+Barcelona
+Tulkarm
+Corfu
+Corfu
+Miami-Dade
+Los Angeles
+Madaba
+Fatih,Bagcilar
+Western,Northern,Central,North-Eastern
+Central,Northern,North-Eastern,North-Western
+Berlin
+Fatih
+Beyoglu
+Fatih
+Beyoglu
+Sariyer
+Fatih
+Paris
+Paris
+Kangra
+Kangra
+Kullu
+Delhi
+Kangra
+Bagmati
+Delhi
+Savoie
+Dodecanese
+Greater Vancouver
+Greater Vancouver
+Squamish-Lillooet
+Division No. 1
+Greater Vancouver
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Greater Vancouver
+Squamish-Lillooet
+Los Angeles
+Los Angeles
+New York
+Paris
+Westminster
+San Francisco
+Orange
+Greater Vancouver
+Darmstadt
+Ratchathewi
+Dodecanese
+Amsterdam
+Berlin
+Berlin
+Berlin
+Berlin
+Paris
+Paris
+Zürich,Andelfingen
+Paris
+Baleares
+Baleares
+Baleares
+Nesebar
+Bergen
+Bergen
+Bergen
+Muang Chiang Mai
+Ko Phangan
+Jerusalem
+Jerusalem
+Jerusalem
+Tarrant,East Baton Rouge
+East Baton Rouge
+East Baton Rouge
+Queens
+Hinds,Madison
+Madison
+Madison
+Madison,Hinds
+Madison
+Madison
+Madison
+Madison
+Madison
+Madison
+Hinds
+Madison
+Rankin
+Madison,Hinds
+Madison
+Madison
+Jefferson
+Berlin
+Paris
+Paris
+Milano
+Verona
+Muang Mae Hong Son
+Muang Krabi
+Muang Krabi
+San Salvador
+Qalqilya
+Qalqilya
+New York
+K. Rattana Wapi
+New York
+New York
+New York
+Jerusalem
+Madaba
+Berlin
+Berlin
+Praha 1
+Madaba
+Aqaba
+Jerusalem
+Qalqilya
+Ramallah and Al-Bireh,Hebron,Jerusalem
+Isère
+Isère
+Barcelona
+Isère
+Isère
+Isère
+Barcelona
+Florence
+Queens
+Salvaleón de Higüey
+
+Clark
+Miami-Dade
+Miami-Dade
+Barcelona
+Miami-Dade
+Miami-Dade
+Clark
+Clark
+Brent
+New York
+Suffolk
+Jenin,Jericho,Jerusalem
+Jerusalem
+Jerusalem
+Ramallah and Al-Bireh
+Jerusalem
+Schoharie
+Sullivan
+New York
+New York
+New York
+Kings
+New York
+New York
+New York
+New York
+New York
+Jerusalem
+Jerusalem
+Horgen
+Hebron
+Barcelona
+Murcia
+Cádiz,McHenry,Vila Nova de Gaia
+Porto,León,Guipúzcoa,Zaragoza
+Heraklion
+Waitakere,Far North,Rotorua,Ruapehu,Taupo
+Nelson
+Selwyn,Westland,Queenstown-Lakes,Southland
+Dunedin,Mackenzie,Waitaki,Kaikoura,Hurunui,Christchurch,Queenstown-Lakes
+Queenstown-Lakes,Waitakere
+Westminster
+London,Westminster
+Jerusalem
+New York,San Francisco
+Westminster
+Westminster
+Westminster,Greenwich
+New York
+Queens,Loudoun
+Jerusalem
+Budapesti
+Budapesti
+New York
+New York
+New York
+New York
+New York
+District of Columbia
+Westminster,Southwark
+Paris
+Islington
+New York
+Westminster
+Budapesti
+New York
+New York
+Kings
+New York
+New York
+New York
+Madaba
+Sremski Karlovci
+Zemun
+Cukarica
+Budapesti
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Amsterdam
+San Francisco
+Tijuana
+Dodecanese
+Bath and North East Somerset
+Westminster
+Heraklion
+New York
+New York
+Los Angeles
+Wien
+Kings
+Arlington
+Westminster
+Westminster
+Kraków City
+Attica
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Los Angeles
+Mae Taeng
+Muang Chiang Mai
+Jerusalem,Ramallah and Al-Bireh
+Lasithi
+Lasithi
+Roma
+Bent Jbayl
+Roma
+Palilula
+Roma
+Kranjska Gora
+Senj
+Madaba
+Detmold
+Detmold
+Amsterdam,Ouder-Amstel
+Ouder-Amstel
+Amsterdam
+Jerusalem
+Wien
+Wien
+Wien
+Qalqilya
+Jenin
+Jenin
+Jenin
+Jenin
+Jenin
+Jenin
+Westminster
+Westminster
+Westminster
+Marjayoun
+Cozumel
+Barcelona
+Jerusalem
+Benito Juárez
+Benito Juárez
+Clark
+Venezia
+Attica
+Niagara,Peel
+Warsaw
+Kraków City
+Kraków City
+Schwaz
+Schwaz
+Cyclades
+Cyclades
+Girona
+Derwent Valley,Muang Krabi
+Gmunden
+Tulkarm
+Tulkarm
+Tulkarm
+Tulkarm
+Kraków City,Bierun-Ledziny,Myslenice
+Bierun-Ledziny
+Ramallah and Al-Bireh
+Bethlehem
+Kensington and Chelsea
+Westminster
+Wien
+Wien
+Barcelona
+Wien
+Wien
+Westminster,Camden
+Mecklenburg-Vorpommern
+Mecklenburg-Vorpommern
+Kings
+New York
+New York
+New York
+Jerusalem
+Jerusalem
+Jericho,Ramallah and Al-Bireh
+Oberbayern
+Ramallah and Al-Bireh
+New York
+New York
+Orange
+Orange
+Praha 9
+Hérault
+Hérault
+Paris
+Central
+Central
+Central
+Gur'evskiy rayon
+Gdansk City
+Gur'evskiy rayon
+Central
+Central
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem,Hebron
+Jerusalem
+Jerusalem
+Jerusalem
+Jerusalem
+New York
+New York
+Aqaba
+Warsaw
+Kraków City
+Bent Jbayl
+Cyclades
+Cyclades
+Cyclades
+Cyclades
+Barcelona
+Freiburg
+Freiburg
+Stuttgart
+Westminster
+Barcelona
+Barcelona
+Aqaba
+Aqaba
+Cozumel
+Cozumel
+Tarragona,Barcelona
+Marjayoun
+Roma
+Florence
+Florence
+Florence
+Nablus
+Barcelona
+Barcelona
+Genova
+Madaba
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Guadalajara,Barcelona
+Roma,Venezia
+Roma
+Malay,Delhi,Las Palmas
+Barcelona
+Tubas
+Tubas
+Berlin
+Paris
+Jerusalem
+Jerusalem,Ramallah and Al-Bireh
+Jerusalem
+Jerusalem
+Jerusalem
+Ramallah and Al-Bireh
+Berlin,Wien,Wien Umgebung
+Western
+Pesaro E Urbino
+Berlin
+Den Helder
+Amsterdam
+Wattana,Wang Thonglang,Prawet
+Bang Kapi
+Phra Pra Daeng,Bang Lamung,Prawet
+Shanghai
+Vangvieng
+Vangvieng
+New York
+New York,Kings
+New York
+Clark
+Clark
+New York
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Clark
+Clark
+Los Angeles
+Los Angeles
+Clark
+Barcelona
+Warsaw
+Kraków City
+Warsaw
+New York
+Barcelona
+Barcelona
+Barcelona
+Warsaw
+San Francisco
+San Francisco
+Madrid
+Nablus
+Nablus
+Beijing
+Beijing
+Paris
+Westminster
+Paris
+Barcelona
+Barcelona
+Marjayoun
+Amsterdam
+Amsterdam
+Ramallah and Al-Bireh
+Queens
+Kings,New York
+New York
+Kraków City
+Division No. 1
+Clark
+New York
+Monmouth
+Bruxelles
+Warrington
+Moray
+Ramallah and Al-Bireh
+Honolulu
+Honolulu
+Honolulu
+Honolulu
+Westchester
+New York
+Warren
+New York
+New York
+Zürich,Freiburg
+Vlaams Brabant
+New York
+Westchester
+Paris
+Zarqa
+Muang Ratchaburi
+Manchester
+Muang Ratchaburi
+Buckinghamshire
+Paris
+Berlin
+Berlin
+Berlin
+Jerusalem
+Camden
+Westminster,Kensington and Chelsea,Hackney
+Barcelona
+Berlin
+Westminster
+Los Angeles
+San Diego
+Clark,Miami-Dade
+New York,Kings
+Tulkarm
+Heraklion
+Heraklion
+New York
+Camden
+Isère
+Isère
+Savoie
+Miami-Dade
+Orange
+Monroe
+Lahore
+Clark
+Miami-Dade
+Miami-Dade
+Lexington
+Chatham
+Heraklion
+Budapesti
+Berlin
+Berlin
+Ramallah and Al-Bireh
+Hebron
+Siemianowice Slaskie
+Malmö
+Tbilisi
+New York
+New York
+Queens
+New York
+Paris
+Jerusalem
+London
+Toronto
+Capital
+Verona
+Roma
+Attica,Cyclades
+London,Hackney,Camden
+Berlin,Guangzhou
+Brandenburg,Berlin
+Hebron
+Côte-d'Or
+Côte-d'Or
+Seine-Saint-Denis,Paris
+Stockholm
+Stockholm
+Paris
+Milano
+Jerusalem
+Barcelona
+Val-d'Oise
+Paris
+Paris
+Jerusalem
+Sour
+Paris
+Milano
+Westminster
+Westminster
+Salfit
+Clark
+Madrid
+Bethlehem
+Odes'ka
+Sisli,Besiktas
+Adalar
+Fatih
+New York
+Bergen,New York,Greater Vancouver,King
+Multnomah
+Berlin
+Berlin
+Berlin
+Westchester
+New York
+San Mateo
+Isla Mujeres
+Heraklion

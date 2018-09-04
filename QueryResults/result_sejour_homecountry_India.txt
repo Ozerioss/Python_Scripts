@@ -1,0 +1,4222 @@
+Siem Reab
+Siem Reab
+Hà N?i
+Bang Plee
+Beyoglu
+Beyoglu,Ürgüp
+Cyclades
+Attica
+Beyoglu
+Cardiff
+Cardiff
+Cardiff
+Cardiff
+Tower Hamlets
+Westminster
+Zürich
+Pathum Wan
+Paris,Genève
+Westminster,Haute-Savoie
+Praha 1
+Muang Saraburi
+Phra Nakhon Si Ayutthaya,Muang Saraburi
+Muang Saraburi
+Harris,Bexar
+Ko Samui
+Shanghai
+West Midlands,Loulé,Albufeira
+Lisboa,Hackney
+Westminster
+Loiret
+Indre-et-Loire
+Paris
+Hackney
+Hackney
+Loulé
+Hackney
+Karachi,Lahore
+Lahore
+Haute-Savoie
+Uusimaa
+New York
+New York
+Miami-Dade
+Miami-Dade
+Camden,Westminster,Kensington and Chelsea
+Hackney
+Westminster
+Camden
+Westminster
+Antwerpen
+Antwerpen
+Baleares
+Cook
+Kensington and Chelsea
+Northern
+Central
+Northern
+Central
+Bergen
+New York,Kings,Bergen,Essex,Collier
+New York,Kings,Hunterdon
+Colombo
+Kings,New York,Queens,Bergen,Cumberland
+Kings,Bergen
+New York,Kings
+New York,Kings
+New York,Kings,Bergen
+Takua Pa
+Myingyan,Taunggye
+Yangon-W
+Makati City
+Kings
+New York
+New York
+Kings,New York
+New York
+Kings
+New York
+New York
+Barcelona
+Valencia
+Madrid
+Paris
+Paris
+Minato
+Nakano
+Shibuya,Taito
+Kings,Clark
+Clark
+New York
+New York
+Koto
+Koto,Shibuya
+Bruxelles
+Gironde
+Paris
+Paris
+Barcelona
+Barcelona
+Pathum Wan,Phaya Thai
+Paris
+Paris
+Madrid
+Madrid
+New York
+Milano,Bologna
+Milano
+Roma
+Northampton
+Defiance
+Jinhua
+Pathum Wan
+Snohomish
+King,San Juan,Island
+Snohomish,King
+King
+Clark
+Kawang
+Santa Clara
+Santa Clara
+Contra Costa,Solano
+Ushuaia
+Ushuaia
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Esteban Echeverría
+Santiago
+Santiago
+Santiago
+Valparaíso
+Santiago
+Santiago
+San Luis Talpa
+Milano,Bologna,Florence
+Attica
+Bagmati
+Hackney
+Haringey
+Berlin
+Los Angeles
+Obio/Akp
+Eti-Osa,Obio/Akp
+Greater Vancouver
+Greater Vancouver
+Shenzhen
+Shenzhen
+Bagmati
+Shah Alam
+Sepang
+Shah Alam
+Shah Alam
+A Seeb,Westminster,Islington
+Kensington and Chelsea,Islington,Westminster,Hackney
+Shah Alam
+Timur Laut
+Cameron Highlands
+Kensington and Chelsea,Westminster,Southwark
+Ealing,Westminster,Camden,Lambeth,Tower Hamlets
+Cozumel
+Bagmati
+Clark
+Westchester
+Jerusalem
+Amuwo Odofin
+Muttrah
+Bausher
+Sydney - Inner
+Sydney - Inner
+Port Phillip - West
+Orleans
+Ashfield
+Willoughby
+Liverpool - East
+Port Phillip - West
+Melbourne - S'bank-D'lands
+Melbourne - S'bank-D'lands,Port Phillip - West
+Melbourne - Inner
+Port Phillip - West,Melbourne - Inner
+Melbourne - S'bank-D'lands
+Hillingdon
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Pathum Wan,Huai Kwang
+Pathum Wan
+Accra
+Accra
+Accra
+Accra
+Accra
+Accra
+Accra
+Accra
+Accra
+Accra
+Merkez,Akköy
+Marmaris
+Fatih
+New York
+Mercer
+Clark
+Los Angeles
+Los Angeles
+San Diego
+San Diego
+Rutland
+Cardiff
+Westminster
+Brazos
+Brazos
+Brent
+Brent,Kensington and Chelsea
+Brent
+Gianyar
+Gianyar
+Brent
+Brent
+Brent,Hannover
+Hannover
+Brent
+Hillingdon
+Brent
+Kensington and Chelsea
+Westminster
+Kensington and Chelsea
+Brent
+Kensington and Chelsea
+Kensington and Chelsea
+Westminster
+Berlin
+Kensington and Chelsea
+Kensington and Chelsea
+Westminster
+Málaga
+Kensington and Chelsea
+Kensington and Chelsea
+Poznan City
+Hammersmith and Fulham,Kensington and Chelsea
+Kensington and Chelsea
+Angra dos Reis
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Tower Hamlets
+New York,Santafé de Bogotá
+Santafé de Bogotá
+Cartagena de Indias
+Santafé de Bogotá
+Vlaams Brabant
+Berlin,Poznan City
+Berlin
+Trutnov
+Trutnov
+Kraków City
+Berlin
+Berlin
+Poznan City,Berlin
+Westminster
+Santafé de Bogotá
+Santafé de Bogotá
+Rio de Janeiro
+Gianyar
+West Yorkshire
+West Yorkshire
+West Yorkshire
+Kensington and Chelsea
+Waitakere
+Dehiwala-Mount Lavinia
+Praha 1
+Sepang
+Waitakere
+Waitakere
+New York
+Lions River
+Islington
+Islington
+Budapesti
+Kathu
+San Francisco
+Denver
+Arapahoe
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Alameda
+San Francisco
+Monroe
+Queens
+Colombo
+Toronto
+Peel
+Toronto
+Nuwara Eliya
+Cha-Am
+Kensington and Chelsea
+Kingston upon Thames
+New York
+Los Angeles
+Los Angeles
+Colombo
+Muang Chiang Mai
+Mosman
+Bay
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Mercer
+Surabaya
+Almaty (Alma-Ata)
+Pathum Wan
+Pathum Wan
+New York
+Bang Lamung
+Sattahip
+Northern
+Bagmati
+Florence
+Cantabria
+Darmstadt
+Bagmati
+Sonoma
+San Francisco
+Barcelona
+Western
+Western
+Kutná Hora,Praha 1
+West-Vlaanderen,Oost-Vlaanderen
+Eastern
+Northamptonshire
+Bagmati
+K.F.G. & G. Korale,Rambukkana
+Kelaniya
+Maipú
+Distrito Federal
+Distrito Federal
+Gironde
+Gironde
+Distrito Federal
+Distrito Federal
+Las Palmas
+Bang Lamung
+Ngawa Tibetan and Qiang
+Ngawa Tibetan and Qiang
+Wien,Venezia
+Qu?ng Ninh
+Lào Cai
+Louangphrabang
+Vangvieng
+Bagmati
+Dhaualagiri
+Salisbury
+Rio de Janeiro
+Arraiján
+Bang Rak
+Gur'evskiy rayon
+Gur'evskiy rayon
+Svetlogorsk
+Gur'evskiy rayon
+Gdansk City
+Gur'evskiy rayon
+Gdynia,Gur'evskiy rayon
+Gur'evskiy rayon
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Gur'evskiy rayon
+Svetlogorsk
+Svetlogorsk
+Gur'evskiy rayon
+Gur'evskiy rayon
+Nowy Dwór Mazowiecki
+K.F.G. & G. Korale
+Bartholomew
+Marion
+Hillingdon
+Bartholomew
+Monroe
+Monroe
+Bartholomew
+Boone
+Ceský Krumlov,Wien
+Darmstadt
+Essex
+Bartholomew
+Darmstadt
+Bartholomew
+Marion
+Cook
+Bartholomew,Marion
+Tippecanoe
+Kensington and Chelsea
+Santa Cruz
+Cook
+Paris
+Shibayama
+Lafayette
+Milano
+New York
+Como
+Milano
+Pisa
+Sondrio
+Merseyside
+Kagithane
+Bari,Barletta-Andria-Trani
+Alpes-Maritimes
+Sondrio
+Valencia
+Bentota
+Sondrio
+Phra Nakhon Si Ayutthaya
+Bang Lamung
+Phra Nakhon Si Ayutthaya,Wattana,Pathum Wan
+Bang Ban
+Phra Nakhon
+Málaga
+Como
+Verona
+Florence
+Venezia
+H? Chí Minh city
+Bình Thu?n
+Bang Plee
+Wattana
+Phra Nakhon
+Wattana
+Phra Nakhon
+Khlong Toey,Wattana
+Phra Nakhon Si Ayutthaya
+Westminster
+Roma
+Amsterdam
+Westminster
+Spokane
+Ko Phangan
+Muang Krabi
+Paris
+Paris
+Savoie
+Alpes-Maritimes
+Paris
+Paris
+Bang Plee
+Obolons'kyi
+Casablanca
+Kalutara
+New York
+Clark
+Los Angeles
+New York
+Khlong Toey
+Jefferson
+Durham
+Durham
+Durham
+Tyne and Wear
+Durham
+Shah Alam
+Shah Alam
+Durham
+Pierce,King
+Santa Clara
+New York
+Santa Clara
+Queens
+Queens
+New York
+Queens
+Bronx
+New York
+Orange
+Westminster
+Cook
+Newport
+Queens
+Queens
+Central
+Central,Almaty (Alma-Ata)
+Central
+Central
+Hà N?i
+Hà N?i
+Thimbirigasyaya
+Mirigama
+Ninh Bình
+New York
+New York
+New York
+Muang Phuket
+Hua Hin
+Hua Hin
+Phra Nakhon
+Val-d'Oise
+Val-d'Oise
+Val-d'Oise
+Paris
+Val-d'Oise
+Beijing
+Beijing
+Communauté-Urbaine-de-Montréal
+Oberbayern
+Bausher
+Muttrah,Muscat
+Muttrah
+Bang Plee
+Manila
+Makati City
+Legazpi City
+Dauis,Panglao
+Balagtas
+Pasay City
+Jung
+Genève
+Gandaki
+Phra Nakhon
+Barcelona
+Praha 1
+Praha 1
+Berlin
+Praha 6,Praha 1
+Wien
+Warsaw
+Kraków City
+Talsi
+Bang Kho Laem
+Phra Nakhon,Bang Kho Laem
+Cyclades
+Cyclades
+Sroda Slaska
+Warsaw,Bülach
+Sroda Slaska
+Westminster,Kensington and Chelsea,West Midlands
+New York
+Paris
+Seine-et-Marne
+Muang Chiang Mai
+Muang Chiang Mai
+Ko Phangan
+Gianyar
+Lombok Barat
+Torreón
+Torreón
+Benton
+Uusimaa
+Uusimaa
+Cook
+New York
+Uusimaa
+Agadir-Ida ou Tanane
+Agadir-Ida ou Tanane
+Agadir-Ida ou Tanane
+Agadir-Ida ou Tanane
+Agadir-Ida ou Tanane
+Agadir-Ida ou Tanane
+Manukau
+Seixal
+San Pascual
+Berkshire
+Harris
+New York
+Harris
+Darmstadt
+Glasgow
+Rio de Janeiro
+Panamá
+Panamá
+Westminster
+Bang Lamung
+Karachi
+New York
+New York
+New York
+New York
+New York,Monroe
+New York
+Los Angeles
+Los Angeles
+Toronto
+North Yorkshire
+York
+Surrey
+York
+Westminster
+Islington
+Thalang,Kathu
+Barcelona
+Praha 1
+Tanjong Maya
+Berakas A
+Gadong
+Paris,Hammersmith and Fulham
+Westminster
+Manchester
+Shah Alam
+Shah Alam
+Manchester
+Liang,Berakas A,Shah Alam,Sepang,Kota Bandung,Pekan Tutong
+Gadong,Sengkurong,Berakas A
+Colombo,Thimbirigasyaya
+Westminster,Hammersmith and Fulham,Hillingdon,Groningen,Almere
+Zaanstad,Groningen,Meppel,Vlaams Brabant,Bruxelles,Manchester,Camden,Newham
+Westminster,Hillingdon
+Dehiwala-Mount Lavinia
+Colombo
+Colombo
+Bagmati
+Gandaki
+Brent
+Manchester
+Tower Hamlets,Hackney,Islington
+Westminster
+Westminster
+Hammersmith and Fulham
+Nottingham
+Brent
+Brent
+Brent
+Hertfordshire
+Brent
+Hammersmith and Fulham
+Seria
+Berakas A
+Brent
+Westminster
+Westminster
+Kensington and Chelsea
+Bagmati
+Central
+Hammersmith and Fulham
+Brent
+Hammersmith and Fulham
+Islington
+Hammersmith and Fulham
+Hammersmith and Fulham
+Simon Town
+Westminster,Southwark,Oxfordshire
+Oxfordshire
+Stockholm
+Stockholm
+Marin
+Humboldt
+Humboldt
+Mendocino
+Mendocino
+Humboldt
+Mendocino
+Mendocino
+Middlesex
+Baltimore
+Westchester
+Oslo
+Riga
+Riga
+Hounslow
+Westminster
+Westminster
+Westminster
+Westminster
+Edinburgh
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Ealing
+Westminster
+Westminster
+Hounslow
+Westminster,Hounslow
+Hounslow,Westminster
+Hounslow,Westminster
+Westminster,Hillingdon
+Hounslow
+Westminster,Hounslow
+Westminster
+Westminster,Hounslow
+Westminster
+Westminster
+Hounslow
+Westminster,Hounslow
+Westminster
+Westminster
+Westminster
+Westminster,Hounslow
+Hounslow,Westminster,Hillingdon
+Westminster,Hounslow
+Ealing,Westminster,Hounslow
+Hounslow
+Westminster
+Hounslow,Westminster
+Westminster,Camden,Enfield
+Westminster
+Hounslow,Westminster
+Westminster
+Westminster,Hounslow,Camden
+Hounslow
+Westminster
+Hounslow,Westminster
+Westminster,Ealing
+Westminster,Hounslow
+Hounslow
+Hounslow,Westminster,Hammersmith and Fulham
+Bang Lamung,Sattahip
+Phra Nakhon
+Pathum Wan
+Central
+Naro-Fominskiy rayon
+Praha 1
+Oost-Vlaanderen,Antwerpen
+Westminster
+Edinburgh
+Westminster
+Merkez
+Merkez
+Praha 6
+Napoli
+Fatih
+Paris
+Paris
+Paris
+Baruta
+Kensington and Chelsea
+West Midlands
+Westminster
+Westminster
+West Midlands
+West Midlands
+West Midlands
+West Midlands
+West Midlands
+Camden
+Praha 1,Praha 7,Nové Zámky
+Salzburg Umgebung
+Obwalden
+Nidwalden
+Monash - Waverley West
+Westminster
+Westminster
+Suffolk
+Middlesex
+Middlesex
+Harris
+Philadelphia,Bucks
+Melbourne - Inner
+Melbourne - S'bank-D'lands
+Cook
+Cook
+Communauté-Urbaine-de-Montréal
+New York
+Brevard
+Miami-Dade
+San Diego
+Roatán
+Rio de Janeiro
+Monroe
+Cartagena de Indias
+Combined statistics
+West-Vlaanderen
+Tallinn
+Combined statistics
+Amsterdam
+Cádiz
+Venezia
+Venezia
+Napoli,Venezia
+Seixal
+Seixal
+Goodwood
+n.a102
+Northern
+Podol'skiy rayon
+Northern
+Jinhua
+Jinhua
+Jinhua
+Jinhua,Shanghai
+Napa
+San Mateo,Alameda
+Croydon,Westminster
+Westminster,Ealing
+Westminster
+Westminster
+Westminster,Croydon
+Westminster
+Croydon,Westminster,Ealing
+Westminster
+Westminster,Camden
+Westminster
+Westminster
+Westminster
+Ealing
+Bang Lamung
+Paris
+Innsbruck,Venezia,Florence
+Roma,Innsbruck Land,Paris
+Innsbruck
+Andelfingen
+Göteborg
+Göteborg
+Göteborg
+Göteborg
+Camden
+Hashimoto
+Kyoto
+Berlin,Amsterdam
+Paris
+Amsterdam
+Kensington and Chelsea
+Reykjavík
+Ljósavatnshreppur
+Ljósavatnshreppur
+Reykjavík,Sandgerði
+Finistère
+Hauts-de-Seine
+Paris
+Paris
+Paris
+Paris
+Paris
+Jung
+Toepaisa
+Nairobi
+Nairobi
+Thurrock
+Islington
+Richmond upon Thames
+Redbridge
+Portsmouth
+Camden
+Cambridgeshire
+Barcelona
+Krasnodar gorsovet
+Krasnodar gorsovet
+Krasnodar gorsovet
+Krasnodar gorsovet
+Joondalup
+Stockholm,Sollentuna
+Warsaw,Stockholm,Nowy Dwór Mazowiecki,Syracuse
+Syracuse
+Messina
+Messina
+Lisboa,Sintra
+Minsk
+Porto Moniz
+Shevchenkivs'kyi
+Minsk
+Amsterdam
+Minsk
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Bruxelles,Paris
+Paris
+Boulder
+Garfield
+Boulder
+Weld
+Hilversum
+San Francisco
+San Francisco,Marin
+Hillsborough
+Clark
+Orange
+Amsterdam
+Orange
+Oslo
+New York
+New York
+Port Phillip - West
+Niagara
+Niagara
+Darmstadt
+Halifax,Toronto,Pasay City
+Muang Krabi
+Bang Lamung
+Khlong Toey
+Khlong Toey
+Muang Chiang Mai
+Yangon-W
+Westminster
+Camden,Wiltshire,Westminster
+Warwickshire,Camden
+Westminster
+Mechi
+Attica
+Toshkent
+Khalkidiki
+Berdians'ka
+Shevchenkivs'kyi,Holosiïvs'kyi
+Buckinghamshire
+Hertfordshire
+Buckinghamshire,Hertfordshire
+Camden
+Westminster
+Hillingdon
+London
+Hillingdon
+Hillingdon
+Hillingdon
+Westminster
+Ealing
+Camden
+Kensington and Chelsea
+Westminster,Brighton and Hove
+Westminster
+Hillingdon
+Buckinghamshire
+Westminster,Kensington and Chelsea
+Camden
+Westminster
+Goodwood
+Tallinn
+Minsk
+Minsk
+Maltepe
+Pyatigorsk
+Vilniaus
+Ovidiopol's'kyi
+Odes'ka
+Tallinn
+Minsk
+Minsk
+Northern
+Northern
+North-Eastern,Central
+Brest
+Novosibirskiy rayon
+Novosibirskiy rayon
+Bang Lamung
+Sai Yok
+Ekaterinburg gorsovet
+Chelyabinsk gorsovet
+Almaty (Alma-Ata)
+Berkshire
+Westminster
+Berkshire
+Cambridgeshire
+Baleares
+Sittard-Geleen
+Goodwood
+Cook
+Cook
+New York
+New York
+Solnechnogorskiy rayon
+Mytishchinskiy rayon
+Minsk
+Vysokogorskiy rayon
+Heihe
+Bol'shemurtinskiy rayon
+Vlaams Brabant
+Vlaams Brabant
+Vlaams Brabant
+Vlaams Brabant
+Vlaams Brabant
+Vlaams Brabant
+Vlaams Brabant
+Vlaams Brabant
+Bruxelles,Vlaams Brabant
+Vlaams Brabant
+Vlaams Brabant
+Vlaams Brabant
+New York
+Camden
+Kensington and Chelsea
+Westminster
+Tower Hamlets
+Kensington and Chelsea
+Kensington and Chelsea
+Sathorn
+Sathorn
+Pathum Wan,Wattana
+Chiyoda
+Shibuya,Chiyoda
+Communauté-Urbaine-de-Montréal
+Foshan
+Ko Samui
+District of Columbia,New York,Bergen,Orange
+Miami-Dade
+Orange
+Bergen,New York
+Bergen
+Lahore
+Hua Hin
+Mandalay
+Paris
+Camden
+Buckinghamshire
+Narayani
+Hertfordshire
+Division No. 11
+Vysokogorskiy rayon
+Domodedovskiy rayon
+Paris
+Paris
+Barcelona
+Barcelona,Madrid,Lisboa
+Lisboa
+Sepang
+Hamburg
+Combined statistics
+Stockholm,Sigtuna
+Bakirköy
+Budapesti
+Wien
+Darmstadt
+Darmstadt
+Cook,Denver,Clark
+Cook,Clark,King,Darmstadt
+King
+Cook
+King
+Clark
+Darmstadt
+Clark
+King
+Lambeth
+Westminster
+Bang Lamung
+Merkez
+Shooneh Janoobiyyeh
+Shooneh Janoobiyyeh
+Madaba
+North Yorkshire
+West Yorkshire
+Cheshire
+Westminster
+Bang Plee,Kathu
+Muang Phuket,Kathu
+Amsterdam,Haarlemmermeer,Bruxelles,Paris,Los Angeles,San Diego
+Orange,Los Angeles,Clark
+Clark
+Minato
+Badung
+Lapu-Lapu City
+Sikatuna
+Pathum Wan,Chatuchak
+Cha-Am,Hua Hin
+Sydney - Inner
+Lahore
+A Seeb
+Stearns
+Barcelona
+Barcelona
+Milano
+Herzegovina-Neretva
+Gandaki
+Negombo
+Sathorn
+Habaraduwa
+Galle Four Gravets
+Gorssel
+Amsterdam
+Bierun-Ledziny
+Ko Samui
+Bang Lamung
+Bang Lamung
+AbujaMun
+AbujaMun
+Bagmati
+Beneov
+Rotterdam
+Rotterdam
+Paris,Rotterdam
+Paris
+Paris
+Cozumel
+Waverley
+Waverley
+Waverley
+Waverley
+Sydney - Inner
+Randwick
+Waverley
+Waverley
+Waverley
+Waverley
+Waverley
+Waverley
+Waverley
+Waverley
+Waverley
+Waverley
+Waverley
+Woollahra
+Waverley
+Waverley
+Santa Cruz
+Sydney - West
+Cessnock
+Waitakere
+Waitakere
+Stonnington - Prahran
+Sydney - South
+New York
+New York
+Waverley
+New York
+Chuo
+Minato
+Kings
+Los Angeles
+Berlin
+Budapesti
+Budapesti
+Darmstadt
+Budapesti
+L'vivs'ka
+Odes'ka
+Odes'ka
+Odes'ka
+Kraków City,Wien,Bratislava I,Bratislava II,Budapesti
+Budapesti,Kraków City,Wien
+Bakirköy,Fatih,Sariyer,Yenimahalle,Kaynasli
+Merkez,Güzelyurt,Sultan Koçhisar,Ürgüp
+Kusadasi
+Fatih,Güzelyurt,Besiktas,Bakirköy
+Phra Nakhon
+L'vivs'ka
+L'vivs'ka
+L'vivs'ka
+L'vivs'ka
+L'vivs'ka
+L'vivs'ka
+L'vivs'ka
+Wien
+L'vivs'ka
+L'vivs'ka
+Fatih
+Hannover
+Berlin
+Ilala
+Ilala
+Ilala
+Madaba
+Honolulu
+Bagmati
+San Diego
+Honolulu
+Santa Cruz
+Monterey
+Monterey
+Izumo
+Antigua Guatemala
+Fatih
+Eyüp
+Tyne and Wear
+Eti-Osa
+Eti-Osa
+Richmond
+District of Columbia
+Middlesex
+New York
+Clark
+Prince George's
+Montgomery
+Montgomery
+Montgomery
+Mercer
+District of Columbia
+Budapesti
+Budapesti
+Wien
+Wien
+West Midlands
+Arbil
+Broward
+Rankin
+Los Angeles
+San Diego
+Orange
+San Francisco
+Domodedovskiy rayon
+Bagmati
+Gandaki,Bagmati
+Trundholm
+Combined statistics
+Jakarta Barat
+Bheri
+Seti
+Bheri
+Bagmati
+Orleans
+Orleans
+Orleans
+King
+New York
+Orleans,New York
+Orleans
+Westminster
+Muang Nonthaburi,Los Angeles
+Los Angeles
+São Paulo
+Gustavo A. Madero
+Shah Alam
+San Diego
+San Diego
+Clark
+Clark
+Clark
+Clark
+Pathum Wan
+Pathum Wan
+Pathum Wan
+Pathum Wan
+Warsaw
+Kraków City
+Darmstadt
+Phra Nakhon
+Sepang
+Westminster
+Shah Alam
+Paris
+Gandaki
+Timur Laut
+Welipitiya
+Welipitiya
+Ko Phangan
+Fatih
+Berlin
+Berlin
+Bagmati
+Voorst
+Tower Hamlets
+Voorst
+Bang Lamung
+Bang Lamung
+New York
+Lapland
+Camden
+Greenwich
+Salerno
+Salerno
+Kensington and Chelsea
+Salerno
+Torino
+Treviso
+New York
+New York
+New York,Suffolk
+New York
+Surf Coast - West,Mosman,Sydney - Inner
+Sydney - Inner
+Barcelona
+New York
+Honolulu
+Honolulu
+San Diego
+Bang Lamung,Chatuchak
+Kathu
+Innsbruck
+Khlong Toey
+Thompson-Nicola
+Thompson-Nicola
+Thompson-Nicola
+Thompson-Nicola
+Langkawi
+Mombasa
+Mombasa
+East Sussex
+Bristol
+Sydney - Inner
+Sydney - Inner
+Paris
+Jakarta Timur
+Kuala Terengganu
+Kuala Terengganu
+Sagadahoc
+Kings
+Goodwood
+Goodwood
+New York
+Yellowstone
+Badung
+Shanghai
+Hangzhou
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Sepang
+Shanghai
+Shanghai
+Imabari,Matsuyama,Naoshima,Tonosho,Shodoshima,Takamatsu
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shodoshima
+Shanghai
+Shanghai
+Shanghai
+Hangzhou
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Zhoushan
+Shanghai
+Shanghai
+Shinjuku
+Meguro
+Osaka
+Osaka
+Shanghai
+Shinjuku,Shibuya
+Meguro
+Hangzhou
+Shanghai
+Chiyoda,Shinjuku,Chuo,Minato
+Meguro
+Shanghai
+Cardwell
+Kaduwela
+Orange
+Broward
+Los Angeles
+Barcelona
+Navarra
+Vizcaya
+Guipúzcoa
+Norfolk
+Norfolk
+New Haven
+Niagara
+Los Angeles
+Don Muang,Bang Plee,Kathu,Muang Phuket
+Pathum Wan,Phra Nakhon,Bang Plee
+Amsterdam
+Hannover
+Sydney - Inner
+Sydney - Inner
+King
+Shah Alam
+Camden,Westminster,Tower Hamlets
+Tarrant
+Tarrant
+Tarrant
+Tarrant
+Dallas
+Tarrant
+Tarrant
+Tbilisi
+Mestia
+Tskaltubo,Tbilisi
+Eti-Osa
+Bang Lamung
+Paris
+Clark
+Communauté-Urbaine-de-Québec
+Toronto
+Qazvin
+Theran
+Shemiranat
+Westminster,Hammersmith and Fulham
+Paris,Westminster,Hounslow,Hammersmith and Fulham
+Camden
+Kensington and Chelsea
+Berlin,Brandenburg
+Berlin
+Westminster
+Kensington and Chelsea,Westminster,Camden
+Hammersmith and Fulham
+Westminster
+Sevilla,Córdoba
+Granada,Sevilla
+Camden
+Camden
+Kensington and Chelsea
+Kensington and Chelsea
+Hammersmith and Fulham
+Camden
+Kensington and Chelsea
+Kensington and Chelsea
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Southwark
+Southwark,Tower Hamlets
+Wiltshire
+Edinburgh
+Kensington and Chelsea
+Camden
+Westminster
+Hammersmith and Fulham
+Westminster
+Hounslow
+Westminster
+Westminster
+Paris
+Hays
+Bagmati
+Gandaki,Bagmati
+Queens
+New York
+New York
+Atlantic
+Bergen
+Kings
+Kings
+Kings
+Bronx
+New York
+San Cristóbal de las Casas
+North Sydney
+Sydney - Inner
+Sydney - Inner
+New York
+Philadelphia,Montgomery
+Los Angeles
+New York
+Monroe
+Montgomery
+Montgomery
+Philadelphia,Montgomery
+Kings
+Tompkins
+Montgomery
+Philadelphia
+Atlantic,Philadelphia
+San Diego,Maricopa
+Montezuma,La Plata,San Juan,Ouray,Multnomah,Washington,Solano,Contra Costa
+San Francisco
+District of Columbia
+New York,Kings
+New York
+Devon
+Westminster
+Don Muang
+New York
+Orleans
+Denver
+Orleans,Denver
+Clark
+New York
+Middlesex
+Phra Nakhon
+Phra Nakhon
+Maltepe
+Maltepe
+Beyoglu
+Kadiköy
+Clark
+Valencia
+Valencia
+Shah Alam
+Phra Nakhon
+Phra Nakhon
+Si Racha
+Si Racha
+Newport
+Central
+Ramonskiy rayon
+Bülach
+Novousmanskiy rayon
+Novousmanskiy rayon
+Northern
+Bagmati
+Bagmati
+Bagmati
+Bagmati
+Bagmati
+Bagmati
+Bagmati
+Bagmati
+Bagmati
+Shah Alam
+Shah Alam
+Hennepin
+Hennepin
+Haarlemmermeer
+Hennepin
+Paris
+Newcastle - Inner City
+Hualien
+Theran
+Theran
+Theran
+Kings
+Clark
+Los Angeles
+New York
+Clark
+New York
+New York,Hillingdon
+Durban
+Durban
+Camperdown
+Inanda
+Paris
+Amsterdam
+Haarlemmermeer,Westminster,Kensington and Chelsea
+Westminster,Kensington and Chelsea
+Kensington and Chelsea
+Milano
+Pathum Wan
+Berlin,Darmstadt,Dubrovacko Primorje
+Dubrovnik
+New York
+New York
+New York,Kings
+Bülach
+Galle Four Gravets
+Colombo
+Bang Lamung
+Madrid
+Westminster
+Camden
+Brent
+Brighton and Hove
+Johor Baharu
+Brent
+Camden
+Bang Lamung
+Katana,Kurunegala,Yatawatta,Ukuwela,K.F.G. & G. Korale,Nuwara Eliya,Kothmale,Bentota,Colombo,Kolonnawa
+Alameda
+Alameda
+Alameda
+Alameda
+Alameda
+Alameda
+San Francisco
+San Francisco
+Santa Clara
+Placer
+South-Eastern
+Ko Samui
+Ko Samui
+Ko Samui
+Ko Samui
+Sathorn
+Shanghai
+Santiago
+New York
+Santiago
+Beijing
+Westminster
+Antwerpen
+Negombo
+New York
+New York
+Takayama,Kyoto
+Takarazuka,Kyoto
+Osaka
+Napoli
+Napoli
+Varese
+H? Chí Minh city
+Samraong,Ruessei Kaev
+Siem Reab
+Bintulu
+Philadelphia
+Chatuchak
+Los Angeles
+Los Angeles
+Roma
+Brindisi
+Bagmati
+Darmstadt
+Trento
+Caserta
+Trento
+Trento
+Venezia
+Trento
+Muang Rayong
+Bang Plee
+Gapyeong
+Shanghai
+H? Chí Minh city
+Muang Chiang Rai
+Hà N?i
+Sydney - Inner
+North Sydney
+Sydney - Inner
+Sydney - Inner
+Muscat,Muttrah
+Muttrah
+Muscat
+Riverside
+Clark
+New York
+New York
+Paris
+Alpes-Maritimes
+Barcelona
+Barcelona
+Barcelona
+Paris
+Barcelona
+Thalang,Takua Thung
+New York
+New York
+New York
+New York
+Queens
+New York
+New York
+Kensington and Chelsea
+Kensington and Chelsea
+Paris
+Paris
+Kosofe,Ikeja
+Kosofe
+Hackney
+Ikeja,Lambeth,Westminster
+Waltham Forest
+West Midlands
+Lambeth,Tower Hamlets
+Manchester
+Lambeth,London,Redbridge
+Köln
+Capital
+Tyne and Wear
+London,Westminster
+Westminster
+Kensington and Chelsea
+Hammersmith and Fulham
+Shah Alam
+Shah Alam
+Melaka Tengah
+Taipei
+Bodrum
+Salzburg
+Innsbruck
+Villach Land,Gmunden
+Mittelfranken
+Bas-Rhin
+Bas-Rhin
+Darmstadt
+Oberbayern
+Sumida
+Minato
+Pathum Wan,Bang Kho Laem,Chatuchak,Bang Lamung
+South Ayrshire
+Camden
+Cabeceiras de Basto
+Southwark
+Southwark
+Maynas
+Santafé de Bogotá
+Wellington
+Wellington
+Waitaki
+Ko Samui
+Ko Phangan
+Seixal
+Kraków City
+Kraków City
+Kraków City
+Khlong Toey
+Badung
+Lombok Barat
+Badung
+Badung
+Badung
+Badung
+Badung
+Goodwood
+Goodwood
+Goodwood
+Oberbayern
+Goodwood
+Goodwood
+Goodwood
+Klungkung
+Negombo
+Massa Carrara
+Sevilla
+Santa Clara
+Santa Clara
+Santa Clara
+Santa Clara
+San Francisco
+Amsterdam
+Barcelona
+Barcelona
+Dhaka
+Dhaka
+Paris
+Florence
+Bagmati
+Sepang
+Manchester
+Kensington and Chelsea
+Hartlepool
+Manchester
+York
+Manchester
+North Yorkshire
+Durham
+Manchester
+Österåker
+Stockholm
+Warrington
+Warrington
+Warrington,Westminster
+Warrington
+Warrington
+Warrington
+Hertfordshire,London
+Shah Alam
+Shah Alam
+Min Buri
+Min Buri
+Lat Krabang,Min Buri
+Wattana
+Min Buri
+Lat Krabang,Huai Kwang
+Bang Kapi
+Muang Krabi
+Ko Samui
+Wattana
+Min Buri
+Khlong Toey,Min Buri
+Phra Nakhon
+Min Buri
+Min Buri,Pathum Wan
+Khlong Toey
+Min Buri
+Pathum Wan
+Khlong Toey
+Khlong Toey
+Khlong Toey
+Langkawi
+Oberbayern
+Berlin
+Paris
+Alpes-Maritimes
+Var
+Darmstadt,Köln
+Köln
+Köln
+Kerkrade
+Köln
+Köln
+Köln
+Köln
+Köln
+Köln
+Köln
+Köln
+Köln
+West-Vlaanderen
+West-Vlaanderen
+New York
+New York
+New York
+Phra Nakhon
+Samphantawong
+Muang Sukhothai,Phra Nakhon
+Muang Chiang Mai
+Mae Taeng
+New York
+New York
+New York
+New York
+Orange
+Delaware
+Bennington
+Berkshire
+Middlesex,Suffolk
+Middlesex,New York
+San Francisco
+New York,District of Columbia,Fairfax
+Val-d'Oise,Suffolk
+Manchester
+Nueces
+Nueces
+Venezia
+Toronto
+Florence
+Phra Nakhon
+Bang Kho Laem,Khlong Toey
+Phra Nakhon,London
+Wien
+Phra Nakhon
+Pathum Wan,Khlong Toey
+Roma
+Tower Hamlets
+Bagmati,Hammersmith and Fulham
+Cook
+Milano
+Milano,Varese
+Milano
+Kaduwela
+Westminster
+Westminster,London,Galle Four Gravets,Camden
+Southwark
+Colombo
+Hikkaduwa
+Glasgow
+Glasgow
+Kent
+Glasgow
+Tower Hamlets
+Tower Hamlets
+Phra Nakhon
+Paris
+Paris
+Makati City
+Hua Hin
+Hua Hin
+Ratchathewi
+Hillingdon
+Hillingdon,Ealing
+Gombak,Shah Alam
+Langkawi
+Langkawi
+Bagmati
+Gandaki
+Phra Nakhon
+Muang Chiang Mai
+Wattana
+Badung
+Badung,Gianyar
+Waitakere,Rotorua
+Rotorua,Ruapehu
+Santiago,Cordillera
+Santiago,Lima
+Lima
+Urubamba
+São Paulo
+Bagmati,Waitakere
+Rio de Janeiro,Gandaki,Badung
+Belo Horizonte
+São Paulo
+Distrito Federal
+São Paulo
+São Paulo
+São Paulo
+Foz do Iguaçu,Iguazú
+Rhône
+Hérault,Aude
+Pyrénées-Atlantiques
+Lisboa
+Lisboa
+Águas de São Pedro
+São Paulo
+Balneário Arroio do Silva
+Madrid
+Milano
+Florence
+Bologna
+Bologna,Venezia
+Venezia
+Amsterdam
+Berlin
+Roma
+São Paulo
+Vitoria,Vila Velha,Guarapari,Serra
+Rio de Janeiro
+Rio de Janeiro
+São Paulo
+São Paulo
+São Sebastião
+São Sebastião
+São Paulo
+Guarapari
+São Paulo
+São Paulo
+New York
+Orange
+Orange
+São Paulo
+Belo Horizonte
+Distrito Federal
+Cachi,Lisboa
+Coimbra
+Coimbra
+Porto Moniz
+Lisboa
+Coimbra
+Westminster
+Berlin
+Cafayate,Capital,Tumbaya
+Belo Horizonte
+Cartagena de Indias
+São Paulo
+São Paulo
+Thessaloniki
+Khalkidiki
+Plovdiv
+Balatonfüred
+Ceský Krumlov
+Lisboa
+Milano
+Coimbra
+Barcelona
+Guarulhos
+Manteigas
+Povoação
+Porto
+Jijoca de Jericoacoara
+Seixal
+Rustenburg
+Mossel
+Cyclades
+Westminster
+West-Vlaanderen
+Bang Rak
+Bang Lamung
+Bang Lamung
+Middlesex
+Essex
+Kathu
+Phra Nakhon
+Paris
+Baleares
+Baleares
+Paris,Baleares
+Baleares,Paris,Madrid
+Barcelona
+Madrid,Paris,Baleares,Barcelona
+Paris,Barcelona
+Baleares
+Baleares
+Paris
+Barcelona,Paris
+Paris
+Cape May
+Venezia
+Malmö
+Malmö
+Lund
+Lund
+Helsingborg
+Combined statistics
+Fatih
+Orhangazi
+Santa Clara,San Mateo
+Santa Clara
+San Mateo
+San Mateo
+Santa Clara,San Mateo
+Santa Clara
+Santa Clara
+San Mateo
+San Mateo
+Santa Clara
+San Francisco,New York
+New York
+Santa Clara,New York
+Santa Clara
+Santa Clara
+San Mateo
+Dallas
+Santa Clara,Dallas,San Mateo
+San Mateo
+Santa Cruz
+Dallas
+Dorset
+Poole
+Harrow,Southwark
+Sydney - West
+Sydney - West
+Woollahra
+Sydney - Inner
+Sydney - Inner
+Sydney - West
+Sydney - Inner,Bankstown  - North-West
+Sri Jayawardanapura Kotte,Katana
+Eskilstuna
+Västerås,Ronneby
+Obwalden
+Chelyabinsk gorsovet
+Korkino gorsovet
+Richmond upon Thames
+Cumbria
+Hammersmith and Fulham
+Muang Chiang Mai
+Pai
+Muang Chiang Mai
+Lâm Ð?ng
+Central
+Central
+Central
+Sacramento
+Sacramento
+Hudson
+Santa Clara
+Yolo
+Compostela
+Chittagong
+Oberbayern
+Oberbayern
+Pathum Wan
+Jongro
+Seocho
+Icheon
+Icheon
+Icheon
+Jongro
+Yongsan
+Pathum Wan
+Hefei
+Warrnambool
+Darebin- Northcote
+Kathu,Muang Phuket
+Ko Phangan
+Ko Phangan
+Phra Nakhon Si Ayutthaya
+Ko Phangan,Bang Lamung
+Bang Rak
+Bang Rak
+Bang Rak
+Bang Rak
+Klang
+Cardiff
+Parkes
+Darmstadt
+Toronto,Halton
+Toronto
+Calabar
+Calabar
+Alameda
+Sergievo-Posadskiy rayon
+New York
+Granada
+Paris
+Paris
+Middlesex
+New York,Union
+Middlesex,Monmouth
+New York
+New York
+Hudson
+Hudson
+Hudson
+New York
+Hudson
+New York,Hudson
+Kings
+New York,Hudson
+New York
+Hudson,New York
+New York
+New York
+Hudson
+New York
+New York
+New York
+New York
+New York,Hudson,Kings
+Hudson
+Hudson,New York
+New York
+New York
+Warren,Albany
+New York
+Ocean
+New York
+New York
+Hudson
+Hudson
+Middlesex
+Hudson
+New York
+New York
+Hudson
+New York
+Hudson
+New York
+Kings
+Hudson
+Hudson
+Hudson
+Essex
+New York
+New York
+Hudson
+New York
+New York
+Union
+New York
+Oberbayern
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+New York
+New York
+Suffolk
+Suffolk
+Suffolk
+Oberbayern
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Hampshire
+Suffolk
+Santa Cruz de Lorica
+Madaba
+Zagreb
+Tallinn
+Carrillo
+San José
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Lincolnshire
+Valley
+Marrakech,Al Haouz
+Suffolk
+Rio de Janeiro
+Paris
+Napa
+Islington
+Wiltshire
+Iguazú
+Roma
+Tower Hamlets
+Central
+Paris
+Alessandria
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sigtuna,Praha 1
+Warsaw
+Praha 6
+Tallinn,Milano
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Muttrah,Muscat
+Decín
+Seberang Perai Selatan
+Piekary Slaskie
+Bagmati
+Amsterdam
+Roanoke
+Montgomery
+Santa Clara
+Loudoun
+Innsbruck
+Chernihivs'ka
+Serik
+Serik
+Serik
+Lapu-Lapu City
+Mandaue City
+Hillingdon
+Tyne and Wear
+Tyne and Wear
+Casablanca
+Marrakech
+Nakuru
+Broadsound
+Broadsound
+Lahore
+Melaka Tengah
+Shah Alam
+Shanghai
+Minato
+Phra Nakhon
+Ko Lanta
+Narayani,Gandaki
+Narayani,Gandaki
+Pisz
+Zürich
+Grant
+Middlesex
+New York
+Clark
+Santa Clara
+Los Angeles
+Ealing
+Gandaki
+Alameda
+Greater Vancouver
+Doubs
+Sassari
+Sassari
+Sassari
+Roma
+Mersch
+Trier
+Girona
+Trier
+Madrid
+Trier
+Grevenmacher
+Antwerpen
+Warsaw
+Westminster
+Grevenmacher
+Luxembourg
+Warsaw
+Darmstadt
+Tweed - Pt B
+Zürich
+Middlesex
+Santa Clara
+Los Angeles
+New York,Los Angeles,Bergen
+Ocean,Middlesex
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Division No. 11
+Narayani
+Canning
+Canning
+Khlong Toey,Pathum Wan
+Badung
+Haarlemmermeer
+Stockholm
+Oslo
+Bakirköy
+Alicante
+Barcelona,Roma
+Roma
+Venezia
+Rambukkana,K.F.G. & G. Korale
+Dallas
+Narok
+Kunming
+Kunming
+Lào Cai
+Qu?ng Ninh
+Muang Chiang Mai
+Chiang Saen
+Louangphrabang
+Merkez
+Santafé de Bogotá
+Goodwood
+Goodwood
+Umtata
+Travis
+New York
+Cusco
+Los Angeles
+Iztacalco
+Harris
+Mechi
+Bagmati,Mechi
+Bagmati
+Gandaki
+Lisboa
+Lisboa
+Lisboa
+Lisboa
+Stockholm
+Campinas
+Budapesti
+Madrid
+Karang Asem
+Gianyar
+Northampton
+Northampton
+Orange
+Orange
+Cozumel
+Cozumel
+Cozumel,Orange,Brevard
+Brevard
+Brevard
+Brevard
+Weser-Ems
+Weser-Ems
+Seine-Maritime
+Düsseldorf
+Düsseldorf
+Köln
+Paris
+Paris
+Düsseldorf
+Nijmegen
+Santa Cruz,Monterey
+Santa Cruz
+Santa Cruz
+El Dorado
+Santa Cruz
+Grand
+Grand
+Muang Chiang Mai
+Davidson
+Los Angeles
+San Diego
+San Diego
+Los Angeles,Buncombe
+Cabarrus
+Cook
+Bagmati
+Kampala
+Kampala
+Kampala
+Kampala
+Kampala
+Kampala
+Kampala
+Busiiro
+Kampala
+Kampala
+Kampala
+Kampala
+Kampala
+Kampala
+Buikwe
+Entebbe
+Entebbe
+Kampala
+Jinja,Buikwe,Kampala
+Kampala
+Kinshasa
+Kinshasa,Nairobi
+Kampala
+Jinja
+Kampala
+Kampala
+Entebbe
+Kampala
+Kampala
+Nairobi
+Kinshasa
+Kampala
+Kagoma
+Amsterdam
+Roma
+New York
+Colombo
+Galle Four Gravets
+Toronto
+Communauté-Urbaine-de-Québec
+Toronto,York,Brabant Wallon
+Brabant Wallon
+Miami-Dade
+Miami-Dade
+Los Angeles
+San Mateo
+Denpasar,Badung,Gianyar,Shah Alam
+Badung
+Shah Alam
+Barcelona
+Barcelona
+Valencia
+Shah Alam
+Corangamite - South
+New York
+Dambulla
+Bentota
+Dambulla
+New York
+New York
+New York
+New York
+New York
+Vsevolzhskiy rayon,Sankt-Peterburg gorsovet
+Vsevolzhskiy rayon,Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Gandaki
+Gandaki
+Gandaki
+Gandaki
+Gandaki
+South-Western,Central,Tula
+Central
+Central,Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Vsevolzhskiy rayon
+Sankt-Peterburg gorsovet
+South-Western
+Krasnoarmeyskiy rayon
+Krasnoarmeyskiy rayon
+South-Western
+Domodedovskiy rayon
+Northern
+North-Eastern
+North-Eastern
+Central
+Salfit
+Dodecanese
+Dodecanese
+Rio de Janeiro,Greater Vancouver
+Gran Sabana,Paris,Clackamas
+Oberbayern
+Manchester
+Tyne and Wear
+Tyne and Wear
+Tyne and Wear
+Tyne and Wear
+Islington
+Cheshire
+New York
+Pathum Wan,Bang Rak
+Rio de Janeiro
+Miami-Dade
+Paris
+Pathum Wan
+Shanghai
+Shanghai
+Bagmati
+Miami-Dade
+Beijing
+Madrid
+Barcelona
+Shanghai
+H? Chí Minh city
+São Paulo
+São Paulo
+São Paulo
+New York
+São Paulo
+São Paulo
+São Paulo
+Miami-Dade
+Miami-Dade
+Bang Rak,Phra Nakhon
+Miami-Dade
+Oberbayern
+Somerset
+Omskiy rayon
+Omskiy rayon
+Omskiy rayon
+Badung
+Badung
+Novosibirskiy rayon
+Kemerovskiy rayon
+Omskiy rayon
+Omskiy rayon
+Omskiy rayon
+King
+Division No. 10
+Bang Lamung
+Bagmati
+Kas
+Merkez
+Beijing
+Sepang
+Cádiz
+Barcelona
+Monash - South-West
+Whitehorse - Box Hill
+Port Phillip - West
+Melbourne - Inner
+Whitehorse - Box Hill,Melbourne - Inner
+Whitehorse - Box Hill
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner,Port Phillip - West
+Port Phillip - West
+H? Chí Minh city
+H? Chí Minh city
+King
+Shah Alam
+Paris
+Rio de Janeiro
+Miami-Dade
+Clark
+San Francisco
+Amsterdam
+Ko Phangan
+Praha 1
+Paris
+Lake
+Brookings
+San Francisco
+Pisa
+Shenzhen
+Kempton Park
+Johannesburg
+Luzern
+Westminster
+Paris
+Paris
+Paris
+Tower Hamlets
+Milano
+Bologna
+Florence,Mantua
+Venezia
+Solnechnogorskiy rayon,Krasnodar gorsovet
+Monastir
+Monastir
+Krasnodar gorsovet,Monastir
+Krasnodar gorsovet
+Krasnodar gorsovet
+Krasnodar gorsovet
+Ivanovo
+Central
+Solnechnogorskiy rayon
+Central,Northern,Western
+Bagmati
+New York
+Libertador
+Bergen
+New York
+King,Alameda
+Los Angeles
+Rio Arriba,Taos
+Fairfield
+New York
+New York
+Barcelona
+Fatih
+San Mateo
+San Francisco
+Ümraniye
+Phra Nakhon
+Suffolk,Middlesex
+Besiktas
+Sochi gorsovet
+Sochi gorsovet
+Travis,Venezia,Canada Bay - Drummoyne
+Gandaki
+Northumberland
+Tyne and Wear
+Tyne and Wear
+Ufimskiy rayon
+Central
+Ufimskiy rayon
+Kemer
+Kemer
+Kemer
+Ufimskiy rayon
+Ufimskiy rayon
+Ufimskiy rayon
+Blagoveshchenskiy rayon
+Ufimskiy rayon
+Harris
+Harris
+Harris
+Brazoria
+Valencia
+Besiktas
+Bang Rak,Pathum Wan,Shah Alam
+Shah Alam,Jakarta Pusat
+Besiktas
+Besiktas,Fatih
+Barcelona
+Barcelona
+Oberbayern
+Barcelona
+Paris
+Amsterdam,Haarlemmermeer,Cyclades
+Besiktas
+Manly
+Mount Alexander  - C'maine
+Nairobi
+Besiktas
+Middlesex
+Middlesex
+Monmouth
+Middlesex
+Middlesex
+Monmouth,Middlesex
+Middlesex
+Middlesex
+Middlesex
+Middlesex
+Middlesex
+Middlesex
+Kings
+New York,Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Middlesex
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+New York
+Harris
+Harris,Montgomery
+Harris
+Harris
+Kumbotso
+Holroyd
+Inanda,,Lions River
+Bergville
+Mornington P'sula - South
+Port Phillip - West
+Xi'an,,Xianyang
+Siem Reab
+H? Chí Minh city
+Yangon-W
+Yangon-W,Ingham
+Riversdal,Mossel
+Goodwood
+Westminster
+Lugano
+Lugano
+Rheinhessen-Pfalz
+Berlin,Kraków City
+Praha 1,Amsterdam
+Lugano
+Florence
+Oberbayern
+Beyoglu
+Sultan Koçhisar
+Rimini
+Fairfield,New York
+Nassau
+Ingham
+Puerto Vallarta
+Puerto Vallarta
+Cusco
+Calca
+Cusco
+Pedro Domingo Murillo
+Pedro Domingo Murillo
+Clinton
+Ingham
+Clinton
+Berlin
+Berlin
+Berlin
+Berlin
+Ingham
+Narita
+Alameda
+Contra Costa
+Sankt-Peterburg gorsovet
+Odes'ka
+Fatih
+Almaty (Alma-Ata)
+L'vivs'ka
+Krasnoyarskiy rayon
+Bagmati
+Odes'ka
+Shevchenkivs'kyi
+Central
+Sankt-Peterburg gorsovet
+Central
+Queens
+Santa Elena
+Panamá
+Panamá
+New York
+New York
+Amsterdam
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+Zoetermeer
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+Paris
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage,Eindhoven
+Eindhoven
+Eindhoven
+Köln
+Eindhoven
+Eindhoven
+Eindhoven
+Eindhoven
+Bagmati
+Shigatse
+Shigatse
+Shigatse
+Shigatse,Shannan,Bagmati
+Shannan
+Nubi
+New York
+New York
+New York
+New York
+New York
+London
+Westminster
+Paris
+Westminster
+Merkez,Akköy
+Merkez,Ürgüp,Beyoglu,Fatih
+Gotland
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Shinjuku
+Shibuya
+Jongro
+Panglao
+Siem Reab
+Cozumel,Roatán
+Miami-Dade
+Miami-Dade
+Broward
+Orange,Brevard
+Val-d'Oise,Hennepin,Clark
+Camden,Westminster
+Bagmati
+Bagmati
+Karang Asem,Surabaya,Lombok Barat,Gianyar
+Denpasar
+Westminster,Hammersmith and Fulham,Kensington and Chelsea
+Westminster
+Kent
+Madrid
+Madrid
+Madrid
+Manitowoc
+Bagmati
+Cook
+New York
+Sydney - Inner
+Sydney - Inner,Botany Bay
+Ko Samui,Ko Phangan,Muang Krabi
+Muang Krabi
+Muang Krabi
+Badung
+New York
+Salt Lake,Boulder,Philadelphia,Uinta
+Boulder
+A Seeb
+Nizwa,Sur,Biddiya,Al Hamra,Muttrah
+Shanghai
+San Francisco,Alameda,San Mateo
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Orange
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+San Mateo
+Clark
+Clark
+Clark
+Alameda
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Pretoria
+Westminster
+Melbourne - Inner,Port Phillip - West
+Port Phillip - West
+Melbourne - S'bank-D'lands
+Bangli,Port Phillip - West
+Thalang,Kathu
+Thalang
+Jongro
+Paris,Roma
+Paris
+Roma
+Shanghai
+Nambucca
+Leichhardt
+New York
+Bang Lamung
+Ritto
+Communauté-Urbaine-de-Montréal
+Cook
+Greater Vancouver
+Shooneh Janoobiyyeh,Aqaba,Ghour Essafi
+Queenstown-Lakes
+Ekaterinburg gorsovet
+Salvaleón de Higüey
+
+Muang Phuket
+Muang Phuket
+Muang Krabi
+Guangzhou
+Guangzhou
+Ko Samui
+Chelno-Vershinskiy rayon
+Shibuya,Kashiwa,Nikko,Matsumoto,Nagano,Gifu,Nagoya,Toba,Matsue,Hatsukaichi,Kyoto
+Chiba,Nagano,Shinjuku,Chuo,,Narita
+Nagano
+Paris
+Paris
+Oslo
+Bergen
+Stockholm
+Orleans
+Orleans
+Miami-Dade,Cook
+Wayne
+Wayne,New York
+New York
+Cook
+New York
+Orleans
+n.a328
+San Mateo
+Parramatta - North-West
+Muang Krabi
+Oberbayern
+Kathu
+Makati City
+Val-d'Oise
+Sydney - Inner
+Darmstadt
+Queens
+Sydney - Inner
+Division No. 1
+Central
+Sankt-Peterburg gorsovet
+Mittakpheap
+H? Chí Minh city
+Ðà N?ng
+Pakxe
+Bagmati
+Bagmati
+Colombo
+K.F.G. & G. Korale
+Balapitiya
+Habaraduwa
+K.F.G. & G. Korale
+K.F.G. & G. Korale
+Mawanella
+Hikkaduwa
+Central,Western
+Western
+North-Western
+Greater Vancouver
+Greater Vancouver
+Shah Alam
+Langkawi
+Phra Nakhon,Chatuchak
+Khlong Toey
+Shah Alam
+Edinburgh
+Glasgow
+Westminster
+Taito
+Minato
+North-Western,Northern,North-Eastern
+Eastern
+Dmitrovskiy rayon
+Central
+Domodedovskiy rayon
+Western
+North-Western
+Eastern
+Eastern
+Sankt-Peterburg gorsovet
+Northern
+Central
+Central
+Suffolk
+Suffolk
+Coos
+Hillsborough
+New York
+Colombo
+Colombo
+Colombo
+Bristol
+Bristol
+Bristol
+Bristol
+Bristol
+Cinfães
+Milano
+Paris
+Toronto
+Peel
+Toronto
+Toronto
+Toronto
+Toronto
+Gianyar,Distrito Federal
+Combined statistics
+Los Angeles,Badung
+Muang Chiang Mai
+Paarl
+Phra Nakhon
+Phra Nakhon
+Barcelona,Venezia,Essaouira,Badung
+Barcelona,Distrito Federal
+Cairns  - City
+Distrito Federal,Kings
+Muang Chiang Mai
+Santiago
+Monterey
+Valparaíso
+Paris
+Badung
+Cairns  - City
+Distrito Federal
+Lào Cai
+Kings
+Katana
+Bexar
+Hillingdon
+Theran
+Theran
+Vologodskiy rayon,Sokol
+Vologodskiy rayon
+Sokol,Vologodskiy rayon
+Vologodskiy rayon
+Vologodskiy rayon
+Vologodskiy rayon
+Leninskiy rayon
+Vologodskiy rayon
+Vologodskiy rayon
+Vologodskiy rayon
+Vologodskiy rayon
+Vologodskiy rayon
+Vologodskiy rayon
+Vologodskiy rayon
+Vologodskiy rayon
+Jakarta Pusat
+New York
+Bang Lamung
+Paris
+Yarra - Richmond
+Westminster
+Westminster
+Westminster
+Barcelona
+Jakarta Pusat
+Jakarta Utara
+Jakarta Pusat,Jakarta Utara
+New York
+New York
+New York
+Hudson
+Shooneh Janoobiyyeh
+Philadelphia
+Sisli
+Beyoglu
+Paris
+Paris,Besiktas,Sisli
+Roma
+Adalar
+Besiktas
+Bouches-du-Rhône,Baleares,Bakirköy
+Bouches-du-Rhône,Baleares
+Besiktas
+Roma
+Amsterdam
+Besiktas
+Beyoglu
+Fatih
+Beyoglu
+Bakirköy
+Bagmati,Narayani
+Bagmati,Narayani
+Bagmati,Narayani
+Besiktas
+Bagmati
+Fatih
+Cyclades
+Bakirköy
+Besiktas
+Attica
+Madrid
+Madrid
+Madrid
+Sariyer
+Sariyer,Besiktas
+Besiktas
+Phra Nakhon
+Kegalle
+Phnom Penh
+Camden
+Paris
+Westminster
+Westminster
+Westminster
+Westminster,Beirut
+Hyderabad
+Zürich
+Zürich
+Zürich
+New York
+Monmouth,Middlesex
+K. Bang Sao Thon
+Beirut
+Besiktas
+Nairobi
+Combined statistics
+Oslo
+Wien
+Pittwater
+Warringah
+Port Stephens
+Warringah
+Sagarmatha
+Bagmati
+Manly
+Warringah
+Warringah
+Manly
+Waverley
+Sydney - West
+Sydney - Inner,Sydney - East
+Warringah
+Stromlo
+Sydney - Inner,Manly
+North Sydney
+Uusimaa,Schwaben
+Muang Phuket
+Randwick
+Bang Lamung
+Dambulla
+New York
+Placer
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Calvados
+Pyrénées-Atlantiques
+Querétaro
+Querétaro
+Wandsworth,Hackney
+Paris
+Westminster
+Paris
+Paris
+Paris
+Waitakere
+Shah Alam
+Stavropol'skiy rayon
+Colombo
+Kensington and Chelsea
+Central
+Central
+Central
+Central
+Cumberland
+Badung
+Detmold
+Detmold
+Detmold
+Hamburg
+Oberbayern
+Navarra
+Navarra,La Rioja
+Detmold
+Hamburg
+Hamburg
+Berlin
+Berlin
+Hamburg
+Berlin
+Hamburg
+Berlin
+Gianyar
+Gianyar
+Gianyar
+Gianyar,Badung
+Gianyar
+Hamburg
+Berlin
+Hamburg
+Hamburg
+Berlin
+Shelby
+Kensington and Chelsea
+Ealing,Kensington and Chelsea,Westminster
+Argyll and Bute,Westminster
+Westminster
+Southwark
+Westminster,Southwark
+Westminster,Southwark
+Khlong Toey,Phra Nakhon
+Phra Nakhon
+Phra Nakhon
+Khlong Toey,Phra Nakhon
+Khlong Toey
+Khlong Toey
+Fairfax
+Darmstadt
+Amsterdam
+Amsterdam
+Amsterdam
+Ilala
+Bang Lamung
+Bukhar-Zhyrauskiy
+Bukhar-Zhyrauskiy
+Bukhar-Zhyrauskiy
+Karkaralinskiy
+Bukhar-Zhyrauskiy
+Lucas
+Lucas
+Pula
+Verona
+Florence
+Florence
+Praha 6,Praha 1
+Berlin
+Paris
+Isle of Wight
+East Sussex
+Imboden
+Urambo
+Hillingdon
+Shanghai
+Budapesti
+Budapesti
+Durham
+Muang Chiang Mai
+K.F.G. & G. Korale,Panadura,Galle Four Gravets
+Galle Four Gravets
+Colombo
+Kathu
+Berlin
+Paris
+New York
+Colombo
+Thimbirigasyaya
+Beijing
+Beyoglu
+Louangphrabang
+Ko Samui
+Guiyang
+Kemer
+Nanjing
+Badung
+Badung
+Badung
+Westminster
+Port Phillip - West
+Port Phillip - West
+Mareeba,Cairns  - City
+Port Phillip - West
+Saint Lucie
+New York
+Bagmati
+Bagmati
+Middlesex
+New York
+Galle Four Gravets
+Haute-Vienne
+Camden
+Muttrah
+Gwale
+Fagge
+C?n Tho
+Hà N?i,H? Chí Minh city
+San Mateo
+Tippecanoe
+Finland Proper
+Manchester
+Westminster
+Venezia,Florence
+Roma
+Shah Alam
+Milano
+Piacenza
+Wien
+Milano
+Paris
+Seine-et-Marne
+Greater Vancouver
+Division No. 11
+York
+Niagara
+Khlong Toey
+Richmond upon Thames
+Tyne and Wear
+Tyne and Wear
+Tyne and Wear
+Tyne and Wear
+Tyne and Wear
+Tyne and Wear
+Tyne and Wear
+Shanghai
+Chengdu
+Lund
+Lisse
+Paris
+Haarlemmermeer
+Landskrona
+Mittelfranken
+Amsterdam
+Sankt-Peterburg gorsovet
+Solnechnogorskiy rayon
+Sankt-Peterburg gorsovet
+Gatchinskiy rayon
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Narva
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Paris,Seine-et-Marne
+Paris
+Dhaka
+Phra Nakhon
+Siem Reab
+Hertfordshire,West Midlands
+Dutchess
+Philadelphia
+Hillingdon
+Seine-et-Marne
+'s-Gravenhage
+Modena
+San Mateo
+Monterey
+Matara Four Gravets
+Galle Four Gravets
+San Mateo
+Santa Clara
+San Mateo
+San Mateo
+Santa Clara
+Mariposa
+Muscat
+Melbourne - Inner
+Moreland - Brunswick
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner,Moreland - Coburg
+Rio de Janeiro
+Moreland - Coburg
+Melbourne - S'bank-D'lands
+Köln
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Paris
+San Francisco
+San Joaquin
+Westminster
+Tower Hamlets
+Westminster,Tower Hamlets
+Westminster
+Aigle
+Aigle
+Lamoille
+Philadelphia
+New York
+Westminster,Kensington and Chelsea,Hammersmith and Fulham
+Düsseldorf
+Alpes-Maritimes
+Bouches-du-Rhône
+Merton
+Westminster
+Camden
+Kensington and Chelsea,Camden,Westminster
+Kensington and Chelsea,Westminster
+Oberbayern
+Zürich,Suffolk
+Philadelphia
+Siem Reab
+Berlin
+Zürich
+Philadelphia
+Queens
+Central,Sankt-Peterburg gorsovet
+Beijing
+Barcelona
+Barcelona
+Las Palmas
+New York
+Philadelphia
+Rio de Janeiro
+São Paulo
+Siem Reab
+Camden
+New York
+New York
+New York
+New York
+New York
+New York
+Kings
+Attica
+Attica,Eyüp
+Eyüp,Fatih,Besiktas
+Attica
+Attica
+Beyoglu
+Cyclades
+Cyclades
+Cyclades
+Cyclades
+Attica
+Warsaw
+Attica
+Attica
+Attica
+Bruxelles
+Ouder-Amstel,Amsterdam
+Combined statistics
+Arcadia
+Zürich
+Rio de Janeiro
+Rio de Janeiro
+New York
+Toronto
+Peel
+Paris
+Düsseldorf
+Westminster,Camden
+Peel
+Toronto
+Amsterdam
+Málaga
+Cook
+Nicoya
+Westminster
+Westminster
+Manchester
+Westminster
+Greater Vancouver
+Sydney - Inner
+Southwark
+Greater Vancouver
+Warringah
+Khánh Hòa
+Sankt-Peterburg gorsovet
+Taal
+Kings
+New York
+New York
+New York,Kings
+Jakarta Selatan,Jakarta Pusat
+Jakarta Pusat,Jakarta Barat
+Lombok Tengah
+Florence,La Spezia
+Barcelona
+Barcelona
+San Francisco
+San Francisco
+Tarrant
+Tarrant
+Tarrant
+Tarrant
+Dallas
+Dallas
+Tarrant
+Tarrant
+Tarrant
+Tarrant
+Tarrant
+Orange
+Orange
+Orange
+Orange
+Orange
+Los Angeles
+Clark
+San Diego
+San Diego
+Orange
+Sandgerði
+Westminster,Hackney,Camden,Paris
+Paris
+Modena,Roma
+Rio de Janeiro
+Luzern
+Muang Krabi
+Khlong San
+Combined statistics,Ouarzazate
+Ljubljana
+Málaga
+Portsmouth
+Cook,Harris
+Harris
+Buenaventura
+San Francisco
+Richmond upon Thames
+Edinburgh,Glasgow
+Brighton and Hove,Camden
+Amsterdam
+Amsterdam
+Adachi
+Shibuya
+Shibuya
+Osaka
+Osaka
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Madrid
+Madrid
+Madrid
+Los Angeles
+New York
+Bucks
+Queens
+Bagmati
+Somerset
+San Mateo
+New York
+Shah Alam
+Shah Alam
+Roma
+Clark
+Clark
+Shenzhen
+Shah Alam
+Sydney - Inner
+Sydney - Inner,Mosman
+A Seeb
+Muttrah
+Muttrah
+Baleares
+London
+Muang Krabi
+Pathum Wan
+Cha-Am
+Cha-Am
+Cha-Am
+Paris
+Pathum Wan
+Pathum Wan
+Amsterdam
+Siem Reab
+Krasnoyarskiy rayon
+Fairfield
+New York
+New York
+New York
+New York
+Bergen
+New York
+Lào Cai
+Lào Cai
+Phra Nakhon
+Gianyar
+Gianyar
+Karang Asem
+San Diego
+New York
+New York
+New York
+Miami-Dade
+Miami-Dade
+Somme
+Westminster
+Travis
+Thimbirigasyaya
+Bang Kapi
+Siem Reab
+Whitsunday
+Waitakere
+Queenstown-Lakes
+Kathu
+Sepang
+Taipei City,Sepang
+Sleman,Yogyakarta
+Osaka,Kiyotake,Miyazaki
+Kiyotake
+Kiyotake
+Ikeda
+Ponorogo
+Chanthabuly
+Hà N?i
+Hà N?i
+Hà N?i
+Lausanne
+New York
+New York
+New York
+Westminster
+Bagmati
+Kensington and Chelsea
+Palm Beach
+Hillingdon
+Queens
+New York,Santa Clara,San Francisco
+New York
+Westminster,Hillingdon
+Lahore
+Pathum Wan,Bang Plee
+Pathum Wan,Wattana,Sathorn,Khlong Toey,Thon Buri,Phra Nakhon,Muang Krabi,Thalang
+New York
+New York
+New York
+Westminster
+Seine-Saint-Denis,Westminster,Paris,Camden,Southwark
+New York
+New York
+Essex,New York
+New York
+New York
+New York
+New York
+New York
+Zürich
+Maloja
+Maloja
+New York,Hudson,Orange
+Orange
+Westminster
+Combined statistics
+Paris
+Westminster
+Westminster
+Roma,,Bologna
+Venezia
+Westminster
+Pathum Wan
+Pojezerje,Dubrovnik
+Westminster
+Westminster
+Westminster
+Camden,Westminster
+Westminster,Kensington and Chelsea
+Westminster
+Westminster,Kensington and Chelsea
+Westminster
+Westminster,Kensington and Chelsea
+Sankt-Peterburg gorsovet
+Bagmati
+Dutchess
+Wiltshire
+New York
+New York
+Kings
+Essex
+K.F.G. & G. Korale,Dambulla,Koralai Pattu (Valachchenai)
+Negombo
+King
+Kings
+Bausher
+Muscat
+Clark
+Clark
+San Francisco
+Los Angeles
+Shibuya
+Nara,Kyoto
+Ikeda
+Venezia
+Bohinj
+Çankaya
+Merkez
+Selçuk
+San Bernardino
+Silifke
+Alpes-Maritimes
+Alpes-Maritimes
+Paris
+Roma
+Roma
+Roma
+Jefferson
+Kings
+Milano
+Milano
+Milano
+Milano
+Bergamo
+Oberbayern
+Oberbayern
+Oberbayern
+Oberbayern
+Oberbayern
+Stuttgart
+Unterfranken
+Unterfranken
+King,Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Yogyakarta
+Balikpapan
+Balikpapan
+Gunnison
+San Mateo
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan,Shah Alam
+Balikpapan
+Balikpapan
+Ko Samui
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Badung
+Badung
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Kota Tangerang,Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Pima
+Tarrant
+Reykjavík
+Pima
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Balikpapan
+Ko Samui
+Ko Samui
+Ko Samui
+Sathorn
+Baltimore
+Pima
+Pima
+Pima
+Nelson
+Fayette
+Woodford
+Fayette
+Fayette
+Fayette
+Fayette
+Fayette
+Scott,Jefferson
+Fayette
+Pike
+Fayette
+Fayette
+Fayette
+Davidson
+Jefferson
+Fayette
+Fayette
+Fayette
+Fayette
+Stockholm
+District of Columbia
+Fayette
+Rowan
+Fayette
+Fayette
+Fayette
+Jefferson
+Marion
+Clark
+Colombo
+Colombo,Kaduwela
+Colombo
+Middlesex
+Kensington and Chelsea
+Westminster
+Westminster
+Ceredigion
+Camden
+Ealing
+Camden
+Southwark
+Ealing
+Camden
+Hillingdon
+Vicente López,Cádiz
+Vergenoegen / Greenwich Park
+Amsterdam
+Oberbayern
+Darmstadt
+Darmstadt
+Paris
+H? Chí Minh city
+Ðà N?ng
+Gianyar
+Badung
+Badung
+Cornwall
+Kawang
+Paris
+Bruxelles
+Amsterdam
+Köln
+Darmstadt
+Parramatta  - Inner
+Henrico,Richmond
+New York
+New York
+Henrico
+Orange
+Henrico
+New York
+New York
+New York
+New York
+District of Columbia
+Henrico,Hudson,New York
+Orange
+King
+Zagreb
+Fthiotis
+Darmstadt
+Kraków City
+Darmstadt
+Morris
+Oslo
+Köln
+Bakirköy
+Maricopa
+Hillingdon
+Chiyoda
+Barcelona
+Jung
+Praha 1
+Haarlemmermeer,Panamá
+Haarlemmermeer
+Thames-Coromandel
+Whangarei
+Gianyar
+Badung
+Dehiwala-Mount Lavinia
+Katana
+Arequipa
+Arequipa
+Madrid
+H? Chí Minh city,Hà N?i
+Shah Alam
+Oberbayern
+Oberbayern
+Roma
+Verona,Venezia
+Milano
+Habaraduwa
+Habaraduwa
+Paris
+Dhaka
+Dhaka
+Dhaka
+Guangzhou
+Paris
+Milano
+Charente-Maritime
+Casablanca
+Kabul City
+Kabul City
+Kabul City
+Kabul City
+Vilniaus,Westminster,Highland
+Westminster
+Cumbria
+Shah Alam
+Shooneh Janoobiyyeh,Madaba,Aqaba
+Nantou
+Lee
+Negombo
+Mechi
+Ngari
+Beijing
+Sangamon
+Lombok Barat
+Lombok Barat
+Taoyuan
+Taoyuan
+Bath and North East Somerset,Wiltshire,Westminster
+Brent,Westminster,,Camden,Greenwich,Tower Hamlets,Kensington and Chelsea,Cambridgeshire,Paris
+Hsinchu,Taoyuan
+Taipei
+Haarlemmermeer
+Cardiff
+Cardiff
+Cardiff
+Cardiff
+Oakland
+Seine-et-Marne
+Uppsala
+Darmstadt
+San Mateo
+Timur Laut
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+Osasco
+São Paulo
+Florianopolis,Brumadinho,Confins
+Amsterdam
+Amsterdam
+Amsterdam,De Ronde Venen
+Amsterdam
+Amsterdam
+Amsterdam,Alkmaar,Haarlemmermeer
+Shah Alam
+Thimbirigasyaya,Dehiwala-Mount Lavinia
+Salvador
+Mata de São João
+Mata de São João
+Mecklenburg
+Jongro
+Hikkaduwa,Colombo
+Kinshasa
+Kinshasa
+Kinshasa
+Kinshasa
+Kinshasa
+Paris
+Ko Samui
+Travis
+Cozumel
+Cozumel
+Columbia
+Columbia
+Greene
+Washington
+Cozumel,Washington
+Kings
+Cozumel
+Los Angeles
+Cozumel
+Cozumel
+Cozumel
+Cozumel
+Benito Juárez
+Kensington and Chelsea
+Kensington and Chelsea,Westminster,Islington
+Westminster
+Cozumel
+Edinburgh
+Edinburgh
+Kensington and Chelsea
+Cozumel
+Cozumel
+Tarrant
+Bang Lamung
+Bang Lamung
+Fatih,Beyoglu
+Akköy,Besiktas,Beyoglu
+Attica
+Cyclades
+Cyclades,Attica,Bakirköy
+South Yorkshire
+New York
+Central
+Kings
+Kings
+Paris
+Kensington and Chelsea
+Bagmati
+Bagmati
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Western
+Central
+Northern,Central
+Sankt-Peterburg gorsovet
+Northern
+Western
+Bangli,Surabaya,Sleman
+Yogyakarta
+Yaroslavskiy rayon
+Greenwich,Tower Hamlets
+North-Western
+New York
+Galle Four Gravets
+Paris
+Phra Nakhon Si Ayutthaya
+Bagmati
+Roma
+Florence
+Varese
+Sarajevo
+Sarajevo
+Pordenone
+Udine
+Jackson
+San Francisco
+Kalookan City
+'s-Gravenhage,Antwerpen
+Bruxelles
+Bruxelles,Antwerpen,Amsterdam
+Mackinac
+Manchester
+Manchester
+Perugia
+Milano
+Paris
+Massa Carrara
+Massa Carrara
+Paris
+Paris
+Dhaka
+Dhaka
+Mersing
+Sepang,Shah Alam
+K. Ko Chang
+Bang Lamung
+Nord
+K.F.G. & G. Korale
+Dehiwala-Mount Lavinia
+Muang Krabi
+Muang Krabi
+Sathorn
+Paris
+Puy-de-Dôme
+Puy-de-Dôme
+Mandalay
+Taunggye,Myingyan
+Yangon-W
+Muang Krabi
+Muang Krabi
+Langkawi,Sepang,Shah Alam
+Bouches-du-Rhône
+Paris
+Manche
+Paris
+Val-de-Marne
+Puy-de-Dôme
+Hua Hin
+Muang Ranong
+Vendée
+Bakirköy
+Barcelona
+Kilanas
+Hauts-de-Seine
+Hauts-de-Seine
+Travis
+New York
+Shah Alam
+Lahore
+Durham
+Durham
+Suffolk
+Suffolk
+Suffolk
+Dhaka
+Dhaka
+Dhaka
+Kuantan
+Shah Alam
+Oslo
+Khartoum
+Kawang
+Kawang
+Zürich
+Fatih
+Philadelphia
+Prättigau/Davos
+Kensington and Chelsea
+Karachi
+Pisz
+Sankt-Peterburg gorsovet
+Bagmati
+Bagmati
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Pechers'kyi
+Odes'ka
+Odes'ka
+Western,Central,Podil's'kyi
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Lodeynopol'skiy rayon
+K.F.G. & G. Korale,Matale,Ratnapura
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Bagmati
+Ngari
+Fatih
+Port Phillip - West
+Sathorn
+Marion
+Taoyuan
+Clark
+Clark
+Clark
+Orange
+Clark
+Bang Kho Laem
+Phra Nakhon,Pathum Wan
+Atlantic
+Lahore
+Macomb
+Bang Plee
+Bang Plee
+Toronto
+Toronto
+Toronto
+Depok
+Serang
+Tangerang
+Tangerang
+Ponta Grossa
+Anapskiy rayon
+Tbilisi
+K.F.G. & G. Korale
+K.F.G. & G. Korale
+Kusadasi,Selçuk
+Merkez
+Theran
+Tiran and Karvan,Yazd
+Theran
+Nanning
+Braunschweig
+Detmold
+Multan
+Multan
+Shah Alam
+Shah Alam
+Shah Alam
+Beijing
+Beijing
+Hulu Langat
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Bromley
+Bromley
+Bromley
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Lambeth
+Darmstadt
+Venezia
+Surrey
+Berkshire
+Devon
+Phra Nakhon,Muang Chiang Mai
+Muang Chiang Mai
+Muang Chiang Rai,Phra Nakhon
+Muang Kanchanaburi,Ko Samui,Ko Phangan
+Ko Phangan
+Ko Phangan
+Timur Laut
+Magelang,Yogyakarta
+Lombok Barat
+Badung
+Gianyar
+Samphantawong,Phra Nakhon
+Melbourne - S'bank-D'lands
+Brighton and Hove
+Melbourne - Inner
+Melbourne - Inner,Port Phillip - St Kilda,Port Phillip - West
+Hobsons Bay - Williamstown
+Melbourne - Inner
+Melbourne - Inner
+Maribyrnong
+Melbourne - Inner
+Cook
+Fayette
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner
+Maribyrnong
+Melbourne - Inner
+Melbourne - Inner,Melbourne - S'bank-D'lands
+Melbourne - Inner
+Melbourne - Inner
+Port Phillip - West
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner,Port Phillip - West
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - Inner
+Port Phillip - West
+Melbourne - Inner
+Santa Rosa City
+Mabini
+Köln
+West Torrens - East
+Paris
+Darmstadt
+Milano
+Westminster
+Badung
+Badung
+Badung
+Badung
+Thimbirigasyaya
+Hikkaduwa
+Bagmati
+Smolenskiy rayon
+Smolenskiy rayon
+Smolenskiy rayon
+Smolenskiy rayon
+Smolenskiy rayon
+Smolenskiy rayon
+Smolenskiy rayon
+Smolenskiy rayon
+Smolenskiy rayon
+Ceské Budejovice
+Shanghai

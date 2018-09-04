@@ -1,0 +1,1389 @@
+Salt
+Clark
+Guangzhou
+Guangzhou
+Guangzhou
+Bjerringbro
+Jerusalem
+Beirut
+Beirut
+Beirut
+Saratovskiy rayon
+Saratovskiy rayon
+Tbilisskiy rayon
+Ust'-Labinskiy rayon,Tbilisskiy rayon
+Krasnodar gorsovet
+Tbilisskiy rayon
+Krasnodar gorsovet
+Tuapsinskiy rayon
+Tbilisskiy rayon
+Oberbayern
+Essaouira
+Gelendzhik gorsovet
+Gelendzhik gorsovet
+Gelendzhik gorsovet
+Krasnodar gorsovet
+Gelendzhik gorsovet
+Muang Phuket
+Hannover
+Hannover
+West-Vlaanderen
+Hannover
+Hannover
+Cattaraugus
+Tomskiy rayon,Novosibirskiy rayon
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Tol'yatti,Stavropol'skiy rayon
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Bakirköy
+Buckinghamshire
+Galanta
+Nowy Sacz City
+Tübingen
+Heraklion
+Wien
+Achinskiy rayon
+Achinskiy rayon
+Kings
+Thompson-Nicola
+Carthage
+Carthage
+Carthage
+Omrane
+Florence
+Toronto
+Toronto
+Toronto
+Toronto
+Tayybeh
+Paris
+Oost-Vlaanderen
+Siem Reab
+Phra Nakhon
+Fatih
+Combined statistics
+Combined statistics
+Prince George's,Alexandria
+Prince George's
+Prince George's
+Besiktas
+Besiktas
+Paris
+Praha 1
+Praha 6
+Praha 1
+Barcelona
+Barcelona
+Budapesti
+Paris
+Paris
+Paris
+Timur Laut
+Shah Alam
+Shah Alam
+Marion
+Citrus
+Amman
+Bagmati
+Narayani
+Bagmati
+Narayani
+Barcelona
+Murrindindi - East
+North-Western
+Central
+Eletskiy rayon
+Noginskiy rayon
+Western
+Borovskiy rayon
+Western
+Berlin
+Leipzig
+Oberbayern
+Oberbayern
+Merseyside
+Merseyside
+Merseyside
+Mérida
+Port Shepstone
+Port Shepstone
+Uusimaa
+Uusimaa
+Split
+Uusimaa
+Beyoglu,Besiktas
+Bakirköy
+Kusini
+Bakirköy,Besiktas,Beyoglu,Fatih,Sariyer
+Beirut
+Nizwa
+Sergievskiy rayon
+KryvyiRig
+Manavgat
+Manavgat
+KryvyiRig
+Beirut
+Fatih,Potter,Cartagena de Indias,Mawokota
+Haarlemmermeer
+Amsterdam
+Stupinskiy rayon
+Domodedovskiy rayon
+Domodedovskiy rayon
+Domodedovskiy rayon
+Domodedovskiy rayon
+Domodedovskiy rayon
+Feodosiis'ka
+North-Western,Sankt-Peterburg gorsovet
+Domodedovskiy rayon
+Domodedovskiy rayon
+Leninskiy rayon
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Shah Alam
+Ceuta
+Huelva
+Etowah
+Ahmadabad
+Ahmadabad
+Jaipur
+District of Columbia
+Sydney - Inner
+Sydney - South
+Sydney - Inner
+Sydney - Inner
+Milano
+Arnsberg
+Darmstadt
+Kharkivs'ka
+Kharkivs'ka
+Paris
+Paris
+Bruxelles
+Westminster
+Westminster
+Oxfordshire
+Westminster,Camden
+Kensington and Chelsea
+Westminster
+Krasnodar gorsovet
+Krasnodar gorsovet
+Krasnodar gorsovet
+Krasnodar gorsovet
+Krasnodar gorsovet
+Krasnodar gorsovet
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Stavropol'skiy rayon
+Central
+Shah Alam
+Burnside  - South-West,Mitcham - North-East
+Adelaide Hills - North
+Kinta
+Barcelona
+Granada
+Sevilla
+Hertfordshire,London
+New York
+New York
+New York
+New York
+New York
+New York
+Beirut
+Bryanskiy rayon
+Khartoum
+Queens
+Queens,New York
+Queens
+Bari
+Bari
+Minsk
+Minsk
+Minsk
+Minsk
+Minsk
+Minsk
+Milano
+Minsk
+Roma
+Minsk
+Beyoglu
+Milano
+Kings,New York
+New York
+New York
+Queens
+Tema
+Tema
+Tema
+Randburg
+Tema
+Beirut,Kesrouan
+Beirut
+Tema
+Durham
+Orange,Durham
+New York,Paris
+Freiburg
+Probitip
+Savona
+Freiburg
+Mohave,Clark
+Kota Kinabalu
+Sandakan,Kinabatangan
+Sandakan
+Knittelfeld
+Paris
+Berlin
+Roma,Venezia
+Cook
+Imperia
+Beyoglu
+Guangzhou
+Kagithane
+Guangzhou
+Guangzhou
+Guangzhou
+Milano,Santiago de Cali
+North-Western,Central
+North-Western,South-Eastern
+Sankt-Peterburg gorsovet
+Central
+Central
+Beyoglu
+Paris
+Paris
+Merseyside
+Zürich
+Honolulu
+Darmstadt
+Darmstadt
+Porto,Vila Nova de Gaia
+Lisboa
+Darmstadt
+Darmstadt
+Berlin
+Darmstadt
+Cyclades
+Barcelona
+Shevchenkivs'kyi,Pechers'kyi
+Pechers'kyi
+Shevchenkivs'kyi
+Berlin
+Berlin
+Berlin
+Berlin
+Zelenogradsky
+North-Western
+Stockholm
+Domodedovskiy rayon
+Palilula
+Oberbayern
+Krasnodar gorsovet
+Krasnodar gorsovet
+Anapskiy rayon,Krasnodar gorsovet
+Krasnodar gorsovet
+Gagra
+Rafah
+Yelabuzhskiy rayon
+Haarlemmermeer
+Berlin
+Haute-Garonne
+Gironde
+Ariège
+Haute-Garonne
+Minsk
+Barysaw
+Boryspil's'ka
+Arsha
+Barcelona
+Barcelona
+Barcelona
+Beirut
+Beirut,Baabda
+Roma
+Queens
+New York
+Essex
+Azilal
+Caltanissetta
+Muscat
+Orange
+Queens
+Queens
+Queens
+Genève
+Vratsa
+Paris
+Paris
+Shah Alam
+Shah Alam
+San Francisco
+Atizapán de Zaragoza
+Madrid
+Ufimskiy rayon
+Ufimskiy rayon
+Ufimskiy rayon
+Ufimskiy rayon
+Kassel
+Kemer
+Merkez
+Merkez
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+LagosIsland
+Eti-Osa
+Al'met'evskiy rayon
+Al'met'evsk
+Vysokogorskiy rayon
+Kassel
+Berlin
+Wien
+Denver
+Paris
+Santiago de Cali
+Hudson
+Pas-de-Calais
+Seine-et-Marne,Paris
+Beirut
+Matn
+Marion
+Kharkivs'ka
+Kharkivs'ka
+Kharkivs'ka
+West Dunbartonshire
+West Dunbartonshire
+West Dunbartonshire
+Evritania
+Darmstadt
+Seine-et-Marne
+Seremban
+Seremban
+Seremban
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Batu Pahat
+Central,North-Eastern
+Domodedovskiy rayon
+Domodedovskiy rayon
+Novosibirskiy rayon
+Westminster
+Westminster
+Travis
+Travis
+Travis
+Ilala
+Wien
+Khartoum
+Amsterdam
+Amsterdam
+Amsterdam
+Chouf
+Marjayoun
+Meru,Nairobi
+Wayne,Lake Erie
+Essex
+Jackson,Wyandotte
+Krasnodar gorsovet
+Westminster
+Kota Bharu
+Kota Bharu
+Bahçelievler
+Sankt-Peterburg gorsovet
+Fatih,Central
+Besiktas,Bahçelievler
+Beyoglu
+Beyoglu
+Bakirköy
+Beyoglu,Kadiköy
+Northern
+Central
+Beyoglu
+Mineral'nye Vody
+Karachayevskiy rayon
+Mineral'nye Vody
+Obolons'kyi
+Holosiïvs'kyi
+Westminster
+Dhaka
+Flagler
+Matn,Beirut
+Hudson
+Hudson,New York
+New York,Hudson
+Hudson,New York
+Sepang,Shah Alam
+Beirut,Kesrouan,Matn
+New York
+New York
+Berlin
+Berlin
+Berlin
+Wien,Bratislava I
+Sankt Veit an der Glan
+Sankt Veit an der Glan,Feldkirchen
+Dodecanese
+Dodecanese
+Dodecanese
+Dodecanese
+Dodecanese
+Sankt Veit an der Glan
+Wien
+Matn,Beirut
+Carthage
+Carthage,Sidi El Béchir
+Sevilla,Granada
+Fatih
+Beyoglu,Besiktas
+Besiktas
+Roma
+Roma
+Milano
+Los Angeles
+Los Angeles
+Orange,Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Västerås
+Stockholm
+Göteborg
+Barcelona
+Barcelona
+Hillingdon
+Kombo Saint Mary
+Westminster
+Paris,Camden
+Bakirköy
+Roma
+Dakar
+Bronkhorstspruit
+George
+Berlin
+Dakar
+Berkshire
+Corfu,Lasithi
+Vlaams Brabant
+Milano
+Kings
+Kings
+New York
+Kings
+Kings
+Richmond
+Berlin
+Kharkivs'ka
+Kharkivs'ka
+Boryspil's'ka
+Shevchenkivs'kyi
+Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Québec
+Rio de Janeiro
+Amsterdam
+Kharkivs'ka
+Homyel'
+Homyel'
+Homyel'
+Merkez
+Paris,Seine-et-Marne
+Paris
+Seine-et-Marne,Paris
+Seine-et-Marne
+Paris
+Cuernavaca
+Mataram
+Dhaka
+Westminster
+Kensington and Chelsea
+Westminster
+Melaka Tengah
+Sadao
+Kuala Muda
+Shah Alam
+Shah Alam
+Seine-et-Marne,Alpes-Maritimes
+Bouches-du-Rhône
+Arlington
+Fredericksburg
+Arlington
+Fairfax
+Attica
+Kota Bekasi
+Jakarta Selatan
+Jakarta Timur
+Yogyakarta
+Marang
+Kota Bharu,Marang
+Drohobyts'ka
+Kyievo-Sviatoshyns'kyi
+Kyievo-Sviatoshyns'kyi
+Holosiïvs'kyi
+Novomoskovs'kyi
+Obolons'kyi
+Vilniaus
+Kyievo-Sviatoshyns'kyi
+Alpes-Maritimes
+Beirut
+Ratchathewi
+Málaga
+Málaga
+Westminster
+Tower Hamlets
+Sepang,Kuching
+Melaka Tengah
+Shah Alam
+Kota Setar,Muang Krabi
+Shah Alam
+Attica,Trikala
+Cyclades
+Attica
+Sepang
+Hulu Langat
+Sepang,Segamat
+Shah Alam
+Shah Alam
+Klang
+Samphantawong
+Shah Alam
+Sepang
+Baling
+Shah Alam
+Kuala Terengganu
+Kota Bharu
+South Brisbane,Oxenford-Maudsland
+Sydney - Inner
+Sepang
+Kinta
+Shah Alam
+Jongro
+Shah Alam
+Shah Alam
+Quezon City
+Budapesti
+Budapesti
+Kraków City
+Praha 1
+Praha 1
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Attica
+Olomouc
+Olomouc
+Olomouc
+Olomouc
+Olomouc
+New York
+Honolulu
+Lisboa
+Oberbayern
+Oberbayern
+Paris
+Sepang
+Beirut
+Amman
+Northern
+Kotelniki
+Northern
+North-Eastern
+Ekaterinburg gorsovet
+Ekaterinburg gorsovet
+Paris
+Bouhaira
+Bouhaira
+Fatih,Beyoglu,Bakirköy
+West Midlands
+Westminster
+Westminster
+Westminster
+West Midlands,Warwickshire
+Westminster,Kensington and Chelsea,Hillingdon
+Málaga,Sevilla
+Málaga
+Besiktas,Fatih
+Khartoum
+Barcelona
+Fatih
+Warwickshire
+Johor Baharu
+Brighton and Hove
+West Sussex
+Brighton and Hove
+Berlin
+York
+Niagara
+Sunbury
+Communauté-Urbaine-de-Montréal
+Adhamiya
+Wien
+Wien
+Wien
+Livorno
+Livorno
+Rieti
+Terni
+Bruxelles
+Venezia
+Labin
+Labin
+Rovigo
+Vicenza
+Milano
+Bologna
+Ferrara
+Rovigo
+Central
+Eastern
+Central
+Central
+Central
+Central
+Solnechnogorskiy rayon
+Northern
+South-Eastern,Mytishchinskiy rayon
+South-Eastern
+Northern
+Central
+Central
+Central
+Central
+Central
+Central
+Western
+Mytishchinskiy rayon
+Western
+South-Eastern
+Eastern
+Eastern
+Central
+Oxfordshire
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Domodedovskiy rayon
+Brighton and Hove
+Ekaterinburg gorsovet
+Jerusalem
+Sankt-Peterburg gorsovet
+Ekaterinburg gorsovet
+Madrid
+Islington
+Santiago de Cali
+Kathu
+Serik
+Serik
+Polkowice
+Barcelona
+Amman
+Paris
+Paris
+Paris
+Okhtyrs'kyi
+Pechers'kyi
+Kharkivs'ka
+Kharkivs'kyi
+Kharkivs'ka
+Kharkivs'ka
+L'vivs'ka
+Rabat
+New York
+Bronx
+Bronx
+New York
+New York
+New York
+Parkes
+Madison
+Sousse Médina
+Madrid
+Roma
+Linz
+Quezon City
+Köln
+Düsseldorf
+Santiago de Cali
+Khartoum
+Darmstadt
+Fatih
+Beyoglu
+Una-Sana
+Roma
+Shanghai
+Shanghai
+Krasnodar gorsovet
+Kemer
+Merkez
+Anapskiy rayon
+Krasnodar gorsovet
+Middlesex
+Donets'ka
+Rio de Janeiro
+Madaba
+Paris
+Paris
+Venezia,,Paris,Distrito Federal,Roma
+Hai
+Orange,Krugersdorp
+Kensington and Chelsea,Amsterdam,Westminster
+Westminster
+Westminster
+Westminster
+Bang Plee,Phra Nakhon
+Westminster
+Tower Hamlets
+Randburg
+Westminster
+Kensington and Chelsea
+Westminster
+New York
+New York
+Westminster
+Hillingdon
+Westminster
+Ezzahra
+Ezzahra
+Tallinn
+Westminster
+Monroe
+Monroe
+Madrid
+Domodedovskiy rayon
+Novosibirskiy rayon
+Novosibirskiy rayon
+Darmstadt
+Bologna
+Hammersmith and Fulham
+Kirov gorsovet
+Central
+Central
+Beyoglu
+Orange
+Orange
+New York
+Orange,New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Orange
+New York
+Barcelona,Praha 1
+Praha 1
+Peel
+Warsaw
+Warsaw
+Warsaw
+Kamianets'-Podil's'ka
+Kamianets'-Podil's'ka
+Warsaw
+Kamianets'-Podil's'ka
+Warsaw
+Warsaw
+Warsaw
+Aksayskiy rayon
+Aksayskiy rayon
+Aksayskiy rayon
+Barcelona
+Barcelona
+Roma
+Barcelona
+Randburg,Barcelona,East London
+Barcelona
+Simferopol's'kyi,Bakhchysarais'kyi
+Cádiz
+Paris
+Hudson
+Hudson
+Hudson
+KryvyiRig
+KryvyiRig
+Privolzhskiy rayon
+Gorodishchenskiy rayon
+Privolzhskiy rayon
+Privolzhskiy rayon,Narimanovskiy rayon
+Narimanovskiy rayon
+Privolzhskiy rayon
+Privolzhskiy rayon
+Privolzhskiy rayon
+Genève
+Sepang
+Shah Alam
+District of Columbia
+Omrane
+Roma
+Almaty (Alma-Ata)
+Eastern
+Talgarskiy
+Almaty (Alma-Ata)
+Almaty (Alma-Ata)
+Almaty (Alma-Ata)
+Almaty (Alma-Ata)
+Vilniaus
+Palugaswewa
+Kubang Pasu
+Cameron Highlands
+Waitakere
+Barcelona
+Paris
+Darmstadt
+Besiktas
+Shah Alam
+Nairobi,Nakuru
+Verona
+Pisa
+Roma
+Fatih
+Fatih,Kestel
+Shah Alam
+Shah Alam
+Melaka Tengah
+Rembau
+Rembau
+Shah Alam
+Shah Alam
+Shah Alam
+Klang
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Kharkivs'ka
+Fatih,Besiktas
+Muang Krabi
+Richmond
+Milwaukee
+Orange
+Orange
+Washtenaw
+Philadelphia,Montgomery,Washtenaw,Macomb
+Washtenaw,Lake Erie
+Washtenaw
+Wayne,Washtenaw
+Washtenaw,Wayne
+Wayne
+Washtenaw
+Washtenaw
+Berlin
+Santiago de Cali
+Santiago de Cali
+Sedgwick
+Seine-et-Marne
+Beirut
+Tulkarm
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Kern
+Westminster
+Zeewolde
+Westminster,Zeewolde
+Paris,Seine-et-Marne,Barcelona
+Paris,Seine-et-Marne
+Seine-Saint-Denis
+Orange
+Alessandria
+Pavia
+Nakano
+Nakano
+Himi
+Central
+Tbilisi
+Ryazanskiy rayon
+Ryazan'
+Santiago de Cali
+Santiago de Cali
+Santiago de Cali
+Santiago de Cali
+Stolichna
+Stockholm
+Stockholm,Solna
+Stockholm
+Bloemfontein
+New York
+Barcelona
+Bogorodskiy rayon
+Kstovskiy rayon
+Eastern
+Central
+Nizhniy Novgorod gorsovet
+Maltepe
+Bryanskiy rayon
+Bryansk
+Rovigo
+Rovigo
+Bakirköy,Sollentuna
+Simon Town
+Fatih
+Fatih
+Beyoglu
+Beyoglu
+Paris,Seine-et-Marne
+Paris
+Kadiköy
+Paris
+Adhamiya
+Adhamiya
+Fatih,Beyoglu
+Darmstadt
+Niagara
+Niagara
+Ottawa
+Ottawa
+Ottawa
+Ottawa
+Darmstadt
+Niagara
+Ottawa
+Ottawa
+Westminster
+Zone 2
+Bagmati
+Tarrant
+Cook
+Tver'
+Roma
+Roma
+Eti-Osa
+Madrid
+Paris
+Oost-Vlaanderen
+Paris
+Paris
+Paris
+Seine-et-Marne
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Harris
+Harris
+Miri
+Fatih
+Fatih
+Beyoglu
+Domodedovskiy rayon
+Sankt-Peterburg gorsovet
+Tver'
+Tver'
+Prince George's
+Arlington
+'s-Gravenhage
+Gouda
+Milano,'s-Gravenhage
+Diekirch,Luxembourg
+West-Vlaanderen
+Diekirch,Rotterdam
+Grindavík,Þingvallahreppur
+Bergen
+Jbayl
+Paris
+Amsterdam
+Haarlemmermeer,Roma
+Barcelona
+Greater Bombay
+Roma
+Darmstadt
+Nairobi
+Cape May
+Nova Iguaçu
+Perm' gorsovet
+Perm' gorsovet
+Leninskiy rayon
+North-Western
+Leninskiy rayon
+Orleans
+Sterlitamakskiy rayon
+Anapskiy rayon
+Sterlitamakskiy rayon
+AbujaMun
+Greater Monrovia
+Warwickshire
+Roma
+Oost-Vlaanderen
+Merkez
+Sankt-Peterburg gorsovet
+Leninskiy rayon
+Sankt-Peterburg gorsovet
+Vereeniging
+Vereeniging
+Vereeniging
+Vereeniging
+Thüringen
+Thüringen
+Oberbayern
+Dodecanese
+Dodecanese
+Thüringen
+Croydon
+Westminster
+Anne Arundel
+Loudoun
+Kharkivs'ka
+Kharkivs'ka
+Fulton
+Domodedovskiy rayon
+South-Western
+Central
+Shah Alam,Langkawi
+Tübingen,Oberbayern
+Jasin
+Melaka Tengah
+Shah Alam
+Val-d'Oise
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Sepang
+Kuching
+Kota Bharu
+Kota Bharu
+Hulu Langat
+Kota Bharu
+Gadong
+Westminster
+Westminster
+Westminster
+Westminster
+Domodedovskiy rayon
+Borovskiy rayon
+Landeck
+Pitkin
+Ushuaia
+São Roque
+Pitkin
+Lyuberetskiy rayon
+Chernivets'ka
+Chernivets'ka,Storozhynets'kyi
+Dniprovs'kyi
+Holoprystans'kyi
+Sudats'ka
+Sroda Slaska
+Warsaw
+Sroda Slaska
+L'vivs'ka
+Amsterdam
+Amsterdam
+Amsterdam
+Luhans'ka
+Pomorie
+Kharkivs'ka
+Kharkivs'ka
+Kharkivs'ka
+Kharkivs'ka
+Central,Northern
+Kharkivs'ka
+Kharkivs'ka
+Ivano-Frankivs'ka
+Sergievo-Posadskiy rayon
+Sergievo-Posadskiy rayon
+Wiltshire
+Sergievo-Posadskiy rayon
+Domodedovskiy rayon
+Sergievo-Posadskiy rayon
+Western
+Rabat,Casablanca
+Salé
+Oberbayern
+Amsterdam
+Jableh
+Berlin
+Berlin
+Middlesex
+Paris,Hillingdon
+Buckinghamshire
+Hammersmith and Fulham,Hillingdon
+Krems an der Donau Land
+Krems an der Donau Land,Wien
+Hillingdon
+Hillingdon
+Ramonskiy rayon
+Kashirskiy rayon
+Domodedovskiy rayon
+South-Eastern
+North-Eastern
+Southern,Central
+North-Western
+Central,North-Eastern,Western
+Eastern
+North-Western
+Krasnogorskiy rayon
+Northern
+North-Eastern
+Krasnogorskiy rayon
+Akköy,Central
+North-Eastern
+Western
+Valencia
+Portimão
+Seixal
+Madrid
+Madrid
+Valencia
+Sevilla
+Sevilla
+Sevilla
+Bakirköy
+Bayrampasa
+Bayrampasa
+Bayrampasa
+Salt,Wadi Essier
+Barcelona
+Latina
+Roma
+Roma
+Latina
+Roma
+Roma
+Roma
+Roma
+Nadvirnians'kyi
+Pechers'kyi
+Thurston
+Herning
+New York
+Kent
+Amsterdam
+Amsterdam
+Casablanca
+Cook
+Herzegovina-Neretva,Split
+Split
+Leicestershire
+Westminster
+Cook
+Amman
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Tosnenskiy rayon
+Ungogo
+Madrid
+Barcelona
+Broward
+Miami-Dade
+San Francisco
+Denver
+Nizhniy Novgorod gorsovet
+Laishevskiy rayon
+Laishevskiy rayon
+Berlin
+San Diego
+Orlovskiy rayon,Orel
+Orlovskiy rayon
+Orel
+Florence,Pisa
+Attica
+Fulton
+Dorset
+Westchester
+Val-de-Marne
+Paris
+Paris,Zürich
+Zürich,Pays-d'Enhaut,Genève
+Pays-d'Enhaut,Genève,Paris
+Paris,Seine-et-Marne
+Wadi Essier,,Laclede
+Baleares,Kouba
+Safi
+North-Western
+Shchelkovskiy rayon
+Santiago de Cali
+Leicestershire
+Nefteyuganskiy rayon
+Nefteyuganskiy rayon
+Nefteyuganskiy rayon
+Kurgan
+Muang Phuket
+Tyumenskiy rayon
+Nefteyuganskiy rayon
+Tyumenskiy rayon
+Sochi gorsovet
+Sochi gorsovet
+Aksayskiy rayon
+Aksayskiy rayon
+Aksayskiy rayon,Rostov-na-Donu gorod
+Shchelkovskiy rayon
+Central
+Northern,Solnechnogorskiy rayon
+Aksayskiy rayon
+Aksayskiy rayon,Novousmanskiy rayon
+Novousmanskiy rayon
+Beirut
+Paris
+Kemer
+Domodedovskiy rayon
+Northern
+Blida
+Mers El Kebir
+Dar El Beida
+Merkez
+Amman
+Beirut
+Sakmarskiy rayon
+Orenburg
+Sakmarskiy rayon
+Kandalaksha gorsovet
+Kandalaksha gorsovet
+Water body
+Apatity gorsovet
+Kandalaksha gorsovet
+Üsküdar
+Paris
+Wiltshire
+Madrid
+Roma
+Warwickshire
+Westminster
+Granada
+Islington
+Paris
+Alpes-Maritimes,Córdoba
+Tower Hamlets,Granada
+Granada
+Granada
+Córdoba
+Madrid
+Madrid
+Shah Alam
+Shah Alam
+Johor Baharu
+Johor Baharu
+Johor Baharu
+Shah Alam
+Paris
+Paris
+Hulu Langat
+Shah Alam
+Shah Alam
+Sepang
+Sepang
+Shah Alam
+Shah Alam
+Shah Alam
+Sepang
+Sepang
+Kestel
+Beyoglu
+Merkez,Hulu Langat
+Merkez
+Bachok,Kota Bharu
+Sepang
+Shah Alam
+Melaka Tengah
+Shah Alam
+Sepang
+Hulu Langat
+Shah Alam
+Paris
+Hulu Langat
+Shah Alam
+Johor Baharu
+Palilula
+Plymouth
+Plymouth
+Bakirköy,Ekaterinburg gorsovet
+Ikeja
+Ikeja
+Ikeja
+Ikeja,Oshodi/Isolo
+Ajeromi/Ifelodun
+Eti-Osa
+Alimosho
+Fatih
+Beyoglu,Kagithane,Fatih
+Darmstadt
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Besiktas
+Orleans
+Orleans
+Paris
+Darmstadt
+Brighton and Hove
+Barcelona
+Mercer
+Cape
+Cape
+Cape
+Cape
+Cape
+Goodwood
+Goodwood
+Cape
+Cape
+Goodwood
+Barcelona
+Fatih,Beyoglu,Besiktas
+Oberbayern,San Mateo
+Hamilton,Campbell
+Santa Clara
+San Mateo,San Francisco
+San Mateo
+San Mateo
+San Mateo
+San Mateo
+San Mateo
+San Mateo
+San Mateo
+Santa Clara
+Santa Clara,San Mateo
+Los Angeles
+Clark,Mohave,Maricopa
+Coconino
+Santa Clara
+Los Angeles,Orange
+Los Angeles
+San Mateo
+San Mateo
+San Mateo,Napa
+Los Angeles
+San Francisco
+San Joaquin
+San Francisco
+San Francisco
+San Mateo
+San Mateo
+Alameda
+San Mateo
+San Mateo
+Madrid,,Hérault
+Paris
+Oberbayern
+Antwerpen
+Antwerpen
+Limburg
+Antwerpen
+Seine-et-Marne
+Barcelona
+Roma
+Hauts-de-Seine
+Shah Alam

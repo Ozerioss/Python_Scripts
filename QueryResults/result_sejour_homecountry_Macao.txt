@@ -1,0 +1,883 @@
+Taipei City
+Taipei City
+Kyoto
+Taipei City
+Zhuhai
+Shenzhen
+Taichung
+Ratchathewi
+Taipei City
+Taipei City
+Taipei City
+Kyoto
+Zhongshan
+Shaoguan,Hengyang,Changsha
+Hengyang
+Hengyang
+Lijiang
+Changsha
+Bang Kho Laem,Khlong Toey
+Nanjing
+Malay
+Mae Taeng
+Phra Nakhon
+Bang Lamung
+Gautam Buddha Nagar
+Nanjing
+Zhuhai
+Zhongshan
+Beijing
+Beijing
+Guangzhou
+Dêqên Tibetan
+Dêqên Tibetan
+Beijing
+Beijing
+Beijing
+Zhuhai
+Khlong Toey
+Sattahip
+Beijing
+Xiamen
+Guangzhou
+Guangzhou
+Ujitawara
+Bang Lamung,Ratchathewi,Pathum Wan,Chatuchak
+Zhuhai
+Zhuhai
+Solnechnogorskiy rayon
+Xiamen
+Xiamen
+Guangzhou
+Guangzhou
+Guangzhou
+Jiangmen
+Izumisano
+Taichung
+Cusco
+Onna
+Taipei City
+Siem Reab
+Puok
+San Mateo
+Taipei City
+Phra Nakhon
+Dallas
+Lijiang
+Paris,Sariyer
+Paris
+Nottingham
+Amsterdam
+Warsaw
+Warsaw
+Warsaw
+Amsterdam
+Muang Rayong
+Muang Rayong
+Attica
+Salerno,Paris
+Roma
+Florence
+San Mateo
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Bang Lamung
+Jongro,Seongbuk
+Kyoto
+Kobe
+Taoyuan
+Shanghai
+Taipei City,Taipei,Taoyuan
+Taipei City
+Muang Chiang Rai
+Chatan
+Naha
+Pathum Wan,Wattana
+Hang Dong
+Pathum Wan,Sathorn,Samphantawong,Bang Khen
+Taipei City
+Taoyuan
+Chiayi
+Chiayi
+Xiamen
+Beijing
+Bang Lamung
+Osaka
+Kyoto
+Izumisano
+Davidson
+Muang Phuket
+Timur Laut
+Zhuhai
+Zhuhai
+Beijing
+Kaohsiung City
+Kyoto
+Taoyuan
+Johor Baharu,Melaka Tengah
+Shah Alam
+Krasnoyarsk
+Taipei City
+Zhuhai
+Taipei City
+Taipei City
+Bang Kho Laem
+Greater Bombay,Paris
+Raigarh
+Greater Bombay
+Greater Bombay
+Ratchathewi
+Onna
+Zhuhai
+Shinjuku
+Beijing
+Shibuya
+Taipei City
+Bang Lamung,Sattahip
+Osaka
+Shah Alam
+Zhuhai
+Osaka
+Taipei City
+Bang Lamung
+Nanning
+Jung
+Muang Chiang Mai
+Muang Chiang Mai
+Hamilton
+Warren
+Warren
+Jongro
+Manchester
+Seodaemun,Seongbuk,Jongro,Seongdong
+Bang Plee
+Zhuhai
+Bang Lamung,Si Racha
+Muang Chiang Mai
+Lat Phrao
+Seodaemun,Jongro
+Guangzhou
+Xi'an
+Keelung City
+Taoyuan
+Zhuhai
+Zhuhai
+Osaka
+Bang Lamung
+Orange
+San Diego
+Osaka
+Zhuhai
+Muang Rayong
+Cha-Am
+Bangkhuntien
+Bung Kum
+Muang Phuket,Kathu
+Chatuchak
+Taipei City
+Taipei City,Taoyuan
+Zhongshan
+Zhongshan
+Zhongshan
+Zhongshan
+Yeonsu,Dobong
+Jiangmen
+Jiangmen
+Taoyuan,Taipei,Taipei City
+Taipei City
+Paris
+Paris
+Milano
+Varese
+Kathu,Muang Phuket
+Pathum Wan,Bang Plee,Wattana,Khlong Toey
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano,Varese
+Taoyuan,Taipei City
+Paris
+Paris
+Paris
+Essonne
+Milano
+Narita,Shibuya,Edogawa,Nakano
+Pathum Wan,Bang Rak,Don Muang,Phaya Thai,Chatuchak
+Paris
+Paris,Essonne
+Milano
+Milano
+Varese
+Shinjuku,Narita,Hakone,Nakano,Shibuya
+Milano
+San Mateo,San Francisco,Clark,Los Angeles
+Guangzhou
+Pathum Wan,Bang Kho Laem,Chatuchak,Ratchathewi,Bang Lamung,Don Muang
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Zhuhai
+Guangzhou
+Badung
+Nakano,Shibuya,Shinjuku
+Shibuya
+Shinjuku
+Paris
+Paris
+Westminster
+Paris
+Paris
+Muang Chiang Mai
+Milano
+Milano
+Milano
+Khlong Toey,Pathum Wan,Sathorn
+Taipei City
+Taoyuan
+Bang Kho Laem,Khlong Toey
+Osaka
+Taipei City
+Taipei City,Taoyuan
+Khlong Toey
+Ko Samui
+Ko Samui
+Osaka,Izumisano
+Taipei City
+Guangzhou
+Taipei City
+Timur Laut
+Milano,Arezzo,Florence
+Seongdong
+Malay
+Malay
+Shinjuku
+Chuo
+Zhongshan
+Taipei City
+Taipei City
+Camden
+Lancashire
+Westminster
+Barcelona
+Zhuhai
+Pathum Wan
+Huai Kwang
+Shah Alam,Timur Laut,Kinta,Seremban,Port Dickson
+Shah Alam
+Shah Alam
+Guangzhou
+Guangzhou
+Shah Alam,Sepang
+Zhuhai
+Taipei City
+Taipei City
+Wattana
+Wattana
+Taipei City
+Taipei
+Taipei City
+Taipei City
+Taipei City
+Taipei
+Taitung
+Taipei
+Ürümqi
+Huanggang
+Nantou
+Chuo
+Shanghai
+Zhuhai
+Shanghai
+Guangzhou
+Zhongshan
+Shanghai
+Shanghai
+Kaohsiung City,Taitung
+Phra Nakhon
+Timur Laut
+Jongro
+Ðà N?ng
+Beijing
+Beijing
+Shenzhen
+Venezia
+Roma,Milano,Obwalden,Monza and Brianza
+Nantou
+Taipei,Taipei City
+Pathum Wan
+Pathum Wan
+Malang
+Guangzhou
+Osaka
+Taipei City
+Hualien
+Kaohsiung
+Pingtung
+Amphawa,Phra Nakhon
+Beijing
+Zhuhai
+Zhuhai
+Guilin
+Zhuhai
+Xiamen
+Qingyuan
+Manila,Pasig City
+Pasig City
+New York
+District of Columbia
+New York
+Palm Beach,Miami-Dade
+Bergen
+Cebu City
+New York
+Malay
+Makati City
+Pasig City
+Zhuhai
+Zhuhai
+Zhuhai
+Zhuhai
+Zhuhai
+Shah Alam,Melaka Tengah
+Cameron Highlands
+Pathum Wan
+Pran Buri
+Xiamen
+Xiamen
+Gangseo
+Jung
+Taipei
+Taoyuan
+Pasay City
+Baliuag
+Jongro
+Jongro
+Guangzhou
+Hangzhou,Jiaxing
+Pathum Wan,Cha-Am,Thon Buri
+Taipei City
+Zhuhai
+Shenzhen
+Pathum Wan,Khlong Toey,Huai Kwang
+Taipei City
+Taipei
+King
+King
+Bath and North East Somerset
+Niagara
+Amsterdam
+Wien
+Wien
+Wien
+Kaohsiung City,Kaohsiung
+Taipei City
+Taipei City,Taoyuan,Taipei,Keelung City
+Botany Bay,Rockdale,,Wollongong Bal,Waverley,Wollongong - Inner,Sydney - West,Blue Mountains,Sydney - Inner,Port Stephens,Marrickville,Clarence,Launceston - Pt B,Kentish,Dorset,Northern Midlands - Pt B,Glamorgan-Spring Bay,Hobart,Sydney - South
+Jongro,Seongbuk,Yongsan,Jung,Seodaemun,Seongdong
+Seongbuk
+Seodaemun,Seongdong
+Osaka,Kyoto
+Osaka
+Osaka
+Sedgwick
+Camden
+Sedgwick
+Bang Lamung
+Pathum Wan
+Taipei City,Nantou
+Pingtung
+Hua Hin,Cha-Am
+Taichung
+Taichung City
+Badung
+Shanghai
+Sattahip
+Pathum Wan,Bang Kho Laem
+Zhuhai
+Zhuhai
+Zhuhai
+Malay
+Badung,Gianyar
+Clark
+San Luis Obispo
+Siem Reab
+Taipei,Taipei City
+Yao
+Shah Alam
+Shah Alam
+Gianyar,Badung
+Jung
+Pyeongchang,Eun-pyeong
+Taoyuan
+San Mateo
+Lisboa
+Köln
+Guangzhou
+Chilgok
+Johor Baharu
+Taoyuan,San Mateo
+Lisboa
+Zürich
+Shijiazhuang
+Shijiazhuang
+Shijiazhuang
+Shijiazhuang
+Guangzhou
+Kathu
+Kathu
+Don Muang,Phra Nakhon,Pathum Wan
+Bremen
+Bremen,Hamburg
+Unterfranken
+Darmstadt
+Bremen
+Paris
+Alpes-Maritimes
+Jongro
+Jongro
+Jongro
+Foshan
+Puerto Princesa City
+Noveleta
+Chatuchak
+Kathu
+Nantou
+Shenzhen
+Xiamen
+Pathum Wan
+Pathum Wan,Ratchathewi,Bang Kho Laem,Phra Nakhon,Muang Chiang Mai
+Jung
+Seongdong,Gwang-jin,Jongro
+Ko Samui
+Ratchathewi
+Ratchathewi,Huai Kwang,Pathum Wan
+Taipei City
+Taipei City,Taoyuan
+Berkshire,Westminster
+Camden,Paris
+Camden,Westminster
+Guangzhou
+Wattana
+Taipei City,Taoyuan
+Zhuhai
+Muang Chiang Mai
+Jongro
+Osaka
+Osaka
+Zhongshan
+Hua Hin
+Olongapo City
+Jongro
+Sepang,Langkawi
+Minato
+Muang Phuket
+Taipei City
+Taipei City
+Jongro
+Osaka
+Osaka
+Osaka
+Tianjin
+Tainan
+Taitung
+Hualien,Taipei
+Tianjin
+Beijing
+Beijing
+Tianjin
+Tianjin
+Tianjin
+Tianjin
+Shanghai,Suzhou
+Suzhou
+Tianjin
+Tianjin
+Tianjin
+Tianjin
+Tianjin
+Tianjin
+Stockholm
+Shanghai
+Oxfordshire
+Cascais,Funchal
+Lisboa
+Stockholm
+Stockholm
+Stockholm
+Sigtuna
+Oxfordshire
+Badung
+Muang Rayong
+Stockholm,Tyresö
+Qu?ng Nam
+Imus,Parañaque
+Bournemouth
+Badung
+Moalboal
+Dauin
+Kathu
+Amsterdam
+Haarlemmermeer,Amsterdam,Antwerpen,Bruxelles,Köln,Koblenz
+Haarlemmermeer
+Mabini
+Mabini
+Puerto Galera
+West-Vlaanderen,Unterfranken
+Schwaben,Oberbayern,Unterfranken,Salzburg
+Wien,Praha 1
+Amsterdam,Haarlem
+Amsterdam
+Taipei City
+Puerto Galera
+Zürich,Luzern,Solothurn
+Florence
+Florence,Milano
+Milano
+Cebu City,Moalboal
+Koblenz
+Barcelona
+Zaragoza
+Ávila
+Sevilla
+Sevilla
+Madrid
+Paris
+Paris
+Amsterdam
+Amsterdam
+Kathu
+Taichung City
+Taipei City
+Guangzhou
+Foshan
+Zhuhai
+Zhuhai
+Taipei
+Taipei City
+Zhuhai
+Malay
+Nanjing
+Seongdong
+Seongdong
+Osaka
+Osaka
+Taipei City
+Guangzhou
+Zhuhai
+Zhuhai
+Guangzhou
+Guangzhou
+Guangzhou
+Guangzhou
+Guangzhou
+Guangzhou
+Guangzhou
+Guangzhou
+Beijing
+Hainan Tibetan
+Phra Nakhon
+Kulim,Barat Daya,Johor Baharu
+Zhuhai
+Muang Nonthaburi
+Nantou
+Taipei
+Johor Baharu
+Makati City
+Parañaque
+Parañaque
+Sattahip
+Seine-Maritime
+Seine-Maritime
+Calvados,Seine-Maritime
+Seine-Maritime
+Seine-Maritime
+Zhongshan
+Toronto
+Niagara
+District of Columbia,Dauphin
+Var
+Var
+Paris
+Shah Alam
+Shah Alam
+Orange
+Zhuhai
+Timur Laut
+Zhuhai
+Quanzhou
+Mabalacat,Malay
+Zhuhai
+Yan'an
+Zhuhai
+Muang Chiang Mai
+Mae Taeng
+Bang Rak,Khlong Toey
+Shanghai
+Pathum Wan,Don Muang
+Taipei City
+Jung,Seongbuk,Jongro
+Taipei City
+Bang Rak,Pathum Wan
+Osaka
+Muang Phuket
+Taipei City
+Taipei City
+Kathu
+Thalang
+Bang Lamung
+Hua Hin
+Jongro
+Phra Nakhon
+Jakarta Selatan
+Tangerang
+Seodaemun,Jung
+Osaka
+Suita,Kyoto,Osaka
+Izumisano
+King
+King,Greater Vancouver,Pierce
+King
+King,Multnomah,Marion,Snohomish
+King
+Taoyuan,Ginowan,Motobu
+Chatan,Naha
+Bang Lamung
+Whitman,Franklin
+Roma
+Varsity Lakes
+Guangzhou
+Kota Kinabalu
+Kota Kinabalu
+Suffolk
+New York
+New York
+Guangzhou
+Guangzhou
+Narita
+Tabanan,Badung,Denpasar
+Phra Nakhon,Pathum Wan
+Jongro
+Shibayama
+Fujiyoshida,Shibuya
+Shibuya
+Stockholm,Combined statistics
+Southwark
+Luton
+Sintra,Lisboa
+Kanazawa,Shirakawa Village
+Pathum Wan,Siem Reab
+Hounslow
+Xiamen
+Jongro
+Kaohsiung
+Taipei
+Kyoto,Nara,Suita,Osaka
+Osaka
+Taipei City
+Taipei City
+Taipei City
+Taipei City
+Taipei City
+Taipei City
+Foshan
+Taipei City
+Taipei City
+Samphantawong
+Sathorn
+Dong-daemun
+Seodaemun
+Dongguan
+Taoyuan,Taipei City
+Taoyuan
+Suzhou
+Nanyang
+Nanyang
+Zhuhai
+Guangzhou
+Hsinchu
+Hsinchu
+Hualien
+Kaohsiung City
+Taipei,Taipei City
+Bang Kho Laem
+Guangzhou
+Guangzhou
+Guangzhou
+Taoyuan
+Zhuhai
+Taipei City
+Taipei City
+Bang Kho Laem
+Chatuchak
+Ngawa Tibetan and Qiang
+Zhongshan
+Taichung
+Zhuhai
+Beijing
+Taipei City
+Zhuhai
+Hakodate,Sapporo,Otaru
+Chitose
+Lijiang
+Narusawa
+Taipei
+Guangzhou
+Dêqên Tibetan
+Surabaya
+Huizhou
+Nantong
+Pathum Wan
+Pathum Wan
+Shanghai
+Taipei City
+Budapesti
+Bang Lamung,Lat Krabang
+Lijiang
+Dêqên Tibetan
+Kunming,Dêqên Tibetan
+Dêqên Tibetan
+Guangzhou
+Sankt-Peterburg gorsovet
+Zhuhai
+Zhuhai
+Zhongshan
+Makati City
+Pasay City
+Makati City
+Pasay City
+Pasay City
+Pasig City,Mandaluyong
+Manila
+Pasay City
+Jongro
+Jongro
+Zhuhai
+Zhuhai
+Zhuhai
+Zhuhai
+Suining
+Bang Lamung
+Taipei City,Taoyuan
+Shah Alam
+Shah Alam
+Chengdu
+Kunming,Dali Bai
+Beijing
+Jung
+Nago
+Wattana,Pathum Wan
+Mapo,Jongro,Jung
+Sathorn,Khlong Toey,Wattana
+Shirahama
+Zhaoqing
+Bethlehem
+Jericho
+Southwark,Westminster
+Reykjavík,Bessastaðahreppur,Sandgerði
+Reykjavík
+Highland,Merseyside
+Jongro,Jung
+Seodaemun
+Taipei City
+Taipei City,Taichung City
+Taipei City,Taoyuan
+Sydney - East,Cairns  - City
+Chatuchak,Pathum Wan,Khlong Toey,Don Muang,Wattana
+Nanjing
+Guangzhou
+Sepang,Shah Alam
+Shah Alam
+Shah Alam
+Tsu,Lake Biwa,Kyoto
+Ikeda
+Taipei
+Shenzhen
+Huizhou
+Hualien
+Taichung City
+Muang Chiang Mai
+Shanghai
+Ngawa Tibetan and Qiang,Leshan,Chengdu
+Zhongshan
+Muang Phuket,Sathorn,Huai Kwang,Khlong Toey,Pathum Wan
+Shanghai
+Shenzhen
+Ðà N?ng,Qu?ng Nam
+Badung
+Guangzhou
+Clark
+Beijing
+Ko Samui
+Shanghai
+San Francisco
+San Mateo
+Wien
+Praha 1
+Siem Reab
+Osaka
+Westminster
+Hackney
+Paris
+Muang Phuket
+Taipei
+Shenzhen
+Luzern
+Paris
+Chongqing,Fuzhou
+Akköy
+Fethiye
+Los Angeles
+Beijing
+Clark
+Taipei City
+Solnechnogorskiy rayon
+Taipei City
+Greater Vancouver
+Jongro
+Quezon City
+Mandaluyong
+Shenyang,Fushun
+Beijing,Anshan
+Makati City
+Mandaluyong
+Parañaque
+Makati City
+Muntinlupa
+Lumban
+Makati City
+Makati City
+Zhuhai
+Jakarta Barat
+Jakarta Utara
+Bandung
+Pingtung
+Kyoto
+Taipei City
+Cambridgeshire
+Camden
+Hillingdon
+Guangzhou
+Taipei City
+Taipei City
+Taipei City
+Seodaemun,Seongdong
+Sydney - Inner
+Taoyuan
+Gwang-jin,Jongro
+Hwaseong
+Nantou
+Naha,Chatan
+Taipei City
+Pathum Wan,Bang Lamung
+Bang Lamung
+Osaka
+Osaka,Kyoto,Nara
+Taipei City

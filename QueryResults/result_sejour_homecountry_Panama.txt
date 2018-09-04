@@ -1,0 +1,933 @@
+Clark
+Clark
+Amsterdam
+Euboea
+Attica
+Euboea,Hauts-de-Seine,Paris
+Paris
+Paris
+Amsterdam
+Ramsey
+Ramsey
+Johor Baharu
+Naucalpan de Juárez
+Atizapán de Zaragoza
+District of Columbia
+New York
+Clark,Los Angeles
+Essex,Westminster
+Washington
+Dallas
+Baruta
+Baños
+Guayaquil
+Milagro,Guayaquil
+Santa Elena
+Guayaquil
+Guayaquil
+Guayaquil
+El Hatillo
+Maracaibo
+Maneiro
+Orange
+Palmira
+Torreón
+Torreón
+Torreón
+Los Angeles
+Los Angeles,New York
+Managua
+Osceola
+Miami-Dade,Orange
+Orange
+Hillsborough,Orange
+Orange
+Elqui
+Díaz
+Peninsula de Macanao
+Orange
+Medellín
+Medellín
+Guatapé
+Guatapé,Medellín
+Antigua Guatemala
+San José,San Carlos,Puntarenas,San Ramón,Garabito,Aguirre
+District of Columbia
+District of Columbia
+New York
+Yangon-W
+Taunggye
+Gianyar
+Muang Chiang Rai
+Chomphet
+Chanthabuly
+Hinboon,Pakxe
+Siem Reab
+Siem Reab
+Svay Pao
+H? Chí Minh city
+H? Chí Minh city
+Ðà N?ng,Qu?ng Nam
+Hà N?i
+Lào Cai
+Barcelona
+King
+San Francisco
+Cartagena de Indias
+Bolívar
+Chiquimula
+Chiquimula
+Paris
+Zamora
+Libertador
+Budapesti
+Madrid
+Barcelona
+Barcelona
+ZONA 16
+Orange
+Curridabat
+Orange
+Orange
+Sonoma
+Medellín
+Heredia
+Garabito
+Orange
+Garabito
+Alajuela
+San Andrés
+Santafé de Bogotá
+Santafé de Bogotá
+Orange
+Orange
+Libertador
+Orange
+Orange
+Garabito
+Medellín
+Parrita
+Orange
+Tola
+Tola
+Orange
+Garabito
+Orange
+Orange
+Orange
+Santafé de Bogotá
+Guayaquil
+São Paulo
+Rio de Janeiro
+Mariño
+Manchester
+Santiago
+New York
+New York
+Providence
+Cumberland
+New York
+New York
+San Francisco,Sonoma
+San Francisco
+Cagliari
+Cagliari
+Cagliari
+Cagliari
+Cagliari
+Cagliari
+Cagliari
+Medio Campidano,Cagliari
+Cagliari
+Cagliari,Roma
+Santafé de Bogotá
+Osasco
+Guarulhos
+Osasco
+Libertador
+Medellín
+New York
+New York
+Monroe
+New York
+Lima
+Florianopolis
+Florianopolis
+Lima
+Lima
+Lima
+Lima
+Lima
+Lima
+Lima
+Lima
+Leoncio Prado,Lima
+Lima
+City of Georgetown
+Lima
+Hillsborough
+Orange
+Amsterdam
+Sydney - Inner
+Whitsunday
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Lecco
+Pereira
+Santiago de Cali
+Santiago de Cali
+Corredores
+Orange
+Guarujá
+ZONA 10
+San José Pinula
+Philadelphia
+San Lucas Sacatepéquez
+Santa Catarina Pinula
+San José Pinula
+Santafé de Bogotá
+Attica
+Attica
+Attica
+Western
+Santafé de Bogotá
+Corredores,Heredia,Belén,Dota,Osa,El Guarco,Golfito,Pérez Zeledón,Buenos Aires,San Rafael,Barva
+Corredores
+Santander de Quilichao
+Guayaquil
+Lima
+Contra Costa
+Santafé de Bogotá
+Escazú
+Orange
+Clark
+Guayaquil
+Huitzuco de los Figueroa
+Acapulco de Juárez
+Dist. Juquila
+Cobán
+Intipucá
+Osa
+San José
+Manly
+ZONA 10
+Routt
+Coolangatta
+Summit
+Clark
+Clark
+Catania
+Hobo
+Hennepin
+New York
+San Mateo,Marin,Napa,San Francisco
+Orange
+Düsseldorf
+Santafé de Bogotá
+Santa Clara
+Tijuana
+Jerusalem
+Broward
+Valencia
+Tibau do Sul
+Azcapotzalco
+Azcapotzalco
+Naucalpan de Juárez
+Azcapotzalco
+Miguel Hidalgo
+Azcapotzalco
+Azcapotzalco
+Naucalpan de Juárez
+Naucalpan de Juárez
+Miguel Hidalgo
+Miguel Hidalgo
+Miguel Hidalgo,Tultitlán
+Tultitlán
+Azcapotzalco
+Dist. Tlacolula
+Azcapotzalco
+Naucalpan de Juárez
+Naucalpan de Juárez
+Naucalpan de Juárez
+Alvaro Obregón
+Azcapotzalco
+Azcapotzalco
+Valencia
+Valencia
+Wien
+Bratislava I
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias
+Uribia
+Cartagena de Indias
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Cartagena de Indias
+Libertador
+São Paulo
+São Paulo
+Cartagena de Indias
+São Paulo
+São Paulo,Cartagena de Indias
+Cartagena de Indias
+Cartagena de Indias,Santafé de Bogotá
+Cádiz
+São Paulo
+São Paulo
+Baleares
+Attica
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo,Itapecerica da Serra
+São Paulo
+São Paulo
+São Paulo
+Orange
+Orange
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Cook
+Los Angeles
+Cook,Queens
+Los Angeles
+Cook
+Distrito Federal
+Distrito Federal
+Mercedes,Luján,Distrito Federal,Esteban Echeverría
+Loudoun,Miami-Dade,District of Columbia
+Philadelphia,Baltimore
+Orange
+District of Columbia
+Cozumel
+Temozón,Benito Juárez
+Isla Mujeres
+Cozumel
+Bariloche
+Bariloche
+Maracaibo
+Maracaibo
+Maracaibo
+Maracaibo
+Teresa
+Carrizal
+Carrizal
+Libertador,Baruta
+Carrizal
+Carrizal
+Carrizal
+Baruta
+Libertador
+Libertador
+Paris
+Carrizal
+Ahuachapán,Concepción de Ataco
+La Libertad
+San Salvador
+Orange
+Salvaleón de Higüey
+
+Pereira
+Tovar
+Vargas
+Ocumare de la Costa de Oro
+
+Vargas
+San Andrés
+Santafé de Bogotá
+Maneiro
+Cusco
+Cusco
+Bournemouth
+Barcelona
+Castellón
+Managua
+Corredores
+Cartagena de Indias
+Cartagena de Indias
+Amsterdam,Praha 1
+Berlin
+Oberbayern,Praha 6,Praha 1,Praha 7,Barcelona,Paris
+Sevilla
+Barcelona
+Barcelona
+Barcelona
+Orange
+District of Columbia
+District of Columbia
+Orange
+Harris
+Orange
+Baruta
+Queens
+Libertador
+Libertador
+Libertador,Chacao,Lic. Diego Bautista Urban,Vargas,Bolívar
+Lic. Diego Bautista Urban
+Queens,Hudson,New York
+New York,Bronx
+Girardot
+Sucre
+Maturín
+Maturín,Baruta
+Libertador,Carrizal,Vargas
+Libertador
+Santafé de Bogotá
+Cuyahoga
+Cuyahoga
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Clark
+Goicoechea
+San José
+Los Angeles,Orange
+Madrid,Toledo,Barcelona
+Alpes-Maritimes
+Roma
+Paris
+Gironde
+Vendée,Dordogne
+Vendée
+Dordogne
+Gironde
+Yumbo
+Osceola
+Miguel Hidalgo
+Naucalpan de Juárez
+Miami-Dade
+Morris
+Delhi
+Bikaner
+Udaipur
+Ajmer
+Jaipur
+Pauri Garhwal
+Kancheepuram
+Thiruvananthapuram
+Greater Bombay
+Miami-Dade
+Santa Barbara
+Los Angeles
+Miami-Dade
+Azcapotzalco,Alvaro Obregón
+Miami-Dade
+Fatih
+Beyoglu,Merkez
+Fethiye
+Madrid
+Praha 6,Praha 1
+Salzburg,Wien
+Budapesti
+Kraków City
+Los Angeles
+Los Angeles
+Los Angeles
+Palm Beach,Miami-Dade
+Orleans
+Orleans
+Huixquilucan
+Miami-Dade
+Amsterdam
+Amsterdam
+Medellín
+Los Angeles
+Los Angeles
+Santafé de Bogotá
+Cozumel
+Cozumel
+Guangzhou
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Baruta
+Santafé de Bogotá
+Kensington and Chelsea,Hackney
+Hounslow,Westminster
+Santafé de Bogotá
+Santiago de Cali
+Narammala
+Santiago de Cali
+Santiago de Cali
+Cartagena de Indias
+Alvaro Obregón
+Loudoun
+Azcapotzalco
+Rio de Janeiro
+Campbell
+Clark
+Lafayette
+Harris
+Santafé de Bogotá
+Madrid
+Zaragoza
+Lleida
+Barcelona
+Hawaii
+Libertador
+Vásquez de Coronado
+Vásquez de Coronado
+Vásquez de Coronado
+Montes de Oca
+Aguirre
+Aguirre
+Aguirre
+Osa
+San José
+Nicoya,Santa Cruz
+Nicoya,Santa Cruz
+Tola,Lago de Nicaragua,Granada
+Puntarenas,Alajuela,Clayton
+Hartford
+New York,Kings
+Hartford,Vlaams Brabant
+Guipúzcoa
+Guipúzcoa
+Guipúzcoa
+Guipúzcoa
+Guipúzcoa
+Guipúzcoa
+Barcelona
+Barcelona
+Navarra
+Combined statistics
+Combined statistics
+Westminster
+Kensington and Chelsea
+Kensington and Chelsea
+Tower Hamlets
+Kensington and Chelsea
+New York
+New York
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Pérez Zeledón
+Azcapotzalco
+Quito
+Quito
+Envigado
+Libertador
+Vargas
+Libertador
+Libertador
+Libertador
+New York,Bronx
+New York,Kings
+San José
+Clark,Gustavo A. Madero
+Clark
+Clark
+Gustavo A. Madero,New York,Madrid,Solnechnogorskiy rayon,Barcelona,Val-d'Oise,Paris,Hauts-de-Seine
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+New York
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+New York,Middlesex,Madrid,Suffolk
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+New York
+Madrid
+Madrid
+Clark
+New York,Kings,Hammersmith and Fulham,Solnechnogorskiy rayon
+Camden,Westminster,Milano
+Paris,Santafé de Bogotá
+Suffolk,Middlesex,Essex
+New York
+New York
+New York
+Camden
+Paris,Fulton,Escazú
+Suffolk,Middlesex
+Medellín
+Medellín
+New York
+New York,Kings,Queens
+Westminster,Camden,Hackney
+Paris,Pas-de-Calais
+Paris
+Paris
+Hauts-de-Seine
+Hackney
+Santafé de Bogotá
+Paris,Val-d'Oise
+Paris,Val-d'Oise
+Miami-Dade
+Corredores
+Salvaleón de Higüey
+
+Cartagena de Indias
+Orange,Miami-Dade
+Orange
+Orange
+Orange
+Hillsborough
+New York
+Orange
+Distrito Federal
+Distrito Federal
+Medellín
+Naucalpan de Juárez,Alvaro Obregón
+Orange
+ZONA 13
+Antigua Guatemala
+Madrid,Zürich
+Barranquilla
+Barranquilla
+Barranquilla
+Puerto Colombia
+Puerto Colombia
+Ambato
+Ambato
+Ambato
+Medellín,Envigado
+Medellín
+n.a354
+Torreón
+Cordillera
+Belo Horizonte
+Heredia
+Libertador
+Deseado
+Cachapoal
+Lima
+Cozumel
+Orange
+Los Angeles
+Riverside
+Los Angeles
+Medellín
+Makati City
+Casablanca
+Seixal
+Badajoz
+Madrid
+Toronto
+Libertador
+Cuauhtémoc
+Corredores
+Santa Marta (Dist. Esp.)
+Santa Marta (Dist. Esp.)
+Valencia
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Mérida
+Mérida
+Essex
+Mérida
+Paris
+Santafé de Bogotá
+Los Angeles
+Roma
+Santiago
+Guayaquil,Medellín
+Asunción
+Lima
+Queens
+Santo Domingo Este
+Andrés Ibáñez
+Gustavo A. Madero
+Porto Alegre
+Brasília
+Los Angeles
+Barranquilla
+Asunción
+São Paulo
+Lima
+Kings
+Brasília
+Asunción
+Orange
+Santiago
+Brasília
+Loudoun
+Kings
+Asunción
+Brasília
+Benito Juárez
+Los Angeles
+Benito Juárez
+Santiago
+Alajuela
+Roma
+Libertador
+Maracaibo
+Chacao
+Campo Elías,Mérida
+Libertador
+Libertador
+Orange
+Orange
+Orange
+Chiautla
+Miami-Dade
+Miami-Dade
+Santo Domingo de los Colorados
+Clark
+Clark
+New York
+New York
+Bronx
+Berlin
+Fatih
+Roma
+Barcelona
+Goicoechea
+Fatih
+Bay
+Libertador
+Paris
+Val-d'Oise
+Libertador
+Clark
+Clark
+São Paulo
+Guarulhos
+São Paulo
+Loudoun
+Queens
+Suffolk
+n.a354
+Queens
+Distrito Federal
+Brasília
+New York
+Porto Alegre
+Distrito Federal
+Brasília
+Communauté-Urbaine-de-Montréal
+Distrito Federal
+Asunción
+Clark
+Lima
+Cusco
+Utah
+Santafé de Bogotá
+Clark
+Clark
+Santiago
+Paris
+Quito
+Düsseldorf
+Düsseldorf
+Düsseldorf
+Libertador
+Libertador
+Libertador
+Vargas
+São Paulo
+Berlin
+Oktibbeha
+Oktibbeha
+Beijing
+Miami-Dade
+Palm Beach
+Clark
+Clark
+Clark
+Azcapotzalco,Alvaro Obregón,Tultitlán,Huixquilucan,Naucalpan de Juárez,Coyoacán
+Baltimore
+Baltimore
+Rio de Janeiro
+Cartagena de Indias
+Cartagena de Indias
+Washoe,El Dorado,Douglas,Carson City
+Broward
+Miami-Dade
+Miami-Dade
+Santiago de Cali,Cartagena de Indias,Davao City
+Capital
+Santafé de Bogotá
+District of Columbia
+Fairfax
+New York
+New York
+New York
+Paris
+Miami-Dade
+Santafé de Bogotá
+Mexicali
+Nogales
+Cochise
+Nogales
+Maracaibo
+San José
+Santa Ana
+Elqui
+Miami-Dade
+Orange
+Miami-Dade
+Benito Juárez
+Santafé de Bogotá
+Tultitlán
+Miguel Hidalgo,Azcapotzalco
+Iztacalco
+Azcapotzalco,Naucalpan de Juárez
+Blount
+Cartagena de Indias
+Los Angeles
+Carirubana
+Valencia
+Valencia
+Libertador
+Girona
+Girona
+Girona
+Paris
+Paris
+Madrid
+Medellín
+Duque de Caxias
+Monroe
+Orange
+Orange
+Nueva San Salvador
+San Pedro Nonualco
+Santafé de Bogotá
+Libertador
+Libertador
+Libertador
+Libertador
+Libertador
+Libertador
+Libertador
+Libertador
+Maracaibo
+Santafé de Bogotá
+Maracaibo
+Salvaleón de Higüey
+
+Kuils River
+Cozumel
+Queens
+Clark
+Clark,Mohave
+Paris
+Amsterdam
+Hamburg
+Medellín
+Medellín,Santafé de Bogotá
+Cusco
+Miguel Hidalgo
+Monterrey
+San Pedro Garza García
+Chihuahua
+Chihuahua
+Orange
+Orange
+Orange
+Orange
+Puerto Salgar
+San Andrés Cholula,La Paz
+Mongua
+Pelotas
+Gramado dos Loureiros,Portao,Porto Alegre
+Cook
+Cook
+Madrid,Barcelona
+Genève,Lausanne,Bern,La Gruyère,Haut-Rhin
+Miami-Dade
+Miami-Dade
+Wiltshire
+Maltepe
+Santiago de Cali
+Medellín,Yumbo
+Yumbo
+San Andrés
+San Andrés
+Paris
+Elqui
+Toronto
+East Kootenay
+Waterloo
+Toronto
+Cozumel
+Libertador
+Libertador
+Libertador
+Baleares
+Orange
+Orange
+Orange
+Orange
+New York
+Los Angeles
+Mohave
+Marin,Los Angeles,San Bernardino
+Valverde Vega
+Valverde Vega
+Medellín
+Orange
+Distrito Federal
+Distrito Federal
+Paris
+Distrito Nacional
+Distrito Nacional
+Distrito Nacional
+Clark
+New York
+Prince William
+District of Columbia,Loudoun
+Charles,District of Columbia
+Orange
+Orange,Hillsborough
+Santafé de Bogotá
+Orange
+São Paulo
+Orange
+Restrepo
+Restrepo
+Palavecino
+Iribarren
+Santafé de Bogotá
+Azcapotzalco
+Lecco
+Lecco
+Lecco
+Roma
+Miami-Dade
+Puntarenas
+San José
+San José

@@ -1,0 +1,1072 @@
+Sepang
+H? Chí Minh city
+Kota Kinabalu
+Miri
+Miri
+Sepang,Jakarta Pusat,Miri,Jakarta Selatan,Shah Alam,Kota Tangerang
+Sepang,Siem Reab,Puok,Shah Alam
+Miri
+Miri
+Shah Alam,Sepang
+Shah Alam,Sepang
+Miri
+Shah Alam
+Shah Alam
+Timur Laut,Barat Daya,Sepang,Langkawi
+Johor Baharu,Miri,Shah Alam,Sepang
+Miri
+Miri
+Surabaya
+Surabaya
+Miri
+Kota Kinabalu
+Shah Alam,Hulu Langat
+Miri
+Miri
+Miri
+Miri
+Shinjuku,Bunkyo
+Miri
+Miri
+Miri,Muang Krabi,Shah Alam,Sepang
+Kota Kinabalu
+Sagamihara,Toshima,Edogawa,Koto,Shibuya
+Miri
+Narita
+Bunkyo
+Bunkyo
+Miri
+H? Chí Minh city
+Sibu
+Sibu
+Sibu
+Sibu
+Sibu
+Sibu
+Sibu
+Pasay City
+Lapu-Lapu City
+Lapu-Lapu City
+Lapu-Lapu City
+Lapu-Lapu City
+Muang Chiang Rai
+Lapu-Lapu City
+Wattana
+Muang Chiang Rai
+Muang Krabi
+Muang Krabi
+Muang Krabi
+Shigatse
+Shigatse
+Shigatse
+Shigatse
+Shigatse
+Shigatse
+Shigatse
+Shigatse
+Tingloy
+Tingloy
+Malay
+Cascais
+Córdoba,Granada
+Barcelona,Islington
+West Midlands
+Surabaya
+Pathum Wan,Phra Nakhon
+Ko Samui
+Ko Samui
+Ko Samui
+Kuching
+Sepang
+Sandakan
+Tawau
+Sandakan,Kota Kinabalu
+Kota Kinabalu
+Kota Kinabalu
+Denpasar,Badung
+Kota Kinabalu,Tawau
+Miri
+Lucena City
+Limbang
+Shah Alam
+Sepang
+Kuching
+Miri
+Miri,Shah Alam,Sepang
+Shah Alam,Sepang
+Marudi
+Miri
+Muar
+Marudi
+Shah Alam
+Miri
+Miri
+Miri
+Marudi,Miri
+Sepang,Shah Alam
+Sepang,Hume - Craigieburn,Griffith,Surfers Paradise,Botany Bay,Bilinga-Tugun,Majura,Oxenford-Maudsland,South Brisbane,City - Inner,Pinkenba-Eagle Farm,Sydney - Inner,Manly,Braddon,Sydney - West,City,Melbourne - S'bank-D'lands
+Marudi,Miri
+Miri
+Shah Alam,Sepang
+Hume - Craigieburn,Griffith,Phillip,Acton,City,Fyshwick,Goulburn Mulwaree - Goulburn,Sydney - Inner,Kingston,Majura,Melbourne - S'bank-D'lands,Melbourne - Inner
+Miri
+Miri
+Limbang
+Limbang
+Port Phillip - West,Glen Eira - Caulfield
+Shah Alam
+Miri
+Miri
+Miri
+Shah Alam,Sepang
+Miri
+Miri
+Limbang
+Limbang,Sipitang,Papar
+Shah Alam
+Sepang
+Miri
+Makati City
+Kuching
+Kota Kinabalu
+Cardiff
+Cardiff
+Westminster
+Miri
+Miri
+Shah Alam
+Shah Alam
+Haeundae
+Shah Alam
+Shah Alam
+Sepang,Miri,Shah Alam
+Miri
+Tagaytay City,Parañaque,Makati City
+Kota Kinabalu
+Shah Alam
+Muang Phuket
+Pasay City
+Pasig City
+Shah Alam
+Kota Kinabalu
+Shah Alam,Sepang
+Shah Alam
+Miri
+Miri
+Muang Krabi
+Pathum Wan
+Marudi
+Miri
+Jakarta Pusat,Jakarta Selatan
+Jakarta Pusat,Jakarta Selatan
+Jakarta Pusat
+Jakarta Pusat
+Shah Alam
+Shah Alam
+Miri
+Mandaluyong
+Johor Baharu
+Shah Alam
+Narita,Los Angeles
+Los Angeles
+Los Angeles
+Jakarta Selatan
+Jakarta Selatan,Kota Tangerang
+Makati City
+Miri
+Kota Tangerang,Jakarta Selatan
+Gombak
+Pathum Wan
+Chatuchak
+Kota Kinabalu
+Penampang
+Shah Alam
+Shah Alam
+Shah Alam,Gombak
+Shah Alam
+Sepang,Fatih,Beyoglu,Merkez,Selçuk
+Merkez,Fatih
+Hulu Langat
+Kuantan
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Kota Kinabalu
+Shah Alam
+Shah Alam
+Shah Alam
+Jakarta Pusat
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Pusat
+Jakarta Selatan
+Jakarta Selatan
+Jakarta Pusat
+Shah Alam
+Sepang
+Badung
+Westminster,Hammersmith and Fulham
+Badung
+Badung,Surabaya
+Gianyar,Badung
+Badung
+Shah Alam
+Kota Kinabalu
+Kota Kinabalu
+Miri
+Miri
+Limbang
+Kota Kinabalu
+Pathum Wan
+Kota Kinabalu
+Shah Alam
+Shah Alam
+Honolulu
+Sepang
+Kota Kinabalu
+Timur Laut
+Shah Alam
+Miri
+Miri
+Miri,Marudi
+Miri,Shah Alam
+Hume - Craigieburn
+Phillip,Belconnen Town Centre,Curtin
+Curtin
+City
+Belconnen - SSD Bal,City
+Phillip
+Deakin
+Wagga Wagga - Pt B,Wagga Wagga - Pt A,Phillip
+Griffith
+Phillip,Acton
+City
+Braddon,City
+Phillip
+City
+City,Griffith
+City,Griffith
+City
+City
+Miri
+Miri
+Hume - Craigieburn
+City
+City
+Griffith,City
+Melbourne - Inner,Mount Buller Alpine Resort,Melbourne - S'bank-D'lands,Port Phillip - West
+Belconnen Town Centre,Sydney - Inner
+Belconnen Town Centre
+City
+City
+Beluru
+Kota Kinabalu,Papar
+Curtin
+Jakarta Pusat,Kota Tangerang
+Makati City,Malay
+Malay
+Miri
+City
+Wagga Wagga - Pt A
+City
+Acton
+Miri
+Parkes
+Port Phillip - West
+Palerang - Pt B
+Westminster
+Fukuoka
+Yogyakarta
+Cha-Am,Hua Hin
+Bang Su
+Pathum Wan
+Barcelona,Madrid
+Madrid
+Shah Alam
+Timur Laut
+Timur Laut
+Serian
+Guangzhou
+Melbourne - S'bank-D'lands,Melbourne - Inner,Port Phillip - West
+Playford - West
+Kingston - North,Stonnington - Prahran,Gr. Dandenong Bal,Melbourne - Inner,Port Phillip - West
+Melbourne - Inner
+Port Phillip - West
+Melbourne - S'bank-D'lands
+Shah Alam
+Shah Alam
+Kuching
+Dongguan
+Shah Alam
+Shibuya,Shinjuku,Edogawa,Kyoto,Osaka
+Kyoto
+Pathum Wan
+Kyoto
+Yarra - North,Mornington P'sula - South,Port Phillip - West,Willoughby,Waverley,Sydney - Inner,Manly,North Sydney,Sydney - East
+Kuching
+Sydney - Inner
+Kuching
+Seongbuk
+Shah Alam
+Shah Alam,Sepang,Ko Samui
+Kathu,Muang Krabi,Thalang,Shah Alam
+Shah Alam
+Muang Krabi
+Shanghai
+Huizhou
+Trusan
+Trusan
+Port Dickson
+Penampang
+Manukau
+Miri
+Miri
+Kota Kinabalu
+Limbang,Kota Kinabalu
+Shah Alam
+Miri
+Miri
+Shah Alam,Sepang
+Miri
+Seremban,Shah Alam
+Miri
+Shah Alam
+Sepang
+Miri
+Port Phillip - West,Melbourne - Inner
+Shah Alam
+Northamptonshire
+Northamptonshire
+Amsterdam
+Amsterdam
+Northamptonshire
+Hammersmith and Fulham
+Westminster
+Shah Alam
+Shah Alam
+Northamptonshire,Westminster
+Miri
+Shah Alam
+Shah Alam
+Shah Alam
+Miri
+Penampang,Kota Kinabalu
+Melbourne - Inner,Melbourne - S'bank-D'lands
+Melbourne - Inner,Melbourne - S'bank-D'lands,Yarra - Richmond,Hume - Craigieburn
+Westminster,London,West Sussex
+West Sussex
+Sathorn
+Miri
+Perth
+Timur Laut
+Fortitude Valley,Auburn
+City - Inner
+Sydney - Inner
+Shanghai
+Kota Kinabalu
+Miri
+Miri
+Busselton
+Cambridge
+H? Chí Minh city
+H? Chí Minh city
+Kota Kinabalu
+Taipei City
+Kota Kinabalu
+Kota Kinabalu
+Kota Kinabalu
+Sepang
+Phnom Penh
+Phnom Penh
+Badung,Gianyar
+Jakarta Pusat,Jakarta Selatan,Jakarta Timur,Bekasi,Kota Bandung,Kota Tangerang
+Miri
+Pasay City,Makati City
+Sepang,Shah Alam
+Shah Alam,Sepang
+Edogawa,Los Angeles
+Siem Reab
+Marudi
+Tomisato
+Kota Bandung
+São Paulo
+Muang Samut Songkhram,Damnoen Saduak
+Bang Rak,Pathum Wan
+Bang Plee
+Kota Kinabalu
+Kota Kinabalu
+Kota Kinabalu
+Kota Kinabalu
+Miri
+Genève
+Westminster
+H? Chí Minh city
+H? Chí Minh city
+Waitakere
+Pasay City
+Limbang
+Limbang
+Limbang
+Limbang
+Limbang
+Miri
+Shah Alam
+Johor Baharu
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Kota Bandung
+Denpasar
+Gianyar,Badung
+Miri
+Miri
+Sepang,Kota Bandung,Bandung
+Miri
+Shah Alam
+Kancheepuram,Chennai
+Johor Baharu
+Bacolod City
+Shah Alam,Port Dickson
+Shah Alam
+Beijing
+Shah Alam,Sepang
+Badung
+Shah Alam
+Shah Alam
+Kuching
+Muscat,Biddiya
+Miri
+Melaka Tengah
+Central
+Marang
+Badung
+Penampang
+Baguio City
+Marudi
+Port Phillip - West
+Whittlesea - North
+Shah Alam
+Limbang
+Jakarta Selatan
+Shah Alam
+Limbang
+Makati City
+Pasay City,Malay
+Malay
+Timur Laut,Seberang Perai Utara
+Miri
+Miri
+Yogyakarta
+Yogyakarta
+Jakarta Pusat
+Surabaya,Badung,Tabanan
+Miri
+Westminster
+Orange
+Limbang
+Miri
+Limbang
+Miri
+Penampang
+Shah Alam
+Shah Alam
+Jung
+Manila
+Miri
+Kuching
+Miri
+Shah Alam
+Shah Alam
+Westminster
+Don Muang
+Taunggye
+Granada,Málaga
+Kensington and Chelsea
+Shah Alam
+H? Chí Minh city
+Miri
+Kota Kinabalu
+Kota Kinabalu
+Fatih,Beyoglu
+Shah Alam,Sepang
+Miri
+Langkawi
+Miri
+H? Chí Minh city
+Shah Alam,Limbang
+Marudi
+Shah Alam,Bilinga-Tugun
+South Brisbane
+Main Beach-South Stradbroke,Oxenford-Maudsland
+Indooroopilly
+Miri
+Miri
+Slacks Creek
+Oxenford-Maudsland
+Sepang
+Kota Kinabalu
+Shah Alam,Sepang
+Miri
+Okayama
+Shah Alam
+Shah Alam
+Tagaytay City
+Miri
+Miri
+Miri
+Miri
+Jongro
+Seongdong,Seodaemun
+Batam
+Shah Alam,Miri,Sepang
+Miri
+Miri
+Miri
+Hume - Craigieburn
+City,Sydney - Inner,Bankstown  - North-West
+Phillip
+Hughes,Red Hill,Acton,Kingston,Majura,Hume - Craigieburn
+Kota Bandung
+Jakarta Pusat
+Beijing
+Cebu City
+Consolacion
+Shah Alam
+Guangzhou
+Shah Alam
+Shah Alam
+Westminster,Camden
+Camden
+Westminster
+Bristol
+Bristol,Bath and North East Somerset
+Hillingdon
+Kota Kinabalu
+Ratchathewi,Pathum Wan
+Praha 1
+Bristol
+Din Dang,Huai Kwang
+Shah Alam
+Johor Baharu
+Johor Baharu
+Kota Kinabalu
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Yogyakarta
+Taipei City
+Kuching
+Yarra Ranges - Dandenongs
+Shah Alam
+Taipei City
+Makati City
+Kota Kinabalu,Sipitang
+Miri
+Miri
+Osaka,Kyoto,Izumisano,Shah Alam
+Kota Semarang
+Shah Alam
+Pathum Wan
+Pathum Wan
+Shah Alam
+Miri
+Johor Baharu
+Pontianak
+Kutai Timur
+Seocho
+Sepang
+Miri
+Bintulu
+Miri
+Shah Alam
+Bentong,Sepang
+Miri
+Miri
+Sepang
+Shah Alam,Sepang
+Shah Alam
+Hakodate
+Otaru,Narita
+Miri
+Miri
+Manila
+Perth
+Perth
+Kensington and Chelsea,Hillingdon
+Westminster
+Westminster
+Kensington and Chelsea,Hillingdon
+Sepang
+Toyako
+Niseko
+Indooroopilly
+Pinkenba-Eagle Farm
+Batam
+Shah Alam
+Sepang
+Dehiwala-Mount Lavinia,Thimbirigasyaya,Shah Alam,Sepang
+Sepang
+Kota Kinabalu
+Kota Kinabalu
+Kota Kinabalu
+Miri
+Miri
+Penampang
+Fremantle
+South Perth
+Albany
+Perth,Belmont
+Kota Kinabalu
+Seremban
+Miri
+Miri
+Miri
+Miri
+Taipei City
+Taipei City,Taoyuan
+Pathum Wan,Khlong Sam Wa,Bung Kum
+Pathum Wan
+Chatuchak
+Miri
+Pathum Wan,Bang Plee
+Kota Kinabalu
+Shibuya
+Shah Alam
+Melaka Tengah,Shah Alam,Sepang,Hulu Langat
+Shah Alam,Sepang
+Miri
+Cottesloe
+Khlong Toey,Bang Kapi
+Miri
+Miri
+Kathu
+Kathu
+Badung
+Badung
+Jakarta Pusat
+Shah Alam
+Shah Alam
+Timur Laut
+Kuching
+Kuching
+Kota Kinabalu
+Miri
+Kota Kinabalu
+Shah Alam
+Hartford
+Malay,Taguig
+Makati City
+Makati City
+Shah Alam
+Miri
+Kensington and Chelsea,Camden
+Tower Hamlets,Camden
+Sepang
+'s-Gravenhage
+Paris,Roma
+Roma
+Zürich
+Haarlemmermeer,Amsterdam
+Shropshire
+Leicestershire
+Kensington and Chelsea
+West Yorkshire
+Leicester
+Kensington and Chelsea
+Kensington and Chelsea,Westminster
+Hillingdon
+Miri
+Miri
+Miri
+Kensington and Chelsea
+Enfield
+Kensington and Chelsea
+Berkshire
+Westminster,,Hillingdon,Hammersmith and Fulham,Kensington and Chelsea
+Limbang
+Westminster
+Kensington and Chelsea,Westminster
+Westminster
+Narita
+Shah Alam
+Miri
+Cumbria
+Essex
+Middlesex
+Middlesex
+New York,Middlesex
+Cárdenas,Middlesex
+Middlesex
+New York
+Essex
+Westminster
+Miri
+Shah Alam
+Kuching
+Kota Kinabalu
+Kuching
+Kota Kinabalu
+Shah Alam
+Melbourne - S'bank-D'lands,Port Phillip - St Kilda
+Melbourne - Inner
+Kota Kinabalu
+Kota Kinabalu
+Melbourne - S'bank-D'lands
+Kota Kinabalu
+Bang Plee,Bang Lamung,Ratchathewi,Phra Nakhon
+Bang Lamung,Phra Nakhon,Port Phillip - St Kilda,Pathum Wan,Thon Buri,Melbourne - S'bank-D'lands
+Thon Buri
+Ratchathewi,Bang Plee,Melbourne - S'bank-D'lands
+Thon Buri
+Dêqên Tibetan,Ratchathewi
+Dêqên Tibetan,Ratchathewi
+Bang Lamung,Dêqên Tibetan
+Dêqên Tibetan
+Dêqên Tibetan
+Dêqên Tibetan
+Dêqên Tibetan
+Dêqên Tibetan
+Dêqên Tibetan
+Shanghai
+Haarlemmermeer,Hillingdon
+Amsterdam
+Paris
+Paris,Camden,Westminster
+Cambridgeshire
+Westminster
+Paris
+Paris,Thon Buri,Dêqên Tibetan
+Hillingdon,Amsterdam
+Paris
+Dêqên Tibetan
+Renkum
+Dêqên Tibetan,Paris,Cambridgeshire
+Dêqên Tibetan
+Westminster
+Khlong Toey
+Westminster
+Westminster
+Luxembourg
+Westminster
+Seine-et-Marne
+Dêqên Tibetan
+Dêqên Tibetan,Cambridgeshire
+Paris
+Dêqên Tibetan
+Dêqên Tibetan
+Bang Lamung
+Cambridgeshire
+Camden
+Dêqên Tibetan
+Paris
+Dêqên Tibetan
+Dêqên Tibetan,Shah Alam
+Renkum
+Dêqên Tibetan
+Paris
+Westminster
+Paris
+Port Phillip - West,Hume - Craigieburn
+Port Phillip - West
+Paris
+Melbourne - Inner,Thon Buri,Amsterdam
+Dêqên Tibetan
+Dêqên Tibetan
+Dêqên Tibetan,Bexley
+Penampang,Taichung City
+Taipei City
+Kota Kinabalu
+Paris
+Shah Alam
+Kota Kinabalu
+Kota Kinabalu
+Pathum Wan
+Pathum Wan
+Pathum Wan
+Shah Alam
+Bang Kapi
+Kota Kinabalu
+Kyoto
+Edogawa
+Shah Alam
+Kota Kinabalu
+Honolulu,Narita
+Honolulu
+Honolulu
+Honolulu
+San Mateo
+Boulder
+Denver,District of Columbia
+District of Columbia
+District of Columbia
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Beaufort,Limbang
+Kota Kinabalu
+Shah Alam
+Khlong Toey,Wattana,Khlong San,Prakanong
+Kota Kinabalu
+Kota Bandung,Jakarta Pusat,Jakarta Utara
+Kota Kinabalu
+Hammersmith and Fulham,Hillingdon
+Kota Kinabalu
+Penampang
+Melbourne - S'bank-D'lands
+Melbourne - S'bank-D'lands
+Westminster
+Singkawang
+Imus
+Edogawa
+Shah Alam
+Miri
+Miri
+Miri
+Miri
+Miri
+Shah Alam
+Kuching
+Jongro,Seongbuk
+Shah Alam,Sepang
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Wandsworth
+Wandsworth
+Wandsworth
+Camden
+Camden
+Kensington and Chelsea
+Wandsworth
+Wandsworth
+Camden,Islington
+Shah Alam
+Meguro,Shibuya,Yamato,Sumida
+Kyoto,Shibuya,Minato
+Kyoto,Shibuya,Kawasaki
+Shibuya,Yokohama
+Bromley,Islington,Camden,Westminster
+Camden
+Westminster,Manchester
+Shah Alam
+Cyclades
+Lisboa,Madrid
+Shah Alam
+Kota Kinabalu
+Pathum Wan,Phra Nakhon
+Limbang
+Kota Kinabalu
+Kuching
+Kalookan City
+Pinkenba-Eagle Farm,Inala,South Brisbane,Toowong,Kangaroo Point,City - Remainder,Woolloongabba
+South Brisbane
+Shah Alam
+Mapo
+Kota Kinabalu
+Shah Alam
+Bintulu
+Shah Alam
+Miri
+Miri,Marudi
+Miri
+Miri
+Shah Alam,Bentong
+Shah Alam,Sepang
+Shenzhen
+Sepang
+Phra Nakhon,Ratchathewi,Chatuchak
+Phaya Thai
+Chatuchak,Bang Kapi
+Hat Yai,Chatuchak,Wang Thonglang
+Bang Kho Laem,Ratchathewi
+Ratchathewi
+Seremban
+Bangkok Noi
+Miri
+Kota Kinabalu
+Kota Kinabalu
+Penampang
+Shah Alam
+Shah Alam
+Kota Kinabalu
+Kota Kinabalu
+Penampang
+Penampang
+Penampang,Kota Kinabalu
+Shah Alam
+Miri
+Los Angeles
+Orange
+Maricopa,Clark,Kota Kinabalu
+Maricopa
+Clark
+Maricopa
+Clark
+Shah Alam
+Kota Kinabalu
+Kota Kinabalu
+Sandakan
+Sydney - Inner
+Auburn
+Caboolture  - Central
+Broadbeach-Mermaid Beach
+Kota Kinabalu
+Sydney - Inner
+Penampang,Kota Kinabalu
+Penampang
+Penampang
+Shah Alam
+Johor Baharu
+Melaka Tengah
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam,Sydney - Inner,Rockdale,Waverley,Sydney - West,Sydney - South
+Shah Alam
+Kota Kinabalu
+Kota Kinabalu
+Penampang
+Penampang
+Penampang
+Penampang
+Penampang
+Kota Kinabalu
+Waitakere
+Nelson
+Queenstown-Lakes
+Kota Kinabalu
+Kota Kinabalu
+Bang Lamung
+Miri
+Shah Alam,Hulu Langat,Gombak,Sepang
+Miri
+Miri
+Hillingdon,Kensington and Chelsea
+Westminster
+Westminster
+Westminster
+Seine-et-Marne
+Paris
+Seine-et-Marne,Paris
+Seine-et-Marne
+Mandaluyong,Pasig City,Makati City
+Mandaluyong,Pasig City
+Pasig City,Mandaluyong,Pasay City
+Pasig City
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Pathum Wan
+Limbang
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Westminster
+Islington
+New York
+Kota Kinabalu
+Miri
+Timur Laut
+Shah Alam,Sepang
+Sepang
+Siem Reab
+Shah Alam
+Sepang,Shah Alam
+Gianyar
+Sepang,Shah Alam
+Johor Baharu
+Shah Alam,Sepang
+Kinta,Timur Laut
+Bang Rak,Muang Chiang Mai,Hang Dong,Pathum Wan
+Narita,King,Snohomish
+Sepang,Badung
+Kota Kinabalu
+Pathum Wan,Bang Kho Laem,Khlong Toey
+Kinta
+Timur Laut
+Timur Laut
+Shah Alam
+Shah Alam
+Shah Alam,Kota Kinabalu
+Badung
+Surabaya
+Domodedovskiy rayon,Sochi gorsovet
+Siem Reab
+Siem Reab,Puok
+Melaka Tengah,Kinta
+Shah Alam
+Batuan
+Kuching
+Pran Buri
+Pran Buri,Hua Hin
+Kuching
+Kinta
+Kinta,Timur Laut
+Bang Kho Laem
+Kota Kinabalu
+Port Dickson
+Badung
+Badung
+Kota Kinabalu
+Shah Alam
+Johor Baharu
+Miri
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Port Dickson
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Shah Alam
+Kota Kinabalu
+Berkshire
+Bentong
+Seremban
+Kota Kinabalu
+Badung
+Shah Alam
+Miri
+Johor Baharu
+San Francisco
+Muang Krabi
+Sepang
+Kensington and Chelsea
+Edinburgh,Barcelona
+Badung
+Sepang
+Shah Alam
+Sibu
+Shah Alam,Miri,Sepang

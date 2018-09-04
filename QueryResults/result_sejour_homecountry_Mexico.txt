@@ -1,0 +1,13848 @@
+Paris
+Amsterdam,Kraków City
+Westminster
+Manchester
+Berlin
+Berlin,Manchester
+Hidalgo
+London,Westminster
+Kraków City,Westminster
+Kraków City
+London
+Edam-Volendam,Amsterdam
+Westminster,Lambeth
+Los Angeles
+Centro Habana
+Amsterdam
+Beyoglu
+Fatih
+New York
+Distrito Federal
+Curitiba,Capital
+Fatih
+Fatih
+Fatih
+Fatih
+Attica
+Attica
+Cyclades
+District of Columbia
+Loudoun
+Köln
+Lund
+Lane
+Lane
+Lane
+Lane
+Lane
+Lane
+Lane
+Lane
+Lane
+Lane
+Lane
+Lane
+Lane
+Lane
+Linn
+Lane
+Lane
+Santiago
+Santiago
+Clayton
+Multnomah
+San Mateo
+Madrid
+Paris
+Paris
+Paris
+Paris
+Barcelona
+Madrid
+Madrid
+Madrid
+Madrid
+New York
+New York
+Los Angeles
+Orange
+Orange
+Los Angeles
+Barcelona
+Barcelona
+Barcelona
+Hidalgo
+Bexar
+Paris
+New York
+New York
+El Paso
+El Paso
+Maricopa,Travis,Bexar
+El Paso
+Praha 6
+Praha 6
+Praha 7,Praha 1
+Berlin
+Budapesti
+El Paso
+Clark
+San Diego
+San Diego
+Orange
+San Diego
+King
+Greater Vancouver
+San Diego
+Cook
+Suffolk
+New York
+Los Angeles
+Bexar
+Cádiz
+Central
+Antwerpen,Amsterdam
+Kensington and Chelsea,Westminster
+Seine-Saint-Denis,Seine-et-Marne
+Antolín del Campo
+Harris
+Harris,Travis
+Travis
+Travis
+Santafé de Bogotá
+Williamson
+Clark,Mohave
+Clark
+Clark
+Clark
+Travis
+Galveston
+São Paulo
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Clark
+Clark
+Bexar
+Westminster,Camden
+Bruxelles,Berlin,Brandenburg
+Paris
+Venezia,Paris
+Florence
+Paris
+San Diego,Riverside
+Riverside
+Dallas
+New York
+New York
+Los Angeles,Orange
+Distrito Central
+Paris
+Paris
+Amsterdam
+Epe
+Rheden
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Los Angeles
+Johnson
+Travis
+Tarrant
+Tarrant
+Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+Johnson
+Johnson
+Dallas
+Bexar
+Bexar
+Travis,Bexar
+Bexar
+Port-au-Prince
+Port-au-Prince
+Harris
+San Diego
+San Diego
+Alameda,San Francisco,Contra Costa
+San Diego
+San Diego
+Los Angeles
+Los Angeles
+San Francisco,Alameda
+San Francisco
+Imperial
+San Diego
+Orange
+Arlington,District of Columbia
+District of Columbia
+Miami-Dade
+Travis
+Panamá
+Miami-Dade
+Roma
+Roma
+Guipúzcoa
+Hillingdon,Alpes-Maritimes
+Antigua Guatemala
+Cook
+New York
+New York,Queens
+New York
+New York
+Distrito Federal
+Camden,Westminster,Surrey,Hillingdon,Kensington and Chelsea,London,Tower Hamlets,Lambeth
+Camden
+Plaza de la Revolución
+Los Angeles
+Santafé de Bogotá,Cartagena de Indias
+Cartagena de Indias,Santafé de Bogotá,Chía
+New York,Queens,Kings
+Lima,Cusco,Urubamba
+Urubamba
+Berlin,Darmstadt,Kings,Alpes-Maritimes
+Alpes-Maritimes
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Esteban Echeverría,Distrito Federal
+Distrito Federal
+Distrito Federal
+Los Angeles
+Los Angeles
+Westminster,Hillingdon
+Narok,Nairobi,Taita Taveta,Nakuru,Westminster
+New York,Kings
+Alpes-Maritimes
+Venezia,Monza and Brianza,Verona,Milano,Genova,La Spezia,Florence,Siena,Roma
+Monroe,Miami-Dade
+Los Angeles
+Los Angeles
+Kings
+Kings
+Los Angeles
+Coconino
+Cyclades
+Cyclades
+Cyclades
+Fatih
+Attica,Barcelona
+New York
+New York
+Agra
+Cook
+Barcelona
+São Paulo
+Richmond
+Richmond
+Columbia
+Clayton
+Bexar
+Harris
+Harris
+Guayaquil
+Bronx
+Paris
+Camden
+Union
+Santafé de Bogotá
+Santiago de Cali
+Orange
+Orange
+Harris
+Kathu
+San Diego
+Riverside,San Bernardino
+Cook
+Cook,Lake Michigan
+Bexar
+Bexar
+West-Vlaanderen
+Koblenz,Edam-Volendam,Mittelfranken,Praha 1,Innsbruck,Tachov
+Paris,Innsbruck,West-Vlaanderen,Koblenz,Darmstadt,Burgos,Amsterdam,Praha 1,Florence,Roma,Praha 5
+Maricopa
+Otero
+Santafé de Bogotá,Mosquera
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Imperial,Luna,San Diego
+San Diego
+Bernalillo
+Santa Fe
+Travis
+Harris
+Stuttgart,Karlsruhe,Koblenz
+Jefferson,Eagle
+Travis
+Travis
+Bexar
+Travis
+Travis
+Travis
+Somerset
+Somerset
+Travis
+Orange,Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Kings,Fairfield,New York,Suffolk
+Somerset
+Somerset
+Suffolk
+Travis
+San Diego
+Barcelona
+Bruxelles
+Madrid
+Madrid
+Madrid
+Orange
+Orange
+El Dorado
+Amsterdam
+Oost-Vlaanderen
+Oost-Vlaanderen
+New York
+New York
+New York
+Bexar
+Greater Vancouver
+San Mateo
+San Diego
+Cook
+Cook
+Alpes-Maritimes
+Madrid
+Madrid
+Madrid
+Madrid
+New York
+Tarrant
+Tarrant
+San Diego
+San Diego
+San Francisco
+San Francisco
+Barcelona
+Cook
+Cook
+Summit,Denver
+Paris
+West-Vlaanderen
+Paris,Amsterdam
+Centro Habana
+Paris
+Manila
+Manila
+Santafé de Bogotá,Medellín
+Santafé de Bogotá,Medellín
+Santafé de Bogotá
+Santafé de Bogotá
+Chía
+Chía
+Milano
+Milwaukee
+Concepción
+Orange
+Harris
+Corfu
+Corfu
+Kyustendil
+Hidalgo
+Bexar,Travis
+New York
+Bierun-Ledziny
+Berlin,Kraków City
+Southend-on-Sea,Brandenburg
+Merton
+Haarlemmermeer
+Combined statistics
+Combined statistics
+Clark
+Thunder Bay
+Peterborough
+Communauté-Urbaine-de-Montréal
+Toronto
+Panajachel,NA,San Pedro La Laguna
+Santiago Atitlán,San Pedro La Laguna,NA
+NA
+San Pedro La Laguna
+Antigua Guatemala
+Copán Ruinas
+Managua,Lago de Nicaragua
+Puntarenas
+San Carlos
+Siem Reab
+Muang Mae Hong Son
+Muang Chiang Mai
+Mae Sai
+Viengxay
+Queens
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Thunder Bay
+Thunder Bay
+Thunder Bay
+Hidalgo
+Bexar
+Beijing
+Orange
+Orange
+Miami-Dade
+Orange
+Orange
+Alpes-Maritimes
+Alpes-Maritimes
+Maricopa
+New York
+New York
+Pima
+Madrid
+Berlin
+Berlin
+Berlin
+Paris
+Paris
+Paris
+New York
+Bronx
+New York
+Cusco
+Krosno
+Orange
+Orange
+Orange
+New York
+Queens
+New York
+Kings
+Wien
+Salzburg
+Clark
+Cartagena de Indias
+Urubamba
+Santiago
+San Diego
+San Diego
+San Diego
+Cordillera
+Imperial
+New York
+New York
+New York
+Los Angeles
+San Francisco
+Los Angeles
+San Pablo
+Alajuela
+San Diego
+Orange
+Girona
+San Diego
+Fresno
+San Diego
+San Diego
+Greater Vancouver
+Urubamba,Cusco
+Rio de Janeiro
+Rio de Janeiro
+Santafé de Bogotá
+Cartagena de Indias
+Paris
+Delhi
+Bagmati
+Hillingdon
+Westminster
+Westminster,London
+Westminster
+Los Angeles,Orange
+Los Angeles
+Orange
+Clark
+Clark
+Los Angeles
+Orange
+Cordillera
+Cordillera
+Concepción
+Cordillera
+Miami-Dade
+Miami-Dade
+Travis
+Orange
+Los Angeles
+San Bernardino
+Camden,Kensington and Chelsea
+Roma
+Amsterdam
+Hounslow
+New York
+New York
+Miami-Dade
+Rhône
+Rhône
+Kraków City
+Rhône
+Rhône
+Bruxelles
+Madrid
+Barcelona
+New York
+Hudson
+El Dorado
+Cook
+New York
+Bexar
+Palm Beach
+Palm Beach
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Los Angeles
+Santa Clara,Monterey
+San Francisco
+Santa Clara
+Paris
+Madrid
+Madrid
+Venezia
+Bexar,Hays
+Communauté-Urbaine-de-Montréal,Ottawa,Communauté-Urbaine-de-l'Outaouais
+Communauté-Urbaine-de-Montréal,Communauté-Urbaine-de-Québec
+Lotbinière
+Communauté-Urbaine-de-Québec,Communauté-Urbaine-de-Montréal
+Dallas,Tarrant
+Tarrant
+Dallas
+Tarrant
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+Bexar
+Paris
+Berlin,Haarlemmermeer
+Paris
+Tarrant
+El Paso
+San Francisco
+San Francisco
+Cook
+Cook
+Hudson
+San Diego
+San Francisco
+San Francisco
+San Mateo
+Amsterdam
+Chandauli
+Shah Alam
+Muang Krabi
+Muang Krabi
+Ko Phangan
+Phra Nakhon
+Contra Costa
+San Mateo
+Clayton
+Cook
+Cook
+Cook
+Sirohi
+Milano
+H? Chí Minh city
+Eagle
+Cameron
+Chatham
+Eagle
+Eagle,Denver
+Cameron
+Hidalgo
+Cameron
+Santa Clara
+Clark
+Los Angeles
+San Diego
+San Diego
+San Diego
+San Diego
+Eagle
+Orange
+York,Toronto
+Peel
+Apeldoorn
+Orange
+Suffolk
+Paris
+Paris
+Alpes-Maritimes
+Málaga
+Madrid
+Paris,Florence
+Berlin
+Florence
+Berlin,Florence
+Milano
+Barcelona
+Westminster
+Florence
+Santa Cruz
+San Diego
+San Diego
+San Diego
+King
+King
+King
+Oneida
+Los Angeles
+Frederico Westphalen
+Goodwood
+Wynberg
+Paris
+Paarl
+Clark
+Clark
+Los Angeles
+Cook
+Cook
+Cook
+New York
+New York
+New York
+New York
+New York
+Travis
+San Mateo
+King
+San Francisco
+Los Angeles
+Orange
+Los Angeles
+Miami-Dade
+Southwark
+Camden,Westminster,Hertfordshire
+Islington
+Paris,Yvelines
+Oxfordshire,Hillingdon,Westminster
+New York
+New York
+Kings
+Queens,New York
+Bronx
+New York
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven,New York
+New Haven
+New York
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Bologna
+Paris
+Alpes-Maritimes
+New York
+New York,New Haven
+Cook
+Paris
+Paris
+Orange,San Francisco
+New York
+Cook
+Cook
+Salvaleón de Higüey
+
+Hertfordshire,Westminster
+Paris
+Santa Ana
+Bremen
+Summit
+Summit
+Summit
+Los Angeles
+Los Angeles
+Wasatch
+Summit
+Summit
+Summit
+Summit,Wasatch
+Utah
+Summit
+Summit
+Utah,Summit
+Los Angeles
+Los Angeles
+Summit
+Summit
+Summit
+Summit
+Summit
+Summit
+Summit
+Summit
+Summit
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Maricopa
+Badung,Gianyar
+Muang Phuket
+Muang Phuket
+Los Angeles
+Maricopa
+Maricopa
+Miami-Dade
+Shanghai,Beijing
+Berlin
+New York
+Orange
+San Diego
+San Diego
+Clark,San Diego
+San Francisco
+San Diego
+San Diego
+Cook
+Rio de Janeiro
+New York
+New York
+New York
+New York
+Clark,Mohave
+Camden
+Seine-et-Marne
+Bronx,New York
+New York
+New York
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Islington
+Madrid
+Tower Hamlets
+Madrid
+Cameron
+Fatih,Merkez
+London
+Bexar
+Bexar
+San Mateo
+Hays
+Los Angeles
+Malmö
+Stockholm
+Montague,San Bernardino
+Los Angeles,Clark
+Clark
+Los Angeles
+Zagreb
+Barcelona
+Barcelona
+Barcelona
+Darmstadt,Tübingen
+Paris,Madrid
+Paris
+Santafé de Bogotá
+Santafé de Bogotá
+Cartagena de Indias
+Santafé de Bogotá
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Ventura,San Francisco
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Orange
+San Antonio
+Palo Pinto
+Harris
+Travis
+Travis
+Travis
+Harris
+Paris
+Paris
+Rhône
+Berlin
+Berlin
+Budapesti
+Siófok
+Praha 1,Wien
+Toronto
+Toronto
+El Paso
+Marion
+Antigua Guatemala
+Antiguo Cuscatlán
+Miami-Dade
+Orange
+Santiago
+Bexar
+Berlin
+Berlin
+Distrito Federal
+San Francisco
+Cuyahoga
+Harris
+El Paso
+São Paulo
+Riobamba
+Los Angeles
+Queens,Cook
+Cordillera
+Santafé de Bogotá
+Tunja
+Paris
+Madrid
+Cook
+Castellón
+Darmstadt
+New York
+New York
+Essex
+Nazca
+Arequipa
+Cusco
+Lima
+Dallas
+Bexar
+Cameron
+Pima,Pinal
+Bexar,Hays
+Travis,Bexar
+Bexar
+Maricopa
+Distrito Federal
+San Diego
+Los Angeles
+Los Angeles
+Lima
+Santafé de Bogotá
+Cameron
+Orange
+Orange
+Maricopa
+Paris
+Orange
+New York
+Philadelphia,District of Columbia,New York
+Bronx,New York
+New York
+New York,Philadelphia
+District of Columbia
+New York
+District of Columbia
+New York
+Philadelphia
+New York
+New York
+New York
+Philadelphia
+Philadelphia
+Philadelphia
+Hidalgo
+Hidalgo
+San Diego
+Clark
+Clark
+Clark
+Queens
+San Diego
+Köln
+Kraków City
+San Bernardino
+Düsseldorf
+Roma
+Williamson
+New York
+New York
+San Diego
+Sacramento
+Sankt-Peterburg gorsovet
+Tallinn
+Vsevolzhskiy rayon
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+South-Western
+Sankt-Peterburg gorsovet
+Leninskiy rayon
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Central
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet,Domodedovskiy rayon
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Valdayskiy rayon
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Southern Savonia,Vyborgskiy rayon
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Greater Vancouver
+Tarragona
+Tom Green
+Webb
+Puerto Cortés
+Copán Ruinas
+San Pedro Sula
+Fort Bend
+San Pedro Sula
+New York
+New Castle
+Madrid
+Clark
+Granada
+Cook
+Jongro
+Seongdong
+Jung
+Bernalillo
+Bernalillo
+Santa Fe
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+Panzhihua
+Antigua Guatemala
+Antigua Guatemala
+Maricopa
+San Diego
+Orange
+Paris
+Orange
+Kern
+Los Angeles
+Libertador
+Cárdenas
+Libertador
+Panamá
+Sucre
+Cárdenas
+Jerusalem
+Madrid
+San Pedro La Laguna
+San Pedro La Laguna,San Juan La Laguna
+Flores,Lanquín
+Riverside
+Orange
+Riverside
+Hillingdon,Madrid,Gironde,Paris,Westminster,Kensington and Chelsea
+Westminster
+Westminster
+Westminster,Madrid
+Westminster
+Libertador
+New York
+New York
+Lincoln
+El Paso
+Dona Ana
+King
+Baleares,Manchester
+Rio de Janeiro
+Rio de Janeiro
+San Francisco
+New York
+Cook
+Cook
+Harris
+Los Angeles
+Maverick
+Maverick
+San Diego
+Los Angeles,Clark
+Los Angeles
+San Diego
+San Diego
+San Diego
+Los Angeles
+Los Angeles
+Combined statistics
+Haarlemmermeer
+San Diego
+San Diego
+Salvaleón de Higüey
+
+Cusco
+Urubamba
+Osceola
+Barcelona,Valencia
+Baleares,Genova
+Bouches-du-Rhône
+Bouches-du-Rhône,Valencia,Baleares
+Bouches-du-Rhône
+Bouches-du-Rhône
+Bouches-du-Rhône
+Barcelona
+Bouches-du-Rhône
+Valencia
+Valencia
+Barcelona
+Cusco,Barcelona
+Cusco
+Baltimore
+Baltimore
+Baltimore
+Barcelona
+Bexar
+Bexar
+Bexar
+Venezia
+Gdansk City
+Westminster
+Bristol
+Westminster
+District of Columbia
+New York
+Muang Mae Hong Son
+Kensington and Chelsea
+Greater Vancouver
+Lambeth,London
+Roma
+Barcelona
+London,Barcelona
+London,Barcelona
+Hauts-de-Seine,Paris,Yvelines
+Luzern,Koblenz,Karlsruhe,Zurzach
+Venezia,Florence
+Roma
+Napoli
+Yvelines,Paris
+Roma,Florence,Dornbirn,Venezia,Napoli
+Paris
+Hidalgo
+Luzern
+Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+Honolulu,Los Angeles
+Harris
+Paris
+Clark
+Clark
+East Kootenay
+Division No. 2
+Orange
+Dallas
+San Francisco
+Santiago
+Distrito Federal
+Valencia
+Las Palmas
+Stockholm
+New York
+Stockholm
+Lambeth
+Paris,Hauts-de-Seine
+Paris,Seine-et-Marne
+Paris,Seine-et-Marne
+Seine-et-Marne
+Westminster
+Paris
+Seine-et-Marne
+Travis
+Bexar
+Clark
+Clark
+Clark
+Clark
+Clark
+Orange
+Orange,Miami-Dade,Tarrant
+Miami-Dade
+Orange
+Miami-Dade,Madrid,Paris
+Paris
+Barcelona
+Barcelona
+Barcelona,Madrid
+Madrid
+Barcelona
+Paris
+Haarlemmermeer,Amsterdam,Madrid
+Madrid,Islington,Westminster,Tower Hamlets,Kensington and Chelsea,Berlin
+Madrid
+New York,Madrid
+Hudson,New York
+Charente-Maritime
+Lisboa
+Valencia
+Florence
+Berlin
+Monroe
+Clark
+Clark
+Nye,Los Angeles
+Bexar
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Pyrénées-Atlantiques
+Novousmanskiy rayon
+Guayaquil
+São Paulo
+Rio de Janeiro
+Tromsø
+Tromsø
+Tromsø
+Paris
+San Diego
+Orange
+Southwark
+Westminster,Southwark
+Surrey,Brighton and Hove
+Brighton and Hove,East Sussex,Westminster
+New York
+New York
+New York,Queens
+Kensington and Chelsea,Camden,Oxfordshire,Hackney
+Hackney
+Oberfranken
+Oberfranken
+Westminster,Tower Hamlets
+Napa
+Venezia
+Madrid
+Madrid
+Los Angeles
+Los Angeles
+Los Angeles
+New York,Hudson
+Hudson,New York
+New York
+Rio de Janeiro
+Rio de Janeiro
+Les Laurentides
+Communauté-Urbaine-de-Montréal
+Boulder
+Boulder
+Boulder
+Boulder
+Boulder
+Denver
+San Diego
+San Diego
+San Diego
+San Diego
+Cook
+Cook
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+New York
+New York
+New York
+New York
+Suffolk
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York,Queens
+Queens
+New York
+Queens
+New York,Suffolk,Clark,San Bernardino,Los Angeles
+New York
+New York
+New York
+New York
+Miami-Dade
+Broward
+New York
+New York,Bronx
+New York
+New York
+New York
+New York
+New York,Queens
+New York
+New York
+New York
+New York
+New York
+New York,Berkshire
+Kings,New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Miami-Dade
+Miami-Dade
+New York
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Greenville
+Greenville
+Orange,Hillsborough
+Kings,New York
+New York
+Clark
+Escambia
+San Diego
+ZONA 10
+Panajachel
+Duval
+Westminster
+Westminster
+Barcelona
+Barcelona
+Miami-Dade
+San Diego
+San Diego
+Bexar
+Bexar,Travis
+Bexar
+Westminster,Kensington and Chelsea,Gloucestershire
+Oberbayern
+Braunschweig
+Berlin
+Berlin
+Paris
+Paris
+Westminster
+Westminster
+Travis
+Kings
+New York
+Oberbayern
+Braunschweig
+Berlin
+San Francisco
+Latina
+Roma
+Cosenza
+Tower Hamlets
+Westminster,Hammersmith and Fulham,Camden
+Stockton-on-Tees
+York
+Paris
+Paris
+Westminster
+Marion
+Summit
+Westminster,Hammersmith and Fulham,Manchester
+Paris
+Oslo
+Venezia,Zürich
+Köln,Gouda
+Cook
+San Francisco
+Tarrant
+Madrid
+Lisboa
+Ourém
+Lisboa
+Lisboa
+Almada,Lisboa
+Almada
+Lisboa
+Amsterdam
+Amsterdam,Madrid
+Madrid
+Florence
+Florence
+Florence
+Roma
+Paris
+Westminster
+Tower Hamlets
+Nara
+Osaka
+New York
+New York
+San Luis Obispo
+Clark
+Amsterdam,Beyoglu
+King
+Clark
+São Paulo
+Orleans
+Orleans
+Orleans
+Madrid,Barcelona
+Madrid,Alpes-Maritimes,Roma
+San Francisco
+Orange
+Orange
+Orange
+Orange,Hillsborough
+Orange
+Napa
+Indre-et-Loire
+San Diego
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Orange
+San Diego
+Santafé de Bogotá
+Chía
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Hamilton
+Halton
+Halton
+Halton
+Hamilton
+Berlin
+Barcelona
+Cameron
+Callao
+Cartago
+Paris
+London
+Curridabat
+Oreamuno
+Yvelines
+Praha 1
+Paris
+Wien
+Berlin
+Oslo
+Wien
+Miami-Dade
+Clark
+Clark
+Clayton
+Bexar
+Bexar
+Miami-Dade
+Miami-Dade
+New York
+Palm Beach
+Miami-Dade
+Khlong San,Pathum Wan,Phra Nakhon,Bang Kho Laem
+Miami-Dade
+Suffolk,Middlesex
+Rosario
+San Francisco
+Capital
+Valparaíso
+Santiago
+San Diego
+Thalang
+Kathu
+San Diego
+San Diego
+Miami-Dade
+New York
+New York
+New York
+Contra Costa
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade,Broward
+Paris
+New York
+New York
+New York,Kings
+New York
+Miami-Dade
+Miami-Dade
+Miami-Dade
+New York
+Johor Baharu
+São Paulo
+New York
+Suffolk
+Knox
+Düsseldorf
+Miami-Dade
+Miami-Dade
+Cartagena de Indias
+Miami-Dade
+Clark
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Venezia
+Berlin
+Santafé de Bogotá
+San Diego
+San Diego
+San Diego
+San Diego
+Orange
+San Diego
+Seine-et-Marne
+Paris
+New York
+New York
+Sussex
+Kings
+Madrid
+San Diego
+Miami-Dade
+Los Angeles
+San Francisco,Marin
+Clark
+Clark
+San Diego,Los Angeles
+San Diego
+San Mateo
+Napa,Marin,Santa Clara
+Oakland,Wayne
+Saginaw
+Wayne
+Orange
+Orange
+Oakland
+Bexar
+New York
+Bronx,New York
+New York
+New York
+Clark
+Clark
+Clark
+Clark
+Clark
+Clark
+Clark
+New York
+Vizcaya
+Madrid
+Vizcaya
+Brandenburg
+São Paulo
+Campo Limpo Paulista
+Madrid,Valencia
+Clark
+Milano
+Milano
+Milano,Florence
+Oberbayern
+Budapesti,Praha 1
+Wien
+Bexar
+Travis
+Bexar
+Los Angeles
+Miami-Dade
+Arusha
+Kaskazini 'B'
+New York
+New York
+Communauté-Urbaine-de-Montréal
+Cameron
+Maricopa
+Maricopa
+Pima
+Brasília
+Brasília
+Brasília
+Brasília
+Clark
+Hamburg
+Amsterdam
+Santa Clara
+San Francisco,Santa Clara
+Queens
+Miami-Dade
+Grecia
+Cair
+San Diego
+San Diego
+Capital
+Capital
+New York
+Harris,Montgomery
+Paris
+Besiktas
+Eagle
+Denver
+Clark
+Clark
+Clark
+Hudson
+Hudson
+New York
+New York
+New York
+New York
+Denver
+San Diego
+San Diego
+San Diego
+Carroll
+Roma
+Roma
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Distrito Federal
+Salt Lake
+Travis
+Webb
+Travis
+Webb
+Roma
+Roma
+Roma
+Roma
+Roma
+Paris
+Travis
+Roma
+Hertfordshire
+Webb
+Greene
+Sacramento
+Harris
+Lake Michigan
+Bexar
+Webb
+Tarrant
+Collin
+Lima
+Cameron
+New York
+Verona
+Verona
+Bexar
+New York
+Hudson,New York
+San Diego
+Westchester
+Bronx
+Westchester,New York
+Cook
+Cook
+Orange
+Miami-Dade
+Santa Clara
+San Francisco
+Madrid
+Madrid
+Clark
+Orange
+Los Angeles
+Los Angeles
+Orange
+Orange
+Los Angeles
+Kings
+Bexar
+Queens
+Orange
+Sonoma
+Marin,San Francisco
+San Diego
+San Diego
+San Diego
+Pima
+Pima
+Miami-Dade
+San Diego
+San Diego
+San Diego
+Clark
+Gianyar
+Phra Nakhon
+Muang Krabi
+San Diego
+Communauté-Urbaine-de-Montréal
+Toronto
+Florence
+Madrid,Córdoba
+Granada
+Baleares
+Barcelona
+Zaragoza
+Bexar
+Barranquilla
+Barcelona
+Coconino
+Coconino
+Los Angeles
+San Diego
+Talamanca
+Riverside
+San Diego
+San Diego
+San Bernardino
+San Diego
+San Francisco
+San Francisco
+San Diego
+San Diego
+San Diego
+New York
+Los Angeles
+Los Angeles
+Los Angeles
+San Bernardino
+Harris
+Harris
+Harris
+Los Angeles
+Orange
+Los Angeles,San Francisco
+King
+King
+Santafé de Bogotá
+Panamá
+Orange
+Cook
+Clark
+Hamburg
+Jungnang,Yongsan
+Gandong
+Gangnam
+Toronto
+Toronto
+Miami-Dade
+Distrito Federal
+Manchester
+Boca Chica
+Gandong
+Gandong
+Gandong
+Shanghai
+Santafé de Bogotá
+Los Angeles
+Clark
+Barcelona
+Düsseldorf
+Granada
+Granada
+Berlin
+Roma
+Florence
+Milano
+Wien
+Bierun-Ledziny,Berlin,Paris
+Paris
+Milano
+Granada
+Clark
+Castellón
+Paris
+Cook
+Cook
+Los Angeles
+Los Angeles
+Hidalgo
+District of Columbia
+District of Columbia
+Val-d'Oise,Roma
+Valencia
+Roma,Madrid
+Hamburg
+Paris
+Val-d'Oise
+Hamburg
+District of Columbia
+Roma
+San Francisco
+New York
+Cameron
+Hays
+Travis
+Hays
+Hays
+Communauté-Urbaine-de-Montréal
+Orange
+Clark
+Los Angeles
+Los Angeles,San Francisco,Santa Clara
+San Diego
+San Diego
+San Diego
+Paris
+Westminster
+Harris
+Santafé de Bogotá
+Miami-Dade
+Cook
+Madrid
+Darmstadt
+Budapesti
+Berlin
+Baruta
+Libertador
+Libertador
+Baruta
+Santafé de Bogotá
+Los Angeles
+San Diego
+Los Angeles
+Los Angeles
+Roma
+Siena
+San Diego
+Los Angeles
+Los Angeles
+Orange
+Sigtuna,Barcelona
+San Diego
+San Diego
+Valencia
+Barcelona
+Milano
+Combined statistics
+Suffolk
+Baleares
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Madrid
+Madrid
+Barcelona
+San José
+Roma
+Franklin
+Franklin
+Franklin
+Darmstadt
+Franklin
+Los Angeles
+Los Angeles
+Toronto
+Clark
+Clark
+Tarrant,Dallas
+Tarrant
+Bexar
+Nueces
+Nueces
+Rheinhessen-Pfalz
+Berlin
+New York
+Pyrénées-Atlantiques
+Paris
+Paris
+Paris
+Bruxelles
+Antwerpen
+Bruxelles
+Pivijay
+Barranquilla
+New York
+Morris
+Bruxelles
+San Diego
+San Diego
+Middlesex
+Suffolk,New York
+San Diego
+New York
+New York
+Hudson
+Queens
+New York
+Queens
+New York,Kings
+Kings
+Nassau
+Cook
+Queens
+New York
+New York
+New York
+New York
+Queens,Nassau
+Queens
+New York
+New York
+New York
+Bronx
+New York
+Imperial
+Kensington and Chelsea
+Barcelona
+New York
+Bexar
+Bexar
+Jaraguá do Sul
+Santafé de Bogotá
+Haarlemmermeer
+Iribarren
+Contra Costa
+Dona Ana
+Nacka
+Stockholm
+Stockholm
+Oropeza
+San Salvador
+San José
+Panamá
+Lyon
+Los Angeles,Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+District of Columbia
+Bexar
+Toronto
+Toronto
+El Paso
+El Paso
+Madrid
+Madrid
+Los Angeles
+Dangkao
+Dosquebradas
+Medellín
+Santa Cruz
+Capital
+Miami-Dade
+Miami-Dade
+Greater Vancouver
+Capital
+San Diego
+Orange
+Bexar
+San Francisco
+San Francisco
+Hamilton
+Hamilton
+Hamilton
+Cook
+Navarro
+Barcelona
+San Diego
+San Diego
+Camden,Kensington and Chelsea
+Westminster,London,Kensington and Chelsea
+Camden
+Cook
+Imperial
+New York,Kings,Queens
+Phrao
+Harris
+Madrid
+West-Vlaanderen
+Barcelona
+Barcelona
+Barcelona
+Girona
+Pontevedra
+Vestur-Eyjafjallahreppur,Mýrdalshreppur
+Ísafjarðarbær
+San Diego
+Berlin,Westminster,Camden
+King
+Bern
+Bern
+Bern,Zürich
+Dona Ana
+Panamá
+Los Angeles
+Platte
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Cagliari
+Cook
+Islington
+Kensington and Chelsea
+Santafé de Bogotá
+Santafé de Bogotá
+District of Columbia
+Kings
+Bergen
+New York
+Riverside
+Orange
+Santiago,Cordillera
+Los Angeles
+Walworth
+Karlsruhe,Stuttgart,Oberbayern,Wien,Bratislava I,Brno,Praha 8,Praha 1
+Milano,Venezia,Freiburg,Como,Basel
+Amsterdam
+Los Angeles
+Amsterdam,Venezia,Los Angeles
+Freiburg,Wien
+Santafé de Bogotá
+Santafé de Bogotá
+Esbjerg,Malmö
+Esbjerg
+Tower Hamlets,Freiburg
+Praha 1
+Toronto
+Orange
+Orange
+Webb
+Webb
+Darmstadt
+Paris
+Imperia
+Kings,New York
+New York
+Kings,New York
+Clark
+New York
+Cartagena de Indias
+Clark
+Clark
+Middlesex,Suffolk
+Middlesex
+Barcelona
+Barcelona
+Barcelona
+Chía,Santafé de Bogotá
+San Francisco
+Darmstadt,Westminster,Camden
+Clark
+Clark
+São Paulo
+Lisboa
+Barcelona
+Barcelona
+Miami-Dade
+São Paulo
+San José
+San José
+Trikala
+Cook
+Cook
+Cook
+Cook
+Cook
+Surrey
+Berkshire
+Paris
+Orange
+Orange
+Orange
+Orange
+Orange
+Madrid
+H? Chí Minh city
+Namtha
+Milwaukee
+Milwaukee,Cook
+San Diego
+San Diego
+Barcelona
+Talsi
+Riga
+Leicestershire
+Leicestershire
+Harris
+Harris
+Harris
+Harris
+Narita
+Los Angeles
+New York
+New York
+Harris
+New York
+New York
+Harris
+Camden
+Division No. 11
+Toronto
+Toronto
+Toronto
+Communauté-Urbaine-de-Montréal
+Toronto
+São Paulo
+McLennan
+McLennan
+Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Osceola,Orange
+Orange,Osceola
+Orange,Osceola
+San Mateo
+Siem Reab,Banteay Srei,Shah Alam,Badung,Lombok Barat
+Gianyar,Lombok Barat
+Gianyar,Tabanan,,San Francisco
+Clark
+Clark
+Paris
+Paris,Hauts-de-Seine,Milano
+Roma
+Florence
+Venezia,Ljubljana,Bled,Bohinj,Wien,Salzburg
+Mittelfranken
+Orleans
+Orleans,Galveston
+Bexar
+Cook
+Orange,Clark
+Orange
+Clark
+Clark
+Clark
+Clark
+Orange
+Santa Cruz,Clark
+Clark
+Orange
+Clark
+Clark
+Clark
+Orange
+Orange
+Bell
+San Diego
+Los Angeles
+Huaral
+Barcelona
+Honolulu
+Honolulu
+Honolulu
+San Diego
+Madrid,Zürich
+Zürich,Prättigau/Davos
+Berlin
+Berlin
+Berlin
+Berlin
+Tower Hamlets
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Paris
+Milwaukee
+Miami-Dade,Tarrant
+Miami-Dade
+Pima
+Tanger-Assilah,Praha 1,Innsbruck Land
+Navarra
+Paris
+Barcelona
+Monterey,San Francisco,San Mateo
+San Diego
+San Mateo
+Marin,Santa Clara,Los Angeles
+Los Angeles,Santa Clara
+San Francisco
+Santa Clara
+San Mateo
+Westminster,Camden,Amsterdam,Maricopa,Paris,Yvelines
+Roma
+Barcelona
+Baleares
+Madrid
+San Diego
+Riverside
+Riverside
+ZONA 1
+Las Palmas
+Düsseldorf
+NA,Sololá
+ZONA 9
+Miami-Dade
+Miami-Dade
+Paris
+Paris
+Barcelona
+Barcelona
+Paris
+Barcelona
+New York
+Cook
+Providence
+Providence
+District of Columbia
+Westminster,Hammersmith and Fulham
+Los Angeles
+Clark
+New York
+Muang Chiang Mai
+Phra Nakhon
+Gianyar
+Olongapo City
+Olongapo City
+Oslo
+Oslo
+Oslo
+Oslo
+Oslo
+Oslo
+Oslo
+Oslo
+Oslo
+Perugia
+Trondheim
+Trondheim
+Haringey
+Combined statistics
+Combined statistics
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Esteban Echeverría
+Clark
+Clark
+Clark
+Middlesex
+Suffolk
+Middlesex
+Suffolk
+Suffolk
+Suffolk
+Suffolk
+Middlesex
+Clark,Iron
+Orange,Clark
+Orange
+Kensington and Chelsea,Dresden
+Yvelines
+Islington
+Westminster
+Paris
+Los Angeles
+Alpes-Maritimes
+La Spezia,Genova
+Florence,Siena,Macerata
+Macerata,Venezia,Como,Surselva,La Gruyère,Interlaken,Uri,Aigle
+Paris
+Paris
+Paris
+Paris
+Westminster
+London
+Wiltshire
+Wiltshire
+Webb
+Dutchess
+Cook
+Los Angeles
+Orange,Osceola
+Osa
+Hillerød
+Combined statistics
+San Francisco
+San Francisco
+San Francisco
+Jongro
+Cook
+A Coruña
+A Coruña
+Westminster,London
+A Coruña
+A Coruña
+Jinhua
+Jinhua
+Hangzhou
+Jinhua
+Los Angeles
+Aguirre
+Aguirre
+Imperial
+Maricopa
+Kings
+New York
+New York
+New York
+Manta
+Manta
+Santa Elena
+New York
+Florence
+Jeju
+Seongdong
+Denton
+Calcasieu,Harris
+Madrid
+Madrid
+Maracaibo
+La Cañada de Urdaneta
+Maracaibo
+Carirubana
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Maracaibo
+Medellín
+Medellín
+Medellín
+Medellín
+Medellín
+Libertador
+Maracaibo
+Miami-Dade
+Miami-Dade
+Miami-Dade
+San Diego
+Belo Horizonte
+Rio de Janeiro
+New York,Kings,Queens
+New York,Queens
+New York
+Alpes-Maritimes
+Harris
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+Orange,Clark,Los Angeles
+Clark
+Madrid
+Guipúzcoa
+Segovia
+Porto
+Pontevedra
+Travis
+Summit
+Denver
+Travis
+Travis
+New York
+San Francisco
+San Francisco
+San Francisco,San Mateo
+San Francisco
+Bexar,Hays
+Tarrant,Dallas,Harris
+Porto
+Maricopa
+Miami-Dade
+Miami-Dade
+Miami-Dade
+San Diego
+Clayton
+San Diego
+San Diego
+San Diego
+San Diego
+Barcelona
+New York
+Kings,New York
+New York
+São Paulo
+Rio de Janeiro
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+Pitkin
+Clark
+Westminster,West-Vlaanderen
+Westminster,West Sussex,Madrid
+Cameron
+Cameron
+Milano
+Milano,Madrid
+Manly,Sydney - East
+Sydney - Inner,Sydney - West,Waverley,Sydney - East,Woollahra
+Westminster
+Milano,New York
+Cameron
+Panamá
+San Diego,Los Angeles
+Los Angeles
+Berkshire,Westminster,Tower Hamlets
+Roma
+Paris
+Sydney - Inner,Sydney - East,Port Phillip - West,Melbourne - Inner
+Sydney - East,Sydney - Inner
+Botany Bay,Los Angeles
+Sydney - Inner
+Travis
+Travis
+Paris,Clark
+Cameron
+Harris
+Cameron
+Los Angeles
+Los Angeles
+Waverley
+Manly
+Sydney - Inner,Woollahra
+Waverley,Sydney - East
+Waverley,Woollahra,Mosman
+Woollahra
+Waverley,Woollahra,Sydney - West,Sydney - East,Sydney - Inner
+Milano
+Milano,Oberbayern,New York
+Cameron
+São Paulo
+New York
+Suffolk
+Suffolk
+Cameron
+Cameron
+Clark
+Orange
+Los Angeles
+Sumida,Shibuya,Chiyoda,Meguro
+Woollahra
+Harris
+Córdoba
+New York
+Bexar
+New York
+New York
+Jefferson
+Maricopa
+Clark
+La Salle
+Val-d'Oise,Fatih,Besiktas,Merkez,,Ürgüp
+Fatih
+Fatih,Beyoglu,Selçuk,Paris,Bakirköy
+Clark,Mohave
+Salt Lake,Washoe
+Miami-Dade
+San Francisco,Marin,San Mateo
+Clark
+Hays
+New York
+New York
+La Capital
+Tamanique
+ZONA 16
+Los Angeles
+Kaohsiung City
+Kaohsiung City
+Coron,El Nido
+El Nido
+Dallas
+Polk
+San Diego
+San Mateo,San Francisco
+San Diego
+Osceola
+San Diego
+Miami-Dade
+León
+Sonoma
+Los Angeles
+San Francisco
+Mapo,Jongro
+Seodaemun
+Beijing
+Kolkata
+Orange
+Orange
+Orange
+Cook
+Cook
+Cook
+Larimer
+Larimer
+Larimer
+Larimer
+Weld
+Bernalillo
+Clark
+Calamuchita
+Distrito Federal
+Orange
+Orange
+Lake
+Orange
+Bexar
+Denver,San Miguel
+San Miguel
+San Miguel
+San Miguel
+Paris,Amsterdam
+Berlin,Praha 1
+Venezia,Roma
+Barcelona,Roma
+Barcelona
+Barcelona,Paris,Yvelines
+Travis,Comal
+Cook
+Cook
+Val Verde
+Orange
+Bernalillo
+Queens
+Tarrant
+Paris
+Roma,,Florence,Venezia
+Florence,Pisa
+Clark,Mohave
+Riverside
+Clark
+Clark
+Clark
+Clark
+Clark
+Clark
+Riverside
+Clark
+Clark
+Clark
+Clark
+Clark
+Santa Cruz
+Santa Cruz
+Luque
+Santafé de Bogotá
+Santafé de Bogotá
+Westminster,Hillingdon,Lewisham,Wandsworth
+Nord
+Westminster,Camden,Wandsworth,Tower Hamlets,London,Kensington and Chelsea
+Tower Hamlets,Westminster,Kensington and Chelsea,Camden,Greenwich,Berkshire,London
+Wandsworth
+Wandsworth
+Wandsworth
+Ciudad Real
+Madrid,Wandsworth,Kensington and Chelsea,Camden,Westminster,Devon
+Wandsworth
+London,Hackney
+Genève,Haute-Savoie,Ain,Rhône,Camden,Westminster,Kensington and Chelsea
+Kensington and Chelsea,Camden
+Clayton,Los Angeles,San Benito,Monterey,Orange
+Monterey,Orange
+Orange,Los Angeles
+Clark
+San Francisco,San Mateo
+Colorado
+Maringá
+Maringá
+Maringá
+San Diego
+Los Angeles
+San Diego
+District of Columbia
+Los Angeles
+Los Angeles
+Los Angeles
+Cartagena de Indias,Santafé de Bogotá
+Krasnoyarskiy rayon
+Leninskiy rayon
+Samara
+Muang Phuket
+Muang Phuket
+Bolzano
+Bolzano
+Dallas
+Santiago,Distrito Federal
+Capital
+Capital
+Distrito Federal
+Capital
+New York
+New York
+San Francisco,Napa,Sonoma,Marin
+San Diego
+Clark
+Placer
+Cook
+Cook
+Cook
+Cook
+Orleans
+Hidalgo
+Imperial
+New York
+New York
+New York
+Kings,New York
+New York
+Los Angeles
+Clark
+Riverside
+ZONA 10
+Santafé de Bogotá
+Los Angeles
+ZONA 5,Panajachel,NA
+Distrito Federal
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Alameda
+Alameda
+Hidalgo
+Miami-Dade
+Miami-Dade
+Miami-Dade
+ZONA 7,Santa Catarina Pinula,Antigua Guatemala,San Lucas Sacatepéquez
+Wayne
+Los Angeles
+Bexar
+Santa Cruz
+Maricopa
+Kings,New York,Queens
+Paris
+Hérault
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Los Angeles
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Amsterdam
+Central
+Orleans
+Escambia
+Escambia
+Toronto
+York,Toronto
+Toronto
+Middlesex
+Uintah
+El Paso
+El Paso
+Harvey,Sedgwick
+Harvey
+Clark
+Cusco
+Cusco
+Girona
+Sassari
+West Yorkshire
+West Yorkshire
+West Yorkshire
+Budapesti
+Muheza
+Kusini
+West Yorkshire
+Nicoya
+Amsterdam
+Paris
+Madrid
+Bexar
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Villavicencio
+Vélez
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+New York
+New York
+Pinellas
+Los Angeles
+Sapporo
+Distrito Federal
+San Bernardino
+Curridabat
+Salt Lake
+Salt Lake
+Salt Lake
+Los Angeles,Salt Lake
+Salt Lake
+Genève
+Martigny
+Pays-d'Enhaut
+Stuttgart
+Rheinhessen-Pfalz
+Darmstadt
+Darmstadt
+Los Angeles
+Los Angeles
+Los Angeles
+Suffolk
+Jijoca de Jericoacoara
+Luís Correia,Cajueiro da Praia
+Luís Correia,Tutóia
+Santo Amaro do Maranhão
+São Paulo
+Madrid
+Madrid
+Valencia
+Greenville
+Greenville
+Polk
+Hillsborough
+Greenville
+Kings
+Budapesti
+Fatih
+Split
+Paris
+Miami-Dade
+San Diego
+San Diego
+San José
+San Carlos
+Roma
+Roma
+Detmold,Arnsberg
+Ourense
+A Coruña
+Ourense
+Lugo
+Lisboa,Faro,Coimbra
+Panamá
+Panamá
+New York
+New York
+New York
+Harris
+Harris
+Harris
+Harris
+Travis
+Harris
+Harris
+Montgomery
+Harris
+New York
+Clark
+Harris
+Harris
+Harris
+Harris
+Harris
+Harris
+Harris
+Harris
+Harris
+Lima
+Cusco
+Lima,Urubamba
+Harris
+New York
+New York
+Santafé de Bogotá,Chía
+Clark
+Clark
+Harris
+Santafé de Bogotá
+Madrid
+Miami-Dade
+Harris
+San Diego
+Sydney - Inner
+Surfers Paradise
+Oxfordshire
+Santafé de Bogotá
+Orange
+Orange
+Kings
+New York
+Hudson
+Bronx
+Monmouth
+New York
+Cook
+San Francisco
+San Diego
+San Diego
+New York,Queens
+New York
+New York,Kings
+New York
+New York
+New York
+Cartagena de Indias
+Barcelona
+New York
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+District of Columbia
+District of Columbia
+District of Columbia
+District of Columbia,Arlington,Philadelphia
+District of Columbia,Fairfax
+Arlington
+District of Columbia
+District of Columbia
+District of Columbia,Arlington
+District of Columbia
+District of Columbia,Alexandria
+District of Columbia,Arlington
+Los Angeles,Orange
+Shanghai
+Shanghai
+Beijing
+Phra Nakhon,Prakanong,Chom Thong,Bangkok Noi
+Phra Nakhon,Wattana,Sathorn
+Los Angeles
+Miami-Dade
+Miami-Dade
+Suffolk,Middlesex,Norfolk,New York,Arlington
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Orange
+San Diego
+Orange
+Orange
+Cartagena de Indias
+Clark
+Multnomah,King
+King
+King
+Los Angeles,Clark,Mohave,Orange
+Mariposa
+Orange,Los Angeles
+Riverside,La Paz,Maricopa
+Los Angeles
+King,Orange
+Panamá
+Cuenca
+Southwark,Westminster
+Greenwich,Westminster
+New Haven
+Essex,Siena,Pisa,Roma,,Westminster
+Orange
+Orange
+Orange
+Harris,Fulton,DeKalb
+Fulton,DeKalb,Cook
+Orange
+San Diego
+Orange
+Orange
+Orange
+Narita,Phaya Thai,Chatuchak,Phra Nakhon,Bang Plee,Muang Chiang Mai,Chiang Dao,Bang Rak
+Cuenca
+Orange
+San Diego,Orange
+Los Angeles
+Badung,,Gianyar,H? Chí Minh city
+Ðà N?ng,Qu?ng Nam,H? Chí Minh city,Narita
+Orange
+Allegheny,Los Angeles
+Allegheny
+Orange
+San Diego,San Francisco
+San Mateo,San Francisco
+Orange,San Diego
+Los Angeles
+Seodaemun,Guri,Seongdong
+Seongdong,Paju,Jung
+Changhwa,Jung
+Orange
+San Diego
+Orange
+Beijing,Los Angeles,Osaka
+Osaka,Nara,Beijing
+Essex,New York,Hudson
+Orange
+Orange
+San Diego
+Orange,Essex,Vlaams Brabant,Kitui,Nairobi,Mombasa,Nakuru,Narok,Bülach
+Los Angeles,Orange
+Orange,New York,Rockland,Essex
+Orange
+Orange,Essex
+Bekaa-West,Baabda
+Camden,Westminster,London,Southwark
+Orange
+San Diego
+Jefferson
+Orange
+Los Angeles,Orange
+San Diego
+Orange
+Orange
+Orange
+Orange,San Diego
+Los Angeles
+Johannesburg,Kempton Park,Lusaka
+Lundazi
+San Diego
+Fulton
+San Diego
+San Diego
+Cook,Hennepin
+Los Angeles
+Jerusalem,Bethlehem
+Cambridgeshire
+South Yorkshire,Cambridgeshire
+Westminster,Camden
+Orange
+Orange
+Lake St. Clair,Essex,Wayne
+Orange
+Orange
+San Diego
+San Francisco
+Orange
+Orange
+Orange
+San Diego,El Dorado
+Orange
+Orange
+San Diego
+Chatuchak
+El Paso
+El Paso,Dona Ana
+El Paso
+El Paso
+El Paso
+El Paso
+Greater Vancouver
+São Paulo
+Itu
+Itu
+São Paulo
+São Paulo
+Antwerpen
+Dallas
+Virginia Beach
+Somerset
+Los Angeles
+Clark
+Orange
+Los Angeles
+Los Angeles
+San Diego
+Alpes-Maritimes
+Camden
+London
+Westminster,Camden
+New York
+Miami-Dade
+Los Angeles
+Clark
+Orange
+Clark
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Pyrénées-Atlantiques
+Barcelona
+Dubbo - Pt A
+Waverley
+Barcelona
+New York
+Distrito Federal
+Miami-Dade
+Broward
+Miami-Dade
+Wake
+Clark
+Clark
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+San Pedro Sula
+Roatán,San Pedro Sula,José Santos Guardiola
+Roatán,San Pedro Sula
+Santafé de Bogotá,Ráquira,Villa de Leyva
+La Virginia
+Pereira
+Medellín
+San Pedro Sula
+San Pedro Sula
+Distrito Central
+Distrito Central
+Distrito Central
+Distrito Central
+San Pedro Sula
+San Pedro Sula
+Distrito Central
+Distrito Central
+Distrito Central
+Distrito Central
+Distrito Central
+Distrito Central
+Santiago
+Cordillera
+Clark
+Camden
+Westminster
+Isère
+Praha 1
+Praha 1
+Paris
+Paris
+Paris
+Bruxelles
+Paris
+Berlin
+Brazoria,Montgomery
+Kings
+Las Palmas
+New York
+New York
+Bronx
+Harris
+Harris
+Orange
+Oslo
+Oslo
+Oslo
+Oslo
+Madrid,Toledo,Ourense,Vila Nova de Gaia
+Ourense,Madrid
+King
+Benton
+Urubamba
+Pedro Domingo Murillo
+Orange,Los Angeles
+Riverside
+Cascais
+Paris
+Wien
+Cyclades
+Karlsruhe
+Dresden
+Orleans
+Paris
+Paris
+Clark,Mohave
+Medellín
+Medellín
+Medellín
+Medellín
+Medellín
+Medellín
+Medellín
+Medellín
+Medellín
+Medellín
+Santa Clara,Clark
+Clark
+Orange
+Denton
+Los Angeles
+Clark
+Clark
+Clark
+Budapesti
+Wien,Praha 1
+Madrid
+Tübingen
+Oberpfalz
+Berlin
+Oberpfalz
+Oberpfalz
+Oberpfalz
+Oberpfalz
+Oberpfalz
+Harris
+ZONA 8
+Tacaná
+Tacaná
+Napa
+Lima
+Perugia
+San Diego
+Riverside
+Orange
+Spokane,Franklin
+Spokane
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Harris
+Division No. 6
+Division No. 15
+El Paso
+York
+Communauté-Urbaine-de-Québec
+Zadar
+Dubrovnik
+Yavapai
+Manchester
+Manchester
+Cumbria
+Manchester
+Budapesti,Wien
+Oberbayern
+Paris
+Paris
+Roma
+Manchester
+Manchester,Combined statistics
+Barcelona
+Venezia
+Cambridgeshire
+New York
+New York,District of Columbia
+New York
+King
+Harris
+San Diego
+San Diego
+Miami-Dade
+Santafé de Bogotá
+Chacao
+Los Angeles
+Cartagena de Indias
+Greater Vancouver
+El Paso
+El Paso
+Orange
+Dallas
+Brno
+Wien
+Praha 1
+London,Westminster
+Köln
+Milano
+Napa
+Florence
+Madrid
+Rio de Janeiro
+Belo Horizonte
+Belo Horizonte
+Belo Horizonte
+Confins
+San Francisco
+Waukesha
+Waukesha
+Paris
+Panamá
+San Miguelito
+Kings
+Kings,Queens,New York
+Kings
+Distrito Federal
+Lima
+Cusco
+Lima
+Lima
+Santafé de Bogotá
+Cobb
+San Diego
+San Diego
+Baleares
+Praha 1
+Mittelfranken
+San Francisco
+San Francisco
+Marin
+San Mateo
+San Francisco
+San Francisco
+San Francisco
+Los Angeles
+Los Angeles
+Orange
+New York
+Bronx
+Shanghai,New York
+Shanghai
+Goodwood
+Denver
+Harris
+Harris,Bexar
+Travis,Bexar
+Harris,Bexar
+San Diego
+Los Angeles
+Division No. 8
+Division No. 8
+Gila
+Gila
+Graham
+San Diego
+San Diego
+San Diego
+San Diego
+Cook
+Cook
+San Diego
+San Diego
+San Diego
+Marion
+Travis
+San Diego
+Clayton
+Bruxelles
+Köln
+Wien
+Nacogdoches
+Harris
+Minato
+Narusawa
+Dallas,Tarrant
+Dallas
+Dallas
+San Diego
+Los Angeles
+Osceola
+Clark,Mohave
+New York
+New York
+New York
+Contra Costa
+Contra Costa
+San Francisco
+Los Angeles
+San Francisco
+Los Angeles
+San Francisco
+Contra Costa,San Mateo,San Francisco
+Contra Costa,San Francisco
+Alameda,Contra Costa
+Marin
+Westminster
+Los Angeles
+Westminster
+Westminster,Manchester,Fthiotis
+Toronto
+Paris,Roma
+Oberbayern,Barcelona
+Barcelona
+Toronto
+Muskoka
+Toronto
+Tarrant
+Toronto
+Distrito Federal
+Rio de Janeiro
+Rio de Janeiro
+Santiago
+Santiago
+Los Angeles
+Orange
+Orange,Osceola
+Distrito Federal
+Rio de Janeiro
+Rio de Janeiro,Recife
+São Lourenço da Mata,Rio de Janeiro
+Distrito Federal
+Baleares
+Baleares
+Madrid
+Distrito Federal
+Panamá
+Bento Gonçalves,Panamá
+Harris,New York,Queens
+Orange
+Madrid
+La Libertad
+Riverside
+Riverside
+Bexar,La Salle
+Los Angeles
+Los Angeles
+Distrito Federal,Santiago,Cordillera
+Cordillera,Santiago,Valparaíso,Melipilla,San Antonio
+Los Angeles
+Los Angeles
+Los Angeles
+Clayton,Denver,El Paso
+Denver,Harris
+Groningen
+Camden
+Santafé de Bogotá
+San Diego
+San Diego
+Orange
+Nentón
+Rio de Janeiro
+San Diego
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+H? Chí Minh city
+Chanthabuly,Hadxaifong
+Vangvieng
+Chomphet,Louangphrabang
+Bang Rak
+Khlong Toey
+Khlong Toey
+Akmeemana
+Matara Four Gravets
+K.F.G. & G. Korale
+Westminster
+Southwark,Kensington and Chelsea
+Paris
+Paris
+Olmsted
+Olmsted
+Olmsted
+Olmsted
+Grand,San Juan
+Yavapai
+Maricopa,San Mateo,Santa Clara
+Foz do Iguaçu
+Foz do Iguaçu
+Rio de Janeiro
+Alajuela
+Barcelona
+Los Angeles
+Distrito Federal
+Distrito Federal
+Santiago
+San Diego
+San Diego
+Los Angeles
+New York
+New York
+Köln
+Köln
+Köln,Kensington and Chelsea
+Camden,Kensington and Chelsea
+Kensington and Chelsea
+Kensington and Chelsea,London,Westminster
+Kensington and Chelsea
+Kensington and Chelsea
+Kensington and Chelsea
+Kensington and Chelsea
+Kensington and Chelsea
+Kensington and Chelsea,Westminster,Köln
+Köln
+Köln,Düsseldorf
+Köln
+Köln
+Köln,Kensington and Chelsea
+Kensington and Chelsea
+Westminster,Kensington and Chelsea
+Kensington and Chelsea
+Newham,Kensington and Chelsea,Tower Hamlets
+London,Kensington and Chelsea
+Westminster
+Kensington and Chelsea
+Westminster
+Westminster,Kensington and Chelsea
+Kensington and Chelsea
+Kensington and Chelsea
+Kensington and Chelsea
+Westminster
+Buckinghamshire
+Buckinghamshire
+Islington,Buckinghamshire
+Westminster
+Buckinghamshire,Westminster,London,Hillingdon,Kensington and Chelsea
+Köln
+Imperial
+San Diego
+Distrito Federal
+Lanús
+Lanús
+Distrito Federal
+Distrito Federal
+Imperial
+San Diego
+Milano
+Milano
+Milano
+Valencia
+Valencia
+Locarno
+Cyclades
+Lima
+Lima,Callao
+San Diego
+Gwinnett,DeKalb
+DeKalb
+Clayton
+Berlin
+Berlin
+Los Angeles
+Los Angeles
+Milano,Roma
+Milano
+Milano
+La Spezia
+Milano
+Berlin,Brandenburg
+Barcelona
+Barcelona
+Milano
+Orange,Miami-Dade
+Miami-Dade
+Westminster
+Clark
+San Diego
+New York
+Rio de Janeiro
+El Paso
+Harris
+Oberbayern
+Praha 1
+Budapesti
+Madrid
+Darmstadt
+Cook
+Marion,Cook
+Santafé de Bogotá
+Cartagena de Indias
+Montgomery
+Orange
+Tigre
+Distrito Federal,Tigre
+Tigre,Distrito Federal
+Clark
+Bergen
+Clark
+Denver
+Cook
+Cook
+Cook
+Cook
+Baruta
+Distrito Federal
+Distrito Federal
+Vargas,Distrito Federal
+Capital
+Baruta
+Libertador
+Capital
+Baruta
+Baruta
+Libertador
+Chacao
+Libertador
+Chacao
+Libertador
+Baruta
+Rio de Janeiro
+Vargas
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+New York
+Paris
+Paris
+New York
+Kensington and Chelsea
+Bouches-du-Rhône
+Belén,San José
+Garabito
+Cartagena de Indias
+Cartagena de Indias
+San Diego
+San Diego
+Cook
+Cook
+Cook
+Madrid,Paris
+Hidalgo
+New York
+New York
+Paris
+Clark
+Clark
+Harris
+New York
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+Orange
+Orange
+El Paso
+Dupage
+Cook
+Will
+Cook
+Dupage
+El Paso
+El Paso
+Bexar
+Bexar
+Bexar
+Bexar
+Bexar
+Panamá
+Bexar
+New York
+Toronto
+Cook
+Los Angeles
+Drôme
+Los Angeles
+Los Angeles
+El Paso
+El Paso
+El Paso
+Ottawa
+Thunder Bay
+Praha 1
+Thunder Bay
+Paris
+Clark
+Alicante
+Alicante
+Madrid
+Alicante
+Alicante
+Alicante
+Girona
+Barcelona
+Alicante
+Alicante
+San Francisco,Marin
+Riverside
+Cook
+Los Angeles
+Paris
+Paris
+Alicante
+Ventura
+Bexar
+Sagamihara
+Taito
+Podil's'kyi
+Shevchenkivs'kyi
+Madrid
+Desnians'kyi
+Pechers'kyi
+Podil's'kyi
+Holosiïvs'kyi
+Centro Habana
+Wuhan
+Lima
+Urubamba
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Paris
+Harris
+Dallas
+Harris
+Trapani
+Oberbayern
+Berlin
+Wien
+Budapesti
+Haarlemmermeer
+Berlin
+Milas
+Bodrum
+Sehitkamil
+Sehitkamil
+Yüregir
+Besiktas
+Besiktas
+Bodrum
+Medellín
+NA
+Antigua Guatemala
+Bergen
+Bergen
+Vlaams Brabant
+Liège
+Seine-et-Marne
+Los Angeles
+Rhône
+Shanghai
+Beijing
+Clark
+San Diego
+King
+Greater Vancouver
+Santafé de Bogotá
+Santafé de Bogotá
+Suffolk
+New York
+Middlesex
+Haarlemmermeer,Amsterdam
+Hà N?i
+Phnom Penh
+Muang Buri Ram
+Muang Suphanburi,Phra Nakhon
+Ratchathewi
+Khlong Toey,Prakanong,Pathum Wan
+Ko Samui,Khlong Toey
+Ko Phangan
+Ko Phangan
+Ko Samui
+Kenai Peninsula
+Kenai Peninsula
+Lawrence
+Ciénaga de Zapata
+Sarapiquí,San José,Cartago
+Sarapiquí
+Sarapiquí
+Sarapiquí
+Clark
+Clark
+Clark
+Clark
+Clark
+Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+Tarrant
+Bang Sai,Phaya Thai,Dusit,Pathum Wan
+Siem Reab,Bang Plee
+Kyoto
+New York,Kings
+New York
+Bexar
+Barcelona
+Barcelona
+Madrid,Barcelona
+Sevilla
+Sevilla
+Chefchaouen
+Fès
+Granada,Barcelona
+Miami-Dade
+Miami-Dade
+Bexar
+Los Angeles
+San Diego
+Greater Vancouver
+Travis
+Orange
+San Francisco
+Distrito Federal
+New York,Hudson,Bronx
+Webb,Bexar
+New York
+Webb
+Los Angeles
+Riverside
+Riverside
+Riverside
+Orange
+Orange
+Orange
+Suffolk
+Miami-Dade
+Fulton
+Los Angeles
+Los Angeles
+Valparaíso,Santiago
+Bariloche
+Los Lagos
+New York
+Tarrant
+Miami-Dade
+Bergen
+Miami-Dade
+Bergen
+Pula
+Bergen
+New York
+Amsterdam
+Bergen
+Peel
+Hidalgo
+Stockholm
+Hauts-de-Seine
+Paris
+Westminster
+Miami-Dade
+Panamá
+New York
+Paris
+Santafé de Bogotá
+Santafé de Bogotá
+San Diego
+Panamá
+Los Angeles,Sydney - Inner
+Riverside
+Riverside
+Fairfield
+New York
+Monroe
+Cook
+Dali Bai
+Dali Bai
+Santafé de Bogotá
+New York
+New York
+Maricopa
+Greene
+Saint Louis
+Cook
+Cook
+Greene
+Barcelona
+Madrid
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Harris
+Miami-Dade
+New York
+Cook
+Cook
+Cook
+Cook
+Suffolk
+Orange
+Clark
+Clark
+Clark
+Madrid
+Clark
+Lima
+Lima
+São Paulo
+Cook
+Limestone
+New York
+New York
+New York
+New York
+New York
+Los Angeles
+Los Angeles
+Rio de Janeiro
+Porto Alegre
+Porto Alegre
+Guarulhos
+Los Angeles
+Oberbayern,Stuttgart
+Cyclades
+Bergen
+Broward
+Broward
+Alameda
+Alameda
+San Francisco
+Alameda
+Suffolk
+Los Angeles
+Miami-Dade
+Miami-Dade
+Queens
+Miami-Dade
+San Francisco
+Roma
+Roma
+Roma
+Roma
+San Joaquin
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Los Angeles
+San Diego
+Orange
+Orange
+Madrid
+Camden
+Manchester
+Camden,Westminster
+Orange
+Clark
+Bari
+Bari
+Lecce
+Paris
+Segovia,Madrid
+Carthage
+Genova,Roma
+Barcelona
+Puntarenas
+Valladolid
+Paris
+Kobe
+Kyoto
+Kyoto
+Taito
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+San Diego
+Clark
+Bexar
+Clark
+San Diego
+San Diego
+Miami-Dade
+Miami-Dade
+Clark
+Bexar
+Bexar
+Los Angeles,Orange
+Orange,Los Angeles
+Madera
+Clark
+Tarrant
+Siem Reab
+Siem Reab,Soutr Nikom
+Capital
+Capital
+Tarrant
+Hidalgo
+Marion
+Oberbayern
+Darmstadt
+Los Angeles
+Los Angeles
+Queens
+Queens
+Osceola
+Orange
+Osceola
+Osceola
+District of Columbia
+District of Columbia
+San Diego
+Cook
+New York,Kings
+New York
+Hidalgo
+Orange
+Pima
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+San Diego
+San Diego
+Praha 1
+Barcelona
+São Paulo
+Essex
+Clark
+Clark
+Harris
+Miami-Dade
+Barcelona
+Barcelona
+Cáceres
+Granada
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Zaragoza
+Vizcaya,Burgos
+Valladolid
+Madrid
+Granada
+Córdoba
+Barcelona
+Wien
+Wien,Barcelona
+Barcelona
+Los Angeles
+Samphantawong
+Budapesti
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Tarrant
+Tarrant
+Harris
+Harris
+Lima
+Lima
+District of Columbia
+Riverside
+Lambeth
+Asturias
+New York,Kings
+Woollahra
+Woollahra,Sydney - South
+Woollahra
+Woollahra
+Abangares
+Iguazú
+São Paulo
+Alpes-Maritimes
+Sveitarfélagið Hornafjörður
+Parramatta  - Inner
+Randwick
+Waverley
+Manly
+Broadbeach-Mermaid Beach
+Broadbeach-Mermaid Beach
+Manly,Randwick
+Augusta-Margaret River
+Belmont
+Parramatta  - Inner
+San Diego
+San Diego
+Los Angeles,Iguazú
+Maricopa
+New York
+Tarrant
+Montgomery
+Amsterdam
+A Coruña
+Miami-Dade
+Pays-d'Enhaut,Lucca
+Paris
+San Diego
+Pisa,New York,San Diego
+Clark
+Pays-d'Enhaut
+Roma
+New York,Napa
+Orange,Osceola
+Hidalgo,Cameron
+Cameron
+Los Angeles
+Orange
+Orange
+Los Angeles
+New York
+San Diego
+Taito,Chiyoda,Edogawa
+Paris
+Los Angeles
+Paris
+Cyclades
+Clark
+Dupage
+New York,District of Columbia,Hudson,Tarrant
+Cook
+Cook
+Coconino
+Pima
+Broward
+Division No. 6
+Communauté-Urbaine-de-Montréal
+West Sussex
+Communauté-Urbaine-de-Montréal
+Orleans
+San Francisco
+San Francisco
+Deux-Montagnes
+Dallas
+Dallas
+Greater Vancouver
+Laval
+Division No. 11,Salvaleón de Higüey
+
+Clark
+New York,Kings
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Tarrant
+Val-d'Oise
+Laval
+Loire-Atlantique
+Toronto
+Málaga
+Greater Vancouver
+Palm Beach
+Pima
+Pima
+Pima
+Pima
+Orange
+Cameron
+Clark
+Libertador
+Hidalgo
+Los Angeles
+Orange
+Cameron
+San Francisco
+Clark
+New York
+New York
+Bratislava I
+Ohrid
+Orange
+Capital
+Santiago
+Distrito Federal
+Collin
+Harris
+Harris
+San Diego
+Providence
+Qu?ng Ninh
+Puok,Muang Krabi
+Hennepin
+Hennepin
+Hennepin
+Westminster
+West-Vlaanderen
+Paris
+Barcelona
+Westminster,Kensington and Chelsea
+Greater Vancouver
+Capital
+El Paso
+Cameron
+Cartagena de Indias
+New York
+Miami-Dade
+Clark
+Essex
+New York
+Flores
+New York
+Kensington and Chelsea
+Hammersmith and Fulham
+Los Angeles
+Clark,Mohave
+Los Angeles
+San Diego
+Travis,Bexar
+San José
+Narita
+Urubamba
+Montgomery
+Montgomery
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Växjö
+Växjö
+Växjö
+Combined statistics
+Växjö
+Växjö
+Madrid
+Madrid
+Madrid
+Greater Vancouver,Squamish-Lillooet
+Orange
+New York
+Cook
+Cook
+Cook
+Los Angeles,Orange
+Los Angeles
+Orange
+Los Angeles
+Southwark,Westminster
+Camden
+Berlin
+Berlin
+Paris
+Madrid
+Newham
+Oberbayern
+Schwaben
+Berlin
+Bedfordshire
+Westminster
+Amsterdam
+Zandvoort,Amsterdam,Zaanstad
+'s-Gravenhage
+Köln
+Conwy,Staffordshire
+Merseyside
+Clark
+Clark
+Montgomery,New York,Bucks
+Bexar
+Bexar
+Comal
+Oberbayern,Salzburg
+Angus,Dundee,Manchester
+Amsterdam
+Amsterdam
+Los Angeles
+Los Angeles
+New York
+New York
+New York
+Denver
+Denver
+Los Angeles
+Los Angeles
+Orange
+Orange
+Barcelona
+Barcelona
+Sintra
+Haute-Savoie,La Gruyère
+Torino
+Paris
+New York
+Var
+Var
+Florence
+Paris
+San Diego
+Var
+Bouches-du-Rhône
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Cook
+Lima
+Cusco
+Urubamba
+Hérault
+Paris
+Amsterdam
+Orange
+Clayton
+Hamilton
+Hamilton
+Hamilton
+Hamilton
+Hamilton
+Hamilton
+Hamilton
+Hamilton
+Erie
+Erie
+Montgomery
+Hamilton,Cook
+Marion
+Hamilton
+San Diego
+San Diego
+San Diego
+Los Angeles
+Paris
+Toronto
+Toronto
+Muskoka
+Muskoka
+New York
+Toronto
+Toronto
+Los Angeles
+Toronto
+Roma
+Salerno
+Roma
+Cook
+Cook
+Sullivan
+Toronto
+Toronto
+Toronto
+Toronto
+New York,Kings
+San Francisco
+San Francisco
+San Francisco
+Seixal
+Lisboa
+Sintra
+Hillsborough
+Hillsborough
+Hillsborough
+Westchester
+Fairfield
+Hillsborough
+New York
+New York
+New York
+Fairfield
+New York,Fairfield
+New York
+New York,Kings
+New York
+Kings
+New York,Queens
+Queens
+New York
+New York
+New York,Fairfield
+New York
+New York
+Miami-Dade
+Miami-Dade
+Westminster
+Plaza de la Revolución
+Los Angeles
+Gianyar
+Tabanan
+San Francisco
+San Francisco
+New York
+Alpes-Maritimes
+Wien
+Hackney
+Hidalgo
+Cameron
+Hidalgo
+Hidalgo
+Queens,New York,Kings,Bronx
+Bronx
+Toronto
+Tarrant
+Suffolk
+Tarrant
+Tarrant
+Dallas
+Paris
+Tarrant
+Paris
+Harris
+Cook
+McHenry
+McHenry,Cook
+Cook
+Cook
+San Francisco
+San Francisco
+Los Angeles
+Los Angeles
+Los Angeles
+Panamá
+Panamá
+Panamá
+São Paulo,Guarulhos
+York
+Bexar
+Bexar
+Hudson
+New York
+New York
+New York
+New York
+New York
+Hudson
+New York
+Combined statistics
+Amsterdam
+Cyclades
+Barcelona
+Clark,Mohave
+Wien
+Budapesti
+Esztergom
+Budapesti
+Westchester
+Eagle
+Eagle
+Kings,New York
+Queens
+Lima
+Lima
+Lima
+Nassau
+Hidalgo
+Webb,Bexar
+Webb,New York
+New York
+Bexar
+San Bernardino
+San Bernardino
+Maricopa
+Barcelona
+San Francisco
+Clark
+New York,Atlantic,Philadelphia,Kings
+New York
+New York
+New York
+New York
+New York
+Bronx
+Greenwich
+Kensington and Chelsea
+Hampshire,Westminster
+Pisco
+Santiago
+Santiago,Cordillera
+Urubamba
+Middlesex
+Suffolk,Middlesex
+Plymouth,Middlesex,Suffolk
+San Francisco
+Maricopa
+Miami-Dade
+Barcelona
+Distrito Federal
+Jung
+Barcelona
+Orange
+Distrito Federal
+San Diego
+San Diego
+San Diego
+San Diego
+Hidalgo
+Valparaíso
+Santiago
+Capital
+Iguazú,Foz do Iguaçu
+Distrito Federal
+Distrito Federal
+Orange
+Osceola
+Orange,Osceola
+Lincoln
+Lincoln
+El Paso
+El Paso
+El Paso
+Maverick
+New York,Hudson
+Clark
+Clark,Orange
+Los Angeles,New York
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Milano
+Paris
+Paris
+Manchester
+Tarrant,Hennepin,Cook
+Summit,Cuyahoga
+Erie
+Santa Clara
+Allegheny
+Paris
+Madrid
+Amsterdam
+Westminster
+Islington
+Harris
+Los Angeles
+Los Angeles
+San Francisco
+Clark
+Sydney - Inner
+Imperial
+Imperial
+Imperial
+Imperial
+Pima
+Pima
+Maricopa
+Orange
+Orange
+Pima
+Darmstadt
+Miami-Dade
+Miami-Dade
+Travis
+Orange
+Orange
+Orange
+Orange
+Orange
+Orange
+San Diego
+El Paso
+New York
+Toronto
+Niagara
+New York
+Osceola
+Orange
+Bexar
+Granada
+Seine-et-Marne,Paris
+Seine-Saint-Denis,Paris
+Sevilla
+Tarrant
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+Dona Ana
+Marion
+Kensington and Chelsea
+Budapesti
+Budapesti
+Kraków City,Bierun-Ledziny
+Westminster,Camden
+Kensington and Chelsea
+Camden,Westminster,London,Islington
+Camden
+Westminster
+Camden
+Westminster
+Islington,Camden
+Greenwich,Southwark,Tower Hamlets
+Hackney
+Haringey
+Westminster
+Tower Hamlets,Camden,London
+East Sussex
+Camden
+Surrey
+Richmond upon Thames
+Croydon
+Enfield
+Westminster
+Hackney
+Tower Hamlets
+Westminster
+Santiago
+Petorca
+Santo Domingo,Heredia,Sarapiquí
+San José
+Distrito Federal
+Osorno
+El Loa
+Paris
+Wayne,Erie,Niagara,Toronto
+Niagara
+Niagara
+Toronto
+Distrito Nacional,Bonao,Santo Domingo Este,Salcedo
+Harris
+Harris
+Galveston
+New York
+Waverley,North Sydney
+Waverley
+Los Angeles
+Roma
+Enna
+Messina
+Roma
+Hamburg
+Al Haouz
+Al Haouz,Marrakech,Essaouira
+Amsterdam
+Distrito Federal
+Lomas de Zamora
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Cyclades
+Cyclades
+Cyclades
+Paris
+Paris
+New York
+Los Angeles
+Riverside
+Riverside
+Honolulu
+Paris
+Sydney - East
+Santafé de Bogotá
+Kyoto
+San Francisco
+ZONA 10
+ZONA 10
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Pima
+Fulton,DeKalb,Loudoun,District of Columbia
+Fulton
+Loudoun,Cobb
+Suchitoto
+Varna
+Ushuaia
+Capital,San Javier
+Panamá
+Panamá
+Maricopa,New York
+New York
+Queens,New York,Kings,Richmond
+New York
+New York
+New York
+Cook
+Denver
+San Francisco
+Queens
+Pima
+El Paso
+San Diego
+Orange
+Clark
+Clark
+New York
+New York
+San Diego
+Orange
+Orange
+Los Angeles
+Los Angeles
+Merseyside,Oxfordshire
+Madrid
+Granada,Valencia
+Barcelona
+Barcelona
+Westminster
+Westminster
+Collier
+Miami-Dade
+Lincoln,Otero
+Clark
+El Paso
+Galveston
+Los Angeles
+El Paso
+Roma
+Marquette
+Valdivia
+Valdivia
+Valdivia
+Luzern
+Calvados
+Paris
+New York,Hudson
+New York
+Orange
+Orange
+Sacramento
+Sacramento
+Miami-Dade
+Haarlemmermeer,Wien Umgebung,Scheibbs
+Scheibbs
+Scheibbs,Wien,Steyr Land,Salzburg Umgebung,Westminster,London,Merton,Wandsworth,Camden,Enfield,Islington,Bergamo,Milano,La Spezia,Genova
+Scheibbs
+Freiburg
+Clayton
+Harris,Pima,Los Angeles
+Pima
+Pima
+Pima
+Los Angeles
+Orange
+Los Angeles
+Amsterdam,Haarlemmermeer
+Wien
+Haarlemmermeer
+Bristol
+Sacramento
+Sacramento
+Sacramento
+Sacramento
+Sacramento
+Napa
+Los Angeles
+Shah Alam
+Sacramento
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Panamá
+Panamá
+Panamá
+Colón,Panamá
+Panamá
+Panamá,Arraiján
+Madrid
+Barcelona
+Barcelona
+Barcelona
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Barcelona
+Madrid
+Madrid
+Madrid
+Los Angeles
+Los Angeles
+Los Angeles
+Distrito Federal
+New York
+Damnoen Saduak
+Bexar
+Orange
+Hawaii
+Barcelona
+Westminster
+Camden
+Distrito Federal
+Distrito Federal
+Broward
+New York
+San Mateo
+Kensington and Chelsea
+Paris
+Orange
+Westminster
+Westminster
+Barcelona,Madrid
+Budapesti
+Cook
+Miami-Dade
+Miami-Dade
+New York
+Kings,New York
+Centro Habana
+Harris
+Harris
+Harris
+Washtenaw
+Miami-Dade
+Miami-Dade
+Bratislava I
+Wien
+New York
+New York
+New York
+Queens
+New York
+Nassau,Queens
+Queens
+Queens
+Los Angeles
+Rio de Janeiro
+Roma
+Paris
+Mendocino
+Capital
+Capital
+Los Angeles
+Cook,Kane,Dupage
+Fulton
+Pima
+Los Angeles
+Cusco
+Lima
+Talara
+Talara,Piura
+Valparaíso
+Distrito Federal
+San Diego
+Andrés Ibáñez
+Santafé de Bogotá
+Santa Marta (Dist. Esp.)
+San Francisco,Suwon,Jongro
+Jeju,Seogwipo,Mapo
+Mapo,Seongbuk,Jongro
+Mapo,Ritto,Jung,Jongro
+Jongro,Jakarta Selatan,Seogwipo
+Seogwipo
+San Francisco
+Jongro
+Jakarta Selatan
+Shah Alam
+Middlesex
+Greater Vancouver
+Capital
+Squamish-Lillooet
+Greater Vancouver
+Capital
+Capital
+Orange
+Chiyoda,Koto
+Kyoto,Hiroshima
+Osaka,Narita
+San Diego
+Cook
+Cook
+Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Montréal
+Kings,New York
+New York
+Cameron
+Hidalgo
+Allegheny
+Harris
+Hidalgo
+Lapland
+Köln
+Köln
+Hamburg
+Orange
+Norfolk
+Napa
+Placer
+Paris
+New York
+Travis
+Hidalgo
+Hidalgo
+Hidalgo
+Cameron
+Huancayo
+Orange
+Orange
+Orange
+Westminster
+Camden
+Paris
+Berlin
+Madrid
+Karsiyaka
+Porto Alegre
+Canela,Gramado
+Rio de Janeiro,São Paulo
+Guarulhos
+New York
+Kings
+New York
+New York
+Clark
+Grand
+Montgomery,Harris
+Cameron
+Sangamon
+Orange
+New York
+Vargas
+Miami-Dade,Broward
+New York,Kings
+New York
+Bexar
+Madrid
+Wien
+Madrid
+Miami-Dade
+Miami-Dade
+Wichita
+Bexar,Potter
+Comal,Montague
+Webb,Bexar
+Middlesex
+Suffolk
+Suffolk
+New York
+San Diego
+San Diego
+San Diego
+San Diego
+Cook
+Tarrant
+Dallas
+Orange
+Orange
+Orange
+Madrid
+Paris
+Marrakech
+Madrid
+Miami-Dade
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Los Angeles,San Diego
+San Diego,Los Angeles
+San Diego
+San Diego,Los Angeles,Orange
+San Diego
+Los Angeles,San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Greater Vancouver
+Greater Vancouver
+Squamish-Lillooet,Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Squamish-Lillooet,Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Norfolk
+Greater Vancouver
+Bronx
+El Paso
+Madison
+Paris
+Queens
+Bexar
+Bexar
+Clark
+Clark
+Orange
+Miami-Dade
+Miami-Dade
+Cook
+Cook
+Paris
+Placer
+Los Angeles
+Clark
+Travis
+Travis
+Harris
+Santa Clara
+San Diego
+San Diego
+San Diego
+Anne Arundel
+San Diego
+Santa Clara
+San Diego
+San Diego
+San Diego
+New York
+Maricopa
+New York
+New York
+Milano
+Milano,Varese,Paris,Hillingdon
+New York
+New York
+Milano,Paris
+New York
+New York,Queens
+Milano
+Milano
+Milano
+Milano
+Distrito Federal
+Los Angeles
+Tarrant
+Washtenaw
+Washtenaw
+Queens,New York,Los Angeles
+Madrid
+Madrid,Barcelona
+New York
+New York
+New York
+New York,Essex,Cook
+Washtenaw
+Washtenaw
+New York
+New York
+New York
+Amsterdam
+Madrid,Barcelona
+New York
+New York
+New York
+New York
+Santafé de Bogotá
+Santafé de Bogotá,New York
+New York
+Los Angeles
+Madrid
+Milton Keynes
+Amsterdam,Paris
+New York
+New York
+Paris
+San Francisco
+Los Angeles
+Queens,New York
+New York
+Paris
+Paris
+Paris,Val-d'Oise
+Amsterdam,Val-d'Oise
+Lleida
+Los Andes
+Haute-Garonne
+Lleida
+Lleida
+Lleida
+Barcelona
+Hidalgo,Tarrant
+Pima
+Pima
+Madrid
+Orange
+Pinellas
+Orange
+Maricopa
+Maricopa
+Maricopa
+San Bernardino
+Maricopa
+New York
+Orange
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Waterloo
+York
+Hamilton,Peel,Halton
+Hamilton,Peel
+Hamilton
+West-Vlaanderen
+Cook
+Santafé de Bogotá
+Bexar
+Bexar
+Bexar
+Bexar
+Parkes
+Hidalgo
+San Diego
+San Diego
+Denver
+Denver
+Barueri
+Limburg
+Bruxelles
+Barcelona,Tarragona
+Barcelona
+Lleida
+Barcelona
+Lleida
+Lleida,Bruxelles,Amsterdam
+Barcelona
+Madrid,Ávila
+Barcelona
+Barcelona
+Bruxelles,Barcelona
+Barcelona
+Madrid
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Madrid,Barcelona
+Barcelona
+Amsterdam
+Madrid
+Tompkins
+Baltimore
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Tompkins
+Cook
+Cook
+Cook
+Cook
+Cook
+Cook
+Cook
+Madrid
+Cook
+Madrid
+Tompkins
+Amsterdam
+Madrid
+San Francisco
+San Francisco
+Bexar,Travis
+Shenzhen,Guangzhou
+Clark
+Orange
+Orange
+Miami-Dade
+Miami-Dade
+Clark
+Clark
+Orange
+Orange
+San José,Pococí,San Carlos
+Puntarenas,Santa Cruz
+Santa Cruz,Alajuela
+Pima
+Webb
+Oslo
+Panamá
+Broward
+Volusia
+Queens
+Los Angeles
+Wright
+Wright,Los Angeles
+Hennepin
+Distrito Federal,n.a351
+Santiago
+Dickinson
+Hennepin
+Ramsey
+Viçosa
+Viçosa
+Guarulhos
+Vitória da Conquista
+Anagé
+Baldim
+Orange
+San Diego
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Los Angeles,Miami-Dade
+Los Angeles
+Los Angeles,Miami-Dade
+Los Angeles
+Los Angeles
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Los Angeles
+Los Angeles
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Wayne
+Nassau,Saint Johns
+Dallas
+Dallas,San Francisco,Marin
+San Francisco
+Paris,Hauts-de-Seine,Gard,Yvelines
+Paris,Essonne
+Paris,Yvelines
+New York,Kings
+New York,Queens,Kings
+New York,Kings
+Dallas
+Collin,Dallas
+Saint-Paul,Saint-André,La Possession,Sainte-Rose,Saint-Joseph
+Saint-Denis
+La Possession
+Cilaos
+Paris
+Paris
+Dallas,Denton
+Dallas
+Dallas
+Los Angeles
+Los Angeles
+Ballina
+Ballina
+Richmond Valley Bal
+Los Angeles
+Orange
+Maroochy - Coastal North
+Burleigh Heads
+Bilinga-Tugun
+Bilinga-Tugun
+Bilinga-Tugun
+Pima
+Pima,San Francisco
+San Francisco,Marin
+San Francisco
+San Francisco
+Pima
+Pima
+Pima
+Pima
+Pima
+Maricopa,Pima
+Pima
+Westminster,Kensington and Chelsea
+Paris
+Amsterdam
+Los Angeles,Riverside
+Praha 1,Praha 7
+Bexar
+Bexar,Webb,Hays
+Guadalupe,Webb
+Hidalgo
+Bexar
+Bexar,Webb,Hays,Comal
+Wayne
+Oakland
+Oakland
+Wayne
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,San Diego
+n.a354
+Distrito Federal
+Distrito Federal
+n.a354
+Barcelona
+Orange
+Orange
+Los Angeles
+San Bernardino
+Los Angeles
+Var
+Var
+Kings,New York
+Surrey
+Los Angeles
+Queens
+Cook
+Queens,Kings
+New York
+New York
+New York
+New York
+Cook
+Paris
+Berlin,Praha 1
+Wien
+Wien
+Wien
+Wien
+Orange,Los Angeles
+Los Angeles
+Wien,Wien Umgebung
+Orange
+Orange
+Osceola
+Panamá
+Milano
+Milano
+Amsterdam
+Amsterdam
+Bruxelles
+Pinellas
+Kings,New York
+Dupage
+Cook
+Hidalgo
+New York
+San Diego
+San Diego
+Minato
+Beijing
+Shanghai
+Shanghai
+Miami-Dade
+Chiyoda
+Koto
+New York
+Orange
+Clark
+Los Angeles
+Moore
+San Francisco
+Santa Fe
+Clark
+Clark
+Miami-Dade
+Cook
+Cook
+Clark
+District of Columbia
+New York
+New York
+Bexar
+San Francisco
+Jackson
+King
+New York
+Denver
+Denver
+Denver
+Si Racha
+San Diego
+Orange
+San Diego
+San Bernardino
+Pima
+Clark
+Clark
+Bern
+Westminster,Tower Hamlets,Enfield,Hammersmith and Fulham
+Paris
+Paris
+Paris
+Bern
+Bern
+Bern
+Bern
+Bern
+Thun
+Bern
+New York
+Flores
+Suffolk
+Worcester
+Hampden
+Hudson,New York
+New York,Kings
+Worcester
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Florence
+Milano
+Milano
+Genova
+Novara
+New York
+Orange
+Orange
+Brevard
+Brevard
+Miami-Dade
+Lake
+New York
+Berkshire
+Worcester
+Worcester
+Worcester
+Cumberland
+New York
+New York
+New York
+New York
+Kings
+New York
+New York
+New York
+Queens
+New York
+Brevard
+Queens
+New York
+New York
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Bexar
+Clark
+Clark
+Suffolk
+Westvoorne
+Harris
+Paris
+Clark
+Baleares
+Baleares
+Baleares
+Baleares
+Barcelona
+Baleares
+Baleares
+Baleares
+Baleares
+Valencia
+Clark
+Gianyar
+New York
+New York
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Los Angeles
+Mariposa
+Los Angeles
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+San Diego
+Las Palmas
+Ávila
+Madrid
+Ávila
+San Diego
+Kings,New York
+Miami-Dade
+Santafé de Bogotá
+Santafé de Bogotá
+Alpes-Maritimes
+Alpes-Maritimes
+Paris
+Paris
+Berlin
+El Paso
+Clark
+Camden,Islington
+Westminster
+Lambeth
+Monterey
+Phrao
+Barcelona
+Seine-et-Marne
+Praha 1
+San Diego
+San Diego
+Puerto Triunfo
+Puerto Triunfo
+Puerto Boyacá,Puerto Triunfo
+Puerto Triunfo
+Puerto Triunfo
+Puerto Triunfo
+Hidalgo
+Clark
+Travis
+Travis
+Panamá
+Panamá
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Clara
+Santa Cruz
+Panamá
+Niagara
+Bang Rak
+Madrid
+Attica
+Montgomery
+Napa
+Tooele,Eagle
+Eagle
+Napa
+Napa
+San Francisco
+Clark
+Marin
+Avellino
+Paris
+Amsterdam
+Hidalgo
+Hidalgo
+Cook
+Cook
+Cook
+Clark
+Toronto,Les Pays-d'en-Haut
+Communauté-Urbaine-de-l'Outaouais
+Communauté-Urbaine-de-Montréal
+Les Laurentides
+Arauca
+Arauca
+Arauca
+Webb
+San Diego,Orange,Los Angeles
+Harris
+Hidalgo
+Hidalgo
+Bariloche
+Tigre
+Tigre
+El Paso
+Riverside
+Riverside
+Travis
+Travis
+Cook
+Cook
+Clark
+Clark,Cook
+Clark
+Marion
+Hamilton,Marion
+Orange,Los Angeles
+San Francisco
+Manizales
+Manizales
+Cameron
+Hidalgo
+Cameron
+San Pedro Sula
+Saint Lucie
+Martin
+Hillsborough
+New York
+Lombok Barat,Buleleng
+Badung
+Shanghai
+Shanghai
+Shanghai
+New York
+Hudson
+New York
+New York
+Los Angeles
+Los Angeles
+Florence
+Paris
+Miami-Dade
+Baleares,Barcelona
+Distrito Federal
+Capital
+Distrito Federal
+New York
+Orange,Los Angeles
+New York
+New York
+Barcelona,Haarlemmermeer
+Barcelona
+New York
+New York
+New York
+Queens
+New York,Queens,Kings
+Orange,Los Angeles
+New York
+New York
+New York
+New York
+Düsseldorf,Amsterdam
+Amsterdam
+New York
+New York
+Orange
+Los Angeles
+Los Angeles
+New York
+New York,Queens
+New York
+San Francisco
+San Francisco
+Kings
+Chiyoda,Minato
+Taito
+New York
+New York
+New York
+New York
+Los Angeles,San Diego
+Los Angeles,San Diego
+Amsterdam,Maastricht
+Amsterdam
+New York
+Queens,New York
+New York
+Los Angeles
+Los Angeles
+Los Angeles
+Multnomah
+Multnomah
+Multnomah
+Los Angeles
+Los Angeles
+Multnomah
+Multnomah
+Los Angeles
+New York
+Baleares
+Baleares
+Baleares
+Madrid
+Baleares
+Granada
+Cook
+Madrid
+Oberbayern
+Miami-Dade
+Tiranës
+Tiranës
+Venezia
+Orange
+Orange
+San Diego
+San Francisco
+San Diego
+San Diego
+Sarapiquí
+Barranquilla
+Barranquilla
+Norfolk
+Barnstable
+Barnstable
+Barnstable
+Barnstable
+Barnstable
+Barnstable
+Barnstable
+Barnstable
+Barnstable
+Bexar
+Greater Vancouver
+Squamish-Lillooet
+Waverley
+Manly
+Waverley
+Waverley
+Sydney - Inner
+Waverley
+Sydney - Inner
+Los Angeles
+Greater Vancouver
+Cameron
+Clark
+Clark
+Clark
+Osa
+Rio de Janeiro
+Rio de Janeiro
+Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+New York
+New York
+Cameron
+Cameron
+Cameron
+Paris
+Madrid
+Baleares
+Madrid
+Asturias
+Tarrant
+Hidalgo
+Miami-Dade
+Cartagena de Indias
+El Dorado
+London
+Dubrovnik
+Messina,Napoli
+Florence
+La Spezia
+Roma
+Cook
+Muang Chiang Rai
+Damnoen Saduak
+New York
+New York
+Washoe
+Los Angeles
+Los Angeles
+San Carlos
+San Carlos
+Orange
+San Diego
+Clark
+Los Angeles
+San Diego
+New York
+Barcelona
+Barcelona
+Valencia
+Valencia
+Valencia
+Alpes-Maritimes
+Barcelona
+Barcelona
+Girona,Barcelona
+Paris
+Hauts-de-Seine,Madrid
+Sevilla
+Barcelona
+Barcelona
+Bexar
+Travis,Bexar
+Travis
+Travis
+Clark
+Bexar
+Islington
+Islington,Bristol
+Los Angeles
+Orange
+Los Angeles
+Clark
+Los Angeles
+Santiago,Distrito Federal
+Las Heras
+Los Angeles
+Orange
+Clark
+Esteban Echeverría,Distrito Federal
+Ushuaia
+n.a354
+Harris
+Santafé de Bogotá
+Cook
+Cook
+Cook
+Clark
+Broward
+Berlin
+Santa Clara
+New York
+Bexar
+Bexar
+Bexar
+New York
+New York
+New York
+New York
+New York
+New York
+Cook
+Cook
+Cook
+Cook
+Cook
+Santafé de Bogotá
+Attica
+Merkez
+Merkez
+Fatih
+Middlesex
+York
+Miami-Dade
+Orange
+Orange
+San Antonio
+Capital
+Bexar
+Eagle
+Eagle
+Clark
+Los Angeles
+San Bernardino
+Iguazú
+Clark
+Clark
+Baleares
+Cyclades
+Westminster
+Miami-Dade
+Kings
+Miami-Dade
+Los Angeles
+Napa
+San Francisco
+Camden
+Hackney
+Westminster
+Westminster
+Lambeth,London
+Paris
+Wayne
+Westminster
+Madrid
+Madrid
+Asturias
+Harris,Clark
+El Paso
+El Paso
+New York
+New York
+San Bernardino
+San Bernardino
+San Bernardino
+San Bernardino
+San Diego,Orange
+Imperial
+Imperial
+Cyclades
+Praha 1
+Westminster
+Hérault
+Barcelona
+Barcelona
+Barcelona
+Shanghai
+Beijing
+Siem Reab
+Muang Phuket
+Varese,Barcelona
+Barcelona
+Riverside
+Clark
+Harris
+Bas-Rhin
+Oberbayern
+Bas-Rhin
+Bas-Rhin
+Bas-Rhin
+Bas-Rhin
+Oberbayern
+Venezia
+Oberbayern
+Oberbayern
+Venezia
+Bexar
+Imperial
+Imperial
+San Francisco
+San Francisco
+Orange
+São Lourenço da Mata
+São Lourenço da Mata
+Recife
+Recife
+Dallas,Tarrant
+Los Angeles
+Los Angeles
+Cook
+Bexar
+Bexar
+Bexar
+Cook
+Sauk,Cook
+Darmstadt
+Tower Hamlets
+Monroe
+San Diego
+San Diego
+San Francisco
+San Francisco
+Distrito Central
+Distrito Central
+Distrito Central
+Maracaibo
+Contra Costa
+Durham
+Niagara
+San Francisco
+New York
+New York
+San Bernardino
+Communauté-Urbaine-de-Québec,Communauté-Urbaine-de-Montréal
+Toronto
+Toronto
+Toronto
+Toronto
+Webb
+Toronto
+New York
+Toronto
+New York
+Toronto
+King
+King
+Guarulhos,Rio de Janeiro
+Indre-et-Loire
+Indre-et-Loire
+Roma
+Barcelona
+Roma
+Distrito Federal
+San Francisco
+Val-de-Marne,Paris
+Webb
+Orange
+Orange
+Los Angeles
+Cordillera
+Los Andes
+Cordillera
+Santiago
+New York
+Travis
+Travis
+New York
+New York
+Queens
+San Diego
+Los Angeles
+Orange
+Orange
+Bexar
+Denver
+Denver
+Linz
+Wien
+Bexar
+Clark
+Clark
+Clark
+New York
+New York
+Paris
+Orange
+Orange
+Orange
+Orange
+Asturias
+Madrid
+Santa Cruz
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+Maricopa
+El Paso
+El Paso
+El Paso
+Dona Ana
+El Paso
+El Paso
+Madrid
+San Diego
+San Diego
+Philadelphia
+New York
+New York
+New York
+Williamson,Travis
+Webb
+Cameron
+Baleares
+Baleares
+Cagliari
+San Diego
+Datça
+Çesme,Selçuk
+Amsterdam
+Genova
+Var
+Pitkin
+Maui
+Kitzbühel
+Los Angeles
+Amsterdam
+Amsterdam
+Vaucluse
+Bouches-du-Rhône
+Var
+Var
+New York
+Dubrovnik
+Var
+Los Angeles
+Riverside
+Los Angeles
+Orange
+San Francisco
+Cusco
+New York
+New York
+Kings
+Kings
+Clark
+Clark
+Los Angeles
+Orange,Los Angeles,Coconino
+Los Angeles,San Bernardino,Orange,Riverside
+Clark
+San Diego
+San Diego
+Rio Branco
+Rio Branco
+Senador Guiomard
+San Diego
+Thüringen
+São Paulo
+São Paulo
+São Paulo
+Teresina
+Fortaleza,Eusébio
+Goiania
+São Paulo
+Tibaji
+São Paulo
+Cook
+Cook
+Amsterdam
+Los Angeles
+San Mateo,Los Angeles
+San Mateo
+Maricopa
+Pima
+Clark
+Clark
+Madrid
+Cook
+Cook
+San Diego
+Tarrant
+Cook
+Coahoma,Orleans
+Harrison,Davidson
+Los Angeles
+Madrid
+Madrid
+Dallas,Collin,Miami-Dade
+Distrito Federal
+n.a540
+Queens
+Clark
+King
+Clatsop
+Sonoma,Napa
+New York
+San Francisco
+San Diego
+San Diego
+Paris
+Pinal
+Pinal
+San Bernardino
+San Bernardino
+Los Angeles
+San Bernardino
+Clark
+Kern
+Kern
+Santiago
+Valparaíso
+Harris
+Santiago
+Rheinhessen-Pfalz
+Paris
+Paris,Essonne
+Paris
+Darmstadt
+Darmstadt
+Madrid
+Beroun
+Praha 1
+Praha 7
+Berlin
+Paris
+Bergen,New York
+New York
+New York,Kings
+New York
+New York
+New York,Bronx
+Fortaleza
+São Paulo
+São Paulo
+Queens
+New York
+New York
+Puntarenas
+Puntarenas
+Puntarenas
+New York
+New York
+New York
+New York
+Miami-Dade
+Kings
+Salt Lake
+Davis,Utah
+San Bernardino,Orange,Los Angeles
+Jinhua
+Clark
+Miami-Dade,Monroe
+Jinhua
+Jinhua
+Shanghai,Jinhua
+Clark
+Los Angeles
+Los Angeles
+Shanghai,Jinhua
+Bexar
+Cameron
+Bexar
+Hays,Bexar
+Hidalgo
+Hidalgo
+Hidalgo
+Harris
+Los Angeles
+San Diego
+Darmstadt
+Darmstadt
+Karlsruhe,Darmstadt
+Phrao
+Phrao
+New York
+New York
+Hérault
+Hérault
+Haute-Garonne
+Hérault
+Hérault
+Hérault
+Barcelona,Westminster,Tower Hamlets,London,Camden,Hérault
+Hérault
+Vaucluse,Gard,Hérault
+Hérault,Gard
+Hérault
+Hérault
+Hérault
+Hérault
+Hérault
+Paris
+Seine-et-Marne
+Barcelona
+Santafé de Bogotá
+Cartagena de Indias,Barranquilla
+San Diego
+San Diego
+Clark
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Los Angeles
+San Diego
+Los Angeles
+San Diego
+Los Angeles
+San Diego
+San Diego
+San Diego
+San Diego
+Clark
+San Diego
+San Diego
+Hérault
+Kensington and Chelsea
+Wiltshire,Hounslow
+Westminster
+Lafourche
+Miami-Dade
+Miami-Dade
+Orange
+Orange,Los Angeles
+Santa Clara
+Santa Clara
+Laclede
+Cook,Saint Louis
+Cook
+Cook
+New York
+New York
+New York
+Dallas
+Harris
+Lincoln
+Lincoln
+El Paso
+El Paso
+El Paso
+San Diego
+San Diego
+San Diego
+El Paso
+New York,Queens
+New York
+El Paso
+El Paso
+El Paso
+Cook
+San Diego
+San Diego
+Orange
+San Diego
+San Diego
+El Paso
+Eagle
+San Diego
+Clark
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Los Angeles
+Clark
+San Diego
+Milton Keynes
+Westminster
+Bandera
+Honolulu
+San Diego
+Maricopa
+Madrid
+Barcelona
+Madrid
+Granada
+Madrid
+Dessau,Berlin
+Berlin,Oberbayern
+Barcelona
+Barcelona
+Roma,Viterbo,Parma,La Spezia,Milano,,Salerno
+Napoli,Salerno
+Barcelona,Madrid
+Madrid
+Cook
+Cook
+Kane
+Lake
+Cook
+Harris
+Hidalgo
+Cameron
+Dallas,Tarrant
+San Diego
+Niagara
+Toronto
+San Diego
+Berlin
+Praha 1,Praha 8
+Florence
+Capital
+Orange
+El Paso
+San Diego
+San Diego,Los Angeles,Clark
+Tarrant
+Dallas
+Orange
+Orange
+Clark
+Osceola
+Orange
+Orange
+Carirubana
+Bouhaira
+Santafé de Bogotá
+Comal
+Alpes-Maritimes
+Hauts-de-Seine
+Paris
+Barcelona
+Alpes-Maritimes
+Hillsborough
+Cook
+Cook
+Tarrant
+Maricopa
+Madison
+Cook
+Cook
+Champaign
+Cook
+Lake
+Cook
+Champaign
+Champaign
+Champaign
+Champaign
+Cameron
+Tarrant
+Lake
+Cook
+Miami-Dade
+Ventura
+Ventura
+Ventura
+Los Angeles
+Ventura
+Westminster
+Alpes-Maritimes
+Los Angeles
+Indre-et-Loire
+Indre-et-Loire
+Indre-et-Loire
+Indre-et-Loire,Paris
+Miami-Dade
+São Paulo
+Suffolk
+Greater Vancouver
+San Diego
+Darmstadt
+Paris
+Campinas
+Novo Hamburgo,Torres
+Novo Hamburgo
+Campinas
+Novo Hamburgo
+Novo Hamburgo
+Novo Hamburgo
+Novo Hamburgo
+Novo Hamburgo
+Novo Hamburgo
+Novo Hamburgo
+Novo Hamburgo
+Novo Hamburgo
+Novo Hamburgo
+Paris
+Paris
+Hvar
+Camden
+Westminster
+Westminster
+Lambeth
+Westminster
+Clark
+Cook
+Cook
+Beyoglu
+Jerusalem
+Madrid
+Berlin
+New York
+Maricopa
+San Carlos,Carrillo
+Baltimore,Anne Arundel,Suffolk,Carroll,Coos,Middlesex,Norfolk,Clayton
+Suffolk
+Grecia
+Suffolk
+El Paso
+Narita
+Narita
+Narita
+Narita
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+Viengthong
+El Paso
+El Paso
+El Paso
+Clark
+Clark
+Belén
+El Paso
+Denver,El Paso
+Shibayama
+Denver
+Sonoma
+Napa
+Napa
+Solano
+Sonoma
+Napa
+Napa
+Napa
+San Francisco
+San Francisco
+Sonoma
+San Francisco
+Bexar
+Sonoma
+Napa
+Napa
+Napa
+Napa
+Napa
+Napa
+Napa
+Napa
+Napa
+Sacramento
+San Bernardino
+Clark
+Valley
+Ada
+Nudgee
+City - Remainder,South Brisbane
+Paddington
+South Brisbane
+Santafé de Bogotá
+Santafé de Bogotá
+Paris
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Vizcaya
+New York
+Santafé de Bogotá
+Salcedo
+District of Columbia
+Latacunga
+Quito
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Roma
+Venezia
+Venezia
+Attica,Westminster,Paris,Madrid
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Phra Nakhon
+Amphawa
+Muang Chiang Mai
+Bronx
+San Francisco
+San Francisco
+Riverside
+Yakima
+Kleberg,Hidalgo,Victoria,Harris,San Francisco,Shasta
+San Francisco
+Cameron,Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+Cameron
+Honolulu
+Cameron
+Hidalgo
+Bexar
+Bexar
+Travis
+Harris
+Tandil
+Tandil
+Tandil
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+Los Angeles
+Travis
+Santafé de Bogotá,San Juan de Pasto
+Santiago
+Cordillera
+Valparaíso
+Santiago
+Santiago
+Valparaíso
+Valparaíso
+Santiago
+Valparaíso
+Santiago
+San José
+Orange
+Guarulhos
+Santiago
+New York
+São Paulo
+São Paulo
+Westminster
+London
+King
+King
+Genova,Pisa
+Roma,,Praha 6
+Toronto,Niagara
+Toronto
+San José
+Asturias
+Talamanca
+Antigua Guatemala
+Asturias
+Barcelona
+Arraiján,Panamá
+Toronto
+San Diego
+Oberbayern,Salzburg
+Miami-Dade
+Miami-Dade
+Travis
+Harris
+Harris
+Panamá
+Webb
+Bexar
+King
+King
+King
+King
+Travis,Bexar
+Bexar
+Centro Habana
+Centro Habana,Playa
+Miami-Dade
+Cook
+Milwaukee,Cook
+Cook
+Milwaukee
+Tower Hamlets,Westminster
+Barcelona
+Belfast
+Tower Hamlets
+Madrid
+San José
+ZONA 10
+ZONA 10
+Toronto
+Communauté-Urbaine-de-Montréal
+Darmstadt
+Uusimaa
+Uusimaa
+Uusimaa,Tallinn
+Päijänne Tavastia,Uusimaa,Sankt-Peterburg gorsovet
+Darmstadt,Uusimaa
+Uusimaa
+Miami-Dade
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Villa de Leyva
+Marion
+Sacramento
+New York
+Seine-Saint-Denis,Paris
+Cook
+Santafé de Bogotá
+Madrid
+Paris
+New York
+Lima,Callao
+San Diego
+Los Angeles
+New York
+Lima
+Baruta
+Communauté-Urbaine-de-Montréal
+District of Columbia
+Madrid
+Cook
+Shanghai
+Shanghai
+Dupage
+Madrid,Toledo
+Dupage
+Hudson,New York
+New York
+Paris,Hauts-de-Seine
+San Diego
+Santafé de Bogotá
+Broward,Clayton
+Santafé de Bogotá
+Madrid
+New York
+Madrid
+Paris
+San Diego
+Madrid
+Paris
+Paris
+Nakano,Shibayama
+Paris
+San Diego
+San Diego
+San Diego
+Clark
+San Diego
+San Francisco
+Los Angeles
+San Diego
+Fresno
+Fresno
+Osaka
+Hackney
+Westminster
+London
+Hackney
+Hackney
+Hackney
+Hackney
+Hackney,Westminster,Tower Hamlets
+Hackney,Camden
+Camden,Hackney
+Westminster,Tower Hamlets
+Camden,Tower Hamlets
+Tower Hamlets
+Westminster
+Westminster
+Kensington and Chelsea,Islington
+Helsingborg
+Malmö
+El Paso
+Colón,Panamá
+Portobelo,Colón
+Otero
+Otero
+Dompu,Gianyar,Badung
+Badung
+Badung
+Badung
+Badung
+Randwick
+Woollahra
+Randwick
+Randwick
+Waverley
+Waverley
+Randwick,Waverley
+Pittwater,Waverley
+Randwick
+Randwick
+Waverley
+Randwick
+Badung
+Woollahra
+Waverley
+Waverley,Randwick
+Mosman
+Randwick
+Waverley
+Badung
+Badung
+Badung
+Randwick
+Clark
+Clark
+Clark
+Clark
+Paris
+Manche
+Paris
+Hauts-de-Seine,Oise
+Paris
+Paris
+Paris
+Harris
+Harris
+District of Columbia
+Barcelona
+Barcelona
+Girona
+Suffolk
+San Diego
+San Diego
+San Diego
+San Diego
+Orange
+San Diego
+San Diego
+Orange
+Orange
+San Diego
+San Diego
+San Diego
+Contra Costa,San Francisco,Alameda,Marin
+Orange
+Orange
+Sonoma
+Bath and North East Somerset
+San Diego
+Praha 1
+Liberec
+Esparza
+Heredia
+Aguirre
+Paris
+Cartagena de Indias
+Cartagena de Indias
+Medellín
+Medellín
+Baños
+Baños
+Summit
+Bexar
+New York
+Bexar,Travis
+Bexar
+Christchurch
+Queenstown-Lakes
+Western Bay of Plenty,Waitakere
+Travis
+Monza and Brianza
+Santafé de Bogotá
+Santiago
+Santiago
+Santiago
+Cordillera
+Santiago
+Cordillera,Santiago
+Valparaíso
+Santiago,Valparaíso
+Chacabuco
+Chacabuco
+Santiago
+General Pueyrredón
+General Pueyrredón
+Distrito Federal
+Cordillera
+Santiago
+Cordillera
+Harris,Montgomery
+New York
+Hidalgo
+Medellín
+Cook
+Wien
+Paris
+Los Angeles
+Hawaii
+Honolulu
+New York
+San Juan,Coconino
+Pima
+Delhi
+Kangra
+Kangra
+Kangra
+Kangra
+Kangra
+Amritsar
+Lahore,Pauri Garhwal
+Agra
+Squamish-Lillooet,Greater Vancouver
+Maricopa
+New York
+Dangbe East,Kumasi,Bosomtwe-Kwanwoma
+Dangbe East
+Paris
+Camden
+Madrid
+Braga
+Sintra
+Los Angeles
+Kumasi
+San Diego
+Santafé de Bogotá
+Maui
+Kauai
+Honolulu
+Phra Nakhon,Damnoen Saduak,Sathorn
+Maricopa
+Paris
+Paris
+Madrid
+Praha 1
+Santafé de Bogotá
+West-Vlaanderen
+Madrid,Paris
+Oberbayern
+Santafé de Bogotá
+Santafé de Bogotá
+Agra
+São Paulo
+Harris
+Cook
+Orange
+Florence
+Valdivia
+Stanislaus
+Florence
+Zürich
+Amsterdam
+Barcelona,Berlin
+Lima
+Lima
+Alameda
+Alameda,Napa
+Madrid
+Madrid
+Madrid
+New York,Kings
+Cook
+Cook
+Roma
+Roma
+Florence,Roma,Bologna
+Bologna
+Los Angeles
+Jakarta Pusat
+Jakarta Pusat
+Jakarta Utara
+Westminster,Camden
+Paris
+New York
+Milano
+Islington
+Paris
+Camden
+Paris
+Paris
+Paris
+San Francisco
+Harris
+Dallas
+Dallas
+Distrito Federal
+San Diego,Los Angeles
+Santiago
+San Francisco
+Los Angeles
+Los Angeles
+El Dorado
+Hidalgo
+Travis
+Fulton
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Dallas
+Santafé de Bogotá
+Santafé de Bogotá
+Puno
+Taipei City
+Hualien
+Taipei City
+Ilan
+Taipei City
+Taitung,Hualien
+Taipei City
+Taipei City
+Taitung
+Taipei City
+Kyoto
+Taipei City
+Ilan
+Paris
+Queens,New York
+Hampshire
+Berkshire
+Berkshire
+Berkshire
+Paris
+Paris
+Paris
+Paris
+Santiago
+Santiago
+Distrito Federal
+Roma
+Florence
+Freiburg
+Freiburg
+Paris,Westminster
+Camden,Westminster,Paris
+Gironde
+Gironde
+Paris,Yvelines,Camden,Kensington and Chelsea
+Cobb
+Fulton
+New York
+San Diego
+San Diego
+Los Angeles
+Greater Vancouver
+Clark
+New York
+Santiago
+Medellín
+Cook
+San Francisco
+San Francisco
+Santafé de Bogotá
+Santiago
+Distrito Federal
+Paris
+Berlin
+Paris
+Paris
+Bexar
+San Diego
+Fresno
+San Diego
+San Diego
+San Diego
+Duque de Caxias
+Rio de Janeiro
+Rio de Janeiro,Foz do Iguaçu
+San Isidro,Distrito Federal
+Distrito Federal,San Isidro,Bariloche,Lacar
+San Isidro,Distrito Federal,Vicente López
+n.a354
+n.a354
+n.a354
+n.a354
+Distrito Federal,Tigre
+São Paulo,Santos
+São Paulo
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro,Niterói
+São Paulo
+Niterói
+Rio de Janeiro
+São Paulo
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Clark
+Paris
+Paris
+Haute-Saône
+Paris
+São Paulo
+São Paulo,Natal
+Rio de Janeiro
+Fortaleza
+Suffolk,Middlesex
+São Paulo
+Clark
+Queens,New York
+Badung
+Fulton
+Anchorage
+Beijing
+Bexar
+Madrid
+Clark
+Orange
+Orange
+Miami-Dade
+Oberbayern
+Iron
+Iron,Clark
+Iron
+Clark
+Madrid,Combined statistics
+Combined statistics
+Amsterdam,Tallinn
+Amsterdam,Paris
+Venezia
+Roma,,Barcelona
+Juneau
+Cook
+Cook
+New York
+New York
+District of Columbia
+New York
+Suffolk
+Broward
+El Paso
+Managua
+Phra Nakhon,Siem Reab
+Huai Kwang,Phra Nakhon,Bang Sai
+Delhi,Agra
+Delhi
+District of Columbia
+District of Columbia,New York
+Queens
+New York
+District of Columbia
+Communauté-Urbaine-de-Montréal
+Clark
+Los Angeles,Clark,San Bernardino,Maricopa
+Santiago de Cali
+Los Angeles
+San Bernardino
+Orange
+New York
+Berlin
+Dresden
+Cameron
+Cameron
+Cameron
+Cameron
+Cameron
+Cameron
+Bexar
+Cameron
+Cameron
+Cameron
+Cameron
+Cook
+Saginaw
+Cook
+Hidalgo
+Hidalgo
+Contra Costa
+New York
+New York,Hudson
+Fulton,DeKalb
+Loudoun,District of Columbia
+San Diego
+San Diego
+San Diego
+Orange
+San Francisco
+San Francisco
+Les Laurentides
+Les Laurentides,Communauté-Urbaine-de-Montréal
+New York
+Tarrant
+Loudoun,District of Columbia,Fairfax
+Fairfax
+Orange
+Los Angeles
+San Diego
+San Diego
+San Diego
+Riverside,Los Angeles
+San Diego
+San Diego
+San Diego
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Orange,Los Angeles
+Rio de Janeiro
+Orange
+El Paso
+El Paso
+El Paso
+Maricopa
+San Diego
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+Los Angeles,San Diego
+Orange
+Clark
+Clark
+San Diego
+Orange,San Diego
+Orange
+San Diego
+San Diego
+King
+Los Angeles
+San Diego
+San Diego
+Orange
+Harris
+Clark
+Santa Barbara
+Santa Barbara
+West Sussex,Madrid
+Madrid
+Madrid
+Barcelona
+Barcelona,Merseyside
+Bristol
+Camden,Islington
+Hamburg,Bristol,Schleswig-Holstein
+Berlin
+Camden
+Cook
+San Diego
+Berlin
+Haarlemmermeer
+n.a354
+El Paso
+Orange
+Orange
+Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal,Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Québec
+El Paso
+Lincoln
+El Paso
+Cook
+Paris,Yvelines,Bruxelles,'s-Gravenhage,Berlin
+Los Angeles
+Los Angeles
+Toronto
+Toronto
+Toronto,Middlesex
+Niagara
+Toronto
+Berlin,Oberbayern
+Darmstadt,Berlin
+Dresden
+Berlin
+Berlin
+Brandenburg
+Berlin
+Berlin
+Berlin
+Berlin
+Amsterdam
+Amsterdam
+Amsterdam
+Marrakech
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Berlin
+Braunschweig
+Berlin
+Berlin
+Santiago
+Cordillera
+Santiago
+Cautín
+Callao
+Berlin
+Wien
+Lausanne
+Alpes-Maritimes,Rhône
+Girona,Barcelona
+Alpes-Maritimes,Barcelona
+Sevilla,Barcelona,Alpes-Maritimes
+Madrid,Praha 6
+Praha 1,Praha 8
+Paris
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Barcelona
+Madrid
+Cantabria
+Peel
+Sydney - West
+Norfolk
+Suffolk
+Delhi
+Amritsar
+Greater Bombay
+Villupuram
+Villupuram
+Haora
+Chandauli
+Bexar
+Bexar
+São Paulo
+Brasília
+Los Angeles
+Los Angeles
+Los Angeles
+Roma
+Berlin,Amsterdam,Westminster
+Westminster
+Berlin
+Paris
+Ouder-Amstel
+Stockholm
+Amsterdam
+Amsterdam
+Westminster
+Clark
+Los Angeles
+Pontevedra,A Coruña
+Porto,Maia
+Chacao
+Orange
+Brescia
+Paris
+Haute-Loire
+Haute-Loire
+Paris
+Paris
+Paris
+Haute-Loire
+Paris
+New York
+Los Angeles
+Los Angeles
+Orange,Los Angeles
+Los Angeles,Orange
+Orange
+Cameron
+Cameron
+Cameron
+Cameron
+Bexar
+Yuma
+Santa Cruz
+Monterey
+San Diego
+Clark
+San Francisco
+New York
+Bexar
+Bexar
+Bexar
+Galveston
+Pima
+San Mateo
+Managua
+Berlin
+Santafé de Bogotá
+Facatativá,Santafé de Bogotá
+Cameron
+Cameron
+Cameron
+Cameron
+Cameron
+Cameron
+Cameron
+Harris
+Distrito Federal
+Luján
+Luján
+Luján
+Luján
+Luján
+Luján
+Luján
+Luján
+Distrito Federal
+Moreno
+Luján
+Pilar
+Luján
+Luján
+Manizales
+Santafé de Bogotá
+San Diego
+San Diego
+San Diego
+Harris
+Paris
+Paris
+San Francisco
+Orange
+Orange
+King
+Cook
+Cook
+Cameron
+Clark
+Hidalgo
+Hidalgo
+New York
+Madrid
+Valparaíso
+Santiago
+Miami-Dade
+Distrito Federal
+Darmstadt
+Milano
+Milano
+Milano
+Milano
+Milano
+Paris
+Florence
+Roma
+New York
+San Diego
+Coronel Portillo
+San Diego
+Orange,Los Angeles
+San Francisco
+Los Angeles
+Pedro Domingo Murillo
+Pedro Domingo Murillo
+Nor Yungas
+Manco Kapac
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Barcelona
+Granada
+Madrid
+Madrid
+Capital
+Cook
+Cook
+Ritto
+Roatán
+Karlsruhe,Mittelfranken,Darmstadt
+Windham
+Queens
+New York
+Queens
+Broward
+Broward
+Washington
+Multnomah
+Washington
+Multnomah,Washington
+Washington
+Multnomah
+Washington
+ZONA 16
+District of Columbia
+Prince William,District of Columbia
+Travis
+Clark
+Milano
+Leon
+Leon
+Leon
+Harris,San Francisco,Greater Vancouver
+San Diego
+Peel
+Clark
+Miami-Dade
+Toronto
+Hidalgo
+Besiktas
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Clark
+Los Angeles
+Orange
+Orange
+Orange
+Orange
+Clark
+ísla de Pascua
+ísla de Pascua
+Rio de Janeiro
+Fairbanks North Star
+Messina
+New York
+New York
+Managua
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Ventura
+Cordillera
+Capital
+San Diego,Maricopa
+San Diego
+San Diego
+Toronto,Guipúzcoa
+Toronto,Paris
+Cook
+Paris,Pyrénées-Atlantiques
+Philadelphia,Huelva
+Lima
+Lima,Cusco,Sankt Gallen
+Lima,Distrito Nacional,Cusco
+Distrito Nacional
+Lima,São Paulo,Sankt Gallen
+Distrito Federal
+Lima
+Lima
+Lima
+Panamá,Arraiján,Alajuela
+Niagara,Frontenac,Ottawa,Communauté-Urbaine-de-Québec,Communauté-Urbaine-de-Montréal,Les Chutes-de-la-Chaudière,Peel
+Communauté-Urbaine-de-Montréal,Les Chutes-de-la-Chaudière
+Ottawa
+Bergen
+New York,Bergen
+New York,Bergen
+New York
+New York
+New York
+New York
+New York
+New York
+Hudson
+New York
+New York
+New York
+New York
+Roma
+Brazos
+New York
+Cook
+Brazos
+San Diego
+San Diego
+Panamá
+Cartagena de Indias
+Vizcaya
+Vizcaya
+Vizcaya
+Vizcaya
+Vizcaya
+Paris,Yvelines,Seine-Saint-Denis,Tower Hamlets,London,Westminster
+Amsterdam
+Venezia,Florence,Roma
+Roma
+Madrid
+Dallas
+Dallas
+Broward
+Miami-Dade
+Orange
+Orange
+New York
+Los Angeles
+Jeonju
+Orange
+Los Angeles
+Clark
+Orange
+Madrid
+West-Vlaanderen,Hainaut
+San Diego
+Philadelphia
+District of Columbia
+Orange
+Clark
+New York
+New York,Bronx
+Kings
+Queens
+Kings
+Kings
+Travis
+Travis
+Madrid
+Madrid
+Barcelona
+Peel
+Barcelona
+Barcelona
+Barcelona
+Aude,Girona
+Madrid
+Toledo,Madrid
+Granada
+Barcelona
+Girona
+Barcelona
+Girona
+Barcelona
+Lleida
+Bruxelles
+Lleida
+Barcelona
+Lleida
+Bratislava I
+Praha 1
+Barcelona
+Valencia
+Valencia
+Valencia
+Valencia
+Paris
+Berlin
+Toledo
+Toledo
+Travis
+Travis
+Travis
+Travis
+Milano
+Orange
+Orange
+Orange
+Orange
+Toledo
+Valencia
+Sevilla
+Pontevedra
+Pontevedra,A Coruña
+Rio de Janeiro
+Pontevedra
+A Coruña
+A Coruña
+Miami-Dade
+Rio de Janeiro
+São Paulo
+Natal
+Fortaleza
+Fortaleza
+Recife
+Confins
+São Paulo
+Fortaleza
+São Paulo
+Rio de Janeiro
+Rio de Janeiro
+Los Angeles
+Los Angeles,San Francisco
+San Francisco
+Miami-Dade
+San Francisco,Miami-Dade
+Miami-Dade
+District of Columbia,Arlington
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+New York
+Miami-Dade
+Barcelona
+Lisboa
+Lisboa
+Miami-Dade
+District of Columbia
+Hennepin
+Ramsey
+Dakota
+São Paulo
+Haarlemmermeer
+Finland Proper
+Lecco
+New York
+Paris
+Distrito Federal,Luján de Cuyo
+Capital,Distrito Federal
+Distrito Federal,Vicente López
+Distrito Federal,Lago Argentino
+Distrito Federal
+Distrito Federal
+Distrito Federal,Pinamar
+Paris
+Roma
+Barcelona
+Genève
+Hackney
+Roma
+Travis
+Bexar,Cook
+Cook
+Lake
+Cameron
+Bexar
+Travis
+Denver,Eagle
+Eagle,Denver
+Cook,Lake
+Berlin,Hamburg,Combined statistics
+Amsterdam
+Amsterdam,Hackney,Southwark,Tower Hamlets
+Westminster
+Kensington and Chelsea
+Bexar
+Santa Barbara
+San Diego
+San Diego
+Orange
+Cook,Kane
+Cook
+San Diego
+San Diego
+Dali Bai
+Dali Bai
+San Diego
+Los Angeles
+Shibuya
+Kyoto
+Minato,Chuo
+Minato
+San Diego
+San Diego
+San Francisco,Sonoma
+Travis
+Kings,New York
+New York
+Queens
+San Diego
+Madrid
+Madrid
+Barcelona
+Madrid
+Madrid
+New York
+Halifax
+Halifax
+New York
+Dallas
+Florianopolis
+Florianopolis
+Florianopolis
+Florianopolis
+Florianopolis
+Florianopolis
+Florianopolis
+Orange
+Orange
+Broward
+Miami-Dade
+Miami-Dade
+San Diego
+San Diego
+San Diego
+San Diego
+Travis
+Travis
+Roma
+Florence,Venezia
+Paris
+Westminster,Tower Hamlets
+Merton
+Westminster
+Travis
+Travis
+New York
+Bronx,Kings
+New York
+Clark
+Madrid
+Madrid
+Zaragoza
+Madrid
+Barcelona
+Valencia
+Madrid
+Vizcaya
+Navarra
+Madrid
+Westminster
+Malmö
+Budapesti
+Granada
+King
+Greater Vancouver
+New York
+New York
+Paris
+Paris
+Paris
+San Salvador
+San Diego
+San Diego
+San Diego
+San Diego
+San Rafael
+Valverde Vega
+Carrillo
+Desamparados
+La Unión
+Alajuela
+Desamparados
+Los Angeles
+Los Angeles,Orange
+Los Angeles
+Los Angeles
+Los Angeles
+São Paulo,Fortaleza,Rio de Janeiro
+Rio de Janeiro
+Maricopa
+Clark
+Clark
+Greater Vancouver
+Ohio
+Ohio
+Washington
+Belmont
+Bexar
+Bexar
+Los Angeles
+Douglas
+Distrito Federal
+Riverside
+Clark
+Cook
+Broward
+Orleans
+Dallas
+Bolívar
+Paris
+Vizcaya,Barcelona
+Madrid
+Paris
+Hartford
+Bremen
+Bremen
+Bremen
+Bremen
+Bremen
+Bremen
+Bremen
+Arnsberg,Köln
+Bremen
+Bremen
+Bremen
+Bremen
+Bremen
+Bremen
+Barcelona
+San Diego
+San Diego
+Harris
+Harris
+San Diego
+Diriamba
+Managua,Granada
+San Diego
+San Diego
+San Diego
+Los Angeles
+Bern
+Bern
+Santiago
+Tigre
+Capital
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Venezia
+New York
+Paris
+Paris
+Paris
+Clark
+Benton
+Harris
+Harris
+Harris
+Harris
+West-Vlaanderen
+Venezia
+Harris
+Jackson
+Darmstadt
+Paris
+Pitkin
+Segovia
+Madrid
+Orange
+Queens
+Orange
+Comal
+Philadelphia,New York,San Mateo
+Los Angeles
+Los Angeles
+San Diego
+San Diego
+San Diego
+Los Angeles
+San Diego
+Imperial
+Hawaii
+Middlesex,Hudson
+Santafé de Bogotá
+Santafé de Bogotá
+Amsterdam
+Wien
+Westminster
+Haarlemmermeer
+Orange
+Quilmes
+Northamptonshire
+Avellaneda
+El Paso
+El Paso
+Valencia
+Halifax
+Halifax
+Halifax
+Halifax
+Miami-Dade
+Miami-Dade
+Halifax
+Halifax
+Halifax
+Montgomery
+Orange
+Los Angeles
+Orange
+Los Angeles
+Los Angeles
+Clark
+Milano
+Napa
+Mariposa
+Monterey
+Haut-Rhin
+Orange
+Communauté-Urbaine-de-Montréal
+Orange
+Orange
+Orange
+Loulé
+Rio de Janeiro
+Riverside
+Miami-Dade
+Distrito Federal
+Communauté-Urbaine-de-Montréal
+Sydney - Inner
+Paris
+Delhi
+El Paso
+El Paso
+Esteban Echeverría,Distrito Federal
+Confins
+Rio de Janeiro
+Rio de Janeiro
+Harris
+New York
+Los Angeles
+Bexar
+San Diego
+New York
+Clark
+Clark
+Suldal
+São Paulo
+Rio de Janeiro
+Westchester
+Fairfield
+New York
+New York
+Cook
+Bernalillo
+King
+King
+Barcelona
+Trollhättan
+Sigtuna
+Flores
+Antigua Guatemala,NA,Copán Ruinas,Utila
+Utila
+Utila,Distrito Central
+Laguna de Perlas
+León
+San José
+Puntarenas
+Changuinola
+Bocas del Toro
+Bocas del Toro
+Panamá
+Miami-Dade
+Miami-Dade
+Gävle
+Gävle
+Gävle
+Gävle
+Skellefteå
+North Goa
+North Goa
+Ajmer,Jaipur
+Varanasi
+Westminster
+New York
+New York
+Clark
+Miami-Dade
+New York
+San Francisco
+Gouda
+Barcelona
+Maricopa
+Maricopa
+San Diego
+Maricopa
+Maricopa
+Osa
+Santa Ana
+San José
+San José
+San Salvador
+San José
+San José
+San José
+Aguirre
+San José
+Naranjo
+Manatee
+Eagle
+Eagle
+San Diego,Los Angeles
+Los Angeles,San Diego
+San Diego
+San Diego
+Los Angeles
+San Diego
+Los Angeles
+León
+León
+Clark
+Granada
+Attica
+Cyclades
+Cameron
+New York,Kings
+Suffolk
+Suffolk
+Suffolk,Middlesex
+Los Angeles
+San Diego
+San Diego
+Orange
+San Rafael La Independencia
+San Diego
+San Diego
+San Diego
+San Diego
+Attica
+Attica
+Attica
+El Paso
+Santiago
+Santiago
+Clark
+San Francisco
+Clark
+Cook
+Barcelona
+Barcelona
+Los Angeles
+DeKalb
+Clayton
+Miami-Dade
+Paris
+Harris
+Division No. 6
+Division No. 6
+Division No. 6
+Division No. 6
+Division No. 6
+Division No. 15
+Division No. 15
+Division No. 6
+Division No. 6
+Milano
+Roma
+King
+King
+King
+King
+Multnomah
+King
+San Mateo
+New York
+Los Angeles
+Los Angeles
+Maricopa
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+San Diego
+San Diego
+San Diego
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Rhône
+Rhône,Haarlemmermeer
+Camden,West Sussex
+Haarlemmermeer
+Greater Vancouver,Yukon
+New York
+New York
+Monroe
+Monroe,Hudson
+New York
+Madrid
+Madrid
+Santafé de Bogotá
+King
+Arequipa,Lima
+Urubamba
+Naranjo
+Rockdale,Sydney - Inner
+Port Phillip - West,Melbourne - Inner
+Bass Coast  - Phillip Is.,Casey - South
+Queenscliffe
+Melbourne - Inner
+Bayside  - Brighton
+Melbourne - Inner
+Melbourne - Inner
+Melbourne - S'bank-D'lands
+Port Phillip - West
+Port Phillip - West
+Port Phillip - West
+Yarra Ranges - Dandenongs
+Port Phillip - West
+Tigre
+Cook
+Cook
+Santiago
+Santiago
+Rio de Janeiro
+Oise,Zadar,Lasinja,Karlovac,Zagreb,Klinca Sela,Plitvicka Jezera,Josipdol
+Paris
+Paris
+Karlovac
+Paris
+Karlovac
+Guarujá
+São Paulo
+Rio de Janeiro
+Sainte-Anne
+Paris
+Paris
+Segovia
+Hauts-de-Seine
+Tower Hamlets
+San Diego
+Monroe
+San Diego
+San Diego
+Orange
+Seminole
+Eagle
+Eagle
+Orange
+Westminster
+Thompson-Nicola
+Thompson-Nicola
+Los Angeles
+New York
+New York
+Miami-Dade
+Miami-Dade
+Tarrant,Miami-Dade
+West Sussex,Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Hackney,Barcelona,Westminster
+Hackney
+Baleares
+Barcelona
+Barcelona
+Westminster,Hackney
+Clark
+Clark,Pershing
+Dali Bai
+Dali Bai
+Phrao
+Dali Bai
+Dali Bai
+Dali Bai
+Dali Bai
+Dali Bai
+Kings
+Kings,New York
+New York
+Miami-Dade
+Miami-Dade
+Los Angeles
+Riverside
+Los Angeles,Riverside
+Los Angeles,San Diego
+Los Angeles
+Los Angeles
+El Dorado
+New York
+New York
+Kings,New York,Harris
+New York
+New York
+New York
+New York,Kings
+New York
+New York,Kings
+New York,Kings
+New York
+New York,Kings
+Kings,New York
+New York,Kings
+Bronx,New York
+Kings,New York
+New York,Kings,Westminster
+Hackney
+Westminster,Islington,Kensington and Chelsea,Camden
+Westminster
+Paris,Val-d'Oise,Kensington and Chelsea
+Kensington and Chelsea,Medio Campidano,Nuoro
+Ogliastra,Nuoro,Olbia-Tempio
+Berlin,Hackney,Westminster
+Kings
+New York,Kings,Queens
+Queens
+Bronx
+Kings,New York
+New York
+New York,Bronx
+San Diego
+San Francisco
+Pershing
+El Dorado,New York,Kings
+El Dorado
+El Dorado
+El Dorado
+San Francisco
+Clark
+Clark
+Santa Clara
+New York
+Middlesex
+Miami-Dade
+Miami-Dade
+Santa Clara,San Francisco
+Peñol,Medellín
+Clark
+Clark
+Sonoma,Marin,Napa
+Cook
+Cook
+Westminster
+Westminster,Camden
+Camden
+Tower Hamlets,London
+Paris
+Paris
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Val-d'Oise,Venezia,Florence
+Roma
+Salerno,Napoli,Attica
+Fokis
+Attica
+Roma
+Bexar
+New York
+Miami-Dade
+Broward
+New York
+Bexar
+Travis
+Travis
+Travis
+Travis
+Travis
+Los Angeles,Orange,Riverside
+Orange,Los Angeles
+Los Angeles,Orange
+San Francisco
+San Diego,Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Kings,New York
+Bexar,Travis
+Travis
+Riverside,Los Angeles
+Travis
+Bexar
+Orange
+Queens
+Cook
+Cook
+Los Angeles
+Combined statistics
+Stockholm,Sigtuna,Paris,Yvelines
+Paris
+Paris
+Los Angeles,Orange
+Los Angeles
+Los Angeles
+Orange
+New York,Queens,Orange
+Orange
+Orange
+Travis
+Los Angeles
+Los Angeles,Riverside
+Orange,Los Angeles
+Orange,San Francisco
+Los Angeles
+Orange
+Miami-Dade
+Orange
+Berlin
+Travis
+Travis
+Riverside
+Orange
+Kensington and Chelsea,Westminster
+Orange
+Orange
+Los Angeles
+Bagaces
+Liberia
+Alajuela
+Los Angeles
+Suffolk
+Los Angeles
+Los Angeles
+San Diego
+Santa Clara
+Los Angeles
+Qingdao
+Shanghai
+Badung
+Taoyuan
+Badung
+Badung
+Miami-Dade
+New York
+Denpasar
+Badung
+Badung
+Thalang
+Thalang,Muang Krabi
+Ko Samui
+Badung
+Badung
+Badung
+Jakarta Timur,Jakarta Selatan
+Surabaya
+Badung
+New York,Kings
+Cleveland,Tarrant
+Bexar
+Paris
+Madrid
+Hidalgo,Cameron
+Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+Parkes
+Santiago
+Distrito Federal
+San Diego
+San Diego
+Camanducaia
+Cambuí
+Vila Velha
+Guarapari
+Lavras
+Paris
+Los Angeles
+São Paulo
+Paris
+Paris
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+New York
+Islington
+Braunschweig
+Genève
+Genève
+Formosa
+Asunción
+Asunción
+Formosa
+Esteban Echeverría
+Madrid
+Vizcaya
+Valencia
+Barcelona
+Paris,Westminster
+Amsterdam
+Maricopa
+Pima
+Yuma
+Madrid
+Madrid
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Kings
+Horowhenua
+San Diego
+Marrakech
+Greater Vancouver
+Sydney - Inner
+Fig Tree Pocket
+Division No. 11
+Greater Vancouver
+Padua
+Fatih
+Phra Nakhon
+Siem Reab
+New York
+Muang Chiang Mai
+Wien
+Praha 1
+San Diego
+San Diego
+San Diego
+San Diego
+'s-Gravenhage
+Los Angeles
+Chester
+Lot
+Lot
+Lot
+Lot,Paris
+Lot
+Paris
+New York
+Kings
+San Francisco
+Travis
+New York
+New York
+New York
+New York
+Attica
+Paris
+Paris
+Oberbayern
+Wayne
+Saint Louis
+n.a354
+Madrid
+Camden
+San Diego
+San Diego
+San Diego
+San Diego,Los Angeles
+Seongbuk
+Seodaemun
+Jongro,Seongbuk
+Seongdong
+Jongro
+Jongro
+Seongbuk
+Seodaemun
+Seocho
+Jongro
+Mapo
+Mapo,Jongro
+Seongbuk
+Jung
+Seongbuk,Jongro
+Jongro,Seongbuk
+Jung,Seongdong
+Kyoto
+Kyoto
+Seongdong
+Seongbuk
+Jongro
+Seodaemun
+Seongbuk
+Seongbuk
+Jongro
+Seongbuk
+Seongbuk
+Cameron
+Paris
+District of Columbia
+Bexar
+Bexar
+Madaba
+Jerusalem,Madrid
+Bexar
+Clark,Mohave
+Bexar
+Bexar
+Dallas,,Kancheepuram,Chennai,Thiruvallur
+Kancheepuram,Khordha,Kandhamal,Ganjam,North 24 Parganas
+Bexar
+Bexar,Harris
+Harris
+Bexar
+Communauté-Urbaine-de-Québec,Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal,Cook
+New York,Kings
+Bexar
+Cook
+Cook
+Chuo
+Chía
+Santafé de Bogotá
+Collier
+Cusco
+Los Angeles
+Los Angeles
+Maricopa
+Clark
+Gros-de-Vaud
+Berlin,Venezia,Praha 1,Seine-Saint-Denis,Val-d'Oise
+Paris
+Seine-Saint-Denis
+Hillingdon
+Paris,Praha 1
+Munster
+Paris
+Paris
+Santiago
+Tigre,Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Berlin
+Bergamo
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Santiago
+Santiago
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Berlin
+Osceola
+Osceola
+Osceola,Orange
+Anchorage
+Los Angeles
+San Diego
+Los Angeles
+Roatán
+Alicante
+New York
+Wayne
+New York
+New York
+Madrid
+New York
+San Diego
+New York
+New York
+Hidalgo
+Medina
+Harris
+Travis
+San Carlos
+Garabito
+Bexar
+Travis
+Miami-Dade
+Denver,Pitkin
+Pitkin
+Miami-Dade
+New York
+New York,Queens
+Berlin
+Berlin,Darmstadt
+Miami-Dade
+Los Angeles,San Diego
+Montgomery
+Denver,Pitkin
+Miami-Dade
+Montgomery
+District of Columbia,New York,Kings
+Barcelona
+Miami-Dade
+Berlin
+Berlin
+Cook
+Alpes-Maritimes
+Alpes-Maritimes
+Cook
+Madrid
+Paris,Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes,Madrid
+Miami-Dade
+Orange,Miami-Dade
+Milano
+Milano
+Milano,Varese
+Hidalgo
+Hidalgo
+Hidalgo
+Hidalgo
+Barcelona
+Barcelona
+Valencia
+Granada
+Lisboa
+Porto
+Barcelona
+Barcelona
+Madrid
+Westminster
+Berlin
+Praha 1
+Praha 1
+Wien
+Wien
+Los Angeles
+Los Angeles
+Paris
+Palm Beach
+Palm Beach
+Broward
+Paris
+Nelson
+Suffolk
+H? Chí Minh city
+Gianyar
+Badung,Jembrana,Klungkung
+Klungkung,Badung
+Tabanan,Badung
+Muang Phuket,Badung
+Muang Phuket,Muang Krabi
+Muang Krabi
+Muang Krabi,Pathum Wan,Phnom Penh
+Phnom Penh
+Phnom Penh
+Phnom Penh
+Kaeb,Kiên Giang,Phnom Penh,C?n Tho
+H? Chí Minh city
+Qu?ng Nam
+Qu?ng Nam
+Qu?ng Nam
+Qu?ng Nam,Ðà N?ng
+Sepang,Ðà N?ng,Miri
+Miri
+Sepang
+Miri,Sepang
+Kuching
+Kuching
+Kuching
+Kuching
+Kuching,Greater Vancouver
+Clatsop,Multnomah
+Multnomah
+Multnomah
+Multnomah
+Ushuaia
+Summit
+Cyclades
+Berlin
+Amsterdam
+Paris
+Travis
+Paris
+Berlin
+Berlin
+Northern Ostrobothnia
+Uusimaa
+Tallinn,Sankt-Peterburg gorsovet,Klaipedos,Traku,Vilniaus
+Berlin
+New York,Queens
+New York
+New York
+New York
+Queens
+Queens
+New York
+New York,Queens
+New York
+New York,Bergen
+Queens
+Bergen
+New York
+New York
+Queens
+New York
+Miami-Dade
+Los Angeles
+Los Angeles
+Bexar
+Webb
+Webb
+Hays
+Hays
+Bexar
+Cook
+Hamilton,Cook
+San Diego
+Panamá
+Madrid
+Madrid
+King
+Madrid
+Miami-Dade
+Madrid
+San Francisco
+City
+City - Inner,Manly
+Los Angeles
+New York,Kings
+Distrito Federal
+Distrito Federal
+Panamá
+San Mateo,Santa Clara
+Travis
+Madrid,Barcelona
+Barcelona
+Kent
+Santafé de Bogotá
+Santafé de Bogotá
+New York
+New York
+Communauté-Urbaine-de-Montréal
+Boca Chica
+Guri,Gwang-jin
+Gandong
+San José
+Multnomah
+San Diego
+San Diego
+San Diego
+San Diego
+Belén
+Lima
+Orange,San Diego
+Los Angeles
+San Diego
+San Diego
+San Diego
+Alpes-Maritimes
+Santa Fe
+Dallas
+New York
+Dallas
+Passaic
+Essonne,Paris
+Merton
+Bruxelles
+Florence
+San Diego
+Los Angeles
+San Diego
+Catarina
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Distrito Federal
+Distrito Federal
+Los Angeles,San Diego
+San Diego
+San Diego
+Orange
+San Diego
+San Diego
+San Diego,Miami-Dade
+San Diego
+Los Angeles
+Clark,San Diego
+San Diego
+San Diego
+Miami-Dade
+Paris
+Paris
+Qu?ng Bình
+H? Chí Minh city
+Cochise
+Cochise
+Cochise
+Porto Alegre,Panamá
+Florianopolis
+Porto Alegre
+Clark
+Cusco
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Distrito Federal,Almirante Brown,Quilmes
+Distrito Federal
+Los Angeles
+Harris
+Hillingdon,Lambeth,Kensington and Chelsea,Hammersmith and Fulham,Bromley
+Westminster
+Lambeth
+Kensington and Chelsea
+Camden
+Harris
+Clark
+Miami-Dade
+Miami-Dade
+San Francisco
+District of Columbia,Tarrant
+Cook
+Orange,Riverside
+Orange
+Miami-Dade
+Santafé de Bogotá
+Roodepoort
+Roodepoort
+Roodepoort
+Roodepoort
+Orange
+Wien
+Wien
+Wien
+San Diego
+Cook
+Suffolk
+Los Angeles
+King
+Los Angeles
+Los Angeles
+Los Angeles
+Miami-Dade
+Miami-Dade
+Lima
+New York
+Los Angeles
+Yamhill
+Hood River,Multnomah,Clark
+Los Angeles
+Los Angeles
+Maricopa
+Yakima
+San Diego
+Los Angeles
+Dallas
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles,San Diego
+Los Angeles
+Paris
+Paris
+Kings
+New York
+New York
+New York
+New York
+El Paso
+El Paso
+San Francisco
+San Francisco
+Westminster
+Westminster
+Webb
+Newton
+Los Angeles
+Orleans
+Fulton
+Los Angeles
+Orange
+Orange
+New York,Kings
+New York
+Antigua Guatemala
+Tigre
+Distrito Federal
+Distrito Federal
+Orange
+Los Angeles,Maricopa
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Los Angeles
+Clark
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+Los Angeles
+San Diego
+Los Angeles
+San Diego
+San Diego,Los Angeles
+Cook
+Clinton
+Rock Island
+Dupage,Cook
+Cook
+Cook,Dupage
+Dupage,Cook
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Vilniaus
+Kern
+Clark
+Greater Vancouver
+Greater Vancouver
+Squamish-Lillooet,Greater Vancouver
+Clark
+Flores
+León
+Tola
+Bocas del Toro
+Panamá
+San Francisco
+Phra Nakhon
+Bang Lamung
+Newcastle - Inner City
+Sydney - Inner
+Newcastle - Inner City
+Alajuela
+Atenas
+Cartago
+Roma
+Travis
+Bexar
+Travis
+Paris,Amsterdam
+Madrid
+Centro Habana
+Clark
+Clark
+New York
+Central
+Novosibirskiy rayon
+Los Angeles
+Chomphet
+Chomphet
+Davidson
+Los Angeles
+Los Angeles
+Lima
+New York
+New York
+Orange
+Orange
+Orange,Saint Lucie
+New York
+Cook
+Cook
+Cook
+Cook
+Orange
+Islington
+Paris
+Baltimore
+Baltimore
+Baltimore
+Baltimore
+Los Angeles
+San Diego
+San Diego
+Los Angeles
+San Diego
+Los Angeles
+Plaza de la Revolución
+Orange
+Orange
+New York
+New York
+Manizales
+Medellín
+n.a354
+n.a354
+Kittitas
+King,Whatcom
+Whatcom
+Capital
+Greater Vancouver
+Clark
+Contra Costa
+Solano,Contra Costa,San Francisco
+Alameda
+Contra Costa
+San Francisco
+San Francisco,Contra Costa
+San Mateo
+New York
+Dallas
+Haarlemmermeer
+Klaeng
+Göteborg
+Bexar
+Bexar
+McHenry
+Kane
+Communauté-Urbaine-de-Montréal,Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Montréal
+Harris
+Harris
+Travis
+Escazú
+Escazú
+Los Angeles
+Los Angeles
+Los Angeles
+Manchester
+Hidalgo
+Miami-Dade,Orange,Palm Beach
+Travis
+Clark
+Pima
+Montgomery
+District of Columbia
+New York
+Paris
+Paris
+Paris
+Darmstadt
+District of Columbia
+District of Columbia
+Philadelphia
+District of Columbia
+District of Columbia
+District of Columbia
+District of Columbia
+New York
+New York,Bronx,Kings
+New York
+Bexar
+Bexar
+San Diego,Riverside
+San Diego
+San Diego
+Bexar
+Bexar
+Los Angeles,Orange
+Clark
+Clark
+San Diego
+Riverside
+Los Angeles
+Clark
+Galveston
+Alpes-Maritimes
+Alpes-Maritimes
+Alpes-Maritimes
+Freiburg
+Berlin
+Barcelona
+Barcelona
+San Diego
+New York
+Milano,Bas-Rhin,Freiburg
+Freiburg
+Clark
+Clark
+Dallas
+Cook
+New York
+Madrid,Paris
+El Paso
+Orleans,San Francisco,Jackson
+Attica,Paris
+Paris
+Los Angeles
+Los Angeles
+Webb,Hays
+Los Angeles
+Collin
+Clark
+Clark
+Clark
+Cook
+Cook
+Cook
+Clark
+Clark
+Orange
+Orange
+Madrid
+Madrid
+Westminster,Paris
+Karlsruhe,Oberbayern,Innsbruck
+Roma
+Barcelona,Alpes-Maritimes
+Yuma
+Gregg
+Gregg
+Rusk
+Gregg
+Rusk
+Rusk
+Tarragona
+Tarragona
+Tarragona
+Tarragona
+Tarragona
+Tarragona
+Tarragona
+Lancaster,Philadelphia
+Haute-Garonne,Barcelona
+Barcelona
+Cyclades
+Cyclades
+Cyclades
+Cyclades
+Cyclades
+Barcelona
+Barcelona
+Amsterdam,Haarlemmermeer
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Clayton
+Clayton,Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Baleares
+Baleares,Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Seixal
+Barcelona
+Barcelona
+Barcelona
+Antwerpen
+Madrid
+Hackney
+New York
+New York
+Bexar
+Panamá
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Orange
+Orange
+Hartford,Suffolk
+New York,Hudson,Suffolk
+New York,Suffolk
+New York,Middlesex
+New York
+New York
+New York
+New York
+Orleans
+Orleans
+Orleans
+Washoe
+Miami-Dade
+Miami-Dade
+Richmond,New York
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Zipaquirá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+San Diego
+San Diego
+San Diego
+San Diego
+Los Angeles,Orange
+Orange,San Diego,Los Angeles
+San Diego,Orange
+San Diego
+San Diego
+San Diego
+Los Angeles,San Bernardino
+San Diego,Los Angeles
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego,Los Angeles,San Bernardino
+Los Angeles
+Santafé de Bogotá
+Duitama
+Santafé de Bogotá
+San Diego
+San Diego
+Los Angeles
+Los Angeles
+Los Angeles,Orange
+Orange,Los Angeles
+Orange
+Los Angeles
+San Diego
+San Diego
+Orange
+San Diego
+San Diego
+San Diego
+Orange,Los Angeles
+Orange
+Los Angeles
+Los Angeles
+San Diego
+Los Angeles
+Los Angeles
+Riverside
+Miami-Dade,Monroe
+Paris,Yvelines,Val-d'Oise
+Paris,Yvelines,Hauts-de-Seine,Val-d'Oise
+Yvelines,Westminster,Camden,Surrey
+Surrey
+New York
+Seine-Maritime,Westminster,Southwark
+Seine-Maritime,Paris
+Seine-Maritime
+Southwark
+San Francisco,Alameda
+Miami-Dade
+New York
+Los Angeles
+Clark
+Harris
+Porter
+Cook
+Lake
+Lake
+Lake
+Lake
+Lake
+Lake
+Cook
+Cook
+Porter
+Lake
+Cook
+Cook
+Cook
+Lake
+Lake
+Porter
+Cook
+Cook
+Marion
+Marion
+Cook
+Cook
+Lake
+Cook
+Cook
+Lake
+Lake
+Cook
+Lake
+Marion
+Bexar
+Webb
+Cameron
+Travis
+Travis
+Broward
+Franklin
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Rio Claro
+Rio Claro
+Tulsa
+Cartagena de Indias
+Cartagena de Indias
+Miami-Dade
+Panamá
+Payne
+Payne
+Payne
+Payne
+New York
+New York
+New York
+New York
+Essex
+Cuyahoga
+San Diego
+San Diego
+San Diego
+San Diego
+Los Angeles
+San Diego
+San Diego
+San Diego
+Clark
+Clark
+Barcelona
+New York
+Greater Vancouver
+Granada
+San Francisco
+New York,Kings
+Distrito Nacional
+Distrito Nacional
+Las Terrenas
+Paris
+Paris
+Barcelona
+Barcelona
+Wayne
+Amsterdam
+Amsterdam
+Bülach
+Basel
+Madrid
+Washoe
+Distrito Federal
+Distrito Federal,Tigre
+Cameron
+Paris
+Cameron
+Orange
+Orange
+Orange
+Orange
+Niagara
+Bexar
+Riverside
+Bexar
+San Diego,Los Angeles
+Cook
+Cook
+Cook
+Cook
+Maverick
+Rheinhessen-Pfalz
+Limburg
+Distrito Federal
+Distrito Federal
+Webb
+Hidalgo
+San Diego
+Bexar
+Venezia
+Venezia
+Venezia
+Venezia
+Venezia
+Venezia
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+Los Angeles
+São Paulo
+São Paulo
+São Paulo
+San Mateo
+San Francisco
+San Francisco,Santa Clara
+San Francisco
+San Francisco
+San Francisco
+Barcelona,Oberbayern
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Clark
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Pima,Maricopa
+Barcelona
+Sevilla
+Porto
+Madrid,Barcelona
+Dorset
+Kent
+Barcelona
+Barcelona
+West-Vlaanderen
+Marrakech
+Barcelona
+Barcelona
+Cook
+Hidalgo,Shelby
+San Francisco
+Orange
+New York
+New York
+Middlesex
+Orange
+San Diego
+San Diego
+Clark
+Los Angeles
+Los Angeles
+New York
+New York
+New York
+New York
+Paris,Arezzo
+New York
+Paris
+New York
+New York
+Cook
+Wayne
+Miami-Dade
+Miami-Dade
+Mono
+San Diego
+San Francisco
+Barcelona
+Clark
+New York
+Riverside,San Diego
+Riverside
+Riverside
+Riverside
+Riverside
+Cook
+Cook
+New York
+Cook
+Cook
+New York
+Cook
+Clark
+Clark
+Florianopolis
+Florianopolis
+New York
+Philadelphia
+Clark
+Wasco
+San Diego
+San Diego
+Maricopa
+Maricopa
+Santafé de Bogotá
+San Diego
+San Diego
+San Diego
+Rosario
+Dallas
+Miami-Dade
+Miami-Dade,Dallas
+Miami-Dade,Dallas
+Queenstown-Lakes
+Queenstown-Lakes
+Queenstown-Lakes
+Queenstown-Lakes
+Queenstown-Lakes
+Queenstown-Lakes
+Siem Reab
+Madrid
+Madrid
+Madrid
+Barcelona
+Valencia,Barcelona,Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid,Valencia
+Madrid
+Granada
+Granada
+Granada,Sevilla
+Madrid
+Madrid
+Madrid
+Oberbayern
+Paris,Wien,Praha 1
+Paris
+Tower Hamlets
+Madrid
+Madrid
+New York
+Hudson,New York
+New York
+New York
+New York
+Clark
+Uusimaa
+Zürich
+Eastern Uusimaa
+San Diego
+San Diego
+Paris
+Oost-Vlaanderen
+Bexar
+Maricopa
+Maricopa
+Maricopa
+Maricopa
+New York
+Bexar
+Eagle
+New York
+Distrito Federal
+Distrito Federal
+Distrito Federal
+n.a354
+n.a540
+Distrito Federal
+Santiago
+Bexar
+Butler
+Butler
+New York
+Los Angeles
+Merrimack
+Norfolk
+Merrimack
+Brimbank  - Keilor
+Hamburg
+Rheinhessen-Pfalz
+Stuttgart
+Paris
+Bexar
+Manchester
+Manchester
+Manchester
+Manchester
+Manchester
+Manchester
+Bath and North East Somerset,Wiltshire
+Roma
+Florence
+Milano
+Paris
+Manchester
+Manchester
+Cook
+Cook
+New York
+Los Angeles
+Bristol
+Norfolk
+Newport,Middlesex
+Hennepin
+Hennepin
+Communauté-Urbaine-de-Montréal
+Laval
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Didim
+Tower Hamlets
+Brighton and Hove
+West Sussex
+New York
+New York,Hudson
+El Paso
+El Paso
+El Paso
+Orange
+Orange
+Praha 1
+Miami-Dade
+A Coruña
+Barcelona
+Los Angeles
+Los Angeles
+Kensington and Chelsea
+Beyoglu
+Beirut
+New York
+Roma,Napoli
+Florence
+Praha 1
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+León
+Hérault
+San Francisco
+San Francisco
+Cochise
+Pima
+Cochise
+Barcelona
+Barcelona
+Barcelona
+Hopkins
+Hopkins
+Hopkins
+Dallas
+Tarrant
+Rains
+Cook
+San Francisco,Napa
+Imperial
+Imperial
+Imperial
+Imperial
+Imperial
+Orange,Cordillera
+San Diego
+Shanghai
+San Diego
+Imperial
+Los Angeles
+Los Angeles
+Los Angeles
+Cameron
+Santa Clara
+Santa Cruz,Santa Clara
+Santa Cruz
+Santa Cruz
+Santa Clara
+Monterey
+Clark
+San Francisco
+Marin
+Eagle
+Eagle
+Eagle
+Eagle
+Placer,Marin
+Paris
+Bruxelles,West-Vlaanderen,Amsterdam
+Amsterdam
+Berlin
+Praha 7
+Oberbayern,Budapesti
+Budapesti
+Barcelona
+Baleares
+Madrid
+Marin
+Barcelona
+Barcelona
+Barcelona
+Milano
+Praha 1
+Kraków City
+Zaragoza
+Barcelona
+Zaragoza
+Vizcaya,Guipúzcoa,Zaragoza
+Medellín
+Chennai
+Santa Clara
+San Mateo,Santa Clara
+Santa Clara
+Santa Cruz
+San Francisco
+Santa Clara
+Paris
+Yvelines,Paris
+Venezia
+Attica
+Santa Cruz
+Santa Clara
+San Mateo
+Orange
+Orange
+Santa Cruz
+Santa Cruz
+Riverside
+Santa Clara
+Distrito Federal
+San Diego
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+San Diego
+Maricopa
+Yuma
+Imperial
+Yuma
+Yuma
+Yuma
+Yuma
+Orange
+Yuma
+Yuma
+Yuma
+Clark,Mohave
+Yuma
+San Diego
+Madrid,Kensington and Chelsea,Westminster,Paris
+Combined statistics
+Amsterdam,Berlin
+Miami-Dade
+Orange
+Ramallah and Al-Bireh
+San Francisco
+Barcelona
+Barcelona,Wien
+Budapesti,Kraków City
+Praha 6,Praha 1
+Cook
+Cook
+Cook
+Cook
+Cusco
+Pedro Domingo Murillo
+Oropeza
+Miami-Dade
+Orange
+Orange
+Amsterdam
+Clark
+Colón
+Bexar
+New York
+Tower Hamlets,Southwark
+Southwark
+London,Tower Hamlets,Southwark
+Mesa
+Mesa
+Mesa
+Mesa
+Orange
+Port Phillip - St Kilda
+Los Angeles
+New York,Kings
+Communauté-Urbaine-de-Montréal
+Toronto
+Toronto
+Communauté-Urbaine-de-Montréal
+Ribeirao Preto
+Ribeirao Preto
+Ribeirao Preto
+Maués
+Maués
+Belém
+Dumont
+Barcelona
+Barcelona
+Los Angeles
+Orange
+Manukau
+Clear Creek
+Harris
+Terni,Perugia,Siena,Pisa
+Los Angeles
+Cameron
+Cameron
+Maui
+Honolulu
+Jiménez
+Maracaibo
+Roma
+Santiago,Valparaíso
+San Rafael
+Las Heras,Capital,Valparaíso
+San Rafael,Capital
+Sonsón
+Medellín
+Bucaramanga
+Lima,Pisco,Ica
+Lima
+Lima
+Medellín
+Medellín
+Medellín
+Santafé de Bogotá
+Westminster
+Tower Hamlets
+Westminster
+Cumbria,Richmond upon Thames
+Richmond upon Thames
+Monroe
+Cádiz
+Baleares
+Seixal
+New York
+Palilula
+Uusimaa
+Rio de Janeiro
+Clark
+Clark
+Bexar
+Santafé de Bogotá
+Los Angeles
+Coconino
+Coconino
+Clark
+Los Angeles
+Toledo
+Sevilla
+Sevilla
+Sevilla
+Granada,Lisboa
+Lisboa,Sevilla
+Ourense
+Ourense
+Ourense
+A Coruña
+Oberbayern,Schwaben,Tübingen,Salzburg,Wien
+Wien
+Wien,Bratislava I
+Berlin
+Barcelona
+Barcelona
+Asturias
+Ourense
+Clark
+Clark
+Clark
+Clark
+Clark
+Pima
+Maricopa
+Amsterdam
+Minsk
+Harris
+Arraial do Cabo
+Clark
+District of Columbia
+Los Angeles
+Los Angeles
+Oberbayern
+Oberbayern
+Oberbayern
+Barcelona
+Barcelona
+Amsterdam
+Travis,Harris
+Orange
+Orange
+Orange
+Orange,Shanghai,Cusco
+Orange
+ZONA 14
+Reutov
+Central,Domodedovskiy rayon
+Southwark
+San Bernardino
+Manchester
+Hackney
+Kensington and Chelsea
+Edinburgh
+Orange
+Orange
+Orange
+Los Angeles
+San Bernardino
+Los Angeles
+Orange
+Libertador,Chacao
+Chacao,Libertador
+Hays
+Kenora
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York,Queens,Kings
+New York
+Dutchess
+San Francisco
+Los Angeles
+Cook
+Cook
+Hidalgo
+New York
+San Diego
+San Diego
+Los Angeles
+Paris
+Los Angeles
+Bexar
+Orange
+Maverick
+Roma
+Distrito Central
+San Luis Talpa
+Santiago
+Santiago
+Distrito Federal
+Distrito Federal
+Hamilton
+Miami-Dade
+Hamilton
+Hamilton
+Panamá
+Los Angeles
+Los Angeles,Clark
+Harris
+Harris
+Hidalgo
+Clark
+Tarrant
+Distrito Federal
+Distrito Federal
+Westminster,Bournemouth
+Madrid
+New York
+New York
+New York
+Miami-Dade
+Miami-Dade
+Antiguo Cuscatlán
+Bexar
+San Diego
+San Diego
+San Diego
+Panamá
+Denton
+Harris
+Hidalgo
+Los Angeles
+Paris
+Amsterdam
+Westminster
+Cook
+Cook
+New York
+Los Angeles
+Clark
+Clark
+Clark
+Los Angeles
+Toronto,Simcoe
+Bexar
+Clark
+San Francisco,Marin,San Mateo
+San Diego
+Harris
+Conarky
+Iguazú
+Berlin
+Madrid
+Berlin
+Karlsruhe
+Barcelona
+Roma
+Tallinn
+Tallinn
+Harris
+Distrito Federal
+Harris
+Cape
+Harris
+Harris
+Paris
+Florence
+Berlin
+Tarrant,San Francisco
+San Francisco,Los Angeles
+San Diego
+Summit
+Summit
+Oberbayern
+Praha 8,Wien,Paris,Côte-d'Or,Haute-Savoie,Aosta,Roma,Florence,Padua
+Webb,Williamson,Travis
+Clark
+Clark
+Cook
+Los Angeles,Orange
+Haarlemmermeer,Berlin
+Stockholm
+Tallinn
+Berlin,Budapesti
+Stockholm,Halle
+Chía
+Travis
+Travis
+New York
+New York
+New York
+Westminster
+Paris
+Paris
+New York
+Kings
+Los Angeles
+Los Angeles
+New York
+Nassau
+Aguirre
+Westminster
+Shanghai
+Hà N?i
+H?i Phòng
+Muang Chiang Mai
+Phra Nakhon,Wattana
+Shanghai
+Travis
+Los Angeles
+Clark
+Bagmati
+Bagmati
+Wien
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Cook
+Medellín
+Medellín
+Shinjuku
+Nikko
+Hadano,Shinjuku
+Shinjuku
+Shinjuku
+Nerima
+Narita
+New York
+New York
+Suffolk
+Suffolk
+Phrao
+San Sai
+Monterey
+Monterey
+Monterey
+Monterey
+Monterey
+Santa Clara
+Barcelona
+Harris
+Harris
+Paris
+Paris
+Paris
+West-Vlaanderen,Paris,Praha 1,Praha 6
+Praha 6
+Paris
+Amsterdam
+Barcelona
+Söderköping
+Girona
+Stockholm
+San Diego
+San Francisco,Alameda
+Miami-Dade
+New York
+Seine-Saint-Denis
+Roma,Terni
+Kusadasi
+Napoli
+Suffolk
+Miami-Dade
+Miami-Dade
+New York
+New York
+Santafé de Bogotá
+Cartagena de Indias
+Miami-Dade
+Miami-Dade
+Communauté-Urbaine-de-Montréal
+Suffolk
+Miami-Dade
+Los Angeles
+Harris
+Montgomery
+Harris
+Harris
+Harris
+Harris
+Cook
+Cook
+Puntarenas
+New York
+Paris
+Westminster,Kensington and Chelsea,Camden,Southwark
+Paris,Yvelines,Bruxelles,West-Vlaanderen,Amsterdam
+Roma
+Bulkley-Nechako
+Squamish-Lillooet
+ZONA 16
+Los Angeles
+San Diego
+Orange
+Los Angeles
+Tarrant
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Clark
+Orange
+New York
+Miami-Dade
+Pulaski
+Cordillera
+Petorca,Cordillera,Santiago
+Petorca
+New York
+Petorca
+Cordillera
+Santiago
+Los Angeles
+Los Angeles
+Los Angeles
+New York
+Paris
+Amsterdam
+Paris
+Clark
+Santafé de Bogotá
+San Francisco
+Los Angeles
+Amsterdam
+Seixal
+Cumbria
+Valparaíso
+Valparaíso
+Merseyside
+Merseyside
+Callao,Huaral,Santa,Huarmey,Lima,Chincha,Pisco,Guayaquil,Valparaíso,Santiago
+Paris
+Callao
+Paris,Essonne
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris,Essonne,Val-d'Oise,Bruxelles
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Bruxelles
+Paris
+Wiltshire
+Paris
+Paris
+Bruxelles
+Bruxelles
+Paris
+Hauts-de-Seine
+Paris
+Paris,Denver
+Eagle
+Eagle
+Eagle,Bruxelles
+Paris
+Bruxelles
+Eagle
+Paris
+Yumbo
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris,Val-d'Oise
+Bologna,Milano,Paris
+Orange
+Orange
+Summit
+Tela
+Sunshine Coast
+Greater Vancouver
+Choloma
+San Diego
+Imperial,Riverside
+San Diego
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Orange
+Los Angeles
+Riverside
+Los Angeles
+Los Angeles
+San Diego
+San Diego
+San Diego
+San Diego,Orange
+Orange
+San Diego
+Badung,Shenzhen
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Badung
+San Diego
+San Francisco
+Napa
+San Diego
+Delhi
+Ratchathewi
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - West
+Currumbin
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner
+San Diego
+San Diego
+San Diego
+Orange
+Quilmes
+Maipo,Valparaíso,San Antonio,Santiago
+Distrito Federal
+Distrito Federal
+Clark,San Diego
+Los Angeles
+San Diego
+Los Angeles
+Dallas
+Miami-Dade
+Travis
+Lima
+Lima
+Pisco
+Florence
+Merseyside
+Merseyside
+Merseyside
+San Diego
+Riverside
+San Diego
+Bexar
+Haute-Garonne
+Aude
+Haute-Garonne
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+San Diego
+Baleares
+Baleares
+Clark
+Los Angeles
+Los Angeles,Orange
+Montgomery,Harris
+Harris
+Harris
+Orange,Los Angeles
+Clark
+Clark
+San Francisco
+Salvaleón de Higüey
+
+Clark
+Clark
+Los Angeles
+Clark
+Cautín
+Dare
+Toronto
+Assis
+San Diego
+DeKalb
+Walker
+Wilson
+Walker
+Hamilton
+Walker,Hamilton
+Hamilton
+Walker
+New York
+DeKalb
+Walker
+Heerhugowaard
+'s-Gravenhage
+Florence
+Milano
+Florence
+Zaanstad
+Florence
+Arnhem
+Bergen
+Wageningen
+Paris
+Paris
+Barcelona
+Haarlemmermeer
+Amsterdam
+Alkmaar
+Westminster,Paris
+Barcelona
+Hamilton
+West-Vlaanderen
+Langedijk
+Rio de Janeiro,Recife
+Natal
+Recife,Fortaleza
+New York
+New York
+Los Angeles,Clark
+Clark
+El Paso
+Cowichan Valley
+Clark
+San Diego
+Mecklenburg
+Miami-Dade
+Miami-Dade
+Orange
+Hidalgo
+Clark
+Orange
+Bexar
+Bexar
+San Francisco
+Barcelona,Madrid
+Paris
+Camden,West-Vlaanderen,'s-Gravenhage,Amsterdam,Berlin
+Praha 1
+Florence
+Cárdenas
+Centro Habana
+Cowlitz,Clark
+Cowlitz
+Panamá
+Panamá
+Cusco
+Los Angeles
+Bexar
+District of Columbia
+District of Columbia,New York
+Rio de Janeiro
+Orange
+Miami-Dade
+Santa Clara
+San Mateo
+Miami-Dade
+Rio de Janeiro
+Bexar
+Los Angeles
+Orange
+Los Angeles
+Münchwilen
+Pu'er
+El Paso
+El Paso
+Madrid
+Madrid
+Madrid
+Madrid
+Paris,Madrid
+Madrid
+Madrid
+Madrid
+Loire-Atlantique
+Madrid
+Waltham Forest,Westminster
+Amsterdam,Berlin
+Combined statistics
+Roma
+Bexar
+Los Angeles,San Diego
+Santafé de Bogotá
+Santa Elena
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Sacramento,Fresno
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+San Bernardino
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Lima
+New York
+Cook
+New Haven
+New Haven
+Queens
+New Haven
+Nassau
+Valencia
+Valencia
+Barcelona
+Madrid
+Orange
+Miami-Dade
+New York,Queens
+Los Angeles
+Los Angeles
+Orange
+Orange
+Greater Sudbury
+Bagmati
+Greater Sudbury
+Sevilla
+Orange
+Madrid
+Barcelona
+Madrid
+Paris
+Paris
+Los Angeles
+Tarrant
+Bexar
+Kolkata
+Orange
+Bernalillo
+Brewster
+El Paso
+Cameron
+Cameron
+Cameron
+Westminster
+Cusco
+Oslo
+Kyoto
+Chuo
+Los Angeles
+Los Angeles
+Orange
+Medellín
+Pima
+Orange
+Orange
+Travis
+Los Angeles
+Los Angeles
+Cook
+Cook
+Cook
+Cook
+Cook
+Cook
+Lake
+Cook
+Cook
+Cook,Walworth
+Cook
+Cook
+Cook
+Cook
+Cook
+Cook
+Cook
+Kenosha
+Fairbanks North Star,Cook
+Cook
+Orange
+Barcelona
+Orange
+Santafé de Bogotá
+El Paso
+Libertador
+Vargas
+San Diego
+Riverside
+Riverside
+Riverside
+Paris
+Milano
+São Paulo
+São Paulo
+Lecce
+Los Angeles
+Los Angeles
+Madrid
+Madrid
+Madrid
+Madrid
+Madrid
+Bruxelles
+West-Vlaanderen
+Loures
+Cascais
+Cascais,Lisboa
+Cascais
+Madrid
+Burgos
+Burgos
+Burgos
+Burgos
+Burgos
+Burgos
+Burgos
+Marrakech
+Venezia
+Venezia
+Bologna
+Florence
+Florence
+San Diego
+Antigua Guatemala
+Paris
+Rhône
+Ain
+Jongro
+Seongbuk
+Jongro
+Jongro
+Paris
+Travis
+Berlin
+Harris
+Harris
+Harris
+Harris
+Harris
+Harris
+Saint Martin
+Harris
+Clark
+Clark
+Clark
+Travis
+Travis
+Travis
+Travis
+Travis
+Travis
+Carter
+Paris
+Cook
+Cook
+Cook
+Cook
+Amsterdam,Cook
+Cook
+Praha 1,Venezia
+Cook
+Cook
+Cook
+Paris
+Paris
+Paris,Florence
+Seine-Saint-Denis,Florence
+New York
+New York,Kings
+Cook
+Bexar
+Distrito Federal
+Confluencia
+Confluencia
+Santafé de Bogotá
+Clear Creek
+Eagle
+Miami-Dade
+Miami-Dade
+San Francisco
+New York,Philadelphia
+Malacatán
+Cook
+New York
+Haute-Garonne
+San Francisco
+Westminster,London,Camden
+Paris,Roma,,Madrid,Toledo
+New York
+Bronx,Westchester
+New York,Hudson
+Coffee,San Francisco
+Coffee
+Travis
+Travis
+New York
+Bronx,New York,Westchester
+El Paso,Clark
+Madrid
+Barcelona
+Westminster,London
+San Francisco
+Distrito Federal,Lago Argentino
+Lago Argentino,Distrito Federal
+Travis
+São Paulo,Guarulhos,Fortaleza
+Tibau do Sul
+São Lourenço da Mata
+Fortaleza
+Belo Horizonte
+Rio de Janeiro
+Los Angeles
+Clark
+Greater Vancouver
+Squamish-Lillooet,Greater Vancouver
+San José
+ZONA 14
+Distrito Federal
+Santiago
+Distrito Federal
+Capital
+Brasília
+Recife
+Rio de Janeiro
+Cook
+São Paulo
+n.a354
+Plaza de la Revolución
+Panamá
+Panamá
+Cook
+King
+Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Fraser Valley
+Maturín,Vargas
+Harris
+Hidalgo
+Lima
+Newham
+San Luis Talpa
+Orange
+Orange
+Harris
+San Salvador,Tamanique
+Bexar
+Tarrant
+Los Angeles
+ZONA 7
+Bexar
+Bexar
+New York,Hudson
+Tarrant
+Antigua Guatemala
+Paris
+Paris
+Paris
+New York
+Miami-Dade
+Miami-Dade
+Nakano
+Shanghai
+Urubamba
+Eagle
+New York
+São Paulo
+São Paulo
+São Paulo
+São Paulo
+Distrito Federal
+Berlin
+Santafé de Bogotá
+San Diego
+San Diego
+Badung
+Badung
+Badung
+Badung
+Gisborne,Waitakere
+Waikato
+Waikato,South Taranaki
+Waitakere
+Waitakere
+Waitakere
+Los Angeles
+Los Angeles
+Badung
+Badung
+Badung,Taoyuan
+Clark
+San Diego
+Los Angeles
+Orange
+Humboldt
+Orange
+Humboldt
+Kensington and Chelsea
+Bexar
+Orange
+Orange
+Miami-Dade
+Hume - Craigieburn
+Port Phillip - West
+Port Phillip - St Kilda
+Melbourne - S'bank-D'lands
+Port Phillip - West
+Kentish,Glamorgan-Spring Bay
+Melbourne - Inner
+Melbourne - Inner
+Port Phillip - West
+Port Phillip - West
+Melbourne - S'bank-D'lands
+Melbourne - Inner,Yarra - North,Port Phillip - West
+Sydney - East
+Clayton
+Communauté-Urbaine-de-Montréal
+Santiago,Santafé de Bogotá
+New York
+New York
+Los Angeles
+Clark
+Clark
+Clark
+Cook
+Cook
+Cook
+Travis
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Hawaii
+Barcelona
+Milas
+Var
+Attica
+Var
+Roma,Napoli
+Attica
+Oberbayern
+n.a354
+Hawaii
+El Paso
+Santafé de Bogotá
+Chía,Cartagena de Indias
+Cartagena de Indias
+Miami-Dade
+Roatán
+Miami-Dade
+Roatán
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Cádiz
+Bouches-du-Rhône
+Bouches-du-Rhône
+Bouches-du-Rhône,Savona
+Savona
+Barcelona,Savona
+Lisboa
+Seine-Maritime
+Tallinn,Sankt-Peterburg gorsovet
+Stryn
+Rauma
+Rauma
+Nova Gorica
+Nova Gorica
+Kranjska Gora
+Uusimaa
+Uusimaa
+Randburg
+Goodwood
+Ancona
+Attica
+Ravenna
+Randburg
+Valencia
+Los Angeles
+Kathu
+Puntarenas
+Panamá
+Hackney
+Cádiz
+Santa Cruz Muluá
+La Democracia
+La Libertad
+La Democracia
+Guipúzcoa
+Berlin
+Urubamba
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil,Samborondón
+Guayaquil
+Guayaquil
+Guayaquil
+Quito
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil
+Cuenca
+Guayaquil
+Guayaquil
+Quito
+Guayaquil
+Guayaquil
+Guayaquil
+Guayaquil,Quito
+Guayaquil
+Guayaquil
+Cuenca
+Guayaquil
+King
+Guayaquil
+Guayaquil,Panamá,Samborondón
+Guayaquil
+Guayaquil
+Guayaquil
+Yuma
+Yuma
+San Luis Talpa
+New York,Hudson
+Harris
+San Diego
+West-Vlaanderen
+Paris
+New York
+Lima
+Urubamba
+Lima
+Santa Cruz
+Distrito Federal
+Distrito Federal
+Orange
+n.a540
+Bexar
+Haute-Garonne
+Haute-Garonne
+Haute-Garonne
+Barcelona
+Haute-Garonne
+Haute-Garonne
+Paris
+Paris
+Oberbayern
+Pima
+Pima
+Pima
+Medellín
+Guarne
+Guatapé
+Westminster,Camden
+Westminster
+Westminster
+Westminster
+Orange
+Westminster
+Newham
+Camden,Westminster
+Camden,Westminster
+Westminster
+Orange
+Westminster
+Westminster
+Valparaíso
+Elqui
+Miami-Dade
+Hilversum
+Amsterdam
+Madrid
+Los Angeles
+Los Angeles
+Los Angeles
+Amsterdam
+New York
+Distrito Federal
+Distrito Federal
+Lago Argentino
+Miami-Dade
+Cook
+San Diego
+Paris
+Camden
+Harris
+Richland
+Arraiján
+Bexar
+Tarrant
+District of Columbia
+Santa Fe
+Bexar,Tarrant
+Vsetín
+Viñales
+Cook
+Cook
+Los Angeles
+Orange
+Los Angeles
+Manta
+Orange
+Santa Fe
+Sedgwick
+Sedgwick
+Madrid
+Madrid
+New York
+New York
+New York
+Santa Fe
+Besiktas,Fatih
+Bexar
+Hillingdon
+Westminster,Hounslow,London,Newham,Hammersmith and Fulham
+Westminster,Camden
+Camden,Kensington and Chelsea
+Recife
+Recife
+Hennepin
+Hennepin
+Harris,Hennepin,Dakota
+Hennepin,Dakota
+Hennepin
+Dakota
+Dakota
+n.a354
+n.a354,Panamá
+Lisboa
+Lisboa
+Sintra
+Paris,Madrid
+Madrid
+Paris
+New York
+San José,Escazú
+Madrid,Lisboa,Porto,Vila Nova de Gaia
+New York
+Marin
+San Francisco
+New York
+Kensington and Chelsea,Westminster,,Camden,Hackney,London
+Madrid,Lisboa,Sintra
+Paris
+Sintra
+Sintra
+New York
+San Francisco
+Suffolk
+Miami-Dade
+Antigua Guatemala
+Eagle
+Eagle
+Albemarle
+Albemarle
+Napa
+Albemarle
+Harris
+Mesa
+Union
+Fulton
+Dallas,Harris
+Harris
+Harris
+Harris
+Harris,Santa Fe
+Douglas
+Harris
+Cook,Communauté-Urbaine-de-Québec
+Jefferson
+Travis,Harris
+Loudoun
+New York,Harris
+Harris
+East Baton Rouge
+Denver
+Hidalgo
+Douglas
+Tulsa
+Cuyahoga
+Madison
+Saint Joseph
+Antwerpen
+Orleans
+Hammersmith and Fulham
+London
+Los Angeles
+San Bernardino
+Los Angeles
+San Bernardino
+San Bernardino
+San Bernardino
+Los Angeles
+Los Angeles
+Los Angeles
+Santiago de Cali
+New York
+New York
+Middlesex,New York
+Suffolk
+Orange
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Bexar
+San Diego
+San Diego
+Bexar
+San Diego
+San Diego
+San Diego
+Orange
+San Diego
+San Diego
+New York
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Allegheny
+New York
+San Diego
+Los Angeles
+Miami-Dade
+Miami-Dade
+Orange
+Orange
+Iguazú
+Lago Argentino,Distrito Federal
+Los Angeles
+Maricopa
+Bexar
+Dallas
+Clark
+Clark
+Dallas
+Dallas,Tarrant
+Harris
+New York,Bronx
+San Francisco
+Maui
+Maui
+San Diego
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Los Angeles
+Chacao
+Chacao
+Miami-Dade
+Broward
+Miami-Dade
+Miami-Dade
+Los Angeles,Chacao
+Chacao
+Chacao
+Chacao
+Chacao
+Miami-Dade
+Chacao
+Miami-Dade
+Miami-Dade
+Berkshire,Surrey,Camden
+New York
+New York
+New York
+New York
+Santiago
+Cusco
+Clark
+Paris
+Paris
+Clark
+Paris,Camden
+Westminster,Paris
+Shanghai
+Guilin
+Shanghai
+New York
+Berlin
+Freiburg
+Oberbayern
+San Francisco
+Cartagena de Indias
+Bunkyo
+Chiyoda
+Chiyoda,Nara
+Miami-Dade
+New York
+Webb,Travis
+Travis,Hays
+Travis,Comal
+Berrien,Cook,Sandusky
+Travis
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Berrien,Cook,Saint Joseph
+Clark
+Bexar
+Lisboa
+Antwerpen
+Madrid
+Madrid
+San Andrés
+Maricopa
+Riverside
+San Diego
+San Diego
+Los Angeles
+Orange
+Tocancipá
+Amsterdam
+Praha 1
+Camden,Westminster
+Santafé de Bogotá,Medellín
+Medellín
+Cook
+New York
+New York
+Rio de Janeiro
+Rio de Janeiro
+San Francisco
+San Francisco
+New York
+Westminster
+Westminster
+Westminster,Tower Hamlets
+Paris,Westminster
+Paris
+Paris
+Westminster
+Camden
+Haarlem
+San Diego
+Starr
+Hidalgo
+Cameron
+Travis
+Travis
+Travis
+Travis
+Bexar
+Bexar
+Travis,Bexar
+Clark
+Hidalgo
+Hidalgo
+Paris
+Distrito Federal
+Orange
+Greater Vancouver
+Aguirre
+n.a354
+n.a354
+Bexar
+Bexar
+Clark
+New York
+New York
+New York
+Urubamba
+Iribarren
+Iribarren
+Quito
+Berlin
+Harris
+Harris
+Los Angeles
+Clark
+Cook
+Cook
+Riverside
+San Diego
+Queens,New York
+Clark
+Harris,Galveston
+Manchester
+New Haven
+Middlesex
+Orange
+Orange
+Reykjavík
+Húnaþing vestra
+New York
+New York
+Val-d'Oise,Marrakech
+Marrakech
+Essaouira
+Cartagena de Indias
+Salvaleón de Higüey
+
+Salvaleón de Higüey
+
+Miami-Dade,Broward
+Santiago
+Denver
+San Diego
+San Diego
+n.a289
+Elqui
+Talara
+São Paulo
+São Paulo,Rio de Janeiro
+Queens,New York
+New York,Bronx
+Madrid
+Merced
+Cartagena de Indias
+Medellín,Puerto Salgar,Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+New York
+Newport
+Rio de Janeiro
+Rio de Janeiro
+Los Angeles
+Los Angeles
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Imperial
+Maricopa
+Yuma
+Yuma
+Maricopa
+Yuma
+Maricopa
+Imperial
+Los Angeles
+Los Angeles
+Los Angeles
+Bexar
+Bristol
+Brent
+Marion
+Clark
+Los Angeles
+Allegheny
+Tarrant
+Clark
+Clark
+Guipúzcoa
+Alicante
+Greater Vancouver
+Greater Vancouver
+Hampden
+Hartford
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+San Diego
+San Diego
+Clark
+Bexar
+Orleans
+Orleans
+Los Angeles
+San Bernardino
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+Los Angeles
+Madrid
+Asturias
+Cook
+Cook
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro,Salvador
+Milano
+Berlin
+Communauté-Urbaine-de-Montréal,Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Paris
+Verona
+Venezia
+Verona
+Valparaíso
+Barcelona
+Barcelona
+Barcelona
+Madrid
+West-Vlaanderen
+Tower Hamlets
+Sevilla
+San Diego
+Orange
+San Diego
+Orange
+Bexar
+Wiltshire
+Budapesti
+Westminster
+Hertfordshire
+Paris
+Anne Arundel
+District of Columbia
+District of Columbia
+Clark
+Panamá,Belo Horizonte,Brasília
+Brasília
+Hackney
+Vaucluse
+Paris
+Cantabria
+Tower Hamlets
+Denver
+Madrid
+Orange
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+Pima
+El Paso
+El Paso,Clark
+El Paso
+Verona
+Verona
+Verona
+Verona
+San Francisco
+San Diego
+Los Angeles
+San Diego
+Polk
+Orange
+Maverick
+Orleans,Orange
+San Diego
+São Paulo
+Clark
+Clark
+Bexar
+Clark
+Clark
+Clark
+Bexar
+Cook
+Cook
+Seminole
+San Diego
+San Diego
+Alpes-Maritimes
+Lima
+Ica,Arequipa
+Oslo
+Cyclades
+Sankt-Peterburg gorsovet
+New York
+Mason,Kitsap,King
+King
+King
+King
+King
+King
+King
+King
+Clark
+Santafé de Bogotá
+Bruxelles,West-Vlaanderen,Amsterdam
+Roma
+Florence
+Oberbayern,Paris
+Paris
+Venezia,Paris
+Paris
+Hauts-de-Seine
+Hauts-de-Seine
+Aguirre
+Bruxelles
+Paris
+Amsterdam
+Amsterdam
+Amsterdam
+Rio de Janeiro
+Orange
+Orange
+Paris
+El Paso
+Cook,Dupage
+Miami-Dade
+Santafé de Bogotá,Chía
+San Diego
+Clark
+Alajuela
+Los Angeles
+Clark
+Los Angeles
+Shah Alam,Muang Phuket,Takua Thung,Phra Nakhon
+Khlong San
+Orange
+Los Angeles
+Bexar,Hays
+Bexar
+Toronto
+San Diego
+Alpes-Maritimes
+Alpes-Maritimes
+Paris
+Alpes-Maritimes,Paris,Miami-Dade
+New York,Kings
+Pitkin
+Pitkin
+Los Angeles
+San Mateo,Napa,San Francisco
+Hidalgo
+Orange
+Los Angeles
+Travis
+Jackson
+Jackson
+Jackson
+El Paso
+Jackson
+Jackson,Washtenaw
+Washtenaw
+Jackson,Wayne,Washtenaw,Lake St. Clair
+Jackson
+Wayne
+Webb
+Arlington
+Arlington,District of Columbia
+Arlington,Clayton
+Bradley
+Jackson
+Washtenaw
+Jackson
+Wayne
+King
+Amsterdam,Wayne,Beyoglu,Fatih
+Fatih,Beyoglu,Barcelona,Porto,Maia,Lisboa
+Haarlemmermeer
+Washtenaw
+Jackson
+Wayne
+El Paso
+Travis
+São Paulo,Cajamar
+Bexar
+Bexar
+Wayne,Jackson
+Delhi
+Kyoto
+Sumida
+Beijing,Shanghai
+Shanghai
+Marin,San Francisco
+Santa Clara,San Francisco
+Barueri
+São Paulo
+Miami-Dade
+Travis
+Travis
+São Paulo
+Rio de Janeiro
+New York,Kings
+Los Angeles
+Los Angeles
+Paris
+Cumbria
+Paris
+Paris
+Los Angeles
+San Diego
+San Diego
+San Diego,Los Angeles,Maricopa,Dona Ana,Bernalillo
+El Paso
+Travis
+New York
+Baltimore
+New York
+Wayne
+Jbayl
+Jbayl
+Tripoli
+Orange
+Orange
+Hidalgo
+Capital
+Capital
+Oakland
+Oakland
+Los Angeles
+Los Angeles
+Bexar
+Milano
+Madrid
+Porto
+Los Angeles
+Bình Thu?n
+Manila
+Malay
+Toronto
+New York
+New York
+Orange
+Orange
+Osceola
+Orange
+Orange
+Orange
+Guayaquil
+Clark
+Paris
+Haute-Garonne
+Barcelona
+Paris
+San Diego
+Los Angeles
+Orange,Lake
+Lake
+San Francisco
+Hidalgo
+Barcelona
+Camden,Amsterdam,Bruxelles
+Paris
+Paris
+Paris
+Seine-et-Marne
+Paris
+Tarrant
+Bexar
+Hays
+San Bernardino
+Cartagena de Indias
+New York
+Clark
+Alameda
+Madrid
+Panamá
+Brasília
+Brasília
+Brasília
+Brasília
+Orange
+Orange
+Orange
+Orange
+Orange
+Orange
+Orange
+Orange,Saint Johns
+Orange
+Orange,Osceola
+Orange
+Orange
+Orange
+Orange
+Goiania,Brasília
+ZONA 9
+Belo Horizonte
+Nova Lima,Brasília
+Brasília
+Brasília
+Brasília
+Brasília
+Brasília
+Salvaleón de Higüey
+
+Brasília
+Amsterdam
+Brasília
+Hidalgo
+New York
+Orange
+Orange
+New York
+Orange
+New York
+New York
+New York
+New York
+New York
+El Paso
+Los Angeles,Pima,Orange
+El Paso
+Orange,Los Angeles
+Orange
+Maneiro
+Orange,Los Angeles
+Division No. 6
+Division No. 6,Division No. 15
+El Hatillo
+Gómez
+Gómez
+Gómez,Marcano,Arismendi
+Chacao,Guaicaipuro
+Libertador
+Baruta
+Baruta
+Queens
+Kings
+New York
+New York
+Essex,New York
+Clark
+Paris,Morbihan
+Morbihan
+New York
+New York
+New York
+New York
+New York
+Lima
+Westminster,Buckinghamshire
+Westminster
+Alpes-Maritimes
+Alpes-Maritimes
+Camden
+Summit
+New York
+San Francisco
+Camden
+São Paulo
+Amsterdam
+Amsterdam,Hamburg
+Amsterdam
+Berlin
+Berlin
+Amsterdam
+Maricopa
+El Paso
+El Paso
+Orange
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Mandaluyong
+Pasay City
+Makati City
+Las Piñas,Mandaluyong
+Alfonso,Calamba City
+Pasig City
+Baguio City,Tuba
+New York
+Lima
+Lima
+Barcelona,Girona
+Barcelona
+Barcelona,Valladolid,Burgos
+Laishevskiy rayon
+Paris
+New York
+New York
+Nara
+Harris
+Bullitt
+East Baton Rouge
+New York
+Guarulhos
+Suzano
+Bexar
+Los Angeles
+Los Angeles
+Los Angeles
+Munster
+Munster
+Munster
+Arnsberg
+Spring Hill,Sydney - Inner,Sydney - East,City - Inner
+Asturias
+Asturias,Munster
+Warsaw
+Berlin
+Arnsberg,Barcelona
+Munster
+Val-d'Oise,Paris,Hauts-de-Seine,Seine-Saint-Denis
+North-Eastern,Domodedovskiy rayon
+Greater Vancouver
+Greater Vancouver
+Munster
+Minsk
+Bratislava V
+Bratislava I
+Sokolov,Karlovy Vary
+Karlovy Vary
+Bratislava II
+Hidalgo
+Hidalgo
+Cameron
+Callao
+Eagle
+Eagle
+San Francisco
+Eagle
+Eagle
+New York
+New York
+Suffolk
+Eagle
+San Francisco
+Santa Clara
+Santa Clara
+San Francisco
+Santa Clara
+Marin
+Santa Clara
+Attica
+Cook
+Cárdenas,Guasimos,San Cristóbal
+Guasimos,San Cristóbal
+Panamá
+Maracaibo
+Cárdenas
+Orange
+Maracaibo
+San Cristóbal,Guasimos
+Maracaibo
+Clark
+Shah Alam
+Shah Alam
+Fort Bend
+Harris
+San Cristóbal
+Bexar
+Harris
+Rio de Janeiro
+Rio de Janeiro
+Barcelona,Berlin,Westminster,Kensington and Chelsea,Camden
+Paris
+Paris,Barcelona
+Barcelona
+Madrid
+Barcelona
+Berlin
+San Francisco
+El Paso
+Canas,Calca,Lima
+Cook
+San Diego,Orange
+Panamá
+Paris
+Los Angeles
+Los Angeles
+Los Angeles
+San Diego
+San Diego
+Los Angeles
+Los Angeles
+Orange
+Orange
+Webb
+Panamá
+San Diego
+Santafé de Bogotá
+Içara
+Londrina
+Boca Chica,Miami-Dade
+Londrina
+Londrina
+Bariloche
+São Paulo
+Salvador
+Londrina
+Budapesti
+São Paulo,Los Angeles
+Los Angeles
+Nova Veneza
+Rio de Janeiro
+São Paulo
+San Francisco
+San Francisco
+San Diego
+Fatih
+Bern,Surselva
+Paris
+Paris
+Budapesti
+Madrid,Berlin
+Washington
+Miami-Dade
+Broward
+Hennepin
+Orange
+Miami-Dade
+Miami-Dade
+Orange
+La Libertad
+Webb
+Galveston,Harris
+Webb
+Somerset
+Clark
+Cook
+Kane,Cook
+Cook
+Cook
+Berlin
+Berlin
+District of Columbia
+Hidalgo
+Maricopa,King
+El Paso
+Budapesti
+Budapesti
+Wien
+Budapesti
+Budapesti
+Waukesha
+Cautín
+Chacabuco
+Última Esperanza
+Lago Argentino,Chacabuco
+Tierra del Fuego
+Concepción
+Santiago
+El Loa
+Urubamba
+Capital
+Capital
+Sanagasta
+Valparaíso
+Clayton
+Webb
+Cuenca
+Cuenca
+Cuenca
+Cuenca
+Cuenca
+Cuenca
+Cuenca
+Cuenca
+Cuenca
+Cuenca
+Granada
+Madrid
+Cuenca
+Jakarta Timur
+Travis
+San Mateo
+Pinellas
+Pinellas
+Pinellas
+Orleans
+Clark
+Clark
+Clark
+San Diego
+San Diego
+San Diego
+San Diego
+Los Angeles
+Orange
+Orange
+San Diego
+San Diego
+Alegría,Santiago de María,San Salvador
+Riverside
+Riverside
+San Diego
+Orange
+Orange
+Pérez Zeledón
+Pérez Zeledón
+Pierce,King
+Clark
+Orange
+Orange
+San Diego
+Delhi
+El Paso
+Orange
+Los Angeles
+Fairfield
+Monroe
+Monroe
+Monroe
+Monroe
+New York
+Braunschweig
+Braunschweig,Kassel
+Braunschweig
+West-Vlaanderen
+Paris
+Paris,Berlin,Darmstadt,Braunschweig
+Braunschweig
+Orange
+Orange
+Orange
+New York
+Haarlemmermeer
+Praha 1
+Bologna
+São Caetano do Sul
+Barcelona
+Barcelona,Praha 1
+Praha 1
+Praha 1
+Distrito Federal
+Milwaukee
+Orange,Los Angeles
+Orange
+Los Angeles,Orange
+San Diego
+Orange
+Clark
+Washington
+Nueces
+Nueces
+Bexar
+Nueces
+San Patricio
+Hidalgo,Nueces
+San Patricio
+Aransas,Nueces
+Garfield
+Garfield
+Garfield
+Webb
+Roma
+New Hanover
+Miami-Dade
+Pope
+Bexar
+La Costa
+Chacabuco
+Cantabria
+Lima
+Valencia
+Panamá
+Libertador
+Bexar
+Bexar
+New York
+Madrid,Barcelona
+Madrid
+Marrakech,Ouarzazate
+Madrid
+Paris
+Milano
+Roma
+Camden,,Hackney
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal
+Les Laurentides
+Les Laurentides
+Les Laurentides
+Communauté-Urbaine-de-Montréal
+Harris,Wayne
+Wayne
+Bexar
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Hérault
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Barcelona
+Westminster,Camden
+Stockholm,Oslo
+Berlin
+Berlin
+Praha 1
+Budapesti
+Budapesti
+Camden
+Greenwich,Tower Hamlets,Oxfordshire
+Oxfordshire
+Westminster,Tower Hamlets
+Westminster
+San Diego
+Orange
+Hillingdon
+Paris
+Khlong Luang
+Westminster
+Pima
+Salvaleón de Higüey
+
+San Francisco
+New York
+New York
+Los Angeles
+Fulton
+Paris
+Paris
+Beyoglu
+Dosquebradas
+Dosquebradas
+Dosquebradas
+Distrito Federal
+Distrito Federal
+n.a540
+Imperial
+Imperial
+Bristol,Kent
+Newport
+Suffolk
+San Diego
+Amsterdam
+Madrid
+Madrid
+Barcelona
+Segovia
+Milano
+Florence
+Merseyside,Hertfordshire,Tower Hamlets,Westminster
+Tower Hamlets
+Madrid
+Milano
+Tower Hamlets
+Amsterdam
+Rock Island
+San Francisco
+San Diego
+San Diego
+San Diego
+Polk
+Knox - North-West
+Osaka
+Osaka
+New York
+San Diego
+Clark
+Quito
+Clark
+Clark
+Salvaleón de Higüey
+
+New York
+New York
+Kings
+New York
+Kings
+Miami-Dade
+Las Palmas
+Las Palmas
+Kensington and Chelsea
+Brent
+West-Vlaanderen
+Brent
+São Paulo
+Riverside
+São Lourenço da Mata
+Orange
+Los Angeles
+San Diego
+San Diego
+San José
+San José
+Aguirre
+Aguirre
+Sarapiquí,Belén,Goicoechea
+Garabito
+Alajuela
+Maverick
+New York
+New York
+Clark
+Aube
+Aube
+Aube
+Aube
+Aube
+Aube
+Liège
+Nilo
+Santafé de Bogotá
+Tarrant
+Tarrant
+San Francisco
+Orange
+Clark
+Summit
+Denver
+Tarrant
+Onondaga
+Santiago de Cali
+Santiago de Cali
+Clark
+Barcelona
+Cook
+Jongro
+Los Angeles
+New York
+Volusia
+Volusia
+ZONA 13
+Antigua Guatemala
+Los Angeles
+Los Angeles
+Antigua Guatemala
+Maricopa
+Cayuga
+Köln
+Tunja
+San José
+Montes de Oca
+Montes de Oca
+Goicoechea,Montes de Oca
+San José
+Montes de Oca
+Montes de Oca
+San José
+San José
+Talamanca
+Montes de Oca
+Montes de Oca
+Goicoechea
+Goicoechea,San José
+Montes de Oca
+San José
+Montes de Oca
+Garabito
+Garabito
+Montes de Oca
+Naranjo
+Naranjo
+San José
+Montes de Oca
+Arraiján
+Montes de Oca
+Goicoechea
+Montes de Oca
+Cartago
+San José
+Lago de Nicaragua
+Lago de Nicaragua
+Alajuela
+Tola
+Granada
+Lago de Nicaragua
+Los Angeles
+Bexar,Middlesex
+New York
+Imperial
+San Diego
+San Diego
+New York
+New York
+New York,Kings
+Guarulhos,Asunción,Cook
+Asunción
+Kings
+Los Angeles,San Diego
+Los Angeles
+Cook,San Diego
+San Diego
+Tuolumne
+Tuolumne,El Dorado,Douglas
+Miami-Dade
+Miami-Dade
+Asunción
+San Diego
+San Diego
+Washoe
+New York,Kings
+New York,Bronx
+Asunción
+Asunción
+Asunción
+Asunción
+Water body
+New York,Hudson
+Orleans
+New York
+Asunción
+Luque
+Honolulu
+Aguirre
+Aguirre
+Aguirre
+Sopot
+Kraków City
+Bexar
+Communauté-Urbaine-de-Montréal,Ottawa
+Cook
+Distrito Federal
+New York
+Queens
+Harris
+Barcelona
+Barcelona
+Baleares
+Cameron
+Harris
+Los Angeles
+Orleans
+Orleans
+Brasília
+Cheongju
+Jeju
+Lima
+Lima
+Maynas
+Santiago
+Harris
+San Diego
+San Diego
+San Diego
+San Diego
+Bariloche,Lacar
+Kensington and Chelsea
+Westminster
+Lambeth
+Lambeth,Tower Hamlets
+Camden,Westminster
+Madrid
+Los Angeles
+Los Angeles
+Los Angeles
+Palm Beach
+Palm Beach
+Palm Beach
+Palm Beach
+Roma
+Roma,Paris,Yvelines,Barcelona
+Barcelona
+Barcelona,Madrid,Ávila
+Huelva
+Huelva
+Huelva,Barcelona
+Venezia
+Sevilla,Cádiz
+Harris
+Harris
+Paris
+Santa Clara
+Madrid
+Shibuya
+Madrid
+Madrid
+San Diego
+Wien
+Ravenna
+Bologna
+New York
+Ayutla
+Fortaleza
+Pacatuba
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza,Aquiraz
+Beberibe
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Beberibe
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Beberibe
+Los Angeles
+Northern
+Paris
+Cook
+Haarlemmermeer
+Barcelona
+San Diego
+Sonoma,Napa,San Mateo
+Cook
+Cook
+King
+Hennepin
+Budapesti
+Haarlemmermeer
+Oberbayern
+Praha 1
+Paris
+Paris
+Paris
+Oberbayern
+Brent
+Florence,Siena
+Barcelona
+San Miguelito
+San Miguelito
+Panamá
+Panamá
+Sarapiquí
+Montes de Oca
+Panamá
+Panamá
+Panamá
+Chiloé
+Santafé de Bogotá
+Santafé de Bogotá
+Santiago
+Santiago
+Clark
+Tarrant
+Panamá,Arraiján
+Panamá,Colón
+Portobelo,Panamá
+Colón
+Tarrant
+Dallas
+Santafé de Bogotá,Zipaquirá
+Cameron
+Cameron
+Orange,Hillsborough
+San Diego
+Los Angeles
+Paris
+San Francisco
+San Mateo
+San Francisco
+Los Angeles
+San Francisco
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Acadia,Orleans,Jefferson Davis
+Alameda
+Alameda
+Santa Cruz
+Kings
+Queens
+Queens
+Kings
+Kings
+Toronto
+Toronto
+Toronto
+Litchfield
+New York,Hudson
+New York
+New York
+New York
+Baltimore
+Anne Arundel
+New York,Baltimore
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Bronx
+New York
+New York
+Cartagena de Indias
+District of Columbia
+San Diego
+Helsingør
+Hidalgo
+Travis
+Makhachkala gorsovet
+Madrid
+Madrid
+Hidalgo
+Hidalgo
+Maricopa
+Westminster
+Orange
+Orange
+Westminster
+Santa Fe
+Cook
+King
+Madrid
+Tsento
+Tsento
+Siem Reab
+Louangphrabang
+Berlin
+Anchorage
+Tsento
+Lamgong,Wangchang
+West Sussex
+Tarrant
+Pulaski
+Honolulu
+Westchester
+Stockholm,Sigtuna
+Perugia
+Bodrum,Selçuk,Milas
+Roma,Stockholm
+Roma
+Perugia
+Florence,Venezia
+Florence,Perugia
+Roma,Florence
+Hudson,New York
+New York,Bergen
+New York
+Gallatin
+Eagle
+Eagle
+Eagle
+Chatham
+Tarrant,Dallas
+New York
+New York
+San Diego
+Westminster
+Roma
+Roma
+Lancaster
+Myingyan
+Sleman
+Myingyan
+Paris
+Paris
+Travis
+Córdoba
+Westminster
+Cass
+El Paso
+El Paso
+Harris
+Harris
+Ashland
+Pima
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Sonoma
+Los Angeles
+Westminster,Baleares
+Madrid
+Roma
+Lisboa
+Yvelines
+Dorset
+Bournemouth,Westminster,Surrey
+Paris
+Recife
+Distrito Federal
+San José
+Lisse
+Cambridgeshire
+Bruxelles
+Leiden
+Bristol,Oxfordshire
+Santa Barbara
+San Diego
+San Diego
+Mono
+Kane
+Kane
+Chiayi
+Taipei City
+Travis
+Hidalgo
+San Diego
+Pima
+Clark
+San Francisco
+San Francisco
+San Diego
+Orange
+Los Angeles
+Miami-Dade
+Cáceres
+Cáceres
+Westminster
+Paris
+Seixal
+Madrid
+Attica
+Roma
+Wiltshire
+Travis
+Clark
+Baden
+Harris
+Orleans
+New York
+Travis
+Guadalupe
+Toronto
+San Diego
+Rio de Janeiro
+New York,Queens
+Kings
+Kings
+Clark
+Clark
+Clark
+New York
+New York
+Clark
+Cordillera
+Caldwell
+Bexar
+San Diego
+ZONA 15
+Arraiján
+Cercado
+Cercado
+Maracaibo
+San José
+Taxisco
+Panamá
+Pedro Domingo Murillo
+Pedro Domingo Murillo
+Pereira
+Pereira
+Medellín
+Los Angeles
+Orange
+Orange
+Miami-Dade
+Orange
+Harris
+Santa Lucía Milpas Altas,Antigua Guatemala,ZONA 1,ZONA 13
+Panajachel
+Antigua Guatemala
+Travis
+ZONA 12
+Iztapa
+Mixco
+Taxisco
+ZONA 12
+ZONA 12
+Charles Sturt - Inner East
+Yankalilla
+Sydney - Inner
+Adelaide
+Roma
+Florence
+Westminster,Tower Hamlets
+Paris
+Hauts-de-Seine
+Barcelona
+Madrid
+Marin
+San Diego
+Fayette
+Fayette
+Fayette
+El Paso
+El Paso
+El Paso
+Greater Vancouver
+Greater Vancouver
+San Diego
+San Diego
+San Diego
+Los Angeles
+Los Angeles
+Panamá
+San Andrés
+Cusco
+San Bernardino
+Los Angeles
+Maricopa
+San Pedro Sula
+Praha 1,Praha 2
+Madrid
+Philadelphia
+New York
+Clark
+Clark
+Clark
+Distrito Federal
+Los Angeles
+Los Angeles
+San Diego
+Cook
+Los Angeles,Orange
+Orange
+Salvaleón de Higüey
+
+Rosario
+Marion
+Curitiba
+Oakland
+Wayne
+Wayne
+Wayne
+Curitiba
+Wayne
+Rio de Janeiro
+New York,Kings
+Kings
+Kaipara
+Franklin
+Waitakere
+New York
+Kings
+Kings
+Nassau
+Kings
+District of Columbia
+Kings
+New York
+Maricopa
+Ventura
+Santa Barbara,Ventura
+Division No. 15,Division No. 6
+Cook
+Travis
+New York
+San Mateo
+Craighead
+Craighead
+Craighead
+Craighead,Cross
+Collin
+Plaza de la Revolución
+Amsterdam
+Florence
+Tavastia Proper
+Tavastia Proper
+Berlin
+Vizcaya
+Uusimaa
+Uusimaa
+Uusimaa
+Uusimaa
+Uusimaa
+Uusimaa
+Tavastia Proper
+Kikugawa
+Madrid
+Lisboa,Madrid,Barcelona
+Barcelona,Lisboa,Milano,Torino,Berlin
+Berlin,Milano
+Reggio Nell'Emilia,Milano,Como
+Como
+San Diego,Imperial,Santa Fe
+San José,Garabito,Grecia,Heredia,Alajuela
+San Diego
+Cook
+Cook
+Valparaíso,Maipo
+Cook
+Bologna
+Torino
+Torino
+Torino
+Bexar
+Paris
+New York
+New York
+San Diego
+San Diego
+New York
+Turrialba
+Tarrant
+Multnomah
+Clarke
+Orleans
+Clark
+Clark
+Orange
+Orange
+Orange
+Clark
+Goicoechea
+Heredia
+Ottawa
+Ottawa
+Ottawa
+Travis
+Santafé de Bogotá
+Santafé de Bogotá
+New York,Los Angeles
+Jefferson
+Jefferson
+Orleans
+Jefferson
+Orleans
+Jefferson
+San Diego
+New York
+Paris
+Madrid
+Surselva
+Beijing
+New York
+New York
+New York
+Cook
+Paris
+New York
+Beijing
+Rio de Janeiro
+Orange
+Los Angeles
+Los Angeles
+Los Angeles
+Santafé de Bogotá
+Santafé de Bogotá
+Los Angeles
+New York
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Var
+Var
+Paris
+San Francisco
+Los Angeles
+Bexar
+Florianopolis
+n.a351
+New York
+New York
+New York
+Itajaí
+Florianopolis
+Salvador
+Communauté-Urbaine-de-Montréal
+Communauté-Urbaine-de-Montréal,Niagara,Toronto
+Communauté-Urbaine-de-Montréal,Niagara
+San Antonio
+Cordillera
+District of Columbia
+New York
+New York
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Bang Kapi
+Lat Krabang
+New York
+San Diego
+Delhi
+Bagmati
+Bagmati
+Jaipur
+Bagmati
+Bagmati
+Bagmati
+Agra
+Travis
+San Diego
+New York
+New York
+Westminster,Paris
+Paris
+Communauté-Urbaine-de-Québec
+New York
+New York
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Los Angeles
+San Diego
+Miami-Dade
+Cook
+Honolulu
+Miami-Dade
+Santa Marta (Dist. Esp.)
+Santa Marta (Dist. Esp.)
+Santa Marta (Dist. Esp.)
+Santa Marta (Dist. Esp.)
+Santa Marta (Dist. Esp.)
+Cameron
+Stockholm
+Paris
+Alpes-Maritimes
+Alpes-Maritimes
+Madrid
+El Paso
+Bexar
+Bexar
+Orange
+Bexar
+Palm Beach
+New York
+Los Angeles
+Travis
+Webb
+Los Angeles
+Denver
+Denver,Jefferson
+El Paso
+Saraguro
+Quito
+Quito
+Paris
+Los Angeles
+Los Angeles
+Clark,Mohave
+Santa Barbara
+Paris
+Oberbayern
+Sucre
+Oberbayern
+Budapesti
+Haarlemmermeer
+Flores
+Alicante
+Valencia
+Queens
+New York
+New York,Hudson
+Harris
+Harris
+Bexar
+Zagreb,Budapesti
+Venezia
+Berlin
+Zadar
+Camden
+Zagreb
+Will
+Cook
+Bexar
+Bexar
+Bexar
+Harris
+Cook,Will
+Cook
+Cook
+Cook,Will
+New York
+New York
+New York
+Onondaga
+Cook
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá,La Calera
+Santafé de Bogotá
+Travis
+San Francisco,Santa Clara
+Santa Clara
+Santafé de Bogotá
+Santafé de Bogotá
+San Mateo
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+San Francisco,Alameda
+San Francisco
+San Francisco
+San Francisco
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+San Francisco
+San Francisco,Santa Barbara,Los Angeles
+Santafé de Bogotá
+Cartagena de Indias
+Santafé de Bogotá
+Santafé de Bogotá,Cusco
+Santafé de Bogotá
+New York
+New York
+New York
+San Diego
+Greater Bombay
+Greater Bombay,Hikkaduwa
+Maricopa
+New York
+Taipei City
+Yarra - North
+Melbourne - Inner
+Clatsop
+San Francisco
+Travis
+District of Columbia
+Alexandria
+Madrid
+El Dorado
+Milano,Queens
+Milano
+Lucca,Massa Carrara,Verona
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Milano
+Madrid
+Distrito Federal
+Maverick
+Maverick
+Maverick
+Maverick
+Maverick
+Maverick
+Maverick
+Maverick
+Maverick
+Comal
+Maverick
+Coronel Suárez
+Cañuelas
+New York,Queens
+Barcelona
+Kings
+New York,Queens
+Travis
+Bexar
+San Diego
+Distrito Federal
+Lago Argentino,Tigre,Distrito Federal
+Tigre
+New York
+Derry
+Queens,New York
+New Haven,Suffolk,Middlesex,New York
+Combined statistics,Århus
+Uusimaa
+Cook
+New York
+New York
+Phrao
+Phrao
+Phrao
+Essex
+Phrao
+Valparaíso
+Valparaíso,Cautín,Valdivia
+Chacabuco,Valdivia,Última Esperanza,Santiago
+Valparaíso
+Valparaíso
+Valdivia
+Providence,Suffolk,Mecklenburg
+Cleveland
+Providence
+Providence
+Última Esperanza,Oklahoma
+Providence
+Providence
+Providence
+Providence
+Providence
+Providence
+Providence
+New York,Providence
+Providence
+Grafton
+Providence,Grafton
+San Diego
+Los Angeles
+Providence
+Providence
+Providence
+San Diego
+Providence
+Providence
+Providence
+New York
+Providence
+Napa,Marin
+San Francisco
+Multnomah
+Providence
+Providence
+Providence
+Providence
+Providence
+New York
+Monterey
+Monterey
+San Francisco
+Philadelphia
+Philadelphia
+Norfolk
+Providence
+Yavapai
+Maricopa
+Pinal
+Orange
+San Diego
+Travis,Montgomery
+San Diego,New York
+New York
+Orange
+San Diego
+San Diego
+Orange
+Orange
+San Diego
+San Diego
+Los Angeles
+San Diego
+San Diego
+Clark
+San Diego
+Riverside
+San Diego
+Hillingdon,Stockholm
+Florence
+Manchester
+Milano
+Lucca,Florence
+Stockholm
+Stockholm
+Stockholm
+Stockholm
+Stockholm
+Budapesti
+Berlin
+Nacka
+Stockholm
+Clark
+Clark
+New York
+San Diego
+Los Angeles
+San Diego
+Los Angeles
+Los Angeles
+San Diego
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+Kings,New York
+New York
+New York
+Kings
+New York
+New York,San Mateo
+New York
+Kings
+New York
+New York
+New York
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Santafé de Bogotá
+Santafé de Bogotá
+Westminster
+Paris
+Madrid
+Cook
+Cook
+New York
+Ventura
+Ventura
+Ventura
+Los Angeles
+Cantabria
+San Diego
+Cook
+Cook
+Cook
+Cook
+Cook
+Elkhart
+San Diego
+San Diego
+Maricopa
+Maricopa
+Los Angeles
+La Unión
+ZONA 14
+San Salvador,Antiguo Cuscatlán
+Miami-Dade
+ZONA 10
+Ciudad Vieja
+ZONA 11
+Clark
+Los Angeles
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+San Francisco
+Dallas
+Roma
+Asturias
+Madrid
+Madrid
+Barcelona
+Barcelona
+Madrid
+Tallinn
+San Bernardino
+San Bernardino
+Nueva San Salvador,Tamanique
+Manizales
+Santafé de Bogotá
+Santafé de Bogotá
+Villavicencio
+Santafé de Bogotá
+Santafé de Bogotá
+Santafé de Bogotá
+Herveo
+Manizales
+Santafé de Bogotá,Zipaquirá
+San Diego
+San Diego
+San Diego
+Division No. 1
+Division No. 11
+Division No. 1
+Harris
+Ada
+Los Angeles
+Cook
+Cook
+Travis
+Shelby
+Philadelphia
+Yuba
+Polk
+Fresno
+Denver
+Los Angeles
+Multnomah
+São Vicente,São Paulo
+Araraquara
+Araraquara
+Orange
+Multnomah
+King
+Multnomah
+Multnomah
+Multnomah
+Multnomah
+Multnomah
+Multnomah
+Multnomah
+Multnomah
+Honolulu
+Zürich
+Pays-d'Enhaut
+Paris
+Zürich
+San Francisco
+New York,Queens,Morris,Hudson
+Hudson
+Hudson
+New York
+New York
+Paris,Gironde
+Roma
+Bexar
+Los Angeles
+Los Angeles
+Cook
+Fortaleza
+Orange
+Tarrant
+Jackson
+Jackson
+Orange
+Orange
+New York
+San Diego
+Los Angeles,San Mateo
+Medellín
+Medellín
+Riverside
+San Diego
+Clark
+Orange
+Orange,Los Angeles
+San Diego
+Cook
+New York
+New York
+Niagara
+Toronto
+New York
+New York
+New York
+Westminster,Lambeth
+Westminster
+Hackney
+Westminster
+Orange
+Isère
+Paris
+Guarulhos
+Communauté-Urbaine-de-Montréal
+Niagara
+Atlantic
+New York
+Mercer
+Philadelphia
+New York
+Union
+New York
+Yvelines
+Libertador
+Ventura
+Los Angeles
+Orange
+Los Angeles
+Ventura,Los Angeles
+Paris
+Paris
+Florence
+Florence
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Cotia
+São Paulo
+Palm Beach
+São Paulo
+Cotia
+Cotia
+São Paulo
+Oakland
+São Paulo
+Genève
+Orange
+Los Angeles
+New York
+Los Angeles
+Queens
+San Francisco
+Distrito Federal
+Distrito Federal
+Madrid
+Barcelona
+São Paulo
+Santiago
+El Paso
+Cameron
+Capital
+Capital
+Yerba Buena
+Capital
+Tafí Viejo
+Tafí Viejo
+Juneau
+Capital
+Miami-Dade
+Urubamba,Santiago
+Stockholm
+Uusimaa
+Montes de Oca
+San Carlos
+San Diego
+New York,Queens
+Barcelona
+Miami-Dade
+Travis
+Los Angeles
+Rotterdam
+Denver
+Miami-Dade
+Vaudreuil-Soulanges
+Salt Lake
+Salt Lake
+Clark
+Rogers
+Clark
+Clark
+Cordillera
+Clayton
+Guilford
+Cartagena de Indias
+Santafé de Bogotá
+Cartagena de Indias
+Roma
+Treviso,Venezia,Milano,Haarlemmermeer
+Kings
+New York
+New York
+New York
+Orange
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Pergamino
+Orange
+San Diego
+Val-d'Oise,Paris
+London,Westminster
+Antwerpen
+Antwerpen
+Paris
+Roma
+Roma
+Yavapai
+Yavapai
+Grand
+Grand
+Rosario
+San Diego
+New York
+New York
+New York
+New York
+Orleans
+Orleans
+Orange
+Los Angeles
+Orange
+Orleans
+Terrebonne
+Clark
+Clark
+Clark
+Clark
+Panamá
+Clark
+Clark,Mohave
+Mohave
+Clark
+Philadelphia
+Westminster
+District of Columbia
+Argolis,Attica
+Zadar
+Wien
+Praha 6,Dresden
+Berlin
+Paris,Hauts-de-Seine
+Paris
+Paris
+Paris,Magdeburg
+Shelby
+Sevilla
+Cádiz
+Cádiz
+Cádiz
+Seixal
+Gwinnett
+Hall
+DeKalb
+Dawson
+Paris
+Paris
+Miami-Dade
+Paris
+Westminster
+West-Vlaanderen
+Paris
+Amsterdam
+Westminster
+Venezia
+Westminster
+Siena
+Roma
+New York
+New York
+Suffolk
+New York
+New York
+Pima
+Roma
+Venezia
+Madrid
+Modena
+Solnechnogorskiy rayon
+Glen Eira - Caulfield
+Barcelona
+Neiva
+Panamá
+San Diego
+San Diego
+Cardenal Caro
+Santiago
+Clark
+Clark
+Bexar
+Clark
+Clark
+Rosario
+Distrito Federal
+Distrito Federal
+San Diego
+Division No. 15
+Division No. 6
+Clark
+New York
+Bexar
+El Paso
+Miami-Dade,Broward
+San Francisco
+San Francisco
+Shibayama
+Seongnam
+San Francisco
+San Francisco
+San Diego
+Queens,Madrid
+Paris
+Praha 1
+Florence
+Roma,Oberbayern,Pisa
+Venezia,Praha 1
+Paris
+Central
+South-Eastern
+Western,Khimki,North-Western
+Flores
+Flores
+North-Western
+Osceola
+Osceola
+Osceola
+Paris
+Los Angeles
+Riverside
+New York
+Los Angeles
+New York
+Venezia,Paris
+Cantabria
+Cantabria
+Cantabria
+Madrid
+Toronto
+New York
+New York
+New York
+Hillingdon
+Paris
+El Paso
+Orange
+Cook
+Cook
+Cook
+San Diego
+Luzern
+Antwerpen
+Pas-de-Calais
+Barcelona
+Paris
+Zürich,Karlsruhe
+Roma
+Madrid
+Clark
+Clark
+San Diego
+San Diego
+Orange
+Miami-Dade
+Westminster,Seine-Saint-Denis
+Praha 1
+Budapesti
+Panamá
+Lima
+Cusco
+Alpes-Maritimes
+Cyclades
+Santa Barbara
+Orange
+Granada
+Paris
+King
+King
+Santiago de Cali
+Santiago de Cali
+Bexar
+Webb
+Clark
+Quetzaltenango
+Quetzaltenango
+Panamá
+Cameron
+Travis
+Hidalgo
+Summit
+Bexar
+Harris
+Dallas
+Ellis
+Collin
+Seine-et-Marne
+Santa Clara,San Francisco
+Marin
+Madrid
+Pinamar
+Montgomery
+Orange
+Ferrara
+Mantua
+Rió Segundo
+Ishinomaki,Chiyoda
+Ravenna
+Torino
+Cantabria
+Clark,Maricopa
+Lima,Trujillo
+San Diego,Clark
+Clark
+Orange
+Clark
+Osceola
+Barueri
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Québec
+Communauté-Urbaine-de-Québec
+Paris
+Paris
+Charente-Maritime
+Paris
+Finistère
+Clark
+New York
+New York
+New York
+Communauté-Urbaine-de-Montréal
+Los Angeles
+Orange
+Ventura
+Ventura
+Hillingdon
+Cook,New York,Kings,Queens
+Harris,Bexar,Travis
+Travis
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+New York,Queens
+New York
+New York
+New York
+Imperial,Los Angeles
+Los Angeles
+Hudson
+Distrito Federal
+Distrito Federal
+Distrito Federal
+New York
+Rio de Janeiro
+Iguazú
+São Paulo
+São Paulo
+Clark
+San Diego
+San Diego
+San Diego
+San Diego
+San Diego
+Los Angeles
+Paris
+Rheinhessen-Pfalz
+Luzern,Bas-Rhin
+Darmstadt
+Karlsruhe
+Westminster
+San Francisco,San Mateo
+Cook
+Kenton
+Bregenz
+Dornbirn
+Oberbayern
+Schwaben
+Zürich
+Stuttgart
+Denver
+New York
+San Francisco
+Attica
+Bexar
+New York
+New York
+New York
+Monroe,Miami-Dade,Hillsborough,Orange
+Hillsborough
+Miami-Dade
+Miami-Dade
+Monroe
+Monroe
+Miami-Dade
+Miami-Dade
+Miami-Dade
+Hillsborough,Orange
+San Diego
+San Diego
+Los Angeles
+San Diego
+Guayaquil
+Yumbo
+Palmira
+Santiago de Cali
+Madrid,Barcelona,Haute-Garonne
+Paris
+Madrid
+Clark
+Bratislava I
+Distrito Federal
+El Paso
+El Paso
+El Paso
+El Paso
+El Paso
+Dona Ana
+El Paso
+El Paso
+El Paso
+El Paso
+Mecklenburg
+Broward
+Saint Lucie
+Palm Beach
+Pontevedra
+Rotterdam
+Amsterdam
+Miami-Dade
+Paris
+Webb
+Orange,Los Angeles
+Clark
+Bexar
+Milano
+Philadelphia
+Pottawattamie
+Denver
+Randburg,Phalaborwa
+Antwerpen
+Hennepin
+El Paso
+Maricopa
+Tübingen
+Stuttgart
+Tübingen
+Berlin
+Amsterdam
+Combined statistics
+Combined statistics
+Paris
+Stuttgart
+Florence,Stuttgart
+Tübingen
+Santafé de Bogotá,Chía
+Cook
+Bernalillo
+El Paso
+Cook
+Polk
+Polk
+Maricopa
+San Bernardino
+Los Angeles
+New York
+Miami-Dade
+Miami-Dade
+Eagle
+Eagle,Summit
+Harris
+Travis
+Los Angeles
+New York
+Kings
+San Diego
+San Diego
+Orange
+Clark
+Clark
+Plaza de la Revolución
+Fulton
+Fulton
+Clayton
+Webb
+Luján de Cuyo
+Barranquilla
+Cartagena de Indias
+Clark
+Clark
+Antón
+Panamá
+Panamá,Vlaams Brabant,Paris
+Panamá
+Panamá
+Panamá
+Belén
+Panamá
+Barcelona
+Barcelona
+London,Westminster,Berkshire
+Quito
+Quito,Guayaquil,Samborondón
+San Francisco
+Santafé de Bogotá
+Quito
+Quito
+Medellín,Guatapé,Asunción,Ciudad del Este,Foz do Iguaçu
+Luque
+Quito
+Quito,Panamá
+São Paulo
+São Paulo
+São Paulo
+Natal
+Natal
+Rio de Janeiro
+Guayaquil,Quito
+Quito,New York
+New York
+Santafé de Bogotá
+Santafé de Bogotá
+São Paulo
+Asunción
+Chacabuco
+Cuenca
+Quito
+Medellín
+Santafé de Bogotá
+Cartagena de Indias
+San Salvador
+Santafé de Bogotá
+Pedro Domingo Murillo
+Arequipa
+Guayaquil
+São Paulo
+Newham
+Paris
+Barcelona
+Madrid
+Haringey
+Travis
+Rijeka
+New York,Queens
+Pinal
+Clark
+Praha 1
+Philadelphia
+Paris
+Paris
+Seine-et-Marne
+Santa Cruz
+Santa Cruz
+Santa Cruz,Pima
+Pima
+Santa Cruz,Pima
+Pima
+Pima
+Delhi
+Pauri Garhwal
+Amritsar
+Kangra
+Delhi
+El Dorado
+San Francisco
+São Paulo
+Warsaw
+Santafé de Bogotá
+Bexar
+Hidalgo
+Webb
+Tarrant,Medina
+Hidalgo
+Travis
+Hidalgo
+Hidalgo
+Webb
+Bexar
+Bexar
+San Mateo
+Hidalgo
+Miami-Dade
+Miami-Dade
+Webb
+Webb
+Berlin
+Southwark
+Westminster
+Darmstadt
+Los Angeles
+Los Angeles
+Santafé de Bogotá
+Clark
+New York
+Miami-Dade
+New York
+New York,Queens
+New York
+New York
+New York
+Hidalgo
+Hidalgo
+Orange
+Placer
+Nevada
+Los Angeles
+Los Angeles
+Los Angeles
+Alpes-Maritimes
+New York
+Los Angeles
+Dallas
+Hidalgo
+Hidalgo
+Paris
+Hidalgo
+Hidalgo
+Clark
+Clark
+Clark
+Clark
+Clark
+Harris
+Harris
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+King
+Val-d'Oise
+Messina
+Kusadasi,Dodecanese,Cyclades
+Napoli
+Roma
+Lima
+Lima
+Lima
+San Diego
+Orange
+San Diego
+Montería
+Santafé de Bogotá
+Barranquilla

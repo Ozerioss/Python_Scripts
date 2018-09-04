@@ -1,0 +1,20 @@
+Chuo Minato   ==> Chiyoda   #SUP: : 7 #CONF: 0.6363636363636364
+Venezia    ==> Roma   #SUP: : 7 #CONF: 0.7777777777777778
+Chatuchak Phaya Thai   ==> Pathum Wan   #SUP: : 8 #CONF: 0.8
+Praha 6 Praha 5   ==> Praha 1   #SUP: : 8 #CONF: 0.8888888888888888
+Nakano Shibuya   ==> Shinjuku   #SUP: : 8 #CONF: 0.6666666666666666
+Nakano Shinjuku   ==> Shibuya   #SUP: : 8 #CONF: 0.8888888888888888
+Praha 6 Praha 2   ==> Praha 1   #SUP: : 8 #CONF: 0.8888888888888888
+Grindavík Hrunamannahreppur   ==> Reykjavík   #SUP: : 8 #CONF: 0.8888888888888888
+Praha 1 Praha 2   ==> Praha 6   #SUP: : 8 #CONF: 0.6153846153846154
+New York Middlesex   ==> Suffolk   #SUP: : 8 #CONF: 0.6666666666666666
+Grindavík Biskupstungnahreppur   ==> Reykjavík   #SUP: : 8 #CONF: 0.8888888888888888
+Chuo Minato   ==> Shibuya   #SUP: : 8 #CONF: 0.7272727272727273
+Florence    ==> Roma   #SUP: : 9 #CONF: 1.0
+Roma Pisa   ==> Florence   #SUP: : 10 #CONF: 0.7142857142857143
+Phra Nakhon Dusit   ==> Pom Pram Sattru   #SUP: : 10 #CONF: 0.6666666666666666
+Dusit Pom Pram Sattru   ==> Phra Nakhon   #SUP: : 10 #CONF: 0.7142857142857143
+Minato Chiyoda   ==> Shibuya   #SUP: : 11 #CONF: 0.6111111111111112
+Chiyoda Shibuya   ==> Minato   #SUP: : 11 #CONF: 0.6875
+Biskupstungnahreppur   ==> Reykjavík   #SUP: : 17 #CONF: 0.6538461538461539
+Kings Queens   ==> New York   #SUP: : 28 #CONF: 0.7

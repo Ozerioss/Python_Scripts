@@ -1,0 +1,4415 @@
+Wien Umgebung
+Wien Umgebung
+Wien
+Wien
+Wien
+Amsterdam,Haarlemmermeer
+Barcelona
+Barcelona
+Barcelona
+Mittelfranken
+Mittelfranken
+Pisa
+Wien
+Uusimaa
+Bremanger
+Bremanger
+Berlin,Dresden,Praha 1
+Paris
+Belluno
+London,Westminster
+Liezen
+Tisno
+Burleigh Heads
+South Brisbane
+Oberbayern
+Nelspruit
+Kitzbühel
+Seine-et-Marne
+Paris
+Rimini
+Trieste
+Wien
+Feldkirchen
+Western
+Port Shepstone
+Port Shepstone
+Rio de Janeiro
+District of Columbia,New York,Hudson
+Hudson
+New York
+Berlin
+Berlin
+Praha 7,Praha 1,Ceský Krumlov
+Arnsberg
+Roma
+Wien
+Gornji Milanovac
+Gornji Milanovac,Kragujevac
+Gornji Milanovac
+Gornji Milanovac
+Gornji Milanovac
+Gornji Milanovac
+Gornji Milanovac
+Gornji Milanovac
+Cacak
+Slovenj Gradec
+Wien
+Wien
+Wien
+Oberbayern
+Batam
+Muang Krabi
+Shah Alam
+Phra Nakhon
+Hà N?i
+Schwaben
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Subotica
+Southwark
+Westminster,Tower Hamlets
+London
+Los Angeles
+Venezia
+Dubrovnik
+Venezia
+Swinoujscie
+Las Palmas
+Las Palmas
+Kraków City
+Opatija/Veprinac
+Opatija/Veprinac
+Opatija/Veprinac
+Berlin
+Praha 5
+Barcelona
+Tetovo
+Praha 1,Wien
+Corfu
+Praha 1
+Wiener Neustadt
+Wiener Neustadt
+Wien
+Tübingen
+Drni,ibenik,Bol
+Bol
+Roma
+Freiburg,Stuttgart
+Stuttgart
+Tübingen
+Tübingen
+Freiburg
+Bodensee
+Freiburg
+Venezia
+Genova
+Paris
+Yvelines
+Roma
+Barcelona
+Baleares
+Baleares
+Wien
+Wien
+Phra Nakhon
+Phra Nakhon
+Phra Nakhon
+Pathum Wan
+Pathum Wan
+Don Muang,Muang Krabi
+Bang Plee
+Thüringen
+Wien
+Central
+Praha 1
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Limburg
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+Sarajevo
+'s-Gravenhage
+Palilula,Rotterdam,Kanjia
+'s-Gravenhage
+'s-Gravenhage
+'s-Gravenhage
+Praha 1
+Köln
+Sarajevo
+'s-Gravenhage
+Oberbayern
+Oberbayern
+Oberbayern
+Neusiedl am See
+Wien
+Neusiedl am See
+Ribeirao Preto
+Distrito Federal
+Araraquara
+Araraquara
+Ribeirao Preto
+Ribeirao Preto
+Ribeirao Preto
+Araraquara
+Praha 1
+Paris
+Westminster,Camden
+Berlin
+Postojna
+Barcelona
+Köln
+Baleares
+Wien
+Barcelona
+Varese
+Varese
+Rogoznica
+Vodice
+Kraków City
+Manavgat
+Alanya
+Kraków,Kraków City
+Roma
+Innsbruck Land
+Madrid
+Hikkaduwa
+Kraków City
+Milano
+Wien
+Liptovský Mikulá
+West-Vlaanderen,Amsterdam
+Amsterdam,Rotterdam
+Merseyside
+Florence
+Pirkanmaa
+Kymenlaakso
+Zadar,Split
+Praha 1
+Berlin
+Paris
+Paris
+Shanghai,Jung
+Surfers Paradise
+Siem Reab
+Praha 2
+Constanza
+Central
+Northern
+Kusadasi
+Roma
+Barcelona
+Oberbayern
+Krupanj
+Palilula
+Jasenice
+Rijeka
+Horta
+Ponta Delgada
+Lagos
+Lastovo,Katela
+Cres
+Cres
+Carver
+Dmitrovskiy rayon
+Eastern
+Beruwala
+Eastern
+Eastern
+Omskiy rayon
+Omskiy rayon
+Omskiy rayon
+Pays-d'Enhaut
+Alpes-Maritimes
+Ceský Krumlov
+Omskiy rayon
+Omskiy rayon
+Ceský Krumlov
+Oberbayern
+Omskiy rayon
+Omskiy rayon
+Central
+Omskiy rayon
+Paris
+Inn
+Inn
+Pisa
+Roma
+Roma
+Wien
+Wien
+Lubliniec
+Praha 6
+Banská Bystrica
+Roma
+Zürich
+Zürich
+Poprad
+Poprad
+Poprad
+Poprad
+Poprad
+Tatra
+Devon
+Denver
+Boulder
+Boulder
+Maui
+Boulder
+Salt Lake
+Eagle
+Paris
+Neusiedl am See
+Berlin
+Badung
+Drni
+Ardèche
+Amsterdam
+Haringey,Newham
+Kings
+Kings
+Kings,New York
+Greater Vancouver
+Milano
+Wien
+Wien
+Fatih
+Gmunden
+Theran,Yazd
+Tiran and Karvan
+Marrakech
+Ouarzazate
+Poprad
+Agra
+Seixal,Marrakech
+Ouarzazate
+Novi Vinodolski
+Porto Moniz
+Funchal
+Madaba
+Roma
+Praha 1
+Fortitude Valley
+Oxfordshire
+Oxfordshire
+Oxfordshire
+Verona
+Roma
+Wien
+Warsaw
+Warsaw
+Berlin
+Warsaw West
+Warsaw
+Tbilisi
+Tbilisi
+Tbilisi
+Tbilisi
+Batumi
+Zugdidi
+Tbilisi
+Wien,Girona
+Trnava
+Gori
+Westminster,Tower Hamlets
+Tower Hamlets,Westminster
+Westminster
+Roma
+Westminster,Hertfordshire
+Paris
+Alanya
+Alanya
+Wien
+Dodecanese
+Sierre
+Milano
+Genève
+Sierre
+Entremont
+Sierre
+Sierre
+Sierre
+Venezia,Ljubljana,Zagreb
+Darmstadt
+Bratislava II
+Praha 1
+Oberbayern
+Wien
+Barcelona
+Glasgow
+Glasgow,Edinburgh
+Wien
+Rijeka
+Roma
+Jerusalem
+Warsaw
+Amsterdam
+Curitiba
+Atibaia
+Campinas
+Rio de Janeiro
+Rio de Janeiro
+Haarlemmermeer
+Jerusalem
+Amsterdam
+Palm Beach
+Andelfingen
+Murau
+Los Angeles
+Los Angeles
+Los Angeles
+San Francisco
+Milano
+Opatija/Veprinac
+Banská Bystrica
+Verona
+Westminster
+Milano
+Attica
+Attica
+Barcelona
+Amsterdam
+Fatih,Beyoglu
+Fatih
+Vrsar
+Fatih
+Fatih
+Fatih
+Fatih
+Fatih
+Zeytinburnu
+Fatih
+Porec
+Porec
+Paris
+Westminster
+Bouches-du-Rhône
+Leipzig
+Amsterdam
+Praha 6,Praha 1
+Praha 5
+Stuttgart
+Stuttgart
+Var,Gard
+Oberbayern
+Málaga
+Antwerpen
+Alpes-Maritimes
+Savoie
+Villach Land,Klagenfurt Land
+Central
+Doubs
+Hulu Langat
+Oberpfalz
+Oberpfalz
+Essex
+Kraljevica
+Roma
+Wien
+Neusiedl am See
+Oberbayern
+Brescia
+Vilniaus
+Riga
+Riga
+Maastricht
+Tallinn
+Tallinn
+Vlaams Brabant
+Venezia
+Los Angeles
+Los Angeles
+Florence
+Oberwart
+Pieria
+Byron
+Bruck an der Mur
+Madaba
+Schwaz
+Wien
+Westminster
+Komárno
+Roma
+Kraków City
+Kraków City
+Paris
+London
+Westminster
+Westminster
+Freiburg
+Phra Nakhon
+Kemer
+Karlovy Vary
+Wien
+Merkez
+Bülach
+Thalang
+Guangzhou
+Guangzhou
+Almería
+Hérault
+Amsterdam
+Guangzhou
+Guangzhou
+Guangzhou
+Beijing
+Wien
+Palilula
+Wien
+Wien
+Wien
+Wien
+Wien
+Central,South-Western
+Batumi
+Tower Hamlets,Westminster,London
+Westminster,London
+Southwark,Westminster
+Westminster
+London
+Orange
+Orange
+Saint Lucie,Orange
+District of Columbia
+New York,Hudson
+New York
+Montgomery
+Haarlemmermeer
+Orange
+Orange
+Praha 1
+Hounslow,Devon
+Oberbayern
+Oberbayern
+Combined statistics
+Roma
+Trogir
+Trogir
+Trogir
+Okrug
+Cyclades
+Lagos
+Lagos
+Bakirköy
+Shanghai
+Roma
+Bakirköy
+Theran
+Wien
+Udine
+Milano
+Milano
+Milano
+Westminster
+Westminster,Southwark,Islington
+Camden,Kensington and Chelsea
+Southwark
+Tower Hamlets
+Korcula
+Wien
+Liptovský Mikulá
+Praha 1
+Praha 1
+Herzegovina-Neretva
+Tiranës,Palilula
+Khania
+Barcelona
+Madrid
+West-Vlaanderen
+Amsterdam,Paris
+Paris
+Jackson
+Oslo
+Belfast
+Berlin
+Tallinn
+Indiana
+Kensington and Chelsea,Kingston upon Thames,Westminster,Redbridge
+Westminster
+Kraków City
+Baleares
+Tbilisi
+Tbilisi
+Utrecht
+Haarlemmermeer,Eemnes
+Palilula
+Murau
+Salamanca
+Barcelona
+Camden
+Westminster
+Nesebar
+Praha 6
+Milano
+Amsterdam
+Amsterdam
+Westminster
+Cabo Frio
+Armação dos Búzios
+Viçosa
+Juiz de Fora
+Wien
+Pak Thong Chai
+Verona
+Wien
+Zell am See
+Gmunden
+Venezia
+Bratislava II
+Amsterdam,'s-Gravenhage
+Uzhhorods'ka
+Uzhhorods'ka
+Roma
+Paris,Genève
+Paris
+Oberbayern
+Gmunden
+Dunajská Streda
+Dunajská Streda
+Dunajská Streda
+Dunajská Streda
+Dunajská Streda
+Dunajská Streda
+Dunajská Streda
+Wien
+Lisboa
+Wien
+Wien
+Wien
+Palilula
+Central Bosnia
+Thessaloniki
+Kent
+Surrey
+Camden
+Westminster
+Confins
+Liptovský Mikulá
+Madrid
+Paris
+Spittal an der Drau
+Eindhoven
+Amsterdam
+Berlin
+Berlin
+Amsterdam
+Paris
+Barcelona
+Fortaleza
+Fortaleza
+Wien
+Wien
+Liptovský Mikulá
+Graz Umgebung
+Amsterdam
+New York
+Oberbayern
+Dugi Rat
+Brandenburg
+Uusimaa
+Leipzig
+Leipzig
+Leipzig
+Combined statistics
+Leipzig
+Göteborg
+Göteborg
+Göteborg
+Göteborg
+Göteborg
+Göteborg
+Göteborg
+Palilula
+Göteborg
+Göteborg
+Combined statistics
+Göteborg
+Milano
+Wien
+Lilienfeld
+Lilienfeld
+Amsterdam
+Paris
+Paris
+Salzburg
+Sankt Johann im Pongau
+Innsbruck Land
+Pisa
+Stockholm
+Shanghai
+Wien
+New York
+Berlin
+Berlin,Malmö
+Malmö,Combined statistics
+Malmö
+Tangalle,Kurunegala,Hambantota
+Ernakulam
+Ernakulam
+Alpes-Maritimes
+Wien
+Praha 6
+Cacak
+Praha 1,Wien
+Praha 6
+Milano
+Venezia,Florence
+Roma
+Praha 1
+Praha 1
+Central,Western
+Barcelona,Porto
+Wien
+Fatih
+Herzegovina-Neretva
+Gazi Baba
+Westminster
+Amsterdam
+Uusimaa
+Waterloo
+Nové Zámky
+Nové Zámky
+Nové Zámky
+Komárno
+New York
+Bergen
+Moselle
+Isère
+Isère
+Roma
+Roma
+Rotterdam
+'s-Gravenhage,Amsterdam
+'s-Gravenhage
+'s-Gravenhage
+A Seeb
+A Seeb
+Dunajská Streda
+Bratislava II
+Oxfordshire
+Praha 6,Praha 1
+Fürstenfeld
+Umag
+Fürstenfeld
+Monza and Brianza
+Zagreb
+Berlin
+Wien
+Central
+Southern
+Central
+Central
+Central
+Ljubljana
+Amsterdam
+Amsterdam
+Paris
+Paris
+Paris
+Seine-et-Marne
+Central
+Holosiïvs'kyi,Boryspil's'ka
+Kraków,Kraków City
+Kraków City
+Chuo
+Zagreb,Wien
+Darmstadt
+Savoie
+Savoie,Zaokskiy rayon
+Ealing,Westminster,Rhône
+Almaty (Alma-Ata)
+Paris,Rhône
+Ain,Warsaw
+Darmstadt,Holosiïvs'kyi
+Zagreb
+Westminster
+Darnyts'kyi
+Central
+Tselinogradskiy
+Amsterdam
+Paris
+Andelfingen
+Hérault,Gard
+Trpanj
+Orebic
+Central
+Chuo
+Chuo
+Zagreb
+Paris
+Solnechnogorskiy rayon
+Haarlemmermeer
+Praha 4
+Haarlemmermeer
+Mytishchinskiy rayon
+Almaty (Alma-Ata),Wien
+Zagreb
+Wien,Paris
+Central
+Zagreb
+Paris
+Bülach
+Rhône
+Rhône
+Hérault
+Denpasar
+Denpasar,Karang Asem
+Karang Asem
+Shah Alam
+Matulji
+Gradac
+Nesebar
+Baka
+Omi
+Berlin
+Palilula
+Westminster
+Villapinzón
+Barcelona
+Roma
+Barcelona
+Oberbayern,Neusiedl am See
+Amsterdam
+New York,Queens
+New York,Queens,Warsaw
+Jung
+Seongdong
+Wien
+Darmstadt
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+San Mateo
+Muan
+Muan
+Feldkirchen
+Oberpfalz
+Oberpfalz
+New York
+Schwaben
+Göteborg,Dawson
+Pisa
+iar nad Hronom
+iar nad Hronom
+Bülach
+Dunajská Streda,Nové Zámky
+Düsseldorf
+Wien
+Hellevoetsluis
+Köln
+Maardu
+
+Uusimaa
+Tallinn
+Venezia
+Murau
+Attica
+Fatih
+Fatih
+Wien
+Vlaams Brabant
+Marne,Seine-et-Marne
+Warsaw
+Barcelona
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Val-d'Oise
+Casablanca
+Central Finland
+Central Finland
+Haapsalu,Audru,Pärnu
+Gotland
+Madrid
+Manche
+Ille-et-Vilaine
+Kreuzlingen
+Westminster,Brent
+Sabon-Ga
+Novi Vinodolski
+Praha 1
+Central
+Northern,North-Eastern,Central
+North-Eastern
+Baleares
+Ti?n Giang,,Kathu,Hà N?i,Muang Krabi,H? Chí Minh city
+Wien
+Opatija/Veprinac
+Lovran
+Opatija/Veprinac
+Messina
+Beyoglu
+Wien
+Verona
+Bologna
+Mandalay
+Bang Lamung
+Phra Nakhon
+Wien
+Lucca,Florence
+Milano,Venezia
+Roma
+Bruxelles
+Rotterdam
+Oberbayern
+Ain
+Bratislava I
+Praha 1
+Zagreb
+Madrid
+Milano
+Bled
+Amsterdam
+Neunkirchen
+Novi Sad
+Bratislava I,Praha 1,Wien
+Marrakech
+Beyoglu,Atasehir
+Paris
+Seine-Maritime
+Calvados
+Paris
+Seine-Maritime
+Val-d'Oise,H? Chí Minh city,Phnom Penh
+Phnom Penh
+Phnom Penh
+Phra Nakhon
+Phnom Penh
+Siem Reab
+Badung
+Gianyar
+San Francisco
+San Francisco
+Westminster
+Westminster
+San Francisco
+Westminster,Camden
+Innsbruck
+Jackson
+Feldbach
+Oberbayern
+Wien
+Collier
+Wien
+Nesebar
+Marina
+Trogir
+Kent
+Stuttgart
+Stuttgart
+Stuttgart
+Madaba
+Ushuaia
+Wien
+Berlin
+Berlin
+Berlin
+Berlin
+Praha 1,Praha 6
+Praha 9
+Stuttgart
+Stuttgart
+Wien
+Thessaloniki
+Palilula
+Paris
+Split
+Bratislava V
+Nitra
+Oberbayern
+Shyriavs'kyi,Odes'ka
+Odes'ka
+Shevchenkivs'kyi
+Siena
+Barcelona
+Barcelona
+Darmstadt
+Shevchenkivs'kyi
+Wien
+Siena,Roma
+Roma
+Berlin
+Wien
+Nesebar
+Wien
+Taipei
+Taipei
+Taipei
+Taipei City
+Roma
+Zürich
+Bruxelles,Köln
+Westminster,Essex
+Bouches-du-Rhône
+Bouches-du-Rhône
+Merkez
+Attica
+Khania
+Cyclades
+Paris
+ibenik
+Bol
+Bol
+Neusiedl am See
+Fatih
+Bremen
+Bremen
+Praha 1
+Nové Mesto nad Váhom
+Vodice
+Haarlemmermeer
+Trebíc
+Pakotane
+Oberbayern
+Schleswig-Holstein,Hamburg
+Koice-okolie
+Bratislava II
+Baleares
+Barcelona
+Barcelona
+Barcelona
+Cantabria
+Praha 1
+Praha 1,Madrid
+Maastricht
+Wien
+Venezia
+Graz
+Kerkrade
+Liezen
+Morbihan
+Paris
+Kourou
+Rémire-Montjoly
+Darmstadt
+Wien
+Siena
+Malmö
+Combined statistics
+Combined statistics
+Wien
+Beyoglu
+Landeck
+Las Palmas
+Las Palmas
+Botum Sakor
+K. Ko Kut
+K. Ko Kut
+Botum Sakor
+Stavanger
+Krems an der Donau Land
+Rust
+Pag
+Aqaba
+Perth,Cambridge
+Alpes-Maritimes
+Madrid
+Baleares
+Roma
+Barcelona
+Beyoglu
+Roma
+Florence
+Florence
+Thessaloniki
+Darmstadt
+Darmstadt
+Minato
+Westminster
+Newham
+Girona
+Westminster
+Nové Zámky
+Eastern
+Senj
+Brescia,Verona
+Modena
+Verona
+Milano
+Oslo
+Westminster
+Praha 1
+Northern Ostrobothnia
+Fthiotis
+Northern Ostrobothnia
+Clark
+Westminster,Wiltshire,Oxfordshire,London
+Westminster
+Marina
+Trogir
+Zrece
+Paris
+Westminster
+Ston
+Zrece
+Amsterdam
+Ferrara
+Sevilla
+Sevilla
+Roma
+Port Phillip - West
+Florence
+Valencia
+New York
+Shibuya
+Zürich
+Winterthur
+Oberbayern
+Oberbayern
+Oberbayern
+Bor
+Pieria
+Pieria
+Pieria
+Bor
+Wien
+Wien
+Botany Bay
+Nightcliff
+Nightcliff
+Noosa - Noosa-Noosaville,Maroochy - Mooloolaba
+Noosa - Noosa-Noosaville
+Rapid Creek
+Ferrara
+Ferrara
+Wien
+Antwerpen
+Kufstein
+Khalkidiki
+Barcelona
+Oberbayern
+Oberbayern
+Amsterdam
+Barcelona
+Doubs
+Sankt Pölten
+Troyan
+Glasgow
+Karlsruhe
+Karlsruhe
+Mittelfranken,Berlin
+Berlin
+Berlin
+Bologna
+Cagliari
+Hamburg
+Hamburg
+Novi Vinodolski
+Novi Vinodolski
+Dobrinj
+Wien
+Wien
+Neunkirchen
+Bibinje
+Baleares
+Baleares
+Paris
+Los Angeles
+Los Angeles,Orange
+Clark
+San Felipe de Puerto Plata
+Bratislava V
+Horry
+Salerno
+Napoli
+Murau
+Manavgat
+Brescia,Verona
+Wien
+Pieria
+Barcelona
+Barcelona
+Westminster
+Paris
+Bruxelles
+Boondall
+Orange
+South Brisbane
+Wien,Neusiedl am See
+Broward
+Alpes-Maritimes
+Roma
+Khania
+Krems an der Donau Land
+Darmstadt
+Baleares
+Murau
+Schwaz
+Spittal an der Drau
+Spittal an der Drau
+Feldkirchen
+Murau
+Zell am See
+Zell am See
+Zell am See
+Villach Land
+Khanty-Mansiyskiy rayon,Abzelilovskiy rayon
+Abzelilovskiy rayon
+Westminster
+Haarlemmermeer
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Paris
+Berlin
+Berlin
+Riverside
+Los Angeles
+Los Angeles
+Paris
+Wien
+Vizcaya
+Wien
+Pieria
+Pieria
+Tvrdoín
+Tvrdoín
+Khalkidiki
+Khalkidiki
+Khalkidiki
+Pieria
+Khalkidiki
+Khalkidiki
+Lienz
+Los Angeles
+Los Angeles
+Leipzig
+Oberbayern
+Venezia
+Zell am See
+Neusiedl am See
+Wien
+Amsterdam
+Baleares
+Limburg
+Antwerpen
+Perugia
+Liptovský Mikulá
+Zakynthos
+Zakynthos
+Fairfield
+Belfast
+Belfast
+Oberbayern
+Oberbayern
+Isle of Wight
+Isle of Wight
+Tukums
+Jelgava
+Hudson
+Erie
+Tukums
+Riga
+Central
+Central
+Central
+Messina,Bari
+Central
+Ferrara
+Modena,Bologna
+Wien
+Broward
+Broward
+Palm Beach
+Pinellas
+Pinellas,Hillsborough
+Delaware
+New York
+Montgomery
+Montgomery
+Wien
+Var
+Var
+Var
+Salzburg
+Pula
+Bodensee
+Amsterdam
+Bouches-du-Rhône
+Narayani
+Gandaki
+Gandaki
+Var
+Zadar
+Bolzano
+Liezen
+Opatija/Veprinac
+Opatija/Veprinac
+Phra Nakhon
+Muang Krabi
+Central
+Praha 1
+Wien
+Liepaja
+Kauno,Vilniaus
+Riga,Jelgava
+Kauno
+Vilniaus
+Attica
+Baleares
+Baleares
+Baleares
+Oberbayern
+Oberbayern
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Baleares
+Aquiraz
+Combined statistics
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Fortaleza
+Paris
+Seine-et-Marne
+Fortaleza
+Trebiov
+Accra
+Berlin
+Lancashire
+Westminster
+Mittelfranken
+West Yorkshire
+Ekaterinburg gorsovet
+Bakirköy
+Bakirköy
+Ekaterinburg gorsovet
+Paris
+Oberbayern
+Oberbayern
+Oberbayern
+Oberbayern
+Paris
+Wien
+Wien
+Wien
+Praha 1
+Almaty (Alma-Ata)
+Paris
+Paris
+Paris
+Barcelona
+Wien
+Wien
+Almaty (Alma-Ata)
+Almaty (Alma-Ata)
+Tatra
+Nesebar
+Nesebar
+Spiská Nová Ves
+Serik
+Ardesen
+Ardesen
+Sankt-Peterburg gorsovet
+Sankt-Peterburg gorsovet
+Heraklion
+Riehen
+Kensington and Chelsea
+Camden
+Hackney
+Westminster
+Taoyuan
+Haarlemmermeer
+Brinje
+Makarska
+Praha 7
+Venezia
+Venezia
+Barcelona
+Praha 1
+Brezno
+District of Columbia
+Baleares
+Trieste
+Berlin
+Divinópolis
+Praha 1
+Paris
+Venezia
+Venezia
+Venezia
+Hermagor
+Hackney
+Lisboa
+Wien
+Sarandës
+Amsterdam
+Venezia
+Wien
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Tbilisi
+Tbilisi
+Paris
+Val-d'Oise
+Gloucestershire
+Praha 1
+Glasgow
+Glasgow
+Glasgow
+Glasgow
+Glasgow
+Glasgow
+Ealing
+Roma
+Roma,Madrid
+Roma
+Billund
+Albufeira
+Besiktas
+Kusadasi
+Serik
+Wien
+Dodecanese
+Zürich
+Warsaw
+Çesme
+Akçakoca
+Odes'ka
+Merkez
+Merkez
+Akçakoca
+Kraków City
+Kraków City,L'vivs'ka
+Stolichna,Thessaloniki
+Rotterdam
+Rotterdam
+Rotterdam
+Rotterdam
+Lendava
+Catania
+Kraków City
+Praha 1
+Warsaw
+Fürstenfeld
+Freiburg
+Barcelona
+Poprad
+Wien
+Zell am See
+Alpes-Maritimes
+Milano
+Wien
+Imperia
+Oberbayern
+Catania
+Cuneo
+Vercelli
+Wien
+Milano
+Vodice
+Amsterdam
+Fatih
+Capital
+Clark
+Los Angeles
+Capital
+Darmstadt
+Malay,Suginami
+Beijing
+Rio de Janeiro
+Guarulhos
+São Paulo
+Rio de Janeiro
+Wien
+Pula
+Rio de Janeiro
+Wien
+New York
+Pohang
+Pohang
+Pohang
+Pohang
+Pohang
+Njivice
+Boleslawiec
+Wolfsberg
+Wolfsberg
+Wolfsberg
+Primoten
+ibenik
+ibenik
+Wien
+Yvelines
+Yvelines
+Wien
+Wien
+Praha 1,Praha 6
+Florence
+Manchester
+Paris
+Geldermalsen
+Chacao
+Chacao
+Chacao
+Chacao
+Chacao,Baruta
+Manizales
+Wien
+Samobor
+Bouches-du-Rhône
+Paris,Seine-et-Marne
+Paris
+Zagreb
+Medulin
+Benito Juárez
+Izola,Trieste,Piran
+Paris
+Bratislava II,Bratislava I
+Bratislava II
+Trier
+Trier
+Trier
+Napoli
+Mecklenburg-Vorpommern
+Amsterdam
+Napoli
+Opatija/Veprinac
+Rogoznica
+Poprad
+Bay
+Bay
+Overbetuwe
+Vrsar
+Roma
+Lendava
+Westminster
+Richmond upon Thames
+Richmond upon Thames
+Richmond upon Thames
+Lendava
+Yvelines
+Khalkidiki
+Khalkidiki
+Wien
+Camden
+Paris
+Nynäshamn
+Haninge
+Wien
+Málaga
+Cádiz
+Milano
+Málaga
+Málaga
+Málaga
+Málaga
+Barcelona
+Paris
+Paris
+Paris
+Paris
+Praha 6
+Praha 1
+Wien
+Novigrad
+Zell am See
+Sousse Médina
+Hammam Sousse,Sousse Médina
+Zadar
+Cambridgeshire
+Cambridgeshire
+London,Westminster
+Cambridgeshire
+Koice I
+Stolichna
+Stolichna
+Stolichna
+Milano
+Wien
+Stolichna
+Ni
+Roma,Stolichna
+Varna
+Varna
+Stolichna
+Ihtiman
+Stolichna
+Varna
+Stolichna,Varna
+Stolichna
+Stolichna
+Stolichna
+Stolichna
+Cyclades
+Stolichna
+Stolichna
+Stolichna
+Stolichna
+Stolichna
+Stolichna
+Stolichna
+Varna
+Stolichna
+Barcelona,Málaga
+Málaga
+Pieria
+Pieria
+Niederbayern
+Sankt Pölten Land
+Kraków City
+Côte-d'Or
+Côte-d'Or
+Seine-Saint-Denis
+Côte-d'Or
+Kensington and Chelsea
+Starigrad,Zadar
+Zadar
+Split,Trogir
+Bratislava V
+Neusiedl am See
+Praha 1
+Seget,Katela,Split
+Seget
+Wien
+Orange
+Camden
+Paris
+Milano
+Berlin
+Berlin
+Trogir,Seget
+Omi
+Trogir
+Eisenstadt
+Kraków City
+Wien
+Enfield,Tower Hamlets
+Tower Hamlets
+Wien
+Köln
+Pula
+Bolzano
+Bolzano
+Las Palmas
+Barcelona
+Valladolid
+Sondrio
+Milano
+King,Greater Vancouver
+Greater Vancouver
+Greater Vancouver
+Kefallinia
+Deventer
+Lochem
+Rogoznica
+Weser-Ems,Bremen
+Alpes-Maritimes
+Alpes-Maritimes
+Munster
+Roma
+Murau
+Murau
+Roma
+Villach Land
+Magdeburg
+Murau
+Murau
+Berlin
+Combined statistics
+Jongro
+Dresden
+Dresden
+Milano
+Pavia
+Pag
+Vir
+Poprad
+Belluno
+Trento
+Val-d'Oise
+Paris,Hauts-de-Seine
+Venezia
+Trento
+Trento,Belluno
+West-Vlaanderen
+Medway,Westminster
+Hammersmith and Fulham
+Mattersburg
+Wien
+Wien
+Wien
+Wiener Neustadt
+Eisenstadt Umgebung
+Praha 1
+Milano
+Dubrovnik
+Aveiro
+Bruxelles
+Aveiro
+Vila do Bispo
+Cartaxo
+Roma
+Karlsruhe
+North-Eastern
+Western
+Baleares,Barcelona
+Krasnogorskiy rayon
+Wien
+Zell am See
+Frosinone
+Frosinone
+Frosinone
+Lisboa
+Lisboa
+Oberfranken
+Praha - západ
+Oberbayern
+Vir
+Nové Zámky
+Pisa,Livorno
+Milano
+Bologna
+Girona
+Guangzhou
+Murau
+Amsterdam
+Amsterdam
+Amsterdam
+Southwark
+Roma
+Westminster
+Westminster
+Wien
+Amsterdam
+Amsterdam
+Amsterdam
+Westminster
+Fatih
+Amsterdam
+Amsterdam
+Amsterdam
+Paris
+Pula
+Barcelona
+Paman
+Biograd na Moru
+Wien
+Kefallinia
+Praha 1
+Newport
+Herefordshire
+Camden
+Harrow
+Harrow
+Harrow
+Stuttgart
+Vodice
+Vodice
+Bratislava I
+Praha 1,Praha 6,Warsaw,Kraków City
+Kraków City
+Zagreb
+Pula
+Pula
+Berlin
+Tower Hamlets
+Westminster
+Paris
+Praha 1
+Goiania
+Aparecida de Goiânia
+Goiania
+Aparecida de Goiânia
+Stara Pazova
+Paris
+Wien
+Wien
+Wien
+Wien
+Biedma
+Zell am See
+Cakovec
+Sarandës
+Vlorës
+Sarandës
+Prizren
+Palilula
+Roma
+Roma
+Roma,Sarandës
+Roma
+Sarandës
+Los Angeles
+Komárno
+Barcelona
+Delft,Antwerpen,Oost-Vlaanderen,Nord
+Trieste
+Trieste
+Trieste
+Trieste
+Sarthe
+New York
+New York
+Warsaw
+Westminster
+Neusiedl am See
+Berlin,Brandenburg
+Praha 6
+Wien
+Banská Bystrica
+North-Eastern,Central
+Eastern,Central,Pushkino,Western
+Central
+North-Eastern
+Gmunden
+Banská Bystrica
+Verona,Padua
+Vicenza
+Padua
+Treviso
+Varese
+Padua,Treviso
+Wien
+Wien
+Padua
+Wien
+Wien
+Padua
+Venezia
+Samos
+Verona
+Varese
+New York
+Queens,New York
+Padua
+Verona
+Westminster
+Padua
+Verona
+Verona
+New York
+New York
+New York
+Rieti
+Munster,Zevenaar,Düsseldorf
+Vodice
+West Yorkshire
+Edinburgh
+Greenwich,Westminster
+Tower Hamlets
+Praha 1
+Wien
+Wien
+Telford and Wrekin
+New York
+Utrecht
+Amsterdam
+Amsterdam
+Middelburg
+Gouda
+Groningen
+Amsterdam
+Groningen
+Groningen
+Middelburg
+Cook
+Denver
+Antwerpen
+Venezia
+Venezia
+Venezia
+Hautes-Alpes
+Roma
+Paris
+Amsterdam
+Oberbayern
+Darmstadt,Karlsruhe
+Vodice,Split
+Sankt Johann im Pongau
+Praha 1
+Karlsruhe
+Paris
+Stuttgart
+Jelsa
+Niederbayern
+Madrid
+Clark
+Clark,Denver,Darmstadt
+Wien
+Westminster
+Roma
+Westminster
+Florence
+Rethymnon
+Feldkirchen
+Terni
+Westminster
+Feldkirchen
+Kadiköy
+Ürgüp
+Tilburg
+Tilburg
+Best
+Antwerpen
+Tilburg
+Tilburg
+Tilburg
+Fthiotis
+Fthiotis
+Tilburg
+Tilburg
+Pogradecit
+Tiranës
+Wien
+Attica
+Milano
+Praha 1
+Wien
+Bratislava V
+Kraków City
+Nitra
+Nitra
+Jefferson
+Frederick
+Adams
+Fairfax
+Milano
+Milano
+Milano
+Avcilar,Kagithane
+Maltepe
+Praha 1
+Vlaams Brabant
+West-Vlaanderen
+Berlin
+Dubrovnik,Split
+Paris
+Berlin
+Berlin
+Verbano-Cusio-Ossola
+Amsterdam
+Liezen
+Porto
+Mealhada
+Mittelfranken
+Leiden
+Fife
+Argyll and Bute,Angus
+Angus
+Corfu
+Corfu
+Barcelona
+Stockholm
+Ulytauskiy
+Aqtobe
+Aqtobe
+Aqtobe
+Zakynthos
+Paris
+Paris
+Gömeç
+Beijing
+Beijing
+Beijing,Shanghai
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Hautes-Alpes
+Hautes-Alpes
+Phra Nakhon
+Phra Nakhon
+Phra Nakhon
+Phra Nakhon
+Phra Nakhon
+Westminster
+Westminster
+Paris
+Hallein
+Paris
+Monroe
+Monroe
+Berlin
+Freiburg
+Ain,Genève
+Ramallah and Al-Bireh
+Jerusalem
+Jerusalem
+Dresden,Berlin,Brno,Decín,Svitavy
+Berlin,Brandenburg,Sroda Slaska,Kromerí,Olomouc
+Berlin,Olomouc,Dresden
+Brent
+Kensington and Chelsea
+Palermo
+Palermo
+Palermo
+Palm Beach
+Palm Beach
+New York
+Paris
+Westminster,Tower Hamlets
+Barcelona
+Bologna
+Seine-et-Marne,Paris
+Combined statistics
+Westminster
+Liezen
+Jaén
+Granada,Málaga
+Subotica
+Subotica
+Ilovik
+Galanta
+Ealing,Kensington and Chelsea,London
+Opatija/Veprinac
+Düsseldorf
+Düsseldorf
+Malinska-Dubanica
+Baka
+Delhi
+Saharanpur
+Greater Bombay
+Greater Bombay
+Greater Bombay
+Greater Bombay
+North Goa
+Greater Bombay
+New York
+Udine
+Hautes-Alpes
+Zagreb
+Amsterdam
+Mattersburg
+Sarajevo
+Fatih
+Praha 1
+Venezia,Pisa,Roma
+Barcelona
+Amsterdam
+Wien
+Wien
+Girona
+Praha 1
+Praha 1
+Edinburgh
+Lambeth
+Trencín
+Bratislava I
+Roma
+Verona
+Suffolk
+New York
+Miami-Dade
+Madrid,Barcelona,Dubrovnik
+Bas-Rhin,Zürich
+Karlsruhe
+Amsterdam
+Itajaí
+Praha 1
+Balneário Arroio do Silva
+Balneário Arroio do Silva
+Balneário Arroio do Silva
+Camden
+Neusiedl am See
+Praha 1
+Pike
+Garland
+Polk
+Orleans
+Solnechnogorskiy rayon
+Northern
+Northern
+Northern
+Central
+Northern
+Northern
+Northern
+Bratislava I
+Northern
+Northern
+Northern
+Central
+Praha 1
+Koice IV
+Koice II
+Paris
+Bratislava II
+Praha 1
+Stockholm
+Stockholm
+Koice I,Bratislava II
+Bratislava II
+Praha 1
+Galanta
+Kraków City
+Bratislava II
+Warsaw
+Kings
+Bratislava II
+Praha 1
+Bratislava III
+Venezia
+Camden
+Westminster
+Warsaw
+Westminster
+Westminster
+Berlin
+Westminster
+Westminster
+Casey - Hallam
+Praha 1
+Wien
+Antwerpen
+Antwerpen
+Antwerpen
+Antwerpen
+Udine
+Neusiedl am See
+Zagreb
+Zagreb
+Seine-et-Marne
+Merkez
+Merkez
+Merkez
+Kufstein
+Kufstein
+Serik
+Sankt-Peterburg gorsovet
+Bruck an der Mur
+Praha 1
+Conwy
+Bari
+Verona
+Val-d'Oise
+Sydney - East
+Sydney - East
+Woollahra
+Milano
+Velký Krtí
+Velký Krtí
+Manavgat
+Praha 1
+Blato,Dubrovnik
+Blato
+Paris
+Wien
+Trento
+Trento
+Apatin
+New York
+Monroe
+Berlin
+Roma
+Roma
+Berlin
+Berlin
+Monterrey
+Limburg
+Limburg
+Lawrence
+Oberbayern
+Oberbayern
+Venezia
+Wien
+Praha 1
+Bakirköy
+Westminster
+Southwark
+Westminster
+Lisboa
+Lisboa
+Ribeira Grande
+Aalborg
+Porto
+Porto
+Porto
+Seixal,Porto
+Porto
+Berlin
+Bruxelles,Oost-Vlaanderen
+Wien
+Wien
+Barcelona
+Westminster,Seixal
+Westminster,Roma
+Knittelfeld
+Berlin
+Barcelona
+Roma,Barcelona
+New York
+Penghu
+Berlin
+Amsterdam
+Amsterdam
+Roma
+Eisenstadt
+Liezen
+Suffolk
+Suffolk
+Suffolk,Cambridgeshire
+Richmond upon Thames,Suffolk
+Suffolk,Berkshire
+Merton
+Suffolk
+Suffolk
+Suffolk,Warwickshire
+Baleares
+Baleares
+Suffolk
+Tower Hamlets
+Westminster
+Westminster
+Westminster
+Camden
+Denpasar
+Denpasar
+Barcelona
+Barcelona
+Wien
+Combined statistics
+Barcelona
+Ljubljana
+Alpes-Maritimes
+Zürich
+Krk
+Faana,Pula
+Camden
+Kensington and Chelsea
+Camden
+Verona
+Camden,Westminster,Kensington and Chelsea
+Khimki
+Solnechnogorskiy rayon
+Ryazan'
+Northern
+Camden,Newham,Westminster
+Camden
+Wien
+Bratislava II
+Bologna
+Como
+Bologna
+Lausanne
+Pardubice
+Val-d'Oise,Los Angeles
+Los Angeles,Mohave,Coconino,Inyo
+Los Angeles
+Mödling
+Oberpullendorf
+Berlin
+Oberbayern
+Jakarta Pusat
+Badung
+Liptovský Mikulá
+Liptovský Mikulá
+Solomians'kyi
+Shenzhen
+Shenzhen
+Badung
+Badung
+Gianyar
+Torino
+Venezia
+Neusiedl am See
+Hautes-Alpes
+Uzhhorods'ka
+Bruck an der Mur
+Bruck an der Mur
+Lilienfeld
+Drni
+Wien
+Praha 9,Praha 1
+Praha 1
+Paris
+Jundiaí
+Jundiaí
+Jundiaí
+Rio de Janeiro
+Neunkirchen
+Neunkirchen,Mürzzuschlag
+Rheinhessen-Pfalz
+Kings
+Sullivan
+Casablanca
+Westminster
+Islington
+Central
+Central
+Irkutskiy rayon
+La Paz
+La Paz
+Guangzhou
+Berlin
+Paris,Seine-et-Marne
+Paris
+Roma
+Central
+Hackney
+Hackney
+Florence
+Borovnica
+Roma
+Siena
+Besiktas
+Los Angeles
+Kauai
+Roma
+Roma
+Berlin
+Kenosha
+Medulin
+Premantura
+Pula
+Venezia
+Venezia
+Venezia
+Praha 1
+Kraków City,Tatra
+Ostrava
+Trogir,Rogoznica
+Colombo,K.F.G. & G. Korale
+Ajmer
+Khalkidiki
+Attica
+Wien
+Pella
+Wien
+Westminster
+Novi Sad
+Wien
+Tübingen
+Nové Zámky
+Venezia
+Praha 1
+Westminster,New York
+New York
+Kensington and Chelsea
+Westminster,Hillingdon
+Schwaz
+Struga
+Roma
+Pojezerje
+Rethymnon,Khania
+Khania,Attica
+Attica
+Neklinovskiy rayon
+Sochi gorsovet
+Novorossiysk gorsovet
+Makhachkala gorsovet
+Northern,Central
+Bratislava V
+Wien
+Wien
+Praha 1
+Paris,Roma
+Karachayevskiy rayon
+Wien
+Madrid
+Stockholm
+Berlin
+Berlin
+Berlin
+Westminster
+Neusiedl am See
+Westminster
+Kraków City
+Vicenza
+Vicenza
+Baleares
+Westminster
+Westminster
+Vicenza
+Padua
+Hammersmith and Fulham
+Milano
+Venezia
+Oberbayern
+Oberbayern
+Malmö
+Amsterdam
+Amsterdam
+Paris
+Paris
+Camden
+Kraków City
+Fatih
+Maceió (capital)
+Maceió (capital)
+Maceió (capital)
+Maceió (capital)
+Paris
+Arapiraca
+Westminster
+Paris,Barcelona
+Venezia
+Milano
+Fatih
+Kadiköy
+Kraków City,Warsaw
+Berlin
+Combined statistics
+Amsterdam
+Nieuw-Lekkerland
+Hvar
+Praha 1
+Marrakech
+Errachidia
+Praha 1
+Oslo
+Florianopolis
+Iguazú
+Lages
+Lages
+Tijucas
+Bologna
+Tbilisi
+Kas
+Shinagawa
+Setagaya,Chiyoda
+Meguro
+Meguro
+Wien
+Uusimaa
+Volzhskiy
+Alpes-Maritimes
+Zheleznogorskiy rayon
+Alpes-Maritimes
+Alpes-Maritimes,Luzern,Zürich
+Irpins'ka,Holosiïvs'kyi
+Shevchenkivs'kyi
+Northern
+Praha 1
+Hammamet
+Ceský Krumlov
+Berkshire
+Stari Grad,Palilula
+Westminster
+Gosford - East
+Gosford - East
+Cessnock
+Paris,Roma
+Berkshire
+Eagle
+Belo Horizonte
+Belo Horizonte
+Banská Bystrica
+Liptovský Mikulá
+Cerklje na Gorenjskem
+Cerklje na Gorenjskem,Kamnik
+Barcelona
+Praha 6
+Milano
+Milano
+Westminster
+Kensington and Chelsea
+Warsaw
+Warsaw
+Barcelona
+Guarulhos,Rio de Janeiro,New York,Praha 1
+Bratislava II
+Bournemouth
+Bratislava II
+Cozumel
+Amsterdam
+Freiburg
+Wien
+Pakotane
+Grosseto
+Westminster,Tower Hamlets,Kensington and Chelsea
+Roma
+Roma
+Wien
+Oberbayern
+Praha 1
+Praha 4
+Praha 1
+Appenzell Ausserrhoden
+Gölyaka
+Akçakoca
+Merkez
+Wien
+Praha 1
+Kraków City
+Wien
+Milano
+Val-d'Oise
+AbujaMun
+Fthiotis
+Fthiotis
+Imperia
+São Paulo
+Paris,Roma
+Attica
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Bournemouth
+Wien
+Portsmouth
+Florence
+Santafé de Bogotá
+Kusadasi
+Pisa
+Oxfordshire
+West-Vlaanderen
+Santafé de Bogotá
+Bratislava I
+Central
+Akköy
+Dodecanese
+Cyclades
+Sarandës
+Florence
+Roma
+Phra Nakhon
+Ko Samui
+Düsseldorf
+Düsseldorf,Munster
+Düsseldorf
+Islington,Amsterdam,Praha 1
+Praha 1
+Praha 1
+London
+Tallinn
+Tallinn
+Vilniaus
+Rotterdam
+New York,Los Angeles
+Stavanger,New York
+Westminster
+New York
+Merkez
+Paris
+Wien
+Sola
+Stavanger
+Kensington and Chelsea,Westminster
+Kensington and Chelsea
+Westminster
+Las Palmas
+Las Palmas
+Las Palmas,Hillingdon
+Bodrum
+Dodecanese
+Dodecanese
+Bodrum
+Garabito
+Wien
+Uusimaa
+Uusimaa
+Uusimaa
+Berlin
+Berlin
+Berlin
+Bodrum
+Wien
+Opatija/Veprinac
+Luxembourg
+Luxembourg
+Praha 1
+Venezia
+Alpes-Maritimes
+Var
+Argolis
+Argolis,Attica
+Argolis
+Barcelona
+Vlaams Brabant
+Vlaams Brabant
+Wien
+Paris
+Paris
+Luzern
+Brescia
+Catania
+Catania
+Messina
+Florence,Siena
+Florence
+Catania
+Catania
+Southern Savonia
+Southern Savonia
+Pula
+Smederevo
+Palilula
+Palilula
+Rimini
+Somme
+Wien
+Oberbayern
+Palilula
+Zvezdara
+Cukarica
+Wien
+Palilula
+Zemun
+Palilula
+Palilula
+Wien
+Wien
+Tamsweg
+Niederbayern
+Baleares
+Agrigento
+Darmstadt
+Berlin
+Amsterdam
+Alpes-Maritimes
+Kraljevica
+Barcelona
+Madrid
+Baleares
+Baleares
+Baleares
+Baleares
+Vlaams Brabant
+Vlaams Brabant
+Oost-Vlaanderen
+Oost-Vlaanderen
+Oost-Vlaanderen
+Las Palmas
+Bratislava I
+Warsaw
+Liptovský Mikulá
+Cardiff
+Cardiff
+Verona
+Venezia,Rijeka
+Stuttgart
+Guilin
+Trento
+Klaten
+Madrid
+Grosseto
+Barcelona
+Barcelona
+Oberbayern
+Barcelona
+Ljubljana
+Sines
+H? Chí Minh city
+Qu?ng Nam
+Hamburg
+Lisboa
+Seixal
+Mecklenburg-Vorpommern
+Mecklenburg-Vorpommern
+Braunschweig
+Braunschweig
+Berlin
+Berlin
+Berlin
+Sutton
+Westminster
+Sutton
+Sutton
+Westminster
+Hannover
+Feldbach
+Alpes-Maritimes
+San Diego
+Warsaw
+Grieskirchen
+Gorizia
+Theran,Shemiranat
+Luxembourg
+Fairfax
+Arlington
+District of Columbia
+District of Columbia
+District of Columbia
+District of Columbia
+Praha 1
+Praha 1
+Wien
+Paris,Seine-et-Marne
+Barcelona
+Barcelona
+Loudoun
+Roma
+Roma
+Trogir
+Trogir
+Brno
+Allegheny
+Perg
+Praha 6,Var
+Croydon
+Southend-on-Sea
+Alpes-Maritimes
+Punat
+Punat
+Attica
+Praha 1
+Staffordshire
+Oberbayern
+Solomians'kyi
+Holosiïvs'kyi
+Coka
+Belo Horizonte
+Darmstadt
+Liptovský Mikulá
+Milano
+Amsterdam
+Madrid
+Cyclades
+Islington
+Brighton and Hove
+Brent
+Islington
+London
+Camden
+London,Richmond upon Thames
+Wandsworth
+Savona
+Savona,Paris
+Alpes-Maritimes
+Southwark,Westminster,Camden,London
+Stockholm
+Praha 1
+Nové Zámky
+Maricopa
+Kensington and Chelsea
+Amsterdam
+Berlin
+Praha 1
+Honolulu
+Greater Vancouver
+Liezen
+Ústí nad Labem
+Ústí nad Labem
+Ardèche,Bouches-du-Rhône,Gard,Vaucluse
+Unterfranken
+Köln
+Basel,Bas-Rhin
+Koblenz
+Arnhem
+Koblenz
+Trier
+Rheinhessen-Pfalz
+Basel
+Trier
+Basel
+Rheinhessen-Pfalz
+Amsterdam
+Koblenz
+Trier
+Karlsruhe
+Bas-Rhin
+Wien Umgebung
+Basel,Bas-Rhin
+Bas-Rhin
+Köln
+Mittelfranken
+Niederbayern,Linz
+Wien
+Salzburg
+Salzburg,Niederbayern
+Mittelfranken
+Saône-et-Loire
+Saône-et-Loire
+Saône-et-Loire
+Saône-et-Loire
+Saône-et-Loire
+Ardèche
+Ain,Saône-et-Loire
+Rhône
+Vaucluse
+Bouches-du-Rhône
+Ardèche
+Saône-et-Loire
+Drôme
+Saône-et-Loire
+Rhône
+Rhône
+Rhône,Vaucluse,Ardèche
+Isère
+Vaucluse
+Vaucluse
+Drôme
+Saône-et-Loire,Rhône
+Rhône
+Hérault
+Saône-et-Loire
+Saône-et-Loire
+Vaucluse
+Bouches-du-Rhône,Rhône
+Drôme
+Drôme
+Isère,Darmstadt,Ardèche
+Ardèche
+Bouches-du-Rhône
+Oberbayern
+Saône-et-Loire
+Saône-et-Loire
+Rhône,Vaucluse
+Saône-et-Loire
+Saône-et-Loire
+Gard
+Gard,Ardèche
+Rhône
+Saône-et-Loire
+Rhône
+Saône-et-Loire,Bouches-du-Rhône
+Vaucluse
+Saône-et-Loire
+Saône-et-Loire
+Rhône,Ardèche
+Ardèche
+Côte-d'Or
+Côte-d'Or
+Saône-et-Loire
+Saône-et-Loire
+Rhône
+Ardèche
+Vaucluse
+Ardèche
+Rhône
+Rhône
+Rhône
+Saône-et-Loire
+Bouches-du-Rhône
+Vaucluse
+Vaucluse
+Rhône,Bouches-du-Rhône
+Rhône
+Vaucluse
+Rhône
+Gard
+Vaucluse
+Vlaams Brabant
+Ardèche
+Vaucluse,Ardèche
+Gard,Bouches-du-Rhône,Vaucluse
+Gard,Saône-et-Loire
+Wien
+Kópavogur
+Sandgerði,Westminster
+Tyne and Wear
+Combined statistics
+Praha 1,Wien
+Madrid
+Karlsruhe
+Karlsruhe
+Karlsruhe
+Darmstadt
+Maastricht
+Subotica
+Schwaben
+Subotica
+Berlin,Darmstadt,Merkez,Wien
+Barcelona
+Barcelona
+Adalar
+Maltepe
+La Spezia
+Barcelona,Westminster
+Wien
+Praha 1
+Wien
+Konak
+Konak
+Bang Lamung
+Imperia,Alpes-Maritimes
+Alpes-Maritimes
+Merkez
+Minsk
+Wien
+Zagreb
+Berlin
+Combined statistics
+Praha 1
+Oberbayern
+Praha 1
+Bas-Rhin
+Stuttgart
+Wien
+Fatih
+Wien
+Orange
+Paris
+Paris
+Paris
+Chiyoda
+Rimini
+Manchester
+Manchester
+Manchester
+Manchester
+Camden
+Westminster
+Westminster
+Hammersmith and Fulham
+Hammersmith and Fulham
+Camden
+Camden
+Westminster
+Westminster
+Sombor
+Wien
+Praha 1
+Matulji
+Oost-Vlaanderen,West-Vlaanderen
+Amsterdam
+Paris
+Oeiras
+Matosinhos,Barcelona
+Oeiras
+Roma
+Florence
+South Gloucestershire
+Hertfordshire
+Bierun-Ledziny
+Wien
+Belo Horizonte
+Juiz de Fora
+Rio de Janeiro
+Westminster,Camden
+Kensington and Chelsea,Camden
+Wien
+Bruxelles
+Amsterdam
+Gebze
+Karasu
+Beyoglu
+Menderes
+Karsiyaka
+Menderes
+Hautes-Alpes
+Bakirköy
+Milano
+Kobarid,Bovec
+Bovec
+Venezia
+Milano
+Cuneo
+Cuneo
+Judenburg
+Schwaz
+Berlin
+Rimini
+Combined statistics
+Combined statistics
+Sisli
+Stockholm
+Köln
+Dodecanese
+Dodecanese
+Wien
+Beyoglu
+Bodrum
+Bodrum
+Shinjuku
+Barcelona
+Berlin
+Wien
+Wien
+Florence
+Florence,Siena
+Florence
+Florence
+Florence
+Wien Umgebung,Stolichna
+Milton Keynes
+Neusiedl am See
+Sintra
+Lisboa,Sintra
+Cascais
+Milton Keynes
+Lisboa
+Milton Keynes
+Milton Keynes
+Bedfordshire
+Bedfordshire
+Milton Keynes,Bedfordshire
+Hudson,New York
+New York,Hudson
+Hudson,New York
+Queens,New York,Hudson
+Milton Keynes
+Milton Keynes
+Milton Keynes,Westminster
+Luton,Westminster
+Oxfordshire
+Oxfordshire
+Tower Hamlets
+Milton Keynes
+Milton Keynes
+Brighton and Hove
+Milton Keynes
+Milton Keynes
+Milton Keynes
+Cambridgeshire
+Luton
+Luton,Milton Keynes
+Kent
+Kent
+Milton Keynes
+Milton Keynes
+Milton Keynes
+Hillingdon,Uusimaa
+Milton Keynes
+Hamburg
+Milton Keynes,Camden
+Milton Keynes
+Hillingdon,Höfe
+Kent,Paris
+Paris,Rhône
+Genève
+Haute-Savoie
+Alpes-Maritimes
+West Midlands
+Milton Keynes
+Paris
+Derbyshire
+Milton Keynes
+Hamburg
+Milton Keynes
+Milton Keynes
+Milton Keynes
+Milton Keynes
+Milton Keynes
+Milton Keynes
+Milton Keynes
+Milton Keynes
+Milton Keynes
+Milton Keynes
+Bedfordshire
+Uusimaa
+Bedfordshire
+Milton Keynes
+Luneburg
+Wien
+Wien
+Bratislava II
+Pieria
+Zakynthos
+Zakynthos
+Basel
+Kreuzlingen
+Lombok Barat
+Jakarta Barat
+Warsaw
+Praha 1
+Praha 1
+Alpes-Maritimes
+Praha 1
+Tbilisi
+Mestia
+Phra Nakhon
+Pathum Wan,Phra Nakhon
+Svay Pao
+Siem Reab
+Siem Reab
+Timur Laut
+Shah Alam
+Phra Nakhon
+Paris
+Wien
+Barcelona
+Zürich,See-Gaster
+Klagenfurt Land
+Wien
+Wien
+Wien
+Lincolnshire
+Lincolnshire
+Lincolnshire
+Lincolnshire
+West Yorkshire
+Savoie
+Savoie
+Barcelona
+Fatih
+Atasehir
+Florence,Genova
+Trapani
+Palermo
+Mattersburg
+Lisboa,Cascais
+Graz
+Kraków City
+Kraków City
+Roma
+Trento
+Trento
+New York
+Málaga
+Roma
+Smederevo
+Smederevo
+Smederevo
+Smederevo
+Stara Pazova
+Södertälje
+Oberbayern
+Ko Phangan
+Phra Nakhon,Ko Phangan
+Ko Phangan
+Stockholm
+Shah Alam
+Lombok Tengah
+Wien
+Nové Zámky
+Hulu Langat,Shah Alam
+Kuching
+Langkawi
+Langkawi
+Sepang
+Paris
+Paris
+Stuttgart
+Barcelona
+Stockholm
+Salamanca
+Oberbayern
+Las Palmas
+Traku
+Minsk
+Vilniaus
+Hounslow
+Brent
+Frankston - West
+Port Phillip - St Kilda
+Darebin- Northcote
+Melbourne - Inner
+Darebin- Northcote
+Port Phillip - West,Melbourne - S'bank-D'lands
+Melbourne - Inner,Port Phillip - West
+Stonnington - Prahran
+Gr. Dandenong Bal
+Port Phillip - St Kilda
+Wien
+London,Brent
+Praha 1,Praha 6
+Spittal an der Drau
+Berlin
+Westminster
+Barcelona
+Barcelona
+Arezzo,La Spezia,Florence,Siena
+Venezia
+Oberbayern
+Melbourne - Inner,Yarra - Richmond
+Port Phillip - West
+Port Phillip - West,Stonnington - Prahran
+Port Phillip - St Kilda,Port Phillip - West
+Port Phillip - St Kilda
+Melbourne - S'bank-D'lands
+Casey - Berwick,Stonnington - Prahran
+Port Phillip - West
+Port Phillip - St Kilda
+Port Phillip - St Kilda,Hume - Craigieburn
+Port Phillip - St Kilda
+Port Phillip - West
+Strathbogie
+Port Phillip - West
+Port Phillip - St Kilda,Port Phillip - West
+Port Phillip - St Kilda
+Port Phillip - West
+Port Phillip - St Kilda
+Yarra - North
+Stonnington - Prahran
+Port Phillip - West
+Melbourne - Inner,Port Phillip - West
+Port Phillip - West,Stonnington - Prahran
+Port Phillip - West
+Port Phillip - West,Bass Coast  Bal
+Port Phillip - West
+Port Phillip - West
+Port Phillip - West
+Bass Coast  - Phillip Is.
+Port Phillip - West
+Yarra - Richmond
+Port Phillip - West
+Port Phillip - West
+Melbourne - Inner
+Medulin
+Vellinge
+Combined statistics,Malmö
+Vellinge
+Combined statistics,Vellinge
+Corfu
+Corfu
+Corfu
+Corfu
+Corfu
+Wien
+Neunkirchen
+Bibinje
+Zadar,Kali
+Verona
+Utrecht
+Utrecht
+'s-Gravenhage
+Amsterdam,Utrecht
+Utrecht,Amsterdam
+Rotterdam
+Haarlemmermeer
+Wien
+Wien
+Lilienfeld
+Westminster
+Waltham Forest,Hounslow
+Westminster
+Portsmouth
+Westminster
+Portsmouth
+Portsmouth
+Rovinj
+Liezen
+Paris
+Paris
+Messina
+Rovinj
+Piran
+Siena
+Piran
+Seine-Saint-Denis
+Seine-Saint-Denis
+Lisboa
+Lisboa
+Liezen
+Berlin
+Rovinj
+Wien
+Praha 6,Praha 1,Kutná Hora
+Praha 1
+Praha 6
+Praha 1
+Wien
+Donji Miholjac
+Florence
+Groningen
+Camden,Westminster
+Greenwich
+Westminster
+Viborg
+Viborg
+Hiroshima
+Köln
+Val-d'Oise,New York
+New York
+New York,Kings
+Güssing
+Graz
+Crikvenica
+Madrid
+Combined statistics
+Split
+Palilula
+Zürich
+Olten,Zürich
+Schwaben
+Schwaben
+Schwaben
+Cádiz
+Praha 1
+Berlin
+Berlin
+Berlin
+Roma
+Wien
+Rovinj
+Rovinj
+Bratislava II
+Berlin
+Berlin
+Berlin
+Combined statistics
+Combined statistics
+Fatih,Beyoglu,Kadiköy
+Berlin
+Catania
+Catania
+Cook
+Cook
+Cook
+Cook
+Cook
+Ogliastra
+Oberbayern
+Kraków City
+Kraków City
+Westminster,Oberbayern
+Praha 1
+Girona
+Girona
+Barcelona
+Girona
+Kensington and Chelsea
+Westminster,Camden
+Westminster
+Porec
+Camden
+Manavgat
+Praha 1
+Praha 1
+Praha 1
+Warsaw
+Kraków City
+Barcelona
+Berlin
+Berlin
+Seine-et-Marne
+Paris
+Wien
+Berlin
+Barcelona
+Florence
+La Spezia
+Livorno,Florence
+Livorno
+Split
+Praha 1
+Shinjuku
+Luzern
+Sankt Gallen
+Uusimaa
+Alpes-Maritimes
+Ljubljana
+San Francisco
+Alameda
+San Francisco
+New York
+New York
+Roma
+Alpes-Maritimes
+Alpes-Maritimes
+Alameda
+Orleans,Kings
+Kings,New York
+Los Angeles
+Shevchenkivs'kyi
+Desnians'kyi
+Paris
+Rust
+Chemnitz,Dresden
+Venezia
+Paris
+Haute-Savoie
+Genève
+Redbridge
+Camden
+Tower Hamlets
+Tower Hamlets
+Westminster
+Kensington and Chelsea,Hammersmith and Fulham
+Islington
+Westminster
+Camden
+Haarlemmermeer
+Gianyar
+Gianyar,Badung
+Venezia
+Wien
+Sankt-Peterburg gorsovet
+Bariloche
+Vodice
+Zaanstad
+Makarska
+Jelsa
+Stuttgart
+Zaanstad
+Praha 5
+Berlin
+Berlin
+Berlin
+Attica
+Wien
+Liezen
+Liezen
+Liezen
+Hautes-Alpes
+Hautes-Alpes
+Berlin
+Berlin
+Berlin
+Berlin
+Split
+Split
+Berlin
+Wien
+Trento
+Trento
+Trento
+Gdynia
+Sankt Johann im Pongau
+Milano,Hautes-Alpes
+Trento
+Trento,Verona
+Verona,Trento,Camden
+Hackney
+Thessaloniki
+Praha 1
+Westminster
+Wien
+Surabaya
+Venezia
+Girona
+Barcelona,Alpes-Maritimes,Verona
+Combined statistics
+Westminster,Camden
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Amsterdam
+Badung,Denpasar,Tabanan,Buleleng
+Mataram,Lombok Barat
+Badung
+Badung
+Edinburgh,West Lothian,Fife,Aberdeenshire
+Kefallinia
+Kefallinia
+Kefallinia
+Kefallinia
+Kefallinia
+Ain,Haute-Savoie
+Güssing
+San Francisco
+San Kamphaeng
+H? Chí Minh city
+Bình Thu?n,H? Chí Minh city
+Lâm Ð?ng
+Muang Chiang Mai
+Mae Sai
+San Sai
+Phra Nakhon
+Baleares
+Amsterdam
+Santa Cruz
+Santa Cruz
+Praha 1
+Washington
+Washington
+Lisboa
+Lisboa,Seixal
+Punat
+Oberbayern
+Paris
+Neusiedl am See
+Wien
+Atasehir
+Pathum Wan
+Manchester
+Manchester
+Manchester
+Manchester
+Kraków City
+Split
+Palilula
+Minsk
+Wien
+Camden,Essex
+Essex
+Darnyts'kyi
+Shevchenkivs'kyi
+Slovians'kyi
+Solomians'kyi
+Slovians'kyi
+Podil's'kyi
+Köln
+Camden
+Milano
+Genova,Milano,Bergamo
+Wien
+East Sussex
+East Sussex
+East Sussex
+East Sussex
+East Sussex
+East Sussex
+East Sussex
+East Sussex
+East Sussex
+Torbay
+East Sussex
+East Sussex
+East Sussex
+East Sussex
+Milano
+Milano
+Fatih
+Darmstadt
+Salzburg
+Shevchenkivs'kyi
+Shevchenkivs'kyi
+Odes'ka
+Palermo
+Palermo
+Napoli
+Napoli
+Roma
+Roma
+Roma
+L'vivs'ka
+Praha 1
+Wien
+Stari Grad
+Trieste
+Málaga
+Málaga
+Ouest lausannois
+Salerno,Napoli
+Napoli
+Livorno
+Lucca,Livorno
+Ouest lausannois
+Crikvenica
+Ouest lausannois,Genève
+Livorno
+West-Vlaanderen
+Ouest lausannois,Lausanne
+Roma
+Wien
+Jennersdorf
+Vir
+Vir
+Wien
+Wien
+Koice II
+Bratislava III
+Bratislava II
+Pula
+Amsterdam
+Amsterdam
+Subotica
+Nové Zámky
+Eisenstadt Umgebung
+Praha 10
+London
+Westminster
+Neunkirchen
+Rust
+Oberbayern
+Buleleng
+Gianyar
+Badung,Denpasar,Karang Asem
+Badung
+Bologna,Forli' - Cesena
+Klungkung
+Westminster
+London,Westminster
+Westminster
+Wien
+Mödling
+Wien Umgebung
+Paris
+Paris
+Richmond upon Thames,Hillingdon
+Richmond upon Thames
+Richmond upon Thames
+Paris
+Kingston upon Thames
+Westminster
+Islington
+Haut-Rhin
+Westminster
+Camden
+Hillingdon
+Richmond upon Thames
+Richmond upon Thames
+London,Westminster
+Westminster
+Richmond upon Thames
+Camden
+Greenwich
+Westminster
+Westminster
+Camden
+Westminster
+Westminster
+Westminster
+Westminster
+Richmond upon Thames
+Kensington and Chelsea
+Camden,Richmond upon Thames,Kensington and Chelsea,Westminster
+Brighton and Hove
+Eisenstadt Umgebung
+Madrid
+Lódz
+Warsaw
+Ocean
+Berlin,Brandenburg
+Chemnitz
+Belluno
+Mattersburg
+Attica
+Fokis
+Attica
+Amsterdam
+Cádiz
+Cádiz
+Rovinj
+Zakynthos
+Northern
+Attica
+Pokhvistnevskiy rayon
+Amsterdam
+Paris
+Puy-de-Dôme
+Kent
+Kent,East Sussex
+Kent
+Kent
+Sarajevo
+Sarajevo
+Praha 1
+Chiyoda
+Santa Cruz
+San Luis Obispo,San Mateo
+Shevchenkivs'kyi
+Barcelona
+L'vivs'ka
+Warsaw
+Kings
+Broward
+Broward
+New York
+Napoli
+Makarska
+Magnesia
+Hoce-Slivnica
+Luxembourg
+Praha 1
+Wien
+Tower Hamlets
+Newham
+Westminster
+Roma
+Barcelona
+Barcelona
+Roma
+Hautes-Alpes
+Asturias
+Madrid
+Westminster
+Tower Hamlets
+Salzburg Umgebung
+Barcelona
+Monza and Brianza
+Sydney - Inner
+Sydney - Inner
+Sydney - Inner,North Sydney
+Botany Bay
+Kensington and Chelsea
+Koice I
+Landeck
+Banská Bystrica
+Southwark
+Paris
+Thessaloniki,Attica,Cyclades
+Cyclades
+Rethymnon
+Balneário Arroio do Silva
+Arraial do Cabo
+Arraial do Cabo
+Rio de Janeiro
+Paris
+Malmö
+Murter,Udine
+Tower Hamlets
+Split
+Barcelona
+Los Angeles
+Milano
+Praha 1
+Amsterdam,Almere
+Alanya
+Novalja
+Dodecanese
+Var
+Liezen
+Wien
+Berlin
+Tasova
+Drni
+Warsaw
+Barcelona
+Barcelona
+Venezia
+Westminster
+Rust
+Paris
+Amsterdam
+Florence
+Cyclades
+Praha 1
+Varese
+Kvareli
+Wien
+Tbilisi
+Tbilisi
+Tbilisi
+Tbilisi
+Tbilisi
+Tbilisi
+Kaspi
+Praha 1
+Palilula
+Wien
+Palilula
+Tbilisi
+Tbilisi
+Zürich
+Tbilisi
+Tbilisi
+Salzburg
+Bolzano
+Bolzano
+Paris
+Wien
+Wien
+Fatih
+Fatih
+Besiktas
+Fatih
+Amsterdam
+Paris
+Wien
+Berlin,Var
+Hamburg
+Fthiotis
+Wien
+Novi Beograd
+Ruma
+Palilula
+Roma
+Roma
+Roma
+Wien
+Wien
+Wien
+Wien
+Wien
+Basel,Bas-Rhin
+Wien
+Wien
+Wien
+Hudson,Hillsborough,Kings
+Poznan City
+Poznan City
+Westminster,Camden,Brent
+Westminster
+London
+Westminster
+Göteborg
+Amsterdam
+Chemnitz
+Chemnitz
+Oberbayern
+Freiburg
+Freiburg
+Oberbayern
+Oberbayern
+Oberbayern
+Oberbayern
+Oberbayern
+Oberbayern
+Oberbayern
+Oberbayern
+Zagreb
+Zagreb
+Bol
+Praha 7
+Paris
+Kings
+Berlin
+Barcelona
+Westminster
+Madrid
+Madrid
+Taoyuan
+Ilan
+Praha 2
+Wien
+Attica
+Senta
+Venezia
+Kraków City
+Salerno
+Merkez
+Amsterdam
+Sapanca
+Amsterdam
+Erie
+Pulaski
+Surrey
+Kuils River
+Surrey
+Subotica
+Oberpullendorf
+Palilula
+Kraków City
+Warsaw
+Berlin
+Roma
+Attica
+Guipúzcoa
+Praha 1
+Fraijanes
+Fraijanes
+Milano
+Merkez
+Lisboa
+Westminster
+London,Westminster,Camden
+Westminster,Berkshire,Richmond upon Thames,Kensington and Chelsea,London
+Paris,London
+Paris
+Warsaw
+Westminster
+Paris
+Barcelona
+Lucenec
+New York
+Buncombe
+Fulton
+Cuyahoga
+Westminster
+Corfu
+Corfu
+Pieria
+Linz
+Linz
+Sousse Médina
+Sousse Médina
+Sousse Médina
+Sousse Médina
+Milano
+Milano
+Hamilton
+Opatija/Veprinac
+Paris
+Camden,London,Westminster,Hertfordshire
+Opatija/Veprinac
+Praha 1,Praha 7
+Schwaben
+Zagreb
+São Bento do Sul
+Kraków City
+Kraków City
+Praha 1
+Wien
+Verona
+Løgumkloster
+Novi Vinodolski
+Løgumkloster
+Westminster
+Opatija/Veprinac
+Allier
+Allier
+Jönköping
+Stockholm
+Berlin
+Roma
+Westminster
+Neusiedl am See
+West Yorkshire
+Bruxelles
+Haarlemmermeer,Cook
+Cook
+Wayne,Hudson,Genesee
+Beijing
+Lausanne
+Cuenca
+Madrid
+Berlin
+Córdoba
+Palian
+Tbilisi
+Brda
+Broward
+Orange
+Jerusalem
+Jongro,Yongin
+Haeundae
+Rethymnon
+Rambukkana
+Westminster,Camden
+Wien
+Wien
+Roma
+Latina
+Westminster
+Southwark
+Bruxelles
+Roma
+Oberbayern
+Unterfranken
+Karlsruhe
+Bilhorod-Dnistrovs'kyi
+Odes'ka
+Westminster
+Westminster
+Westminster
+Praha 1,Praha 6,Praha 4
+Yildirim
+Wien
+Stuttgart
+Seixal,Lisboa
+Berlin
+Broward,Palm Beach
+Kraków City
+Praha 1,Praha 3
+Sankt Pölten
+Trento
+Lausanne
+Lausanne
+Novi Sad
+Subotica
+Haarlemmermeer,Lisboa
+Chelyabinsk gorsovet
+Ekaterinburg gorsovet
+Wien
+Jægerspris
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Madrid
+Madrid
+Baleares
+Baleares
+Baleares
+Bruxelles
+Praha 2,Praha 1
+Milano
+Berlin
+Baleares
+Baleares
+Berkshire,Denver,Buffalo,Lancaster
+Cass
+San Diego
+Denver
+La Plata
+Denver,Boulder,Multnomah,King
+Seine-et-Marne,Paris
+Westminster
+Lambeth,Westminster
+Ullensaker,Trondheim
+Milano
+Botany Bay,Coffs Harbour - Pt A
+Bellingen
+Fortitude Valley
+Botany Bay
+Sydney - Inner
+Perth
+Queens
+San Francisco
+Cumberland,Queens
+Los Angeles
+Travis
+San Diego
+Denver,Multnomah,Cook
+Los Angeles
+King
+San Mateo
+Denver
+Central Kootenay
+San Francisco
+Los Angeles
+Los Angeles
+Sacramento
+Cumberland
+Somerset,Queens
+Berlin
+Wien
+Attica
+Alpes-Maritimes
+Camden
+Venezia
+Rust
+Gmunden
+Camden
+Camden
+Bratislava I
+Darmstadt
+Merkez,Serik
+San Francisco,Marin,Los Angeles,San Diego,Clark,Mohave,Miami-Dade,Monroe
+Orange
+New York,Queens
+New York
+Westminster
+Fatih
+Baleares
+Paris
+Warsaw
+Nové Zámky
+Venezia
+Szczecin
+Szczecin
+Szczecin
+Szczecin
+Berlin
+Kraków City
+Szczecin
+Szczecin
+Szczecin
+Police
+Poznan City
+Merkez
+Merkez
+ilina
+ilina
+ilina
+Prievidza
+ilina
+Becej
+Zemun
+Wien,Praha 1
+Wien
+Praha 1
+Guarulhos
+Larisa
+Attica
+Attica
+Venezia
+Oberpullendorf
+Koice-okolie
+Koice-okolie
+Zadar
+Lisboa
+Sintra
+West Midlands
+Val-d'Oise,North Somerset
+Westminster,Newham
+Hermagor
+Sroda Slaska
+Sroda Slaska
+Sroda Slaska
+Sroda Slaska
+Pendik
+Maribor
+Tower Hamlets
+Attica
+Zagreb
+Zagreb
+Medellín
+Medellín
+Darmstadt
+Bergamo
+Ernakulam
+Wien
+Fatih
+Chernogolovka
+Barcelona
+Kwale
+Amsterdam
+Kadiköy
+Merkez,Fatih
+Wien
+Reykjavík
+Kópavogur
+Reykjavík
+Sveitarfélagið Árborg
+Borgarbyggð
+Reykjavík
+Hertfordshire
+Brabant Wallon
+Brabant Wallon
+Luxembourg
+Marmaris
+Marmaris
+Silifke
+Ceský Krumlov
+Bas-Rhin
+Praha 1
+Bruxelles
+Bruxelles
+Yvelines
+Rotterdam
+Vlaams Brabant
+Vlaams Brabant
+Bruxelles
+Palilula
+Zagreb
+Atasehir
+Oberbayern
+Pas-de-Calais
+Rotterdam
+Baltimore
+Pirkanmaa
+Milano
+Attica
+Arandelovac
+Arandelovac
+Cacak
+Topola
+Arandelovac
+Wien
+Wien
+Wien
+Wien
+Wien
+Wien
+Wien
+Wien
+Barcelona,Madrid
+Madrid
+Berlin
+Venezia
+Alpes-Maritimes
+Milano
+Miami-Dade
+Alpes-Maritimes
+Luxembourg
+Oberbayern
+Köln
+Shah Alam
+Amsterdam
+Brighton and Hove
+Westminster
+Westminster
+Oberbayern
+Haarlemmermeer
+Amsterdam
+Wiltshire
+Westminster
+Westminster
+Oberpullendorf
+Westminster
+Roma
+Wien
+Chanthabuly
+Bang Plee
+Gmunden
+Siena
+Barcelona
+Rovinj
+Fatih
+Côtes-d'Armor
+Madrid
+Madrid
+Feldkirchen
+Villach Land
+Feldkirchen
+Zell am See
+Ceský Krumlov
+Stockholm
+Hampshire,Westminster,Warwickshire
+Westminster
+Westminster
+Praha 1
+Amsterdam
+Salzburg
+Combined statistics
+Zürich
+Paris
+Paris
+Barcelona
+Fatih
+Barcelona
+Baleares
+Fortaleza
+São Miguel de Touros
+Einsiedeln
+Wien
+Wien
+Porto
+Miami-Dade
+Fairfax
+Fairfax
+Distrito Federal
+Distrito Federal
+Distrito Federal
+Wien
+Curitiba
+Curitiba
+Curitiba
+Curitiba
+Curitiba
+Harris,Chatham
+Division No. 6
+Distrito Federal
+Curitiba
+Curitiba
+Benito Juárez
+Wien
+Hennepin
+Corfu
+Barcelona
+Barcelona
+Loudoun
+Los Angeles
+Placer
+Bronx,New York
+Baltimore
+Kings
+New York
+New York
+Knittelfeld,Mödling
+Knittelfeld
+Varese
+Knittelfeld
+Hautes-Alpes
+Heraklion
+Heraklion
+Gloucestershire
+Oxfordshire
+Dodecanese
+Dodecanese
+Boeotia
+Roma
+Puno
+Graz
+Berlin
+Liptovský Mikulá
+Villach Land
+Villach Land
+Florina
+Florina
+Florina
+Wien
+Thessaloniki
+Westminster
+Eisenstadt
+Praha 1
+Vir
+Vir
+Vodice
+Drni
+Wien
+Zadar
+Oslo
+Guarulhos
+Var
+Barcelona
+Guarujá
+Wien
+Rust
+Corfu
+Corfu
+Paris
+Praha 1,Praha 5
+Stockholm
+Barcelona
+Barcelona
+Milano
+Sevilla
+Warsaw
+Praha 1
+Oberbayern,New York,Kings,Hudson
+Florence,Pisa
+Praha 1
+Paris
+Paris
+Madrid
+Roma
+Paris
+New York
+Barcelona
+Vir
+Baleares
+Burgos
+Puck
+Gdansk City
+Porto
+Assen
+Vodice
+North Somerset
+Paris
+Wien
+New York
+Combined statistics
+Berlin
+Warwickshire
+Warwickshire
+Warwickshire
+Warwickshire
+Manchester
+Cheshire
+Los Angeles
+Riverside
+Paris
+Bled
+Split
+Hvar
+Praha 1
+Highland
+Edinburgh
+Edinburgh
+Edinburgh
+Edinburgh
+Kraków City
+Wien
+Praha 7
+Central
+North-Western
+Central
+Cyclades
+Paulista
+Recife
+Olinda
+Recife
+Recife
+Recife
+Recife
+Recife
+Recife
+Southwark
+Richmond upon Thames
+Praha 1
+Navarra
+Guipúzcoa
+Barcelona
+Guipúzcoa
+Guipúzcoa
+Guipúzcoa
+Wien
+Wien
+Liezen,Gmunden
+Spittal an der Drau
+Spittal an der Drau
+Spittal an der Drau
+Wolfsberg
+Vlaams Brabant
+Vlaams Brabant
+Combined statistics
+Combined statistics
+Combined statistics
+Combined statistics
+Bolzano
+Oberbayern
+Split
+Hvar
+Jelsa
+Hvar
+Oberwart
+Venezia
+Wien
+Wien
+Wien
+Oberbayern
+Dubrovnik,Hvar
+Wien
+Delft
+Bruxelles
+Bruxelles
+Roma,Venezia
+Magnesia
+Vir
+Roma
+Berlin
+Lecce
+Lecce
+Lecce
+Seixal
+Lecce
+Seixal
+Cascais,Lisboa
+Wiener Neustadt
+Uzhhorods'ka
+Praha 1
+Seine-et-Marne,Paris
+Venezia
+Praha 1
+Amsterdam
+Naarden
+Amsterdam
+Naarden,Amsterdam
+Naarden
+Naarden,Hilversum
+Naarden,Amsterdam
+Naarden
+Amsterdam
+Naarden
+Amsterdam
+Naarden,Utrecht
+Naarden
+Naarden
+Bussum,Amsterdam
+Amsterdam
+Naarden
+Naarden
+Bussum
+Naarden
+Naarden
+Amsterdam
+Naarden
+Naarden
+Naarden
+Amsterdam
+Amsterdam
+Naarden
+Naarden
+Amsterdam
+Amsterdam,Naarden,'s-Gravenhage,Waterland
+Naarden
+Laren
+Bussum,Naarden
+Bussum
+Naarden
+Naarden
+Bussum,Naarden
+Naarden
+Bussum,Naarden
+Lisse
+Huizen
+Huizen
+Amsterdam,Haarlem
+Naarden
+Amsterdam
+Amsterdam
+Bussum
+Loenen,Amsterdam
+Berlin
+Berlin
+Berlin
+Jung
+Crikvenica
+Tatra
+Kraków City
+Girona
+Girona
+Barcelona
+Sydney - Inner
+Waitakere
+Sydney - Inner
+Melbourne - Inner
+Western Bay of Plenty
+Sydney - Inner
+Coyoacán
+Azcapotzalco
+Westminster
+Grosseto
+Milano
+Warsaw
+Milano
+Florence
+Kefallinia
+Shevchenkivs'kyi
+Roma
+Roma
+Rijeka
+Wien
+Almaty (Alma-Ata)
+Ulanskiy
+Almaty (Alma-Ata)
+Tower Hamlets
+Westminster
+Makarska
+Castricum
+Loon op Zand
+Apeldoorn
+Paris
+Paris

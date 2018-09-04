@@ -23,18 +23,15 @@ def saveDico(d):
 
 
 def readCitiesFile(fname):
-    listOfCities = []
     anotherList = []
     with open(fname, encoding = "utf8") as f:
         content = f.read().splitlines()
         for item in content:
-            for x in item.split(','):
-                listOfCities.append(x)
             for x in item.split('\n'):
                 anotherList.append(x.split(','))
     return anotherList
 
-def mapToInt(fname):
+def mapToInt(fname, country):
     d = {}
     seen = {}
     listOfCities = readCitiesFile(fname)
@@ -53,7 +50,7 @@ def mapToInt(fname):
         finalList.append(tmpList)
     print(finalList)
 
-    newMap = open("TOPK_700k.txt", "w", encoding = "utf8")
+    newMap = open("TOPK_villes_Sejour_{}.txt".format(country), "w", encoding = "utf8")
     for tmp in finalList:
         tmpIndex = 0
         for city in tmp:
@@ -67,19 +64,20 @@ def mapToInt(fname):
         d = dict([(y, x+1) for x,y in enumerate(sorted(set(item)))])
         print(d) """
     
-    dictionaryAsDict = open("TOPK_700k_dico.txt", "w", encoding = "utf8")
+    dictionaryAsDict = open("TOPK_villes_Sejour_Dico_{}.txt".format(country), "w", encoding = "utf8")
     for key, value in seen.items():
         tmp = "key : &{}&, value : \"{}\" \n".format(key, value)
         dictionaryAsDict.write(tmp)
     dictionaryAsDict.close()
     #saveDico(d)
-    save_obj(seen, 'testDico')
+    save_obj(seen, 'dico_villes_Sejour_{}'.format(country))
 
 def printSavedDico(dicoName):
     d = load_obj(dicoName)
     print(d)
 
 if(__name__ == "__main__"):
-    fname = 'extrait_sejour_700k_villes.txt'
-    mapToInt(fname)
+    country = 'United Kingdom'
+    fname = 'topKFiles/result_sejour_homecountry_{}.txt'.format(country)
+    mapToInt(fname, country)
     print("Done ! ")
