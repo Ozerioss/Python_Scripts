@@ -1,0 +1,53 @@
+Kensington and Chelsea   ==>    #SUP: : 3 #CONF: 0.75
+Islington   ==>    #SUP: : 3 #CONF: 0.75
+Islington   ==>    #SUP: : 3 #CONF: 0.75
+London   ==>    #SUP: : 3 #CONF: 0.75
+Hackney   ==>    #SUP: : 3 #CONF: 0.6
+London   ==>    #SUP: : 3 #CONF: 0.75
+Islington   ==>    #SUP: : 3 #CONF: 0.75
+Islington   ==>    #SUP: : 3 #CONF: 0.75
+Hackney   ==>    #SUP: : 3 #CONF: 0.6
+Kensington and Chelsea   ==>    #SUP: : 3 #CONF: 0.75
+Westminster, Camden   ==> London   #SUP: : 3 #CONF: 0.75
+London, Camden   ==> Paris   #SUP: : 3 #CONF: 1.0
+Kensington and Chelsea, Islington   ==> Hackney   #SUP: : 3 #CONF: 1.0
+Westminster, Camden   ==> Islington   #SUP: : 3 #CONF: 0.75
+Hackney, Kensington and Chelsea   ==> Islington   #SUP: : 3 #CONF: 1.0
+Hackney, Islington   ==> Kensington and Chelsea   #SUP: : 3 #CONF: 1.0
+London, Camden   ==> Westminster   #SUP: : 3 #CONF: 1.0
+Kensington and Chelsea, Islington   ==>    #SUP: : 3 #CONF: 1.0
+Westminster, Islington   ==>    #SUP: : 3 #CONF: 1.0
+Paris, Islington   ==>    #SUP: : 3 #CONF: 0.75
+Hackney, Kensington and Chelsea   ==>    #SUP: : 3 #CONF: 1.0
+Paris, Kensington and Chelsea   ==>    #SUP: : 3 #CONF: 0.75
+Hackney, Islington   ==>    #SUP: : 3 #CONF: 1.0
+Camden, Islington   ==>    #SUP: : 3 #CONF: 1.0
+Paris, Hackney   ==>    #SUP: : 3 #CONF: 0.75
+Paris, Islington   ==>    #SUP: : 3 #CONF: 0.75
+London, Camden   ==>    #SUP: : 3 #CONF: 1.0
+Paris, Hackney, Kensington and Chelsea   ==> Islington   #SUP: : 3 #CONF: 1.0
+Paris, Westminster, Camden   ==> Islington   #SUP: : 3 #CONF: 0.75
+Paris, Westminster, Camden   ==> London   #SUP: : 3 #CONF: 0.75
+Paris, Hackney, Islington   ==> Kensington and Chelsea   #SUP: : 3 #CONF: 1.0
+Paris, Kensington and Chelsea, Islington   ==> Hackney   #SUP: : 3 #CONF: 1.0
+Paris, London, Camden   ==> Westminster   #SUP: : 3 #CONF: 1.0
+Hackney, Kensington and Chelsea, Islington   ==> Paris   #SUP: : 3 #CONF: 1.0
+London   ==> Westminster   #SUP: : 4 #CONF: 1.0
+London   ==> Paris   #SUP: : 4 #CONF: 1.0
+Hackney   ==> Paris   #SUP: : 4 #CONF: 0.8
+Kensington and Chelsea   ==> Paris   #SUP: : 4 #CONF: 1.0
+Seixal   ==> Paris   #SUP: : 4 #CONF: 0.8
+Venezia   ==> Paris   #SUP: : 4 #CONF: 0.6666666666666666
+Islington   ==> Paris   #SUP: : 4 #CONF: 1.0
+London   ==>    #SUP: : 4 #CONF: 1.0
+Westminster, London   ==> Paris   #SUP: : 4 #CONF: 1.0
+Paris, London   ==> Westminster   #SUP: : 4 #CONF: 1.0
+Paris, Camden   ==> Westminster   #SUP: : 4 #CONF: 0.6666666666666666
+Westminster, Camden   ==> Paris   #SUP: : 4 #CONF: 1.0
+Camden   ==> Paris   #SUP: : 6 #CONF: 0.75
+Los Angeles   ==> Paris   #SUP: : 6 #CONF: 0.6666666666666666
+Roma   ==> Paris   #SUP: : 9 #CONF: 0.75
+Bruxelles   ==> Paris   #SUP: : 10 #CONF: 0.7142857142857143
+Berlin   ==> Paris   #SUP: : 12 #CONF: 1.0
+Amsterdam   ==> Paris   #SUP: : 14 #CONF: 0.8235294117647058
+Westminster   ==> Paris   #SUP: : 14 #CONF: 0.875

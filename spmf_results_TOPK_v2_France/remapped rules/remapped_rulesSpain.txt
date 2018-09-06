@@ -1,0 +1,20 @@
+Hackney   ==> Paris   #SUP: : 4 #CONF: 0.8
+Kensington and Chelsea   ==> Westminster   #SUP: : 4 #CONF: 0.6666666666666666
+Kensington and Chelsea   ==>    #SUP: : 4 #CONF: 0.6666666666666666
+Paris, Kensington and Chelsea   ==> Westminster   #SUP: : 4 #CONF: 0.6666666666666666
+Westminster, Camden   ==> Paris   #SUP: : 4 #CONF: 1.0
+Westminster, Kensington and Chelsea   ==> Paris   #SUP: : 4 #CONF: 1.0
+Paris, Camden   ==> Westminster   #SUP: : 4 #CONF: 0.6666666666666666
+London   ==> Paris   #SUP: : 5 #CONF: 1.0
+London   ==> Westminster   #SUP: : 5 #CONF: 1.0
+London   ==>    #SUP: : 5 #CONF: 1.0
+Paris, London   ==> Westminster   #SUP: : 5 #CONF: 1.0
+Westminster, London   ==> Paris   #SUP: : 5 #CONF: 1.0
+Camden   ==> Paris   #SUP: : 6 #CONF: 0.6666666666666666
+Kensington and Chelsea   ==> Paris   #SUP: : 6 #CONF: 1.0
+Los Angeles   ==> Paris   #SUP: : 6 #CONF: 0.6666666666666666
+Roma   ==> Paris   #SUP: : 9 #CONF: 0.75
+Bruxelles   ==> Paris   #SUP: : 10 #CONF: 0.7142857142857143
+Berlin   ==> Paris   #SUP: : 12 #CONF: 0.9230769230769231
+Amsterdam   ==> Paris   #SUP: : 14 #CONF: 0.8235294117647058
+Westminster   ==> Paris   #SUP: : 16 #CONF: 0.8888888888888888

@@ -1687,9 +1687,9 @@ New York,Kings
 Kings
 New York
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Alanya
-Alpes-Maritimes,
+Alpes-Maritimes
 Verona
 Camden,Westminster,Islington
 Hamburg
@@ -2182,7 +2182,7 @@ Alpes-Maritimes
 New York
 Florence
 Florence
-Paris,
+Paris
 Falkenberg
 Praha 1
 Málaga
@@ -2558,7 +2558,7 @@ Florence
 Berlin
 Praha 1
 Tainan City
-Paris,Alpes-Maritimes,Paris,
+Paris,Alpes-Maritimes,Paris
 Venezia,Roma
 Westminster,Southwark
 Milano
@@ -2663,7 +2663,7 @@ Alanya
 Zell am See
 Seyðisfjörður,Fljótsdalshreppur
 Gianyar
-Gianyar,
+Gianyar
 Málaga
 Malmö
 Roma
@@ -2946,7 +2946,6 @@ Taupo
 Gianyar
 Berlin
 Salvaleón de Higüey
-
 Málaga
 Padua
 New York
@@ -3140,7 +3139,7 @@ Paris
 Paris
 Paris,Oise
 Karatu
-Phra Nakhon,
+Phra Nakhon
 Berlin
 Berlin
 Taytay
@@ -3198,7 +3197,7 @@ Oberbayern
 H? Chí Minh city,Bình Thu?n
 Bình Thu?n
 Bình Thu?n
-Bình Thu?n,H? Chí Minh city,
+Bình Thu?n,H? Chí Minh city
 Seixal
 Greenwich
 Westminster
@@ -3451,7 +3450,7 @@ New York
 New York
 Var,Paris
 Paris
-Roma,
+Roma
 Roma
 Roma
 Roma
@@ -4599,7 +4598,7 @@ Pirkanmaa
 Val-d'Oise,Finistère
 Chiyoda,Taito,Chuo
 Berlin
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris,Seine-et-Marne,Paris
 New York
 New York
@@ -4814,7 +4813,7 @@ La Spezia
 Las Palmas
 Baleares
 Baleares
-Roma,
+Roma
 Roma
 Savoie
 Savoie
@@ -4867,7 +4866,7 @@ New York
 Palilula
 New York
 Westminster
-Alpes-Maritimes,
+Alpes-Maritimes
 Berlin
 Trysil
 Waipa
@@ -5533,7 +5532,7 @@ Rättvik
 Rättvik
 Vila Velha
 Roma
-Roma,
+Roma
 Roma
 Vitoria
 Vila Velha
@@ -6230,7 +6229,7 @@ Westminster,Hertfordshire,Wandsworth
 Bodrum
 Malay,Kalibo,Numancia
 Kalibo,Numancia,Makati City,Parañaque
-Pasay City,
+Pasay City
 Bodrum
 Haringey
 Messina
@@ -6558,7 +6557,7 @@ Orange
 Queens
 Livorno
 Warrnambool
-Surf Coast - West,Greater Geelong - Pt B,Port Phillip - West,Sydney - Inner,
+Surf Coast - West,Greater Geelong - Pt B,Port Phillip - West,Sydney - Inner
 Berlin
 Uusimaa
 Sydney - Inner
@@ -7191,7 +7190,7 @@ Bang Plee
 Madrid
 Savoie
 Alpes-Maritimes
-Roma,
+Roma
 Beijing
 Beijing
 Beijing
@@ -7740,7 +7739,7 @@ West-Vlaanderen
 Westminster
 Westminster
 Tallinn
-Hà N?i,
+Hà N?i
 Murcia
 Köln
 Trysil
@@ -7978,7 +7977,7 @@ Berlin
 Berlin
 New York
 Seine-et-Marne
-Amsterdam,
+Amsterdam
 Amsterdam
 Berlin
 Los Angeles
@@ -8113,7 +8112,7 @@ Roma
 Roma
 Roma
 Roma
-Alpes-Maritimes,
+Alpes-Maritimes
 Rimini
 La Spezia
 La Spezia
@@ -8253,7 +8252,7 @@ Pirkanmaa
 Stockholm
 Stockholm
 Ostrobothnia
-Roma,
+Roma
 Roma
 Lambeth
 Laholm
@@ -8361,7 +8360,7 @@ Matn
 Batroun
 Barcelona
 Barcelona
-Roma,
+Roma
 Manchester
 Berlin
 Berlin
@@ -8498,7 +8497,7 @@ Málaga
 Málaga
 Dodecanese
 Vosges,Bas-Rhin,Yonne
-Alpes-Maritimes,
+Alpes-Maritimes
 Merkez
 Merkez
 Berlin
@@ -8648,7 +8647,7 @@ Göteborg,Lund,Stockholm
 Malmö
 Malmö
 Alpes-Maritimes
-Darmstadt,Alpes-Maritimes,
+Darmstadt,Alpes-Maritimes
 Stockholm
 Malmö,Stockholm
 Malmö
@@ -8679,7 +8678,7 @@ Stockholm
 Stockholm,Malmö
 Malmö
 Stockholm
-Stockholm,Sigtuna,Delhi,
+Stockholm,Sigtuna,Delhi
 Stockholm
 Stockholm,Eslöv,Solna,Kings,New York,Stockholm
 Stockholm
@@ -8891,7 +8890,6 @@ Bouches-du-Rhône
 El Paso
 Summit
 Salvaleón de Higüey
-
 El Paso
 El Paso
 Denver
@@ -9332,7 +9330,7 @@ Xi'an
 Shanghai,Beijing
 Muang Krabi
 Muang Krabi
-Shanghai,
+Shanghai
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
@@ -9422,7 +9420,7 @@ Malmö
 Malmö
 Malmö
 Ridderkerk
-Lisboa,
+Lisboa
 Lisboa
 Schleswig-Holstein
 Schleswig-Holstein

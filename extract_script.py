@@ -11,6 +11,17 @@ query_sejour_homecountry = "SELECT listeVilles FROM Sejour WHERE Common = 1\
                         AND listeVilles != '' AND paysOrigine = %s\
                         "
 
+query_sejour_France = "SELECT listeVilles FROM Sejour WHERE Common = 1\
+                        AND listeVilles != '' AND paysOrigine = %s\
+                        AND (pays1 = 'France' OR pays2 = 'France');\
+                        "
+
+
+query_sejourCorrected_France = "SELECT listeVilles FROM Sejour_Corrected\
+                        WHERE listeVilles != '' AND paysOrigine = %s\
+                        AND (pays1 = 'France' OR pays2 = 'France');\
+                        "
+
 query_sejourCorrected_homecountry = "SELECT listeVilles FROM Sejour_Corrected\
                         WHERE listeVilles != '' AND paysOrigine = %s\
                         "
@@ -52,9 +63,9 @@ def exportResultHomeCountry():
             country = line.strip()
             try:
                 print("Querying sejour for : {}".format(country))
-                cursor.execute(query_sejourCorrected_homecountry, country)
+                cursor.execute(query_sejourCorrected_France, country)
                 result = cursor.fetchall()
-                newLine = open("QueryResults_Sejour_Corrected/result_sejour_homecountry_{}.txt".format(country), "w", encoding = "utf8")
+                newLine = open("QueryResults_France_Sejour_Corrected/result_sejour_homecountry_{}.txt".format(country), "w", encoding = "utf8")
                 for tmp in result:
                     newLine.write(tmp[0])
                     newLine.write("\n")

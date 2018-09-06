@@ -1,0 +1,20 @@
+Bruxelles   ==> Paris   #SUP: : 6 #CONF: 1.0
+Paris, Tower Hamlets   ==> Westminster   #SUP: : 7 #CONF: 0.6363636363636364
+Westminster, Tower Hamlets   ==> Paris   #SUP: : 7 #CONF: 0.875
+Venezia   ==> Paris   #SUP: : 8 #CONF: 0.8888888888888888
+Roma   ==> Paris   #SUP: : 8 #CONF: 0.8
+Tower Hamlets   ==> Westminster   #SUP: : 8 #CONF: 0.6153846153846154
+Tower Hamlets   ==> Camden   #SUP: : 9 #CONF: 0.6923076923076923
+Hauts-de-Seine   ==> Paris   #SUP: : 9 #CONF: 0.6923076923076923
+Tower Hamlets   ==>    #SUP: : 9 #CONF: 0.6923076923076923
+Tower Hamlets, Camden   ==> Paris   #SUP: : 9 #CONF: 1.0
+Westminster, Camden   ==> Paris   #SUP: : 9 #CONF: 1.0
+Paris, Tower Hamlets   ==> Camden   #SUP: : 9 #CONF: 0.8181818181818182
+Yvelines   ==> Paris   #SUP: : 10 #CONF: 0.625
+Seine-Saint-Denis   ==> Paris   #SUP: : 10 #CONF: 0.7142857142857143
+Milano   ==> Paris   #SUP: : 10 #CONF: 1.0
+Val-de-Marne   ==> Paris   #SUP: : 10 #CONF: 0.6666666666666666
+Tower Hamlets   ==> Paris   #SUP: : 11 #CONF: 0.8461538461538461
+Barcelona   ==> Paris   #SUP: : 14 #CONF: 0.875
+Camden   ==> Paris   #SUP: : 18 #CONF: 0.9473684210526315
+Westminster   ==> Paris   #SUP: : 28 #CONF: 0.9333333333333333

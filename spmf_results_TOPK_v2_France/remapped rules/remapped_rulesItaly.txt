@@ -1,0 +1,21 @@
+Lugano   ==> Paris   #SUP: : 4 #CONF: 1.0
+Southwark   ==>    #SUP: : 4 #CONF: 1.0
+Paris, Kensington and Chelsea   ==> Westminster   #SUP: : 4 #CONF: 0.8
+Westminster, Kensington and Chelsea   ==> Paris   #SUP: : 4 #CONF: 1.0
+Seine-et-Marne, Yvelines   ==> Paris   #SUP: : 4 #CONF: 1.0
+Westminster, Southwark   ==> Paris   #SUP: : 4 #CONF: 1.0
+Alpes-Maritimes, Vaucluse   ==> Bouches-du-Rhône   #SUP: : 4 #CONF: 0.6666666666666666
+Paris, Southwark   ==> Westminster   #SUP: : 4 #CONF: 1.0
+Kensington and Chelsea   ==> Paris   #SUP: : 5 #CONF: 0.7142857142857143
+Darmstadt   ==> Paris   #SUP: : 6 #CONF: 0.6666666666666666
+Madrid   ==> Paris   #SUP: : 6 #CONF: 0.75
+Oberbayern   ==> Paris   #SUP: : 6 #CONF: 1.0
+Berlin   ==> Paris   #SUP: : 7 #CONF: 0.7
+Camden   ==>    #SUP: : 8 #CONF: 0.6153846153846154
+Paris, Camden   ==> Westminster   #SUP: : 8 #CONF: 0.6666666666666666
+Westminster, Camden   ==> Paris   #SUP: : 8 #CONF: 0.8888888888888888
+Camden   ==> Westminster   #SUP: : 9 #CONF: 0.6923076923076923
+Camden   ==> Paris   #SUP: : 12 #CONF: 0.9230769230769231
+Amsterdam   ==> Paris   #SUP: : 15 #CONF: 0.8823529411764706
+Yvelines   ==> Paris   #SUP: : 28 #CONF: 0.6829268292682927
+Westminster   ==> Paris   #SUP: : 30 #CONF: 0.8333333333333334

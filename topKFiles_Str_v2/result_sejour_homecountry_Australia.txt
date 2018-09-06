@@ -129,7 +129,7 @@ Muang Krabi
 Muang Krabi
 Sathorn
 Loulé
-Attica,West Sussex,Amsterdam,Hilversum,Kensington and Chelsea,Hillingdon,Enfield,
+Attica,West Sussex,Amsterdam,Hilversum,Kensington and Chelsea,Hillingdon,Enfield
 Suffolk,Essex,Suffolk
 District of Columbia
 Kings,Queens,Davidson
@@ -246,7 +246,7 @@ Chennai
 Chennai
 Chennai
 Chennai
-Kancheepuram,
+Kancheepuram
 Amritsar
 Wuhu
 Phra Nakhon
@@ -301,11 +301,11 @@ Darmstadt
 Oberbayern
 Alicante
 Alicante
-Darmstadt,
+Darmstadt
 Alicante
 New York
 Darmstadt
-Darmstadt,
+Darmstadt
 Baleares
 Darmstadt
 Darmstadt
@@ -1301,8 +1301,8 @@ Badung
 Kampala,Entebbe
 Gulu
 Gulu,Kibanda,Gulu,Entebbe
-Kibanda,Gulu,Entebbe,Gulu,Entebbe,
-Gulu,Entebbe,
+Kibanda,Gulu,Entebbe,Gulu,Entebbe
+Gulu,Entebbe
 Nadroga/Navosa
 Jbayl
 Batroun
@@ -1381,7 +1381,7 @@ Badung
 Broward
 Cobb
 Los Angeles
-Paris,Como,Lecco,Milano,Salerno,Venezia,Roma,
+Paris,Como,Lecco,Milano,Salerno,Venezia,Roma
 Waitakere
 Lecco
 New York
@@ -1406,7 +1406,7 @@ Chom Thong,Pathum Wan
 Sai Yok,Si Sawat
 Chom Thong
 Chom Thong
-Sathorn,
+Sathorn
 Wattana
 Thawi Wattana,Chom Thong
 Sathorn
@@ -1604,7 +1604,7 @@ Westminster,Hertfordshire,Camden
 Wellington
 Wellington
 Paris,Seine-et-Marne,Westminster,Camden,Islington
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes,Barcelona
 Cyclades
 Florence
@@ -1717,7 +1717,7 @@ Hua Hin
 Loeng Nok Tha
 Verona
 Venezia
-Paris,
+Paris
 Alpes-Maritimes
 London,Hillingdon
 Cape May
@@ -1920,7 +1920,7 @@ Paris,Seine-et-Marne
 Genève,Ain,Haute-Savoie
 Milano,Venezia
 Venezia,Florence
-Florence,Roma,
+Florence,Roma
 Roma,Florence
 Roma
 Ko Yao
@@ -2463,7 +2463,7 @@ Hà N?i
 Queenstown-Lakes
 Queenstown-Lakes
 Klungkung
-Johor Baharu,
+Johor Baharu
 Jung,Jongro,Seodaemun
 Mapo,Guro,Jongro,Seongbuk,Guro
 Jongro,Guro,Jung
@@ -2558,9 +2558,9 @@ H? Chí Minh city,Hà N?i
 Bodensee
 Freiburg
 Oberbayern
-Oberbayern,
 Oberbayern
-Hillingdon,Oberbayern,
+Oberbayern
+Hillingdon,Oberbayern
 Lombok Barat
 Gianyar
 Surabaya
@@ -3267,7 +3267,7 @@ Seongdong
 Minato
 Paju,Osaka
 Shanghai
-Minato,
+Minato
 Zürich
 Florence,Pisa
 Westminster
@@ -3945,7 +3945,7 @@ Girona
 Amsterdam
 Franekeradeel
 Bruxelles
-Westminster,Gwynedd,
+Westminster,Gwynedd
 Amsterdam
 Berlin
 Praha 1
@@ -4086,7 +4086,7 @@ Waitakere
 Ruapehu
 Nadroga/Navosa
 Wiltshire
-Jerusalem,
+Jerusalem
 Pasay City,Makati City
 Puerto Princesa City
 New York
@@ -4103,7 +4103,7 @@ Qu?ng Nam
 Badung
 Badung
 Westminster,Berkshire,Hammersmith and Fulham,Camden,Haringey,Kensington and Chelsea,Islington,Split
-Barcelona,
+Barcelona
 New York
 Gyál
 Antwerpen,Baleares
@@ -4272,7 +4272,7 @@ Budapesti
 Barcelona
 Praha 1
 Edam-Volendam
-Shah Alam,
+Shah Alam
 Guangzhou
 Lijiang,Chengdu
 Khlong Toey
@@ -4295,7 +4295,7 @@ Jongro,Gwang-jin
 Jung,Dong
 Morong
 Shibuya,Kyoto
-Kyoto,Osaka,
+Kyoto,Osaka
 Honolulu
 Ko Samui
 Maui
@@ -4323,7 +4323,7 @@ Chatham
 Chatham
 Chatham
 Kutchan,Niseko
-Taito,
+Taito
 Kyoto,Chiyoda,Shinjuku
 Lombok Barat
 Lombok Barat
@@ -4494,7 +4494,7 @@ Western Bay of Plenty
 Denpasar
 Westminster
 Camden
-Beijing,Shanghai,
+Beijing,Shanghai
 Osaka,Kyoto,Kobe
 Pathum Wan
 Pathum Wan
@@ -4563,7 +4563,7 @@ Salerno
 Amsterdam
 Honolulu
 Attica
-Attica,
+Attica
 Paris
 Mittakpheap
 Phnom Penh
@@ -5105,7 +5105,7 @@ Ede
 Amsterdam
 Nijmegen
 Lucca
-Wadi Musa,
+Wadi Musa
 Los Angeles,Cook
 Cook
 Cook
@@ -5503,7 +5503,7 @@ Taichung City
 Badung
 H? Chí Minh city
 H? Chí Minh city
-H? Chí Minh city,
+H? Chí Minh city
 Oberbayern
 Florence
 Roma
@@ -5726,7 +5726,7 @@ Honolulu
 Honolulu
 Honolulu
 Qu?ng Nam,Hà N?i
-Shah Alam,
+Shah Alam
 Edinburgh,Nottingham
 Kensington and Chelsea,Tower Hamlets,Westminster
 Roma
@@ -5877,7 +5877,6 @@ Cyclades
 Badung
 Gianyar,Badung
 Merkez
-
 Guipúzcoa
 Pyrénées-Atlantiques
 Guipúzcoa
@@ -6037,7 +6036,7 @@ Oberbayern
 Guipúzcoa
 Paris
 Guipúzcoa
-Jerusalem,
+Jerusalem
 Northern
 Las Heras,Capital,Luján de Cuyo
 Valparaíso,Luján de Cuyo,Distrito Federal
@@ -6147,7 +6146,7 @@ Westminster
 Suffolk
 Los Angeles
 Bleiswijk,Amsterdam
-Westminster,
+Westminster
 Edinburgh
 Badung
 Los Angeles
@@ -6228,7 +6227,7 @@ Central,Odintsovskiy rayon,Western,Eastern,Northern,South-Eastern,North-Eastern,
 Camden
 Kensington and Chelsea,Brighton and Hove
 Côtes-d'Armor,Ille-et-Vilaine
-Timur Laut,Barat Daya,
+Timur Laut,Barat Daya
 North-Eastern
 Kathu
 Kathu,Muang Phuket
@@ -6271,8 +6270,8 @@ Thalang
 Oberbayern
 Kitzbühel,Zell am See
 Coleraine,Belfast,Down
-Down,Belfast,
-Paris,Yvelines,
+Down,Belfast
+Paris,Yvelines
 Paris
 Lombok Barat
 H? Chí Minh city
@@ -6352,7 +6351,7 @@ West Sussex
 West Sussex
 Kensington and Chelsea
 Kensington and Chelsea
-West Sussex,
+West Sussex
 West Sussex
 Westminster
 West Sussex
@@ -6489,7 +6488,7 @@ Queenstown-Lakes
 Tasman
 Waitakere
 Auckland
-Dubrovnik,
+Dubrovnik
 Cozumel
 Cozumel
 Othón P. Blanco
@@ -6518,7 +6517,7 @@ Marrakech
 Lagos,,Roma
 Florence,Pisa
 Lagos
-Lagos,Seixal,Lisboa,Alpes-Maritimes,
+Lagos,Seixal,Lisboa,Alpes-Maritimes
 Paris,Seine-Saint-Denis,Val-d'Oise,Westminster,West Yorkshire
 Dist. Juquila,Dist. Pochutla
 Dist. Pochutla
@@ -6694,7 +6693,7 @@ Badung
 Badung
 Paris
 New York
-Qujing,Dali Bai,
+Qujing,Dali Bai
 Badung
 Tasman
 H? Chí Minh city,Khánh Hòa
@@ -6914,11 +6913,11 @@ Kyoto
 Suzhou
 Chengdu
 Honolulu
-Ko Samui,
+Ko Samui
 Inba
 Maui
 Honolulu
-Timur Laut,
+Timur Laut
 Surakarta
 Surakarta
 Surakarta
@@ -7032,7 +7031,7 @@ Muang Khon Kaen
 Khlong Toey,Muang Rayong
 Wien
 Hackney,Baleares
-Paris,
+Paris
 Phra Nakhon
 Phra Nakhon
 Phra Nakhon
@@ -7213,7 +7212,7 @@ Pembrokeshire
 Cardiff
 Pembrokeshire
 Cheshire
-Hillingdon,
+Hillingdon
 Shah Alam
 Qu?ng Ninh,Hà N?i,Qu?ng Nam,Khánh Hòa
 Shah Alam
@@ -7256,8 +7255,8 @@ San Francisco
 Clark
 San Francisco
 Clark
-Makati City,Tagaytay City,
-Makati City,
+Makati City,Tagaytay City
+Makati City
 Amritsar
 Camden
 Belfast
@@ -7290,7 +7289,7 @@ Shanghai
 Shanghai,Zhenjiang
 H? Chí Minh city
 Siem Reab
-Shanghai,
+Shanghai
 Wuhan
 Wuhan
 Vaimauga West
@@ -7477,7 +7476,7 @@ Haringey
 Hammersmith and Fulham
 Madrid
 Alpes-Maritimes
-Viterbo,Roma,
+Viterbo,Roma
 Badung
 Badung
 Los Angeles
@@ -7680,8 +7679,8 @@ Phuttha Mon Thon
 Qu?ng Nam
 Nakano,Chuo,Ota
 Osaka,Kobe
-Kobe,Kyoto,
-Kyoto,
+Kobe,Kyoto
+Kyoto
 Shibayama,Minato,Shibuya
 Rankoshi
 Sapporo
@@ -7838,7 +7837,7 @@ Bang Plee,Pasay City,Manila,Quezon City,Makati City,Parañaque
 Bang Plee
 Pathum Wan
 Pathum Wan
-Bang Plee,
+Bang Plee
 Jakarta Pusat,Jakarta Selatan
 Shanghai
 Shanghai
@@ -8199,16 +8198,16 @@ Seongdong,Gangnam,Jung
 Chuo,Shibuya,Chuo,Shinjuku
 Minato,Chuo
 Minato,Chuo
-San Francisco,
+San Francisco
 Westminster,Shinjuku
 Islington,Jongro,Westminster
 San Mateo,San Francisco
 Los Angeles,San Francisco,Napa,Los Angeles
-San Francisco,Los Angeles,
+San Francisco,Los Angeles
 Jongro
 Jongro
 Jongro
-Los Angeles,
+Los Angeles
 Otaru
 Los Angeles
 Schroeder,Jaraguá do Sul
@@ -8834,7 +8833,7 @@ Rotterdam
 Merseyside
 Amsterdam,Merseyside
 Camden
-Bang Rak,Edinburgh,
+Bang Rak,Edinburgh
 Ko Lanta
 Kyoto,Shibuya
 Rotterdam
@@ -8934,7 +8933,7 @@ Westminster
 Hounslow
 Utah
 Utah
-Shanghai,
+Shanghai
 Franklin,Queenstown-Lakes
 Westminster,Brighton and Hove,Hammersmith and Fulham,Brighton and Hove,Hounslow,Gard
 Hammersmith and Fulham,Brighton and Hove,Hounslow,Gard
@@ -8976,7 +8975,7 @@ Lak Si
 Chatuchak,K. Phu Kam Yao
 Muang Phayao
 Waitakere,Rotorua,Matamata-Piako,Queenstown-Lakes
-Tsukuba,Minato,Chiyoda,Taito,
+Tsukuba,Minato,Chiyoda,Taito
 Tsukuba
 Mae Chaem,Muang Chiang Mai
 Muang Chiang Mai
@@ -9066,7 +9065,7 @@ Queenstown-Lakes
 Uppsala
 Piteå
 Umeå
-Delhi,
+Delhi
 San Francisco
 Wien
 Wien
@@ -9188,7 +9187,7 @@ Sam Phran
 Hillingdon,Köln,Hengelo
 Hengelo
 Hengelo
-Shanghai,
+Shanghai
 Hà N?i,Lào Cai
 Lào Cai,Qu?ng Ninh,Hà N?i
 Qu?ng Nam,Ðà N?ng
@@ -9230,7 +9229,7 @@ Santiago,Chacabuco,Esteban Echeverría
 Badung
 Chongqing
 Chongqing
-Xiamen,
+Xiamen
 Hammersmith and Fulham,Enfield,Hounslow,Westminster,Brent,Kensington and Chelsea,Richmond upon Thames,Islington,Hackney,London,Kent,Barking and Dagenham
 Ko Samui
 Phra Nakhon
@@ -9563,7 +9562,7 @@ Taipei City
 Los Angeles
 Clark,New York
 Taipei City
-Taoyuan,
+Taoyuan
 Seongdong,Jongro
 Seongdong
 Taipei City
@@ -9645,7 +9644,7 @@ Bang Rak
 Sathorn,Pathum Wan,Sathorn,Bang Rak
 Cha-Am,Pathum Wan,Sathorn,Pathum Wan,Bang Plee
 Pathum Wan,Bang Bon,Bang Plee,Muang Chiang Mai,Sathorn
-Kepulauan Riau,
+Kepulauan Riau
 Shanghai
 Prawet,Bang Rak,Bang Na,Bang Plee,Pathum Wan
 Warsaw
@@ -9816,7 +9815,7 @@ Durban
 Underberg,Durban
 Inanda,Lower Tugela,Inanda
 Inanda,Port Shepstone
-Lower Tugela,
+Lower Tugela
 Queenstown-Lakes
 Queenstown-Lakes
 Badung
@@ -10200,7 +10199,7 @@ Shevchenkivs'kyi
 Pechers'kyi,Holosiïvs'kyi
 L'vivs'ka
 Holosiïvs'kyi
-Boryspil's'ka,
+Boryspil's'ka
 Shanghai
 Shanghai
 Shanghai
@@ -10402,7 +10401,7 @@ Hà N?i,Lào Cai,Qu?ng Ninh,Hà N?i
 West Midlands,Praha 6,Praha 1,Wien,Mödling,Wien Umgebung
 West Midlands,Southwark,Westminster,Kensington and Chelsea,Southwark,West Midlands
 Batam
-Malay,
+Malay
 Orange
 Benito Juárez
 Queenstown-Lakes
@@ -10425,7 +10424,7 @@ Hòa Bình,Hà N?i
 Hà N?i
 Pathum Wan
 Sai Yok
-Bang Plee,Ko Samui,
+Bang Plee,Ko Samui
 Travis,Smith,District of Columbia
 New York
 Westminster,Hammersmith and Fulham
@@ -10846,7 +10845,7 @@ Christchurch
 Jönköping
 Jönköping
 Jönköping
-Härryda,
+Härryda
 Jönköping
 Budapesti
 Shah Alam
@@ -11062,7 +11061,7 @@ Jakarta Selatan,Jakarta Barat,Jakarta Utara,Jakarta Pusat
 Westminster
 Jakarta Pusat,Jakarta Timur
 Jakarta Pusat
-Jakarta Pusat,
+Jakarta Pusat
 Westminster,Camden,Islington,Kensington and Chelsea,Hertfordshire,Nottingham,Lincolnshire,Manchester,York,Leicestershire,Amsterdam
 Stockholm,Sundsvall,Umeå,Westminster,Nordmaling,Sigtuna
 Jakarta Pusat
@@ -11071,7 +11070,7 @@ Jakarta Pusat
 Jakarta Pusat
 Westminster
 Jakarta Utara
-Batam,
+Batam
 Jakarta Pusat
 Jakarta Pusat
 Jakarta Selatan,Jakarta Pusat
@@ -11109,7 +11108,7 @@ Kota Bandung
 Jakarta Pusat
 Jakarta Selatan
 Jakarta Pusat
-Jakarta Pusat,
+Jakarta Pusat
 Jakarta Pusat
 Jakarta Pusat
 Kota Tangerang,Badung
@@ -11119,7 +11118,7 @@ Jakarta Timur
 Darmstadt
 Praha 6
 Wien
-Wien,Maloja,Visp,Pays-d'Enhaut,Aigle,Obersimmental,Genève,Lavaux-Oron,Kota Tangerang,
+Wien,Maloja,Visp,Pays-d'Enhaut,Aigle,Obersimmental,Genève,Lavaux-Oron,Kota Tangerang
 Schwaben
 Visp
 Mittelfranken
@@ -11230,7 +11229,7 @@ Orange
 Quezon City
 Shah Alam,Timur Laut,Barat Daya
 Batong
-Sepang,
+Sepang
 Badung
 Westminster
 Camden
@@ -11536,7 +11535,7 @@ Goodwood
 Riverside,Orange
 Orange
 Bergen,New York
-Jerusalem,
+Jerusalem
 Ravalli
 Clark
 Honolulu
@@ -11644,7 +11643,7 @@ Cook
 Combined statistics
 San Francisco
 Barcelona
-Guipúzcoa,
+Guipúzcoa
 Val-de-Marne
 Paris
 Queens
@@ -11967,7 +11966,7 @@ Kulim
 Surabaya
 Westminster
 Westminster
-Shenzhen,
+Shenzhen
 Shenzhen
 Aguirre
 Landeck
@@ -12090,7 +12089,7 @@ Osaka
 Niseko,Kutchan
 Kutchan
 Shibuya
-Roma,
+Roma
 Roma,Salerno
 Squamish-Lillooet
 Squamish-Lillooet
@@ -12251,7 +12250,7 @@ Jakarta Barat,Jakarta Pusat,Jakarta Utara,Jakarta Pusat
 Jakarta Pusat,Jakarta Selatan,Jakarta Pusat
 Kota Tangerang,Jakarta Barat
 Jakarta Selatan,Jakarta Pusat,Jakarta Selatan
-Jakarta Pusat,
+Jakarta Pusat
 Jakarta Selatan
 Jakarta Pusat,Jakarta Barat,Jakarta Selatan
 Jakarta Selatan
@@ -12368,7 +12367,7 @@ Kobe,Osaka,Kyoto
 Ota,Bunkyo,Kita
 Camden,Westminster
 Florence,Paris
-Siena,Roma,Viterbo,Roma,
+Siena,Roma,Viterbo,Roma
 Combined statistics
 Combined statistics
 Berlin,Detmold
@@ -12574,7 +12573,7 @@ Tangerang
 Sepang
 Sepang
 Taipei
-Taipei,Taipei City,Taoyuan,
+Taipei,Taipei City,Taoyuan
 Chiyoda
 Los Angeles
 New York,Kings,New York
@@ -13058,7 +13057,7 @@ Marneuli
 Westminster,Merton,Paris
 Paris
 Roma
-Paris,Alpes-Maritimes,
+Paris,Alpes-Maritimes
 Milano
 Westminster
 Badung,Gianyar
@@ -13095,7 +13094,7 @@ Xi'an
 Xi'an
 Camden
 Manchester,Merseyside,Cumbria
-Kensington and Chelsea,
+Kensington and Chelsea
 Westminster,Hackney
 Alpes-Maritimes
 Alpes-Maritimes
@@ -13427,7 +13426,7 @@ Davao City
 New York,District of Columbia
 New York,Cook
 Cook
-Cook,Dupage,Cook,
+Cook,Dupage,Cook
 Pasay City
 Davao City
 Davao City
@@ -13634,7 +13633,7 @@ Queenstown-Lakes
 Ko Samui
 Ruapehu
 Bethlehem,Cyclades
-Jizeh,
+Jizeh
 Seine-et-Marne
 Thalang
 Messina,Syracuse
@@ -13894,11 +13893,11 @@ Queenstown-Lakes
 Queenstown-Lakes
 Westminster
 Ota,Shibuya,Shinjuku,Nakano,Bunkyo,Minato,Shibuya,Ota
-Barcelona,Westminster,Camden,Hillingdon,
+Barcelona,Westminster,Camden,Hillingdon
 Hamburg,Berlin
-Oslo,Ullensaker,
+Oslo,Ullensaker
 Oslo,Darmstadt,Ullensaker,Uusimaa
-Darmstadt,Loudoun,Los Angeles,
+Darmstadt,Loudoun,Los Angeles
 Bang Plee
 Badung,Narita,Essex,Bang Plee
 Snohomish
@@ -14220,7 +14219,7 @@ Lapland
 Tallinn
 Marrakech
 Fès,Chefchaouen
-Jung,
+Jung
 Madrid
 Agra
 A Seeb
@@ -14721,7 +14720,7 @@ Badung,Gianyar,Badung
 Kraków City,Oberbayern
 Shanghai,Suzhou,Hangzhou,Shanghai,Hangzhou,Suzhou,Shibuya,Shinjuku,Chiyoda,Nakano,Kyoto
 Attica,Cyclades
-Besiktas,Fatih,Attica,
+Besiktas,Fatih,Attica
 Attica
 Bouches-du-Rhône,Hérault,Lot
 Bouches-du-Rhône
@@ -14819,7 +14818,7 @@ West Lothian
 Aberdeenshire
 Hamburg
 Paris,,Venezia,Milano,Camden,Seine-et-Marne,Interlaken,Hammersmith and Fulham
-Roma,
+Roma
 Sour
 Barcelona
 Ansan
@@ -15040,9 +15039,9 @@ Manukau,Waitakere
 Waitakere
 Marlborough,Kaikoura
 Kampala
-Busiiro,Entebbe,
+Busiiro,Entebbe
 Waitakere
-Taipei City,Taoyuan,
+Taipei City,Taoyuan
 Kampala
 Kampala
 Entebbe
@@ -15642,7 +15641,7 @@ Badung
 Badung
 Badung,Praha 1
 Amsterdam
-Amsterdam,
+Amsterdam
 Westminster,Camden
 Paris,Rio de Janeiro
 Honolulu
@@ -15719,7 +15718,7 @@ Tarrant,Cozumel
 San Francisco,Clark
 Jongro
 New York
-Westminster,
+Westminster
 Randburg
 Honolulu
 Honolulu,Los Angeles
@@ -15945,7 +15944,7 @@ Shah Alam
 Bình Thu?n,Lâm Ð?ng
 Qu?ng Nam
 Westminster
-Taoyuan,
+Taoyuan
 Kaohsiung
 Badung
 Badung
@@ -16012,7 +16011,7 @@ Si Racha
 Squamish-Lillooet,New York,Suffolk,King,Orleans,Greater Vancouver,Merton,Alameda,La Paz,Hawaii
 Chatham,Orleans
 Cheshire
-Badung,
+Badung
 Manchester
 Manchester
 Tyne and Wear
@@ -16176,7 +16175,7 @@ New York,Kings
 Kings,New York
 New York
 Jakarta Selatan,Jakarta Pusat,Kota Tangerang,Jakarta Barat
-Ko Samui,
+Ko Samui
 Shah Alam
 Ko Samui
 Los Angeles
@@ -16205,7 +16204,7 @@ Combined statistics
 Quanzhou
 Roma,Como,Mendrisio
 Barcelona,Valencia,Sevilla,Granada
-Sevilla,Granada,Madrid,
+Sevilla,Granada,Madrid
 Stockholm,Kiruna
 Kiruna
 Oslo
@@ -16255,7 +16254,7 @@ Badung,Gianyar,Badung
 Nouméa
 New York
 New York
-Shibuya,
+Shibuya
 Chiyoda
 Essex
 Essex
@@ -16417,7 +16416,7 @@ Dordogne
 Dordogne
 Paris
 Pierce
-Paris,
+Paris
 Warwickshire
 Westminster
 Jongro
@@ -16498,7 +16497,7 @@ Napier
 Dallas,Tarrant
 Bakirköy
 Paris,Bakirköy
-Paris,
+Paris
 Los Angeles,King
 Paris
 Waitakere,Napier,Nadroga/Navosa
@@ -16626,7 +16625,7 @@ Marlborough
 Selwyn
 Westminster
 Paris,Rhône
-Alpes-Maritimes,
+Alpes-Maritimes
 Bari,Florence,Corfu
 Attica,Cyclades
 Cyclades
@@ -16881,7 +16880,7 @@ Wattana
 Phuttha Mon Thon
 Phuttha Mon Thon
 Phuttha Mon Thon
-Jericho,
+Jericho
 Arusha
 Nairobi
 Waitomo
@@ -16959,7 +16958,7 @@ Milano
 Obwalden
 Badung
 Fatih
-Cook,
+Cook
 Cook,San Mateo
 Cook
 Cook
@@ -17006,7 +17005,7 @@ New York,Kings,New York
 Jefferson
 Kensington and Chelsea,Westminster,Essex
 Paris
-Roma,
+Roma
 Marin
 San Francisco
 San Francisco,Travis
@@ -17029,7 +17028,7 @@ Shah Alam
 Shah Alam,Klang
 Paris
 Westminster,Camden,Kensington and Chelsea
-Shah Alam,
+Shah Alam
 Shah Alam
 Shah Alam
 Camden
@@ -17836,22 +17835,22 @@ Phra Nakhon
 Badung
 Shah Alam
 Shah Alam
-Fthiotis,
+Fthiotis
 Phra Nakhon
 Hounslow
 Thalang
-'s-Gravenhage,
 's-Gravenhage
-Waitakere,
+'s-Gravenhage
+Waitakere
 Makati City
 New York
-Jakarta Selatan,
+Jakarta Selatan
 Thalang
 Wien,Salzburg
 Cherokee
 H? Chí Minh city,Ðak Nông,H? Chí Minh city
 Kepulauan Riau
-Johor Baharu,
+Johor Baharu
 Pathum Wan
 Guangzhou
 Johor Baharu
@@ -17903,7 +17902,7 @@ New York
 New York
 Westminster,Camden,Darmstadt,Hillingdon,Paris,Val-de-Marne,Seine-et-Marne,Brent,London,Barcelona,Westminster,Kensington and Chelsea,Southwark,Buckinghamshire,Hammersmith and Fulham
 Delhi,Sawai Madhopur,Jaipur,Alwar,Delhi
-Alwar,Delhi,
+Alwar,Delhi
 Combined statistics,Milano,Reykjavík
 Southwark,Westminster,Hammersmith and Fulham,Westminster,Dunedin
 Dallas,Tarrant,Travis,Saint Louis,Williamson,Davidson,Shelby,Jackson,Los Angeles
@@ -17997,7 +17996,7 @@ Azcapotzalco
 Kings
 Merseyside,Westminster,London,Wiltshire
 Warsaw
-Jakarta Utara,
+Jakarta Utara
 Jakarta Selatan,Tangerang
 Edogawa
 Yokohama
@@ -18051,8 +18050,8 @@ Hamilton
 Hamilton
 Hamilton
 Los Angeles
-Kyoto,Osaka,Narita,
-Narita,
+Kyoto,Osaka,Narita
+Narita
 Siem Reab,Phnom Penh
 Hà N?i,Lào Cai,Hà N?i
 Hà N?i,H?i Phòng
@@ -18067,7 +18066,7 @@ Muang Krabi,Ko Lanta
 Ko Lanta
 Ko Phangan
 Ko Phangan
-Salerno,
+Salerno
 Taipei City
 Osaka
 Minato
@@ -18380,7 +18379,7 @@ Badung
 H? Chí Minh city
 Ti?n Giang
 Shah Alam
-Thalang,
+Thalang
 Rotterdam
 Siburan
 Jongro,Gangnam
@@ -18401,8 +18400,8 @@ Monterey
 Sonoma
 Mackenzie,Queenstown-Lakes,Christchurch
 Sepang
-Pasay City,Santa Rosa City,Manila,
-Pasay City,Santa Rosa City,Manila,
+Pasay City,Santa Rosa City,Manila
+Pasay City,Santa Rosa City,Manila
 Orange,Monroe
 New York
 Queens,New York,Hudson,Rockingham,Cumberland
@@ -18614,7 +18613,7 @@ Fatih
 Cyclades
 Attica,Paris
 Amsterdam
-Combined statistics,Roskilde,
+Combined statistics,Roskilde
 Amsterdam
 Berlin
 Bang Kapi
@@ -19075,8 +19074,8 @@ Venezia,Manchester
 Florence,Pisa,Roma
 Roma
 Alpes-Maritimes
-Alpes-Maritimes,
-Alpes-Maritimes,
+Alpes-Maritimes
+Alpes-Maritimes
 Cyclades,Attica
 Westminster
 New York
@@ -19105,7 +19104,7 @@ Taoyuan,Taipei City,Taipei
 Wellington,Tasman,Nelson,Tasman
 Distrito Federal
 Distrito Federal,n.a354,n.a351
-Badung,
+Badung
 Los Angeles,New York,Orange,Brevard,Broward,Miami-Dade,Monroe,Miami-Dade,Collier
 Monroe,Miami-Dade,Collier,Miami-Dade
 Miami-Dade
@@ -19202,7 +19201,7 @@ Barcelona
 Kensington and Chelsea
 Szczecin
 Berlin
-Konavle,
+Konavle
 Budapesti
 West Yorkshire
 West Yorkshire
@@ -19362,7 +19361,7 @@ Nantou
 Chuo,Kyoto
 Minato
 Taito
-Taito,
+Taito
 Western Bay of Plenty
 Manukau
 Wellington
@@ -19452,7 +19451,7 @@ Barcelona
 Catania
 Napoli
 Hvar
-Rimini,
+Rimini
 Roma
 Roma
 Nadroga/Navosa
@@ -19825,7 +19824,7 @@ Westminster
 Maui
 Honolulu
 Shah Alam,Kinta
-Sepang,
+Sepang
 Kinta
 Shah Alam
 Shah Alam
@@ -19866,7 +19865,7 @@ Westminster,Hertfordshire,Barcelona,Sevilla,Córdoba
 Córdoba,Kensington and Chelsea
 Stockholm,Kiruna
 Zürich,Luzern
-Florence,Roma,
+Florence,Roma
 Paris
 Johannesburg,Boksburg
 Mjini
@@ -20378,11 +20377,11 @@ Kraków City
 Paris
 Paris
 Côte-d'Or,Paris
-Paris,
+Paris
 Scottish Borders
 Scottish Borders
 Shah Alam
-Tabanan,Probolinggo,Gianyar,Karang Asem,
+Tabanan,Probolinggo,Gianyar,Karang Asem
 New York
 Orange
 Cook
@@ -20428,7 +20427,7 @@ Muang Chiang Rai
 Suan Luang
 Ko Samui
 Kathu
-Theran,
+Theran
 Kyoto
 Ada
 Ada,San Francisco
@@ -20704,7 +20703,7 @@ Distrito Federal
 Distrito Federal
 Cordillera
 Bellary
-Kathu,
+Kathu
 Tallinn,Sankt-Peterburg gorsovet
 Roma
 Roma
@@ -20849,7 +20848,7 @@ South Goa
 Fujikawaguchiko,Shinjuku
 Kyoto,Okayama
 Badung
-Alpes-Maritimes,Alpes-de-Haute-Provence,
+Alpes-Maritimes,Alpes-de-Haute-Provence
 Vaucluse
 Lambeth
 Paris
@@ -20880,7 +20879,7 @@ Phra Nakhon
 Phra Nakhon
 Phra Nakhon
 Phra Nakhon,Bang Lamung
-Beirut,Bcharré,
+Beirut,Bcharré
 Koura,Jbayl
 Los Angeles
 Brevard
@@ -20943,7 +20942,7 @@ Westchester
 Barcelona
 Jongro
 Jongro
-Kaohsiung,
+Kaohsiung
 Medan
 Kota Bandung
 Dhaka
@@ -21398,7 +21397,7 @@ Shah Alam
 Surabaya
 Shah Alam
 Shah Alam
-Makati City,
+Makati City
 Badung,Gianyar
 Badung,Gianyar,Badung
 Badung
@@ -21871,7 +21870,7 @@ Taitung
 Taitung
 Invercargill
 Hamilton
-Miami-Dade,
+Miami-Dade
 Glasgow
 Glasgow
 Waitakere
@@ -21931,7 +21930,7 @@ Badung
 San Francisco,Cook,Toronto,Communauté-Urbaine-de-Montréal,Greater Vancouver
 Communauté-Urbaine-de-Montréal,Greater Vancouver
 Greater Vancouver
-Chuo,Chiyoda,Kyoto,
+Chuo,Chiyoda,Kyoto
 Badung
 Berlin
 Berlin
@@ -22270,7 +22269,7 @@ New York
 New York,Clark
 Kings
 Kings
-Kings,
+Kings
 New York
 Qu?ng Nam
 H? Chí Minh city
@@ -22716,13 +22715,12 @@ Karang Asem
 Gianyar
 K.F.G. & G. Korale
 Welipitiya
-Shah Alam,Timur Laut,
+Shah Alam,Timur Laut
 Kuching
 n.a354
 José Ballivián
 Medellín
 Salvaleón de Higüey
-
 New York
 Qu?ng Ninh
 Phra Nakhon,Hà N?i
@@ -23062,7 +23060,7 @@ Budapesti
 Wien
 Combined statistics
 Johor Baharu,Shah Alam,Timur Laut
-Johor Baharu,
+Johor Baharu
 San Francisco
 Kings
 Essex
@@ -23274,7 +23272,7 @@ Santa Clara
 Badung
 Muang Phuket
 Muang Krabi
-Greater Vancouver,Tower Hamlets,Westminster,Alpes-Maritimes,Barcelona,
+Greater Vancouver,Tower Hamlets,Westminster,Alpes-Maritimes,Barcelona
 Madrid
 Haute-Savoie
 Gwanak,Jung
@@ -23402,7 +23400,7 @@ Roma
 Wien Umgebung
 Surabaya
 Siem Reab
-Osaka,
+Osaka
 Badung
 Badung
 Cook
@@ -23420,7 +23418,7 @@ Muang Phuket,Bang Rak,Pom Pram Sattru
 Paris,Florence
 Paris,Florence
 Florence,Salerno
-Kathu,
+Kathu
 Kathu
 Kathu
 Badung
@@ -23739,7 +23737,7 @@ Queenstown-Lakes
 Waitakere
 Ulan Bator
 Jeseník
-Theran,
+Theran
 Kent
 Taipei City
 Tainan City
@@ -23789,7 +23787,7 @@ Pathum Wan,Sathorn,Wattana
 Sathorn,Bang Rak,Sathorn,Bang Rak
 Sathorn,Bang Rak,Sathorn
 Siem Reab
-Bang Rak,Bang Plee,
+Bang Rak,Bang Plee
 Pathum Wan
 Bang Rak,Pathum Wan
 Bang Rak,Sathorn,Khlong Toey,Pathum Wan
@@ -23827,8 +23825,8 @@ Sathorn,Bang Rak
 Bang Rak,Sathorn
 Sathorn,Bang Rak
 Khlong Toey,Pathum Wan,Bang Rak
-Pathum Wan,Bang Rak,Sathorn,Bang Rak,
-Sathorn,Bang Rak,
+Pathum Wan,Bang Rak,Sathorn,Bang Rak
+Sathorn,Bang Rak
 Khlong Toey,Khlong San,Phra Nakhon,Bang Rak,Wattana,Pathum Wan,Sathorn,Khlong Toey
 Pathum Wan,Sathorn,Khlong Toey,Bang Rak,Sathorn
 Bang Rak,Sathorn,Khlong Toey,Pathum Wan
@@ -24335,7 +24333,7 @@ Hwaseong
 Hwaseong
 Hwaseong
 Hwaseong
-Samphantawong,
+Samphantawong
 Shah Alam
 Shah Alam
 New York
@@ -24619,7 +24617,7 @@ Florence
 Napoli,Salerno
 Milano
 Argyll and Bute
-Communauté-Urbaine-de-Montréal,Communauté-Urbaine-de-Québec,Toronto,Niagara,
+Communauté-Urbaine-de-Montréal,Communauté-Urbaine-de-Québec,Toronto,Niagara
 Ko Samui
 Pathum Wan
 Sepang
@@ -24822,7 +24820,7 @@ Gotland
 Stockholm,Danderyd
 Gotland
 Milano,Zürich,Bülach,Camden,Haringey,Hackney,Merseyside,Westminster,Kensington and Chelsea
-Haringey,Hackney,Merseyside,Westminster,Kensington and Chelsea,Southwark,Haringey,Waltham Forest,Camden,Westminster,
+Haringey,Hackney,Merseyside,Westminster,Kensington and Chelsea,Southwark,Haringey,Waltham Forest,Camden,Westminster
 Badung
 Bagmati
 Kyoto,Osaka
@@ -25167,7 +25165,7 @@ Badung
 Gianyar
 Seongbuk,Seodaemun
 Jongro,Seongbuk
-Shinjuku,Shibuya,Chuo,Koto,Setagaya,Nakano,Edogawa,Narita,Minato,
+Shinjuku,Shibuya,Chuo,Koto,Setagaya,Nakano,Edogawa,Narita,Minato
 Badung
 New York
 New York
@@ -25341,7 +25339,7 @@ Westminster
 Karlsruhe
 Kings
 Kings
-Haora,Kolkata,South 24 Parganas,
+Haora,Kolkata,South 24 Parganas
 Badung
 Badung
 New York
@@ -25598,7 +25596,7 @@ Ko Samui
 Ko Phangan
 Muang Chiang Mai
 Kaikoura,Queenstown-Lakes,Christchurch
-Seremban,
+Seremban
 Pathum Wan
 Pathum Wan,Thawi Wattana,Sathorn
 Taitung
@@ -25646,14 +25644,14 @@ Aana Alofi III
 Waitakere
 Beijing
 Waitakere
-Tajiri,Izumisano,
+Tajiri,Izumisano
 Waitakere,Manukau
 Izumisano
-Izumisano,
+Izumisano
 Waitakere
 Beijing
 Kishiwada
-Beijing,
+Beijing
 Beijing
 Beijing
 Beijing
@@ -25674,7 +25672,7 @@ Waitakere
 Beijing
 Izumisano
 Tajiri,Izumisano,Sakai
-Beijing,
+Beijing
 Jung,Jongro
 Jongro
 Jongro,Jung
@@ -25684,7 +25682,7 @@ Toyonaka
 Osaka,Toyonaka,Osaka
 Barcelona
 Lisboa,Girona
-Madrid,
+Madrid
 Ranau
 Shibuya,Chiyoda
 Hua Hin
@@ -25816,7 +25814,7 @@ Charente-Maritime
 Paris
 Paris
 Ba
-Alpes-Maritimes,
+Alpes-Maritimes
 Roma
 Peel
 Qu?ng Nam
@@ -26381,7 +26379,7 @@ Queenstown-Lakes
 Queenstown-Lakes
 Oberbayern
 Oberbayern
-Oberbayern,
+Oberbayern
 Oberbayern
 Wien
 Berlin
@@ -26893,7 +26891,7 @@ Hawaii,Honolulu
 Los Angeles
 Los Angeles
 Chongqing,Shanghai
-Chongqing,
+Chongqing
 Chongqing
 Guangzhou
 Badung
@@ -27031,7 +27029,7 @@ Berkshire,Ealing
 Manchester
 Shah Alam
 Colombo,Thimbirigasyaya,Ambagamuwa,Udapalatha,Kothmale,K.F.G. & G. Korale,Rideegama,Dambulla
-Taipei City,Taoyuan,
+Taipei City,Taoyuan
 South Goa
 Jodhpur
 Jaipur,Agra
@@ -27322,7 +27320,7 @@ Andaman Islands
 Waitakere,Manukau
 San Diego
 Kensington and Chelsea,Westminster,Hammersmith and Fulham,Pojezerje,Dubrovnik
-Kensington and Chelsea,Westminster,Camden,
+Kensington and Chelsea,Westminster,Camden
 Rodney
 Shanghai
 Thalang,Bang Plee
@@ -27550,7 +27548,7 @@ Isabela
 Gironde
 New York
 Paris
-Lincolnshire,Hillingdon,
+Lincolnshire,Hillingdon
 Lincolnshire
 Glasgow,Edinburgh
 Muang Chiang Mai
@@ -27660,7 +27658,7 @@ Muang Krabi
 Kathu
 Hertfordshire,Camden
 London
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Los Angeles
 Hillingdon
@@ -27670,7 +27668,7 @@ Jerusalem
 Greater Bombay,Jaipur,Sawai Madhopur
 Delhi
 Kalawana,Thimbirigasyaya,Katana
-Zürich,
+Zürich
 Bludenz
 Shibayama
 Paris
@@ -27697,7 +27695,7 @@ New York
 Greater Vancouver
 Greater Vancouver
 Paris
-Paris,Alpes-Maritimes,
+Paris,Alpes-Maritimes
 Alpes-Maritimes,Alpes-de-Haute-Provence
 Kaikoura
 Rewa
@@ -27726,7 +27724,7 @@ New York
 Algoma
 Westminster,Kensington and Chelsea,Hammersmith and Fulham
 Hammersmith and Fulham,Westminster,Tower Hamlets,Hackney
-Hillingdon,
+Hillingdon
 Harris
 Harris
 Harris
@@ -27940,7 +27938,7 @@ Osaka
 Melaka Tengah
 Westminster,Amsterdam,Zaanstad
 Luzern,Köln,Obwalden
-Alpes-Maritimes,
+Alpes-Maritimes
 Zürich
 Barcelona
 Affoltern
@@ -28370,7 +28368,7 @@ Los Angeles
 Los Angeles
 Oberbayern
 Oberbayern,Florence
-Oberbayern,Florence,Varese,
+Oberbayern,Florence,Varese
 Florence
 Oberbayern
 Seongdong
@@ -28482,7 +28480,7 @@ Honolulu,Maricopa
 Maricopa,Honolulu
 Badung
 Roermond,Maastricht,Limburg,Roermond
-Swalmen,Roma,
+Swalmen,Roma
 Roermond
 Westland,Queenstown-Lakes
 Mackenzie,Queenstown-Lakes
@@ -28687,7 +28685,7 @@ Hà N?i
 Hà N?i
 Westminster
 Staffordshire
-Roma,
+Roma
 Warwickshire
 Utrecht
 Islington
@@ -28704,7 +28702,7 @@ Amsterdam
 Köln
 Paris
 Breukelen,Amsterdam
-Madrid,
+Madrid
 Westminster,Kensington and Chelsea,Westminster
 Paris
 Westminster
@@ -29167,7 +29165,7 @@ Badung,Klungkung
 Badung
 Mysore
 Puntarenas
-Antwerpen,
+Antwerpen
 Phra Nakhon
 Denver,Badung
 Shibuya,Edogawa,Bunkyo
@@ -29324,7 +29322,7 @@ Brescia,Venezia
 Schleswig-Holstein
 Baleares
 Baleares
-Darmstadt,
+Darmstadt
 Orange
 Orange
 Hakuba
@@ -29621,7 +29619,7 @@ Forli' - Cesena
 Kensington and Chelsea,Hackney
 Kensington and Chelsea
 Los Angeles
-Makati City,Pasay City,
+Makati City,Pasay City
 Makati City
 Makati City
 Makati City
@@ -29646,7 +29644,7 @@ Los Angeles
 Clark
 Badung
 Badung
-Kinta,
+Kinta
 Shah Alam
 Kinta
 Kinta
@@ -30121,7 +30119,7 @@ Salerno
 Siena,Arezzo
 Belluno
 Genève
-Cuneo,Varese,
+Cuneo,Varese
 Kyoto,Nara
 Nara,Takayama,Hiroshima
 Shinjuku
@@ -30325,7 +30323,7 @@ Berlin
 Berlin
 Málaga
 Baleares
-Bodrum,Merkez,Fatih,
+Bodrum,Merkez,Fatih
 Kathu
 Kathu
 Mae Taeng
@@ -30404,7 +30402,7 @@ Oropeza
 Capital
 Los Angeles
 Suffolk,New York,Suffolk
-Suffolk,Los Angeles,
+Suffolk,Los Angeles
 Badung
 Distrito Federal
 Distrito Federal
@@ -30674,7 +30672,7 @@ Lahore
 Makati City
 Makati City,Butuan City,Lapu-Lapu City,Malay
 Makati City
-Pasay City,
+Pasay City
 Muang Krabi
 Shah Alam,,Pasay City,Pasig City,Butuan City
 Parañaque
@@ -30714,7 +30712,7 @@ Barcelona,Madrid,São Paulo
 Obwalden
 Jinhua
 São Paulo
-Guarulhos,
+Guarulhos
 Harris
 Napier
 Guangzhou
@@ -30762,8 +30760,8 @@ Paris
 Richmond upon Thames
 Waitakere,Ruapehu
 Timur Laut
-Khlong Toey,Pathum Wan,Bang Kho Laem,
-Shanghai,
+Khlong Toey,Pathum Wan,Bang Kho Laem
+Shanghai
 Narita,Chiyoda,Osaka,Minato
 Shanghai
 Los Angeles,San Mateo,Alameda
@@ -30861,7 +30859,7 @@ Berlin
 Berlin
 H? Chí Minh city,C?n Tho,B?n Tre,Kiên Giang
 H? Chí Minh city,C?n Tho,B?n Tre,Kiên Giang
-Kiên Giang,H? Chí Minh city,
+Kiên Giang,H? Chí Minh city
 Duval
 Saint Lucie,Sarasota,Kane
 Hillsborough
@@ -30925,7 +30923,7 @@ Combined statistics,Laholm,Halmstad,Göteborg,Kungsbacka,Camden
 Berlin,Hillingdon
 Kings,New York
 New York
-Lambeth,
+Lambeth
 Bratislava II,Bratislava I
 Praha 1,Praha 6,Breclav,Budapesti,Wien
 Sepang
@@ -31078,7 +31076,7 @@ Var
 Los Angeles
 Los Angeles,New York
 New York,Queens
-Paris,Bouches-du-Rhône,Seine-Saint-Denis,Westminster,Hillingdon,
+Paris,Bouches-du-Rhône,Seine-Saint-Denis,Westminster,Hillingdon
 Westminster,Bouches-du-Rhône,Seine-Saint-Denis
 Chiyoda
 Fatih
@@ -31341,7 +31339,7 @@ Pathum Wan
 Khlong Toey
 Samphantawong,Pathum Wan
 Pathum Wan,Bang Kho Laem,Bang Rak
-Bang Kho Laem,Bang Rak,Sathorn,
+Bang Kho Laem,Bang Rak,Sathorn
 New York
 Medway
 Los Angeles
@@ -31392,7 +31390,7 @@ Badung
 Badung
 Badung
 Wattana
-New York,
+New York
 New York
 Muang Krabi,Nua Khlong
 Badung
@@ -31591,7 +31589,7 @@ Barcelona
 Gard
 Var
 Gianyar
-Jongro,Jung,Jongro,
+Jongro,Jung,Jongro
 Jung
 Jongro
 Jongro,Jung
@@ -31658,7 +31656,7 @@ Kensington and Chelsea
 Newtownabbey
 Carrickfergus
 Belfast
-Haarlemmermeer,
+Haarlemmermeer
 Haarlemmermeer
 Belfast
 Belfast,Newtownabbey
@@ -31840,7 +31838,7 @@ Kyoto,Shibuya
 H? Chí Minh city
 H? Chí Minh city
 Los Angeles
-New York,
+New York
 District of Columbia
 Badung
 New York
@@ -31913,10 +31911,10 @@ Gombak
 Fatih
 Selçuk
 Napoli
-Roma,
+Roma
 La Spezia
 Barcelona,Vizcaya,Guipúzcoa
-Vizcaya,Guipúzcoa,Milano,Vizcaya,Roma,Barcelona,
+Vizcaya,Guipúzcoa,Milano,Vizcaya,Roma,Barcelona
 Camden,Westminster,Newham
 Westminster,Hammersmith and Fulham,Kensington and Chelsea
 Guangzhou,Guilin
@@ -32422,7 +32420,7 @@ Los Angeles
 Badung
 Gianyar
 Badung
-Shah Alam,
+Shah Alam
 Pathum Wan
 Cyclades
 Venezia
@@ -32454,8 +32452,8 @@ Lancashire
 New York,Queens
 Lancashire
 Las Palmas
-Jung,
-Pyeongchang,Jung,
+Jung
+Pyeongchang,Jung
 Pasay City
 Naga City
 Manila
@@ -32911,7 +32909,7 @@ Campina Grande
 Oberbayern
 Seine-Saint-Denis
 Hillingdon
-Paris,Alpes-Maritimes,
+Paris,Alpes-Maritimes
 Hillingdon
 New York
 New York
@@ -32961,7 +32959,7 @@ Badung
 Kensington and Chelsea,Westminster,Brighton and Hove
 Tasman
 Nelson,Manukau
-Camden,Hackney,Islington,Camden,Kensington and Chelsea,
+Camden,Hackney,Islington,Camden,Kensington and Chelsea
 Camden
 Waipa
 Franklin,Waitakere
@@ -33496,7 +33494,7 @@ Auckland
 Honolulu
 Honolulu,Hawaii
 Honolulu
-Kathu,
+Kathu
 Ratchathewi
 Muang Chiang Rai
 Muang Chiang Rai
@@ -33523,7 +33521,7 @@ Shah Alam
 Gombak
 Shah Alam
 Shibuya
-Seberang Perai Tengah,
+Seberang Perai Tengah
 Hillingdon
 Phra Nakhon,Pathum Wan
 Phra Nakhon,Pathum Wan,Ko Phangan
@@ -33811,7 +33809,7 @@ Muang Tak
 Chom Thong,Muang Mae Hong Son,Muang Chiang Mai
 Muang Chiang Mai
 Phra Pra Daeng
-Jongro,
+Jongro
 Praha 1
 Middlesex,Suffolk
 New York
@@ -33905,7 +33903,7 @@ Taipei City,Saphan Sung,Pathum Wan,Bang Kapi,Si Racha,Muang Chon Buri,Saphan Sun
 Saphan Sung,Bang Kapi,Saphan Sung,Bang Plee
 Ratchathewi
 Khlong Toey
-Wattana,Saphan Sung,
+Wattana,Saphan Sung
 Muang Chachoengsao
 Pathum Wan
 Hamamatsu,Narusawa,Taito,Narita,Taito,Pathum Wan
@@ -34012,8 +34010,8 @@ Gironde
 Gironde
 Milano
 Milano,Venezia
-Venezia,
-Venezia,
+Venezia
+Venezia
 Florence
 Florence
 Florence
@@ -34061,7 +34059,7 @@ Kyoto
 Badung
 Badung
 Gianyar
-Badung,Surabaya,
+Badung,Surabaya
 Shah Alam
 Delhi
 Jaisalmer
@@ -34155,7 +34153,7 @@ Kas
 Jbayl,Matn,Kesrouan,Beirut,Zahlé
 Madaba,Bethlehem,Tulkarm
 Palermo,Trapani
-Caltanissetta,Ragusa,Syracuse,Messina,Catania,
+Caltanissetta,Ragusa,Syracuse,Messina,Catania
 Gianyar
 Gianyar,Badung,Gianyar
 Dom Aleixo
@@ -34396,11 +34394,11 @@ Taoyuan,Taichung
 Taipei City,Taipei
 Yogyakarta,Magelang,Sleman,Jakarta Selatan,Jakarta Utara
 Kota Kinabalu
-Surabaya,
+Surabaya
 Sepang
 Sepang,Shah Alam
 Shah Alam
-Shenzhen,Guangzhou,
+Shenzhen,Guangzhou
 Sepang
 Sepang
 Shah Alam
@@ -34408,18 +34406,18 @@ Kuching,Sibu
 Sibu
 Xiamen
 Sepang
-Shah Alam,Sepang,
+Shah Alam,Sepang
 Shah Alam
 Sepang
 Shah Alam
 Sepang
-Timur Laut,
+Timur Laut
 Shah Alam
 Shah Alam
 Lâm Ð?ng,H? Chí Minh city
 H? Chí Minh city
 Malay
-Shah Alam,
+Shah Alam
 Shah Alam
 Bruxelles
 Paris
@@ -34544,7 +34542,7 @@ Westminster
 Seixal
 Cheshire,Merseyside,Edinburgh
 Luzern
-Köln,Venezia,
+Köln,Venezia
 Roma,Pisa
 Edam-Volendam
 Vaucluse,Westminster
@@ -34940,7 +34938,7 @@ Amsterdam,West-Vlaanderen,Oost-Vlaanderen
 Oost-Vlaanderen,West-Vlaanderen
 Oost-Vlaanderen,Bruxelles,Köln,Mittelfranken
 Amstetten,Krems an der Donau Land,Wien
-Paris,Hauts-de-Seine,Seine-Saint-Denis,
+Paris,Hauts-de-Seine,Seine-Saint-Denis
 Tagaytay City
 San Francisco
 Foshan,Guangzhou
@@ -35127,7 +35125,7 @@ Kings
 New York
 Queens
 Westminster,Kensington and Chelsea,London,Camden,Westminster,London,Paris,Amsterdam
-Westminster,London,Paris,Amsterdam,Roma,
+Westminster,London,Paris,Amsterdam,Roma
 Badung
 Shanghai
 Shah Alam
@@ -35420,7 +35418,7 @@ Chuo,Minato
 Koto,Minato,Chiyoda
 Alpes-Maritimes
 Paris
-Rhône,
+Rhône
 Venezia
 Lombok Barat
 Shah Alam
@@ -35471,7 +35469,7 @@ São Paulo
 São Paulo
 São Paulo
 São Paulo
-Einsiedeln,Zürich,Einsiedeln,Surselva,Roma,
+Einsiedeln,Zürich,Einsiedeln,Surselva,Roma
 Venezia
 Venezia,Roma,Zürich
 Venezia
@@ -35727,7 +35725,7 @@ Berlin
 Wien
 Roma
 Sassari,Roma,Palermo
-Alpes-Maritimes,
+Alpes-Maritimes
 Barcelona
 Pyrénées-Atlantiques
 H? Chí Minh city
@@ -35777,7 +35775,7 @@ Shanghai
 Guiyang
 Lugano
 Beijing
-Guangzhou,
+Guangzhou
 Taipei
 Wandsworth,Distrito Federal
 Wandsworth,Distrito Federal
@@ -35923,7 +35921,7 @@ Hà N?i,Siem Reab
 New York
 Pathum Wan,Tha Muang
 Muang Chiang Rai,Bang Plee
-Cantabria,
+Cantabria
 Salamanca
 Cyclades
 Livingstone
@@ -36124,7 +36122,7 @@ Badung
 Badung
 Badung
 Badung
-Guangzhou,
+Guangzhou
 Guangzhou
 Badung
 Badung
@@ -36610,7 +36608,7 @@ Warwickshire,West Midlands
 Jung
 Greater Vancouver
 Bern
-Bülach,
+Bülach
 Shah Alam
 Shah Alam
 Shah Alam
@@ -36716,7 +36714,7 @@ Hà N?i
 Seodaemun
 Jakarta Selatan
 Phaya Thai
-Shah Alam,
+Shah Alam
 Muang Phuket
 Barcelona
 Kamakura
@@ -36737,7 +36735,7 @@ Los Angeles
 New York
 Clark
 Clark,Marin
-Qingdao,
+Qingdao
 Narita
 Berlin
 Almada
@@ -36905,7 +36903,7 @@ Taipei City
 Taipei City
 Taipei City,Taoyuan
 Taipei City
-Hualien,Taipei City,
+Hualien,Taipei City
 Taipei City
 Shibuya
 Thalang
@@ -37146,7 +37144,7 @@ Khánh Hòa,Larimer
 Hà N?i
 Isle of Wight
 Madrid
-Jakarta Selatan,
+Jakarta Selatan
 Honolulu
 Honolulu
 Honolulu
@@ -37261,7 +37259,7 @@ Beijing
 Beijing
 Beijing
 Yulin
-Shanghai,
+Shanghai
 Yulin
 Siem Reab
 Yulin
@@ -37524,7 +37522,7 @@ New York
 Los Angeles
 Badung
 Pune
-Greater Bombay,Delhi,Bangalore Urban,
+Greater Bombay,Delhi,Bangalore Urban
 Suffolk,New York,Multnomah,Los Angeles,Clark
 Multnomah,Los Angeles,Clark,Los Angeles
 Badung
@@ -37904,7 +37902,7 @@ Johannesburg,Pelgrimsrus
 Pelgrimsrus,Johannesburg
 Cape,Wynberg,Goodwood,Wynberg
 Goodwood,Wynberg,Jangamo
-Shah Alam,Klang,Sepang,
+Shah Alam,Klang,Sepang
 Timur Laut,Seberang Perai Tengah,Manjung
 Shah Alam
 Chiyoda,Taito,Shinjuku,Nakano,Chuo,Hakone,Shibuya,Bunkyo,Chiyoda,Taito,Edogawa,Chuo
@@ -37929,7 +37927,7 @@ Monterey,Queenstown-Lakes,Bolzano
 Oslo
 Lincoln,Livingston
 El Dorado
-Livingston,
+Livingston
 Livingston
 Orange
 Malay,Los Angeles
@@ -38118,7 +38116,7 @@ Barcelona,Alpes-Maritimes
 Venezia,Florence,Roma
 Cyclades
 Cyclades
-Attica,
+Attica
 Manchester
 Manchester,London
 Queens
@@ -38154,7 +38152,7 @@ Squamish-Lillooet
 Division No. 6
 Capital
 King
-Greater Vancouver,
+Greater Vancouver
 Kota Bekasi
 Batu
 Jakarta Selatan
@@ -38376,7 +38374,7 @@ Dallas
 San Mateo
 Westminster
 Westminster,Berlin
-Camden,
+Camden
 Jakarta Utara,Jakarta Pusat
 San Francisco,Alameda,San Francisco
 San Francisco
@@ -39044,9 +39042,9 @@ Communauté-Urbaine-de-Montréal
 New York,Queens,Communauté-Urbaine-de-Montréal,Kings
 New York,Kings,District of Columbia,Allegheny
 District of Columbia,Allegheny,Cook,Lake Michigan
-Allegheny,Cook,Lake Michigan,Cook,
-Cook,
-Jakarta Pusat,
+Allegheny,Cook,Lake Michigan,Cook
+Cook
+Jakarta Pusat
 Palilula
 Budapesti,Stara Pazova
 Budapesti
@@ -39066,8 +39064,8 @@ Gojo
 Los Angeles
 Isla Mujeres
 Dist. Pochutla
-Guangzhou,
-Guangzhou,
+Guangzhou
+Guangzhou
 Badung
 K.F.G. & G. Korale
 Colombo
@@ -39266,7 +39264,7 @@ Bouches-du-Rhône,Paris
 Westminster,Wandsworth,Kensington and Chelsea,Benito Juárez,Mérida,Homún
 San Cristóbal de las Casas,Panajachel,Antigua Guatemala,Flores,,Cozumel
 Gustavo A. Madero
-Meknès,Fès,Zouagha-Moulay Yacoub,Ouarzazate,Essaouira,Al Haouz,Marrakech,
+Meknès,Fès,Zouagha-Moulay Yacoub,Ouarzazate,Essaouira,Al Haouz,Marrakech
 Hà N?i,Yangon-W,Mandalay
 Mandalay,Myingyan,Taunggye
 Myingyan,Taunggye
@@ -39278,7 +39276,7 @@ Queenstown-Lakes
 Dubrovnik
 Beyoglu,Fatih
 Fethiye,Kas
-Wien,
+Wien
 Paris
 Los Angeles
 Los Angeles
@@ -39523,7 +39521,6 @@ Edinburgh
 Kings
 Communauté-Urbaine-de-Montréal
 Salvaleón de Higüey
-
 Paris
 Amsterdam
 Berlin
@@ -39581,7 +39578,7 @@ Clark
 Clark
 New York
 Badung
-Oberbayern,
+Oberbayern
 Westminster,Tower Hamlets
 Paris
 Amsterdam
@@ -39685,7 +39682,7 @@ Alpes-Maritimes
 Amsterdam
 Westminster
 Madrid
-Bakirköy,
+Bakirköy
 Lake Ohrid,Cair,Beyoglu,Fatih
 Orange
 Honolulu
@@ -40012,7 +40009,7 @@ Dorset
 Bangalore Urban
 Lubuk Linggau
 Manchester,Tower Hamlets,Hackney
-Tower Hamlets,Hackney,Westminster,
+Tower Hamlets,Hackney,Westminster
 Barcelona,Valencia
 Paris
 Honolulu
@@ -40676,7 +40673,7 @@ Sanya,,Hangzhou
 Tianjin,Beijing
 Hangzhou
 South Yorkshire
-South Yorkshire,
+South Yorkshire
 Shanghai
 Pima
 Taipei City
@@ -40812,7 +40809,7 @@ Miri
 Miri
 Miri
 Miri
-Miri,
+Miri
 Miri
 Naha
 Taito
@@ -40881,7 +40878,7 @@ Jakarta Selatan
 Jakarta Selatan
 Tangerang
 Jakarta Selatan
-Yogyakarta,
+Yogyakarta
 Ratchathewi
 Hammersmith and Fulham,Islington
 Northumberland
@@ -41331,7 +41328,7 @@ Sintra,Lisboa,Porto
 Shah Alam
 Combined statistics
 Amsterdam
-Combined statistics,
+Combined statistics
 Muang Chiang Mai
 Sathorn,Wattana
 Xi'an
@@ -41574,7 +41571,7 @@ Shinjuku,Karatsu,Saga,Ogi,Okayama,Koka,Kyoto,Chuo,Shibuya
 Camden
 Kensington and Chelsea
 Setagaya
-Osaka,
+Osaka
 Kyoto
 Milano
 Almaty (Alma-Ata)
@@ -41665,12 +41662,12 @@ London,Southwark
 Hammersmith and Fulham
 Wandsworth
 London
-Dubrovnik,Hvar,Split,Florence,La Spezia,
+Dubrovnik,Hvar,Split,Florence,La Spezia
 Split,Florence,La Spezia,,Var
 Essex,Wandsworth
 Camden
 Gloucestershire
-Islington,
+Islington
 Southwark
 Berlin
 Paris
@@ -41739,7 +41736,7 @@ Tongyeong
 Kota Tangerang
 Badung
 Lapu-Lapu City
-Shah Alam,Sepang,
+Shah Alam,Sepang
 Hawaii
 Honolulu
 Badung
@@ -41754,7 +41751,7 @@ Niseko,Rusutsu
 Rusutsu,Kutchan
 Nagoya
 Combined statistics
-Granada,Barcelona,Cádiz,
+Granada,Barcelona,Cádiz
 Granada,Málaga,Barcelona
 Kutchan
 Kutchan
@@ -41931,7 +41928,7 @@ Squamish-Lillooet
 Greater Vancouver
 Greater Vancouver
 Squamish-Lillooet
-Nouméa,
+Nouméa
 Kathu
 Kathu
 Qu?ng Nam
@@ -41984,7 +41981,7 @@ Shah Alam
 Shah Alam
 Toronto,Niagara,Lake Ontario
 Niagara,Lake Erie,Erie,Toronto,Halton,Queens,New York,Hudson
-Toronto,
+Toronto
 New York,Niagara
 Badung
 Paris,Edinburgh
@@ -42197,7 +42194,6 @@ São Paulo
 n.a354
 São Paulo
 Frutigen 
-
 Haut-Rhin
 São Paulo
 São Paulo
@@ -42216,7 +42212,7 @@ Glasgow,Camden
 Genève,Lausanne
 Bern
 Bregenz
-Ko Phangan,Ko Samui,
+Ko Phangan,Ko Samui
 Shah Alam
 Combined statistics
 Oslo
@@ -42613,7 +42609,7 @@ Jerusalem
 Jerusalem
 Jerusalem
 Jerusalem
-Jerusalem,Madaba,
+Jerusalem,Madaba
 Bang Rak
 Ba
 Yavapai
@@ -42909,11 +42905,11 @@ Hérault
 Bouches-du-Rhône
 Florence
 Roma
-Dubrovnik,
+Dubrovnik
 Hvar,Split
 Hvar
 Budapesti
-Budapesti,Stolichna,
+Budapesti,Stolichna
 Fatih
 Fatih
 Fès,Errachidia,Marrakech
@@ -43327,7 +43323,7 @@ Oberbayern
 Guangzhou
 Guangzhou
 Tabanan
-Guangzhou,
+Guangzhou
 Chuo
 Queenstown-Lakes
 Malay,Makati City
@@ -43665,7 +43661,7 @@ Peterborough
 Southwark
 Amsterdam
 Kraków City
-Roma,
+Roma
 Florence
 Roma
 Riverside
@@ -43981,7 +43977,7 @@ Marin
 Paris
 Loire-Atlantique
 Loire-Atlantique
-Los Angeles,Suffolk,
+Los Angeles,Suffolk
 Cozumel
 Cozumel
 Cozumel
@@ -44037,7 +44033,7 @@ Gianyar,Badung,Sepang,Shah Alam
 Kupang
 Kupang
 Badung
-Marmaris,Bodrum,
+Marmaris,Bodrum
 Queenstown-Lakes
 Amsterdam
 Jakarta Pusat
@@ -44116,7 +44112,7 @@ Miami-Dade
 Miami-Dade,New York
 New York
 Los Angeles
-Pasay City,Malay,
+Pasay City,Malay
 Miami-Dade
 Miami-Dade
 Cozumel
@@ -44165,12 +44161,12 @@ Jakarta Pusat
 Jakarta Timur
 Badung,Surabaya
 Jakarta Selatan
-Jakarta Selatan,Jakarta Utara,
+Jakarta Selatan,Jakarta Utara
 Jakarta Selatan
 Lampung Selatan
 Jakarta Selatan
 Jakarta Utara
-Bogor,
+Bogor
 Jakarta Pusat
 Jakarta Timur
 Bandung
@@ -44192,7 +44188,7 @@ Cianjur
 Gangnam
 Kyoto,Osaka,Hakone
 Jeonju
-Praha 1,
+Praha 1
 Praha 1
 Berlin
 Jakarta Selatan

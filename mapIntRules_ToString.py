@@ -43,7 +43,7 @@ def decodeRules(fname, country):
 def decodeRulesv2(fname, country):
     integerRules = []
     rules = open("remapped_rules{}.txt".format(country), "w", encoding = "utf8") 
-    referenceDico = load_obj('dico_villes_Sejour_{}'.format(country))
+    referenceDico = load_obj('dico_villes_SejourCorrected_Fr_{}'.format(country))
     with open(fname, encoding = "utf8") as f:
         content = f.read().splitlines()
         for item in content:
@@ -62,7 +62,7 @@ def decodeRulesv2(fname, country):
                     stringRightSide.append(list(referenceDico.keys())[list(referenceDico.values()).index(int(number))])
             
 
-            rules.write("{}   ==> {}   #SUP: {}\n".format(' '.join(stringLeftSide), ' '.join(stringRightSide), rightSide[1]))
+            rules.write("{}   ==> {}   #SUP: {}\n".format(', '.join(stringLeftSide), ' '.join(stringRightSide), rightSide[1]))
 
 
             """ if(is_number(stuff)):
@@ -75,8 +75,8 @@ def decodeRulesv2(fname, country):
 
 
 if(__name__ == "__main__"):
-    listCountry = ['Australia', 'Spain', 'Denmark']
+    listCountry = ['Australia', 'Belgium', 'Brazil', 'Italy', 'Russia', 'South Korea', 'Spain', 'Sweden', 'Thailand', 'United Kingdom', 'United States']
     for country in listCountry:
-        fname = 'spmf_results_TOPK_v1/output_{}.txt'.format(country)
+        fname = 'spmf_results_TOPK_v2_France/output_Fr_{}.txt'.format(country)
         decodeRulesv2(fname, country)
     print("Done ! ")

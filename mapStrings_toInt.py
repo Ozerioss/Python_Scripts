@@ -50,7 +50,7 @@ def mapToInt(fname, country):
         finalList.append(tmpList)
     print(finalList)
 
-    newMap = open("TOPK_villes_Sejour_{}.txt".format(country), "w", encoding = "utf8")
+    newMap = open("TOPK_villes_SejourCorrected_Fr_{}.txt".format(country), "w", encoding = "utf8")
     for tmp in finalList:
         tmpIndex = 0
         for city in tmp:
@@ -60,25 +60,22 @@ def mapToInt(fname, country):
             else:
                 newMap.write(str(city) + " ")
         newMap.write("\n")
-    """ for item in listOfCities:
-        d = dict([(y, x+1) for x,y in enumerate(sorted(set(item)))])
-        print(d) """
     
-    dictionaryAsDict = open("TOPK_villes_Sejour_Dico_{}.txt".format(country), "w", encoding = "utf8")
+    dictionaryAsDict = open("TOPK_villes_SejourCorrected_Fr_Dico_{}.txt".format(country), "w", encoding = "utf8")
     for key, value in seen.items():
         tmp = "key : &{}&, value : \"{}\" \n".format(key, value)
         dictionaryAsDict.write(tmp)
     dictionaryAsDict.close()
     #saveDico(d)
-    save_obj(seen, 'dico_villes_Sejour_{}'.format(country))
+    save_obj(seen, 'dico_villes_SejourCorrected_Fr_{}'.format(country))
 
 def printSavedDico(dicoName):
     d = load_obj(dicoName)
     print(d)
 
 if(__name__ == "__main__"):
-    listCountry = ['Australia', 'Spain', 'Denmark']
+    listCountry = ['Australia', 'Belgium', 'Brazil', 'Italy', 'Russia', 'South Korea', 'Spain', 'Sweden', 'Thailand', 'United Kingdom', 'United States']
     for country in listCountry:
-        fname = 'topKFiles_Str_v1/result_sejour_homecountry_{}.txt'.format(country)
+        fname = 'topKFiles_Str_v2_France/result_sejour_homecountry_{}.txt'.format(country)
         mapToInt(fname, country)
     print("Done ! ")

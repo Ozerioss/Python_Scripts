@@ -394,7 +394,7 @@ Paris
 District of Columbia
 Kings,New York,Middlesex,Suffolk
 Barcelona
-Roma,
+Roma
 Mittelfranken
 Leipzig
 Praha 1
@@ -469,7 +469,7 @@ Florence
 Darmstadt
 Amsterdam
 Roma
-Székesfehérvár,Budapesti,Palilula,
+Székesfehérvár,Budapesti,Palilula
 Gárdony
 Salerno
 Berlin
@@ -585,7 +585,7 @@ Ulan Bator
 Ulan Bator
 Ulan Bator
 Ulan Bator
-Paris,
+Paris
 São Paulo
 Brown
 Guilin
@@ -875,8 +875,8 @@ Bas-Rhin
 Barcelona
 Palermo
 Cook
-Roma,
-Roma,
+Roma
+Roma
 Chanthabuly
 Ko Samui
 Perth,Fremantle
@@ -932,7 +932,7 @@ Los Angeles
 Los Angeles
 Los Angeles
 Paris
-Bologna,Roma,
+Bologna,Roma
 Cook
 Bruxelles
 Haute-Savoie
@@ -1166,7 +1166,7 @@ Paris
 Bas-Rhin
 Pai
 Baleares
-Alpes-Maritimes,
+Alpes-Maritimes
 Savoie
 Savoie
 Sarasota
@@ -1285,7 +1285,7 @@ Azilal,Marrakech,Al Haouz
 Syracuse,Agrigento
 Gandaki
 Entremont
-Bülach,
+Bülach
 Zürich
 Bülach,Zürich
 Florence
@@ -1723,7 +1723,7 @@ Barcelona
 Tasman
 Waitakere
 Langkawi
-Langkawi,
+Langkawi
 Lisboa
 Lisboa
 Haute-Garonne,Oise
@@ -1769,7 +1769,6 @@ Guayaquil
 Tallinn
 Riga
 Häädemeeste
-
 Riga,Poznan City
 Delhi
 Tallinn
@@ -2003,7 +2002,7 @@ Bang Rak,Sathorn
 Miami-Dade
 Salt Lake
 Osceola
-Florence,Roma,
+Florence,Roma
 Bangalore Urban
 McLennan
 Lausanne,Zürich,Luzern,Lausanne,Luzern,Bern,Zürich
@@ -2057,10 +2056,10 @@ Funchal,Porto Moniz,Santana,São Vicente
 Bülach,Palilula
 Angra dos Reis,Madrid,,Köln
 Paris,Kraków
-Sydney - Inner,Beijing,
+Sydney - Inner,Beijing
 Milano,Bari
 Stolichna
-Paris,
+Paris
 Paris,Seine-et-Marne
 Bari,Fatih,Beyoglu,Bakirköy
 Bari
@@ -2133,7 +2132,7 @@ Paris
 Paris
 Val-d'Oise,Paris
 Val-d'Oise
-Bega Valley,Melbourne - S'bank-D'lands,
+Bega Valley,Melbourne - S'bank-D'lands
 Val-d'Oise
 Embilipitiya
 Beijing
@@ -2185,7 +2184,7 @@ Jung,Jongro
 Sydney - Inner
 Campbell,Port Phillip - West,Melbourne - Inner
 Kangaroo Island,West Torrens - East,Alice Springs- Ross
-Roma,
+Roma
 Vicenza
 Piran
 Fatih,Beyoglu,Bakirköy
@@ -2521,7 +2520,7 @@ Delhi
 Varanasi
 Envigado,Santa Fe de Antioquia,Medellín
 Santa Fe de Antioquia,Medellín
-Jerusalem,
+Jerusalem
 Hauts-de-Seine
 Girona
 Girona
@@ -2679,7 +2678,7 @@ Goodwood,Hermanus,Goodwood,Simon Town
 Hermanus,Goodwood,Simon Town,Goodwood,Wynberg
 Goodwood,Wynberg,Goodwood,Wynberg,Kempton Park,Kuils River
 Baleares
-Oslo,
+Oslo
 Cook
 Valencia
 Suffolk
@@ -3318,7 +3317,7 @@ Zell am See
 Denpasar,Badung
 Gianyar,Badung
 Badung
-Badung,
+Badung
 Zell am See
 Baleares
 Zell am See
@@ -3685,7 +3684,7 @@ Corfu
 Corfu
 Charente-Maritime
 Darmstadt
-Haarlemmermeer,
+Haarlemmermeer
 New York
 Sapporo
 West-Vlaanderen
@@ -3861,7 +3860,7 @@ Azcapotzalco,Naucalpan de Juárez,Los Angeles,San Bernardino,Los Angeles,Azcapot
 Los Angeles,Azcapotzalco,Del Centro,Dist. Tlacolula
 Del Centro,Dist. Tlacolula,Miguel Hidalgo,Naucalpan de Juárez
 Miguel Hidalgo,Naucalpan de Juárez,Alvaro Obregón,Azcapotzalco,Cuajimalpa de Morelos,Naucalpan de Juárez
-Naucalpan de Juárez,
+Naucalpan de Juárez
 Oberbayern
 Las Palmas
 Goodwood,Wynberg,Goodwood
@@ -3952,7 +3951,7 @@ Shah Alam
 Shah Alam
 Seremban,Hulu Langat
 Melaka Tengah,Shah Alam
-Alpes-Maritimes,
+Alpes-Maritimes
 Besiktas
 Shah Alam
 Aigle
@@ -4139,7 +4138,7 @@ Paris
 Los Angeles
 Vestur-Eyjafjallahreppur
 Amsterdam
-Roma,
+Roma
 Praha 1
 Allier
 Paris
@@ -4225,7 +4224,7 @@ Paris
 Paris
 Barcelona
 Attica
-Alpes-Maritimes,
+Alpes-Maritimes
 Florence
 Newport,Merrimack
 Merrimack,Strafford
@@ -4553,7 +4552,6 @@ Marmaris
 Honolulu
 Bronx
 Frutigen 
-
 Jongro
 Gangneung
 Rotorua
@@ -4642,7 +4640,7 @@ Taranto,New York
 New York
 New York
 Amsterdam
-Eindhoven,
+Eindhoven
 New York
 Naucalpan de Juárez,San Francisco
 New York
@@ -4669,7 +4667,7 @@ New York
 Milano
 Paris
 Fairfield
-Seongdong,Los Angeles,
+Seongdong,Los Angeles
 New York
 Toronto
 Trondheim
@@ -5060,7 +5058,6 @@ Los Angeles
 Washington,Coconino
 Madrid
 Frutigen 
-
 New York,Bucks,Philadelphia
 New York
 Queens,New York
@@ -5092,8 +5089,8 @@ Suffolk
 Suffolk
 Wuxi
 Seine-et-Marne
-Chongqing,Chengdu,Badung,
-Chengdu,Badung,
+Chongqing,Chengdu,Badung
+Chengdu,Badung
 Granada,Madrid,Málaga
 Paris
 Paris
@@ -5149,12 +5146,12 @@ Roma
 Pathum Wan
 Bled
 Bled
-Beijing,Xi'an,Guilin,
+Beijing,Xi'an,Guilin
 Budapesti,Beijing
 Barcelona
 Barcelona
 Barcelona
-Shah Alam,Sepang,Gombak,Kinta,Timur Laut,Barat Daya,
+Shah Alam,Sepang,Gombak,Kinta,Timur Laut,Barat Daya
 Pasuruan,Magelang,Sleman
 Magelang
 Ljósavatnshreppur,Helgafellssveit
@@ -5185,7 +5182,7 @@ Vestur-Eyjafjallahreppur
 Vesturbyggð
 Gibeon,Luderitz
 Luderitz,Gibeon,Luderitz
-Timur Laut,
+Timur Laut
 Luderitz,Omuthiyagwipundi,Luderitz
 Luderitz
 Gibeon
@@ -5660,7 +5657,7 @@ Charente-Maritime
 Barcelona
 Leshan,Botany Bay,Sydney - Inner,Waverley
 Sydney - Inner,Waverley,Botany Bay,Caloundra - Rail Corridor,South Brisbane,City - Remainder,Whitsunday
-Botany Bay,Caloundra - Rail Corridor,South Brisbane,City - Remainder,Whitsunday,
+Botany Bay,Caloundra - Rail Corridor,South Brisbane,City - Remainder,Whitsunday
 Bang Rak
 New York
 Toronto
@@ -5724,7 +5721,7 @@ Harrisonburg
 Goodwood
 Amsterdam
 Magnesia
-Phra Nakhon,
+Phra Nakhon
 Barcelona
 Paris
 Paris
@@ -5831,7 +5828,7 @@ Tianjin
 Toronto
 Stockholm,Solna
 Goodwood,Simon Town,Goodwood
-Miami-Dade,
+Miami-Dade
 Rio de Janeiro
 Agadir-Ida ou Tanane
 Marin,San Francisco
@@ -5900,7 +5897,7 @@ Seine-et-Marne
 Paris
 Yvelines
 Paris
-Paris,
+Paris
 Seine-et-Marne
 Zell am See
 Zell am See
@@ -5982,11 +5979,11 @@ Bruxelles
 Köln
 Paris
 Tainan City
-Shah Alam,
+Shah Alam
 Oberbayern
 Castellón
 Roma
-Roma,
+Roma
 Roma
 Roma
 Cyclades
@@ -6507,7 +6504,7 @@ Suffolk,Davidson
 Davidson,Clark
 Davidson,Clark
 Davidson
-Zürich,
+Zürich
 West Torrens - West,Port Phillip - West,Melbourne - S'bank-D'lands
 Blue Mountains,Sydney - East,North Sydney
 Sydney - Inner,Melbourne - Inner
@@ -7370,7 +7367,7 @@ Florence
 Florence
 Florence
 La Spezia
-Florence,Venezia,Padua,
+Florence,Venezia,Padua
 Venezia
 Roma
 Florence
@@ -7387,7 +7384,7 @@ Konak
 Málaga
 Oost-Vlaanderen
 Valkenburg aan de Geul
-Roma,,Napoli,
+Roma,,Napoli
 Roma,Napoli
 Roma
 Roma
@@ -7661,7 +7658,7 @@ Surfers Paradise
 South Brisbane
 Praha 1
 Amsterdam
-Roma,
+Roma
 Budapesti
 Milano
 Balmazújváros
@@ -7836,7 +7833,7 @@ Dnipropetrovs'ka
 Shevchenkivs'kyi
 Paris
 Dnipropetrovs'ka
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Shevchenkivs'kyi
@@ -8295,14 +8292,14 @@ Jinhua,Shantou
 Shantou
 Beijing
 Dupage,New York,Dupage,,Beijing
-Dupage,Valencia,
-Beijing,
+Dupage,Valencia
+Beijing
 San Cristóbal,Lic. Diego Bautista Urban
-Dupage,
-Beijing,Shantou,
+Dupage
+Beijing,Shantou
 Valencia,Lic. Diego Bautista Urban,,Beijing
 Lic. Diego Bautista Urban
-Shantou,
+Shantou
 Dupage,Shantou
 Valencia
 Beijing
@@ -8472,7 +8469,7 @@ Negombo
 Baleares
 Milano
 Köln
-Shibayama,
+Shibayama
 Miami-Dade
 Miami-Dade
 Santa Clara,San Mateo
@@ -8892,7 +8889,7 @@ Warsaw
 Combined statistics
 Malmö
 Málaga
-Paris,
+Paris
 Riga
 Paris,Pas-de-Calais
 Eacham
@@ -8905,7 +8902,7 @@ West-Vlaanderen
 Skodje
 Honolulu
 Rotterdam,Lopik
-Amsterdam,Suffolk,
+Amsterdam,Suffolk
 Krugersdorp
 Randburg
 Randburg
@@ -9408,7 +9405,7 @@ Alpes-Maritimes
 Landes
 Manukau
 Verbano-Cusio-Ossola,Locarno
-Besiktas,
+Besiktas
 Paris
 New York,Miami-Dade
 Isère
@@ -9564,7 +9561,7 @@ King
 San Mateo
 Paris
 Paris,Eure
-Roma,
+Roma
 Napoli
 Salerno
 Port Phillip - West
@@ -9613,7 +9610,7 @@ Sepang
 Johor Baharu
 Bang Lamung
 Amsterdam
-Roma,
+Roma
 Sankt-Peterburg gorsovet,Chelyabinsk gorsovet
 Hsinchu
 Taipei
@@ -9660,7 +9657,7 @@ Taipei City
 Taipei
 Hsinchu
 Minamiaso,Aso,Takachiho,Miyazaki,Nichinan
-Taoyuan,
+Taoyuan
 Taipei City
 Taitung,Tainan City,Taichung City
 Taipei
@@ -9946,7 +9943,7 @@ Florence
 Darmstadt
 Beijing
 Beijing,Jinzhong,Xi'an
-Jinzhong,Xi'an,Chengdu,Leshan,Guilin,
+Jinzhong,Xi'an,Chengdu,Leshan,Guilin
 Xi'an,Chengdu,Leshan,Guilin,,Don Muang,Ko Phangan
 Don Muang,Ko Phangan,Pistoia
 Bunkyo,Taito
@@ -10261,7 +10258,7 @@ New York
 Kings,Nord
 Paris
 Shanghai,Minato,Nakano
-Setagaya,Narita,
+Setagaya,Narita
 Paris
 Combined statistics
 Salzburg Umgebung,Salzburg
@@ -10320,7 +10317,7 @@ Paris
 New York
 Paris
 Zürich,Interlaken
-Shanghai,
+Shanghai
 Bang Lamung,Pathum Wan
 Praha 6,Praha 1
 Milano
@@ -10507,7 +10504,7 @@ Virginia
 South Brisbane
 City - Remainder
 East Brisbane
-Morningside,
+Morningside
 North Goa
 Chennai
 Cairns - Northern Suburbs
@@ -10960,7 +10957,7 @@ Queenstown-Lakes
 Sydney - West,Sydney - Inner
 São Paulo
 Guarujá
-Alpes-Maritimes,
+Alpes-Maritimes
 Kraków City
 Leiria
 Leiria
@@ -10997,7 +10994,7 @@ Bethlehem
 Kings,New York
 District of Columbia
 Hume - Craigieburn,Sepang,Bagmati
-Delhi,
+Delhi
 Fatih,Beyoglu,Beykoz
 Budapesti,Wien
 Praha 1,Praha 6,Praha 2
@@ -11220,7 +11217,7 @@ Seine-Maritime,Paris
 Reykjavík,Þingvallahreppur,Hrunamannahreppur
 Berlin
 Zadar,Split
-Roma,
+Roma
 Barcelona
 Barcelona
 Melbourne - Inner,Port Phillip - West,Melbourne - Inner
@@ -11304,7 +11301,6 @@ Guadalajara
 Naucalpan de Juárez,New York
 Cozumel
 Salvaleón de Higüey
-
 Clark
 La Spezia
 Budapesti
@@ -11550,7 +11546,6 @@ York
 Zwolle
 Richmond
 Beyoglu,Besiktas,Bakirköy,Bornova
-
 Berlin
 Osaka,Shinjuku,Gimpo
 Clark
@@ -11717,7 +11712,7 @@ Milano
 Corfu
 Dordogne
 Ko Samui
-Ko Samui,
+Ko Samui
 Ko Samui
 Savoie
 Guangzhou,Stonnington - Prahran,Melbourne - Inner,Surf Coast - East
@@ -11978,7 +11973,7 @@ Praha 1
 Lisse
 Paris
 Ouarzazate
-Roma,
+Roma
 Don Muang
 Los Angeles
 Clark
@@ -12028,7 +12023,7 @@ Billund,Combined statistics
 Combined statistics
 Billund
 Billund
-Hartford,New York,Hartford,
+Hartford,New York,Hartford
 Billund
 Billund
 Barcelona
@@ -12116,7 +12111,7 @@ Haute-Garonne
 Paris
 Paris
 Paris
-Paris,
+Paris
 West End
 Brookfield (incl. Brisbane Forest Park)
 Byron
@@ -12344,9 +12339,7 @@ Milano
 Budapesti
 Baleares
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 New York
 Roma
 Kharkivs'ka
@@ -12792,7 +12785,7 @@ Barcelona
 Barcelona,Paris
 Amsterdam,Berlin,Praha 1,Ceský Krumlov,Wien
 Oberbayern
-Budapesti,
+Budapesti
 Attica
 Dubrovnik,Split,Zell am See
 Paris,Sedgwick
@@ -13033,9 +13026,9 @@ Sydney - East
 Hagfors
 Distrito Federal
 Barcelona
-Cook,
+Cook
 San Diego
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Bologna
 Bruxelles
@@ -13071,13 +13064,13 @@ Shah Alam,Timur Laut,Kuala Selangor,Hulu Langat,Shah Alam
 Wien
 Milano
 Amsterdam,Haarlemmermeer
-Roma,
+Roma
 Roma
 Berlin
 Ullensaker
 Kuala Selangor,Gombak,Shah Alam
 Shah Alam
-Shah Alam,
+Shah Alam
 Shah Alam
 Shah Alam,Kuala Selangor
 Kuala Selangor
@@ -13187,7 +13180,7 @@ Barcelona
 Barcelona
 Cagliari
 Cagliari
-Roma,
+Roma
 Vila Nova de Gaia
 Braga
 Paris
@@ -13476,7 +13469,7 @@ Venezia
 Roma
 Paris
 Paris
-Taipei City,Hualien,Taipei,
+Taipei City,Hualien,Taipei
 Gironde
 Porto,Vila Nova de Gaia
 Salazie
@@ -13620,7 +13613,7 @@ Alpes-Maritimes
 Baleares,Riga
 Baleares,Dnipropetrovs'kyi,Dnipropetrovs'ka,Napoli
 Dnipropetrovs'ka,Napoli,Olbia-Tempio
-Corse-du-Sud,Livorno,
+Corse-du-Sud,Livorno
 Var
 Western
 Western
@@ -13894,7 +13887,7 @@ Pontevedra
 Pontevedra
 Pontevedra
 Reykjavík
-Roma,
+Roma
 Cairns  - City
 Byron,Blue Mountains
 Bass Coast  Bal
@@ -14042,7 +14035,7 @@ Baleares
 Paris
 Napoli
 Badung
-Gianyar,Cottesloe,Swan,
+Gianyar,Cottesloe,Swan
 Florence
 Ørsta,Stranda
 Milano
@@ -14166,7 +14159,7 @@ Novi Sad
 Bratislava I
 Oberbayern
 Trnava
-Gyál,
+Gyál
 Nové Zámky
 ilina
 Bratislava V
@@ -14351,14 +14344,12 @@ Savoie
 Los Angeles
 Oslo
 Oberbayern
-Roma,
+Roma
 Riga
 Riga
 Salvaleón de Higüey
-
 Rogers
 Salvaleón de Higüey
-
 Baleares
 Baleares
 Marrakech
@@ -15565,9 +15556,7 @@ Vsevolzhskiy rayon
 Sankt-Peterburg gorsovet
 Domodedovskiy rayon
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Sankt-Peterburg gorsovet
 Sankt-Peterburg gorsovet
 Sankt-Peterburg gorsovet
@@ -15719,7 +15708,7 @@ Robertson,Henry,Shelby
 Henry,Shelby,Orleans
 Orleans,Fulton,Jefferson
 Solnechnogorskiy rayon
-Melaka Tengah,
+Melaka Tengah
 Central,North-Eastern,Western,Central
 Shah Alam
 Miami-Dade
@@ -16235,7 +16224,7 @@ Praha 1
 Agadir-Ida ou Tanane
 Zürich,Sankt Gallen
 Central,Nassau
-Paris,
+Paris
 Bang Rak
 Pathum Wan
 Huai Kwang
@@ -16702,7 +16691,7 @@ Sankt-Peterburg gorsovet
 Sankt-Peterburg gorsovet
 Albufeira
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Gard
 Gard,Ardèche
 Rhône
@@ -16842,9 +16831,9 @@ Timur Laut,Barat Daya
 Kyoto,Osaka
 Seine-Saint-Denis
 Negombo,Galle Four Gravets
-Galle Four Gravets,
 Galle Four Gravets
-Gianyar,
+Galle Four Gravets
+Gianyar
 Caloundra - Caloundra S.
 Vladivostok gorsovet
 Vladivostok gorsovet
@@ -17028,7 +17017,7 @@ Jakarta Selatan
 Kota Bandung,Bandung
 Kota Bandung
 Kota Bandung,Jakarta Pusat
-Paris,Bruxelles,Edam-Volendam,
+Paris,Bruxelles,Edam-Volendam
 's-Gravenhage
 Paris,Córdoba,Madrid
 Jakarta Selatan
@@ -17054,7 +17043,7 @@ Bruxelles
 Attica
 Amsterdam
 Dubrovnik
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris
 Barcelona
 Qingdao
@@ -17096,7 +17085,7 @@ Amsterdam
 Marmaris
 Las Palmas
 Las Palmas
-Osaka,
+Osaka
 Taipei City
 Paris
 Barcelona
@@ -17502,7 +17491,7 @@ Los Angeles
 Los Angeles
 Thon Buri,,Phra Nakhon,Ratchathewi,Huai Kwang
 Genève,Visp,Morges
-Roma,
+Roma
 Roma
 West-Vlaanderen
 Western Bay of Plenty
@@ -17558,7 +17547,7 @@ Ko Samui
 Ko Samui
 North-Western,Central,Northern,Novosibirskiy rayon
 Genève
-Paris,
+Paris
 Badung
 Amsterdam
 Benito Juárez,Cozumel
@@ -17602,7 +17591,7 @@ Aosta
 Alpes-Maritimes
 Barcelona
 Wien
-Kuching,
+Kuching
 Malay
 Central
 South-Western
@@ -17681,7 +17670,7 @@ Berlin
 Central
 Roma
 Eure
-Haarlemmermeer,
+Haarlemmermeer
 Mittelfranken
 Essaouira
 Tübingen
@@ -17720,7 +17709,7 @@ Stockholm
 Roma
 Bologna
 Sumter
-Alpes-Maritimes,
+Alpes-Maritimes
 Unincorp. Flinders Ranges
 New York
 Milano
@@ -17868,7 +17857,7 @@ Florence
 Florence
 Parma
 Paris
-Saint Louis,
+Saint Louis
 Bülach
 Dosquebradas
 Santafé de Bogotá
@@ -18564,7 +18553,7 @@ Beyoglu
 Besiktas
 Shanghai
 Milano,Trapani
-Alpes-Maritimes,
+Alpes-Maritimes
 Nassau
 Nassau
 Ikenne
@@ -18665,7 +18654,7 @@ Sankt-Peterburg gorsovet
 Caserta
 Paris
 Paris
-Paris,
+Paris
 Kraków City
 Tatra,Kraków City
 Queens,Los Angeles,San Francisco,Mohave
@@ -19547,7 +19536,7 @@ Sankt-Peterburg gorsovet
 Madrid
 Ascoli Piceno
 Latina
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes,Roma
@@ -19572,7 +19561,7 @@ Alpes-Maritimes
 Alpes-Maritimes
 Paris,Amsterdam
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
@@ -19595,7 +19584,7 @@ Var
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris,Seine-et-Marne
 Roma
 Alpes-Maritimes
@@ -19767,7 +19756,7 @@ Shibuya
 Cairns  - City,Cairns - Northern Suburbs
 Cairns - Northern Suburbs,Botany Bay
 Roma
-Roma,
+Roma
 Roma
 Roma
 Attica
@@ -19997,7 +19986,7 @@ Cádiz,Málaga
 Cádiz,Málaga
 Málaga
 Cádiz
-Cádiz,
+Cádiz
 Combined statistics,Málaga
 Málaga
 Sevilla
@@ -20146,7 +20135,7 @@ Paris,New York
 Broward,Orange,Pinellas
 Girona
 Grootegast
-Roma,
+Roma
 Roma
 San Francisco,El Dorado
 Berlin
@@ -20491,7 +20480,7 @@ Shah Alam
 Timur Laut,Kinta
 Kinta
 Kinta,Shah Alam
-Shah Alam,
+Shah Alam
 Shah Alam
 Shah Alam
 Shah Alam
@@ -20657,7 +20646,7 @@ Ortaca,Fethiye,Ürgüp
 Magharibi
 Paris
 Baleares
-Sepang,
+Sepang
 Paris,Seine-et-Marne
 H? Chí Minh city
 Johor Baharu
@@ -20721,7 +20710,7 @@ Jakarta Utara
 Jakarta Pusat
 Jakarta Pusat
 Biskupstungnahreppur,Reykjavík
-Alpes-Maritimes,
+Alpes-Maritimes
 Split,Hvar,Dubrovnik
 Jakarta Utara
 Jakarta Selatan,Nongkheam
@@ -20931,7 +20920,6 @@ Suffolk
 Orange
 Orange
 Salvaleón de Higüey
-
 Berlin
 Berlin
 Corfu
@@ -21060,7 +21048,7 @@ Sassari
 Sassari
 Interlaken
 Bang Lamung
-New York,
+New York
 New York
 Amsterdam
 Kings
@@ -21347,7 +21335,7 @@ Sydney - Inner
 Yamato,Yokohama,Chiyoda,Nakano
 Barcelona
 Yokohama
-Sydney - Inner,
+Sydney - Inner
 Rio de Janeiro
 Bang Rak
 Wien
@@ -21410,7 +21398,7 @@ Barcelona
 Madrid
 Seixal,Lisboa
 Sevilla,Granada
-Bouches-du-Rhône,Alpes-Maritimes,
+Bouches-du-Rhône,Alpes-Maritimes
 Genova,Alpes-Maritimes,Rhône,Paris
 Bruxelles
 Poznan City
@@ -21598,7 +21586,7 @@ Pittwater
 Manly,Sydney - Inner
 Sydney - Inner,Pittwater
 Pittwater
-Sydney - West,
+Sydney - West
 La Spezia,Florence,Salerno
 Florence,Salerno
 Rockdale
@@ -22000,7 +21988,7 @@ Amsterdam
 Cyclades
 Barcelona
 Paris
-Roma,
+Roma
 Maui,King
 Maui,King
 King,Maui
@@ -22303,7 +22291,7 @@ Attica
 Orange,Miami-Dade
 Paris
 Forsand,Etne
-Málaga,
+Málaga
 Marrakech
 Marrakech
 Florence
@@ -22321,7 +22309,7 @@ Amsterdam
 Combined statistics
 Jiangmen
 Jiangmen
-Jiangmen,
+Jiangmen
 Beijing
 Paris
 Los Angeles
@@ -22726,7 +22714,7 @@ Victoria Point
 Lismore - Pt A,Campbelltown  - South
 Liverpool - East
 Fairfield - East
-Rockdale,
+Rockdale
 Baleares
 Clark
 Clark
@@ -22816,7 +22804,6 @@ Budapesti
 Budapesti,Gyál
 Dharmapuri
 Frutigen 
-
 Stockholm
 Khan Na Yao
 Sattahip
@@ -23227,7 +23214,7 @@ Roma
 Vilniaus
 Vilniaus
 New York,Hudson,New York,Suffolk
-ilales,
+ilales
 Ko Phangan
 Ko Phangan
 Muang Krabi,Bang Rak,Khlong San
@@ -23453,7 +23440,7 @@ Wien
 Como
 Paris
 Roma
-Attica,
+Attica
 Oise
 Akishima,Yokohama
 Taipei City
@@ -23592,15 +23579,10 @@ Cagliari
 Cagliari
 Corse-du-Sud
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Las Palmas
 Napoli
 Dodecanese
@@ -24373,7 +24355,7 @@ Pathum Wan,Wattana,Chom Thong,Cha-Am,Hua Hin
 Cha-Am,Hua Hin,Khao Kho,,Wattana,Pathum Wan,Chom Thong,Bang Rak,Muang Samut Sakhon
 Pathum Wan,Ko Samui
 Pathum Wan,Sathorn
-Paris,Bouches-du-Rhône,Alpes-de-Haute-Provence,Alpes-Maritimes,
+Paris,Bouches-du-Rhône,Alpes-de-Haute-Provence,Alpes-Maritimes
 Pathum Wan
 Chom Thong
 Phra Samut Jadee
@@ -24969,7 +24951,7 @@ Paris
 Paris
 Paris
 Paris
-Alpes-Maritimes,
+Alpes-Maritimes
 Loire
 Paris
 Budapesti
@@ -25170,7 +25152,7 @@ Paris
 Paris
 Cádiz
 Paris
-Roma,
+Roma
 Paris
 Bruxelles
 Marrakech
@@ -25217,7 +25199,6 @@ Tallinn
 Tallinn
 Tallinn
 Tallinn,Paide
-
 Tallinn
 Tallinn
 Haapsalu
@@ -25455,7 +25436,7 @@ Besiktas,,Fatih
 Besiktas,Fatih
 Oberbayern,Paris
 Málaga
-Chiyoda,Chuo,
+Chiyoda,Chuo
 Shanghai
 Berlin
 Paris
@@ -25531,7 +25512,7 @@ Detmold
 Tarrant,Bexar,Cook
 New York
 Bagmati
-Bagmati,
+Bagmati
 Bagmati
 Timur Laut
 Shah Alam
@@ -25777,7 +25758,7 @@ Nord
 Weser-Ems
 Pas-de-Calais
 Wien Umgebung,Baden
-Pilisvörösvár,
+Pilisvörösvár
 Bolzano
 Berlin
 Shenzhen
@@ -25826,7 +25807,7 @@ Pathum Wan
 Paris
 Ravenna
 Ravenna
-Ravenna,
+Ravenna
 Ravenna,Venezia
 Napoli,Ravenna
 Venezia
@@ -25976,7 +25957,6 @@ Split
 Barcelona
 Paris
 Tallinn,Aegviidu
-
 Tallinn
 Tallinn
 Tähtvere,Viljandi
@@ -26276,7 +26256,7 @@ Sydney - Inner
 Goms,Napoli,Roma
 Fatih
 Merkez
-Budapesti,
+Budapesti
 West-Vlaanderen
 Combined statistics,West-Vlaanderen
 Matosinhos
@@ -26425,7 +26405,7 @@ Beijing
 Haarlemmermeer
 Los Angeles
 Los Angeles
-Berlin,
+Berlin
 Los Angeles
 Loudoun
 Badung
@@ -26546,7 +26526,7 @@ Shelby
 Lonoke
 Escambia
 Orleans,Jefferson
-Roma,
+Roma
 Santa Rosa
 Santa Rosa
 Sandoval
@@ -26730,7 +26710,7 @@ Alpes-Maritimes
 Datça
 Paris
 Paris
-Baleares,
+Baleares
 Alpes-Maritimes
 New York
 Milano
@@ -26878,7 +26858,6 @@ Selçuklu
 Develi
 Konak
 Bornova
-
 Madrid
 Póvoa de Varzim
 Peniche
@@ -27053,7 +27032,7 @@ Central Okanagan
 Central Okanagan
 Dehra Dun
 Granada,Sevilla,Córdoba
-Roma,
+Roma
 Wayne
 Wayne
 Wayne
@@ -27240,7 +27219,7 @@ Taipei City,Ilan
 Ilan
 Taipei City
 Amsterdam
-Amsterdam,
+Amsterdam
 Fethiye
 Randwick
 Orange
@@ -27285,8 +27264,8 @@ Paris,Bouches-du-Rhône,Sydney - East,Paris,Hauts-de-Seine
 Paris,Hauts-de-Seine
 Milano,Varese
 Paris
-Amsterdam,Berlin,Hamburg,Schleswig-Holstein,Combined statistics,
-Berlin,Hamburg,Schleswig-Holstein,Combined statistics,
+Amsterdam,Berlin,Hamburg,Schleswig-Holstein,Combined statistics
+Berlin,Hamburg,Schleswig-Holstein,Combined statistics
 Waverley
 Sydney - Inner
 Sydney - West
@@ -27356,7 +27335,6 @@ São Paulo
 Uusimaa
 Kilifi
 Salvaleón de Higüey
-
 Warsaw
 Jakarta Pusat
 Jakarta Pusat
@@ -27407,7 +27385,7 @@ Järfälla,Huddinge
 Cook
 Cook
 Cook
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Stockholm
 Cook
@@ -27522,7 +27500,7 @@ Barcelona
 Frogn
 Robertson,Swellendam,Goodwood,Stellenbosch
 Lisboa,Évora
-Reguengos de Monsaraz,
+Reguengos de Monsaraz
 Budapesti
 Los Angeles
 Gard
@@ -27685,7 +27663,7 @@ Panamá,Clark
 Clark
 Milano,Verona
 Paris
-Paris,
+Paris
 São Paulo
 Brasília
 Rio de Janeiro
@@ -27714,7 +27692,7 @@ Distrito Nacional
 Cabimas
 Clayton
 Praha 1,Paris,Amsterdam,Barcelona
-Roma,
+Roma
 Fulton,Gwinnett
 Gwinnett
 DeKalb
@@ -28188,10 +28166,10 @@ Florence
 Florence
 Palermo
 Palermo
-Roma,
+Roma
 Novara
 Novara
-Roma,
+Roma
 Badung
 Hanwella
 Galle Four Gravets
@@ -29001,7 +28979,7 @@ Málaga
 Siem Reab
 Muang Phuket
 Muang Chiang Mai
-H? Chí Minh city,
+H? Chí Minh city
 Muang Chiang Mai
 Savoie
 Vaucluse
@@ -29732,7 +29710,7 @@ Weser-Ems
 Paris
 Paris
 Ciudad Real
-Amsterdam,
+Amsterdam
 Ciudad Real
 Ciudad Real
 Córdoba
@@ -29797,7 +29775,7 @@ Shah Alam
 Shah Alam
 Melaka Tengah
 Melaka Tengah
-Shah Alam,
+Shah Alam
 Shah Alam
 Johor Baharu
 Shah Alam
@@ -30269,7 +30247,7 @@ Timur Laut
 Amsterdam
 Amsterdam
 Kota Kinabalu,Ranau
-Torino,Roma,
+Torino,Roma
 Amsterdam,Lisse
 Paris
 Venezia
@@ -30428,7 +30406,7 @@ Málaga
 Roma
 Roma
 Roma
-Roma,
+Roma
 Roma
 Hamburg,Combined statistics
 Berlin
@@ -30838,7 +30816,7 @@ Bucaramanga
 Santafé de Bogotá
 Santafé de Bogotá
 Budapesti
-Warsaw,Vilniaus,Riga,Tallinn,Alpes-Maritimes,
+Warsaw,Vilniaus,Riga,Tallinn,Alpes-Maritimes
 Santafé de Bogotá
 Tocancipá
 Santafé de Bogotá
@@ -31608,7 +31586,7 @@ Las Palmas
 Las Palmas
 Las Palmas
 Rygge
-Roma,
+Roma
 Fredrikstad
 Onsoey,Fredrikstad,Rygge
 Skierniewice City,Lódz
@@ -31725,12 +31703,12 @@ Lausanne
 Torino
 Central
 Agra,Bagmati
-Greater Bombay,Bangalore Urban,
+Greater Bombay,Bangalore Urban
 Bari
-Jerusalem,
+Jerusalem
 Shanghai
 Shanghai,Hangzhou
-Taipei City,
+Taipei City
 Berlin
 Milano
 Muang Krabi
@@ -31756,7 +31734,6 @@ Barcelona
 New York
 Paris
 Salvaleón de Higüey
-
 Hà N?i
 Th?a Thiên - Hu?,Qu?ng Nam
 H? Chí Minh city
@@ -31810,7 +31787,7 @@ Los Angeles
 Division No. 6
 Bled
 Savoie
-Roma,
+Roma
 Portimão
 Marrakech
 Amsterdam
@@ -32252,7 +32229,7 @@ Harris
 Wien,Bratislava I,Wien
 Dupage,Cook
 Wien
-Bouches-du-Rhône,Var,Alpes-Maritimes,
+Bouches-du-Rhône,Var,Alpes-Maritimes
 Harris
 Berlin
 Roma
@@ -32749,7 +32726,6 @@ Gdansk City
 Gdansk City
 New York
 Salvaleón de Higüey
-
 New York
 Budapesti
 Antwerpen
@@ -32976,7 +32952,7 @@ Hennepin
 Stockholm
 Florence
 Baleares
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Stockholm
@@ -32996,7 +32972,7 @@ Los Angeles
 Thap Sakae
 Waverley,Randwick
 Sydney - West
-Willoughby,Sydney - Inner,
+Willoughby,Sydney - Inner
 Hà N?i,Qu?ng Ninh
 Qu?ng Ninh,Th?a Thiên - Hu?
 Th?a Thiên - Hu?,Qu?ng Nam
@@ -33071,7 +33047,7 @@ Florencio Varela
 Vizela
 Castelo de Paiva
 Venezia
-Paris,Orange,
+Paris,Orange
 Ladakh (Leh)
 Amsterdam
 Cyclades
@@ -33178,7 +33154,7 @@ Vysokogorskiy rayon
 Fayette
 Madrid
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Var
 Var
 Oslo
@@ -33507,7 +33483,7 @@ New York
 Arezzo
 Amsterdam,Haarlemmermeer
 Amsterdam
-Haarlemmermeer,
+Haarlemmermeer
 Amsterdam
 Las Palmas
 Amsterdam
@@ -33545,7 +33521,7 @@ Wonosobo
 Melaka Tengah
 Taipei City
 Taipei City
-Shenzhen,
+Shenzhen
 Cianjur,Bogor
 E. Gippsland Bal,E. Gippsland - Bairnsdale
 Whittlesea - North
@@ -33773,7 +33749,7 @@ Stenungsund,Ko Samui
 Kungälv
 Kalmar
 Stenungsund
-Alpes-Maritimes,
+Alpes-Maritimes
 Roma
 Göteborg,Stenungsund
 Praha 1
@@ -33935,7 +33911,7 @@ Bruxelles
 Rio de Janeiro
 Angra dos Reis,Foz do Iguaçu
 n.a354,n.a540,Distrito Federal
-Roma,
+Roma
 Barcelona
 Ratchathewi
 Uusimaa
@@ -33984,7 +33960,6 @@ Kale
 Kale
 Merkez,Battalgazi
 Sincan
-
 Bozcaada
 Kartal
 Merkez
@@ -34265,7 +34240,7 @@ Pathum Wan
 Xianyang
 Xi'an
 Beijing
-Beijing,
+Beijing
 Shenzhen
 Nanjing,Suzhou
 Shanghai
@@ -34289,7 +34264,7 @@ Milano,Como
 Santa Barbara
 Ventura,Santa Barbara,Los Angeles
 San Francisco
-Shanghai,Beijing,
+Shanghai,Beijing
 Stockholm
 Stockholm
 Baleares
@@ -34416,7 +34391,7 @@ Tallinn
 Praha 1
 Ajloun
 Plovdiv
-Thimbirigasyaya,Kaduwela,Thimbirigasyaya,
+Thimbirigasyaya,Kaduwela,Thimbirigasyaya
 Bruxelles
 Melbourne - Inner
 Alpes-Maritimes
@@ -34427,7 +34402,7 @@ New York
 Vizcaya
 Baleares
 Rotterdam
-Roma,
+Roma
 Goodwood
 Wynberg
 Goodwood
@@ -35214,7 +35189,7 @@ Baleares
 Paris
 New York
 Eddy
-Paris,Yvelines,Paris,
+Paris,Yvelines,Paris
 Hammam Sousse
 Üsküdar
 Bakirköy
@@ -35244,7 +35219,7 @@ New York
 Schagen
 Bergen
 New York
-Peel,
+Peel
 Wien
 Amsterdam
 Hauts-de-Seine,Paris
@@ -35648,7 +35623,7 @@ Central
 Central
 Central
 Central
-Domodedovskiy rayon,
+Domodedovskiy rayon
 Central
 Central
 Sankt-Peterburg gorsovet,Central
@@ -36125,7 +36100,7 @@ Greater Vancouver
 Sydney - Inner
 Hamburg
 Roma
-Pasay City,
+Pasay City
 Manolo Fortich,Cagayan de Oro City
 Cagayan de Oro City
 Panglao,Tagbilaran City,Cagayan de Oro City,Tagbilaran City
@@ -36803,7 +36778,7 @@ Milano
 Milano
 Monza and Brianza,Milano
 Milano
-Roma,
+Roma
 Phaya Thai
 Chatuchak,Pathum Wan
 Verona
@@ -36821,7 +36796,7 @@ Amsterdam
 Barcelona
 Boxmeer
 Hoorn
-Shinjuku,
+Shinjuku
 Shinjuku
 Baleares
 Paris
@@ -36883,7 +36858,7 @@ Sarajevo
 Tbilisi,Mtskheta
 Batumi
 Yomra,Çaykara,Merkez,Çankaya
-Stari Grad,
+Stari Grad
 Los Angeles
 Cook
 LaGrange,Racine,Holmes
@@ -36923,7 +36898,7 @@ Kolkata,South 24 Parganas
 Greater Bombay
 Greater Bombay
 Botany Bay,Greater Bombay,Whitsunday
-Christchurch,Waitakere,Waverley,Sydney - East,Greater Bombay,Sydney - Inner,Manly,Botany Bay,
+Christchurch,Waitakere,Waverley,Sydney - East,Greater Bombay,Sydney - Inner,Manly,Botany Bay
 Venezia
 Venezia
 Barcelona,Greater Bombay
@@ -37749,7 +37724,7 @@ Los Angeles
 Los Angeles
 Los Angeles
 Dodecanese
-Roma,Florence,Pisa,Napoli,
+Roma,Florence,Pisa,Napoli
 Baleares
 Baleares
 Barcelona
@@ -37848,7 +37823,7 @@ Lausanne
 Genève
 San Francisco
 San Francisco
-Varese,
+Varese
 Lisboa
 San Francisco,Clark
 Marin,Napa
@@ -37865,7 +37840,7 @@ Foggia
 DeKalb
 DeKalb
 Fulton,Richmond
-Richmond,
+Richmond
 Riga
 Paris
 New York
@@ -38159,7 +38134,7 @@ Roma,Bologna
 Sydney - West
 Shah Alam
 Melaka Tengah
-Shah Alam,Sepang,
+Shah Alam,Sepang
 Shah Alam
 Johor Baharu
 Shah Alam
@@ -38314,7 +38289,7 @@ North Karelia
 Domodedovskiy rayon,Madrid
 Palilula
 Zürich
-Domodedovskiy rayon,
+Domodedovskiy rayon
 Seodaemun
 Gimpo
 Seongdong
@@ -38429,7 +38404,6 @@ Roma
 Chebarkul'skiy rayon
 Chelyabinsk gorsovet
 Bornova
-
 Mamak
 Yenimahalle
 Gölbasi
@@ -38452,7 +38426,7 @@ Amsterdam
 Kraków City
 Las Palmas
 Hamburg
-Alpes-Maritimes,
+Alpes-Maritimes
 Barcelona
 Hamburg
 Port Phillip - West,Melbourne - S'bank-D'lands,Melbourne - Inner,Hume - Craigieburn,Sydney - Inner,Waverley
@@ -38469,7 +38443,7 @@ Las Palmas
 Las Palmas
 Port Phillip - West,Melbourne - S'bank-D'lands,Port Phillip - West,Melbourne - S'bank-D'lands
 Yarra - Richmond
-Port Phillip - West,Hume - Craigieburn,
+Port Phillip - West,Hume - Craigieburn
 Wake
 Port Phillip - West,Melbourne - Inner
 Sydney - Inner,Manly,Woollahra,Sydney - East
@@ -38609,7 +38583,7 @@ New York
 New York
 New York
 Muang Phuket
-New York,Clark,
+New York,Clark
 Trysil
 Orange
 Los Angeles
@@ -38740,7 +38714,7 @@ Tbilisi,Mtskheta
 Roma
 Çankaya
 Çankaya
-Çankaya,Çubuk,
+Çankaya,Çubuk
 Çankaya
 Reykjavík,Grindavík,Reykjavík
 Grindavík,Reykjavík
@@ -39020,7 +38994,7 @@ Muang Chiang Mai,Muang Sukhothai
 Muang Sukhothai,Pathum Wan
 Langkawi,Timur Laut,Cameron Highlands,Shah Alam,Yogyakarta,Sleman
 Tabanan
-Lombok Barat,
+Lombok Barat
 Budapesti
 Alpes-Maritimes
 Stockholm
@@ -39483,7 +39457,7 @@ Paris
 Combined statistics
 Paris
 Åre
-Roma,
+Roma
 Roma
 Roma
 Lecce
@@ -39745,7 +39719,7 @@ Baleares
 Sydney - Inner,Mosman
 Sydney - Inner,Mosman,Melbourne - Inner
 Petermann-Simpson,Douglas
-Mareeba,Cairns  - City,
+Mareeba,Cairns  - City
 Sydney - Inner
 Sydney - Inner
 Reykjavík,Hrunamannahreppur,Reykjavík
@@ -39795,7 +39769,7 @@ Tselinogradskiy,Almaty (Alma-Ata)
 Central
 Central,Sankt-Peterburg gorsovet
 Holosiïvs'kyi
-Taipei City,Kaohsiung,Kaohsiung City,
+Taipei City,Kaohsiung,Kaohsiung City
 Attica
 Cozumel
 Cozumel
@@ -39862,7 +39836,7 @@ Savoie
 Greater Vancouver
 Combined statistics
 Castellón
-Sepang,
+Sepang
 Zibo
 Miami-Dade
 Taipei City
@@ -40033,7 +40007,7 @@ Bakirköy,Beyoglu,Sariyer,Besiktas,Çankaya,Urla,Seferihisar,Menderes
 Gouveia
 Gouveia
 Milano
-Verona,Milano,Roma,
+Verona,Milano,Roma
 New York,Kings,New York,Kings
 Bakirköy
 Beyoglu,Besiktas,Bodrum
@@ -40700,7 +40674,6 @@ Paris
 Lublin City
 Seine-et-Marne
 Salvaleón de Higüey
-
 Paris
 Malbork
 Brasília
@@ -41064,7 +41037,7 @@ Passaic,Essex,Kings,New York,Kings,New York
 Seine-Saint-Denis,Paris
 Paris
 Amsterdam
-New York,
+New York
 New York,,Kings
 Central,Western
 Attica
@@ -41217,7 +41190,7 @@ New York
 Paris
 Sassari
 Oberbayern
-Roma,
+Roma
 Florence,Verona
 Wellington
 Haute-Savoie
@@ -41384,7 +41357,7 @@ Yvelines,Paris
 Paris
 Alpes-Maritimes,,Rhône
 Rhône
-Pisa,La Spezia,Milano,Venezia,Florence,Napoli,Roma,
+Pisa,La Spezia,Milano,Venezia,Florence,Napoli,Roma
 Savoie
 Muang Krabi
 Muang Satun
@@ -41495,7 +41468,6 @@ Venezia
 Rhône
 Paris
 Rheinfelden,Frutigen 
-
 Visp
 Rheinfelden
 Rotorua
@@ -41591,7 +41563,7 @@ Seongdong
 Yongin
 Gyeyang
 Shanghai
-Málaga,
+Málaga
 New York
 Lugano
 Granada
@@ -41758,7 +41730,7 @@ Milano
 Milano
 Milano
 Taipei City
-Taoyuan,
+Taoyuan
 Huizhou
 Barcelona
 Paris
@@ -41952,7 +41924,7 @@ Vila do Bispo
 Vila do Bispo
 New York
 Alicante
-Makati City,
+Makati City
 New York
 Murcia
 Warsaw
@@ -42076,7 +42048,7 @@ Medan
 Medan
 Deli Serdang
 Medan
-Deli Serdang,
+Deli Serdang
 Greater Bombay,Jaipur,Agra,Delhi
 East
 Medan
@@ -42089,7 +42061,7 @@ Medan
 Jakarta Pusat
 Medan
 Kota Tangerang
-Jakarta Pusat,
+Jakarta Pusat
 Jakarta Pusat
 Jakarta Barat
 Jakarta Pusat
@@ -42342,7 +42314,6 @@ Alicante,Murcia
 Alicante
 Marrakech
 Salvaleón de Higüey
-
 Alicante
 Fethiye
 Fethiye
@@ -42871,13 +42842,13 @@ Cook
 New York
 New York,Queens
 Shanghai
-Shanghai,
+Shanghai
 Queens,New York,Kings,New York
 Thalang,Bang Plee,Takua Thung,Kathu,Uusimaa
 Kings,New York,Queens
 New York,Queens,New York,Queens
 New York,Queens,New York,Queens
-Sydney - Inner,
+Sydney - Inner
 Sydney - Inner,Sydney - East,Melbourne - Inner,Port Phillip - West,Yarra - North,Bayside  - South
 Shanghai
 New York
@@ -42906,7 +42877,7 @@ Woodbury
 Combined statistics
 Florence
 Shanghai
-Sydney - Inner,
+Sydney - Inner
 New York
 Málaga
 Málaga
@@ -43458,8 +43429,8 @@ Praha 1
 Berlin
 Zederik,Leiderdorp
 Paris
-Roma,
-Rhône,Alpes-Maritimes,Paris,
+Roma
+Rhône,Alpes-Maritimes,Paris
 Pisa
 Madrid,Haarlemmermeer
 Barcelona,Valencia
@@ -43556,7 +43527,6 @@ Berlin
 Wien
 Wien
 Corfu,Bornova
-
 Çesme
 Attica
 Hermanus
@@ -43889,7 +43859,7 @@ Los Angeles
 Thissamaharama
 Barcelona
 Zell am See
-Genève,
+Genève
 Visp,Raron,Zell am See,,Genève
 Raron
 Visp
@@ -44006,7 +43976,7 @@ Seine-et-Marne
 New York
 New York
 Tanger-Assilah,Almaty (Alma-Ata),Valencia,Loiret
-Roma,
+Roma
 Grosseto,Siena,Florence,La Spezia
 Venezia,Belluno,Treviso,Brescia,Varese,Novara,Aosta
 Genève,Visp,Interlaken,Obwalden,Luzern,Goms,Zürich,Bern
@@ -44231,7 +44201,6 @@ Central
 Niagara
 Côte-d'Or
 Frutigen 
-
 Zürich
 Paris
 Beyoglu
@@ -44491,7 +44460,6 @@ Shanghai
 Shanghai
 Shanghai
 Merkez,Avanos
-
 Merkez
 Berlin
 Las Palmas
@@ -44839,12 +44807,12 @@ Badung,Haarlemmermeer
 Amsterdam
 Genova,Roma,Palermo,La Goulette,Carthage
 Baleares,Alpes-Maritimes
-Miami-Dade,
+Miami-Dade
 Colón
 Miami-Dade
 Miami-Dade
 Miami-Dade
-Miami-Dade,Salvador,
+Miami-Dade,Salvador
 Rio de Janeiro
 Rio de Janeiro
 Rio de Janeiro
@@ -45468,7 +45436,6 @@ Var
 Milano
 Barcelona
 Salvaleón de Higüey
-
 Muang Phuket
 Thalang
 Muang Phuket
@@ -45870,7 +45837,7 @@ Madrid
 Loulé
 Loulé,Faro
 Madrid
-Roma,
+Roma
 Madrid
 Madrid
 New York,Queens
@@ -46322,7 +46289,7 @@ Muang Krabi,Kathu
 Palilula
 Grindavík,Reykjavík
 Milano
-Badung,Surabaya,
+Badung,Surabaya
 Combined statistics
 Honolulu
 Maui
@@ -46442,7 +46409,7 @@ Paris
 New York
 Madrid
 Madrid
-Split,Alpes-Maritimes,
+Split,Alpes-Maritimes
 Porto Alegre
 São Paulo
 São Paulo
@@ -46955,7 +46922,7 @@ Pojezerje,Mljet
 Amsterdam
 La Spezia,Pisa
 Los Angeles
-Alpes-Maritimes,
+Alpes-Maritimes
 Corse-du-Sud
 Paris
 Calvados,Eure,Paris
@@ -47074,7 +47041,7 @@ Paris
 Seodaemun
 Berlin
 Liège
-Paris,
+Paris
 Lebork
 Lebork
 Paris
@@ -47302,7 +47269,7 @@ Dhaka
 Manly
 Berlin
 Roma
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris
 Paris
 Paris
@@ -47455,7 +47422,7 @@ Graz,Wien
 Oberbayern
 Berlin
 Hammamet
-Roma,
+Roma
 Amsterdam
 Combined statistics
 Lisboa
@@ -47775,7 +47742,7 @@ Clark
 Paris
 Pas-de-Calais
 San Francisco,Los Angeles,San Diego,Clark
-Roma,
+Roma
 Roma
 Manukau
 Nairobi
@@ -48123,7 +48090,7 @@ Wien,Salzburg Umgebung,Salzburg
 Bled
 Venezia,Roma,Florence,Como,Interlaken
 Freiburg
-Dubrovnik,
+Dubrovnik
 Mljet,Hvar,Split
 Drni,Brela
 Brela,Konavle
@@ -48464,7 +48431,6 @@ Järva-Jaani
 Tallinn
 Tallinn
 Paide
-
 Málaga
 Pas-de-Calais
 Baleares
@@ -48734,7 +48700,7 @@ Roma
 Roma
 Roma
 Roma
-Roma,
+Roma
 Bouches-du-Rhône,Alpes-Maritimes,,Roma
 Alpes-Maritimes
 Hume - Craigieburn
@@ -49181,7 +49147,7 @@ Beijing
 Beijing
 Beijing
 Beijing
-Shanghai,
+Shanghai
 Central
 Bodrum
 Besiktas
@@ -49216,10 +49182,10 @@ Varese,Milano
 Paris
 Paris,Oise
 Gianyar
-Badung,Vincent,Joondalup,Perth,South Perth,Kalamunda,
+Badung,Vincent,Joondalup,Perth,South Perth,Kalamunda
 Vincent,Botany Bay,Belmont,Sydney - East,Sydney - Inner,Sydney - West,Sydney - South,Shoalhaven - Pt B,Rockdale
 Victoria Park,Joondalup,Vincent,Stirling,Perth,Hume - Craigieburn,Manningham - West,Moreland - Brunswick,Port Phillip - West,Yarra Ranges - North,Yarra Ranges - Seville
-Joondalup,Vincent,Stirling,Perth,Hume - Craigieburn,Manningham - West,Moreland - Brunswick,Port Phillip - West,Yarra Ranges - North,Yarra Ranges - Seville,Cottesloe,Swan,Perth,Stirling,
+Joondalup,Vincent,Stirling,Perth,Hume - Craigieburn,Manningham - West,Moreland - Brunswick,Port Phillip - West,Yarra Ranges - North,Yarra Ranges - Seville,Cottesloe,Swan,Perth,Stirling
 Savoie
 Savoie,Isère
 Paris
@@ -49259,7 +49225,7 @@ Haarlemmermeer
 Venezia
 Alpes-Maritimes
 Alpes-Maritimes
-Roma,Harris,
+Roma,Harris
 Lagos,Lisboa,Lagos
 Lisboa,Lagos
 New York
@@ -49290,7 +49256,7 @@ Sosua
 Pitkin
 New York
 Kings
-Bayside  - South,Hume - Craigieburn,
+Bayside  - South,Hume - Craigieburn
 New York,Pitkin
 Pitkin,Riverside
 Riverside,Cook
@@ -49353,7 +49319,7 @@ Multnomah,Greater Vancouver
 Greater Vancouver,Thompson-Nicola
 Greater Vancouver
 Albufeira,Loulé
-Albufeira,Loulé,Albufeira,Loulé,Cádiz,
+Albufeira,Loulé,Albufeira,Loulé,Cádiz
 Málaga,Cádiz,Málaga
 Cádiz
 Madrid
@@ -49904,7 +49870,7 @@ Seine-Saint-Denis,Paris
 Baleares
 Clark
 Clark
-Guangzhou,
+Guangzhou
 Seine-Saint-Denis,Paris
 Cooloola (excl. Gympie)
 Port Macquarie-Hastings - Pt A,Sydney - Inner
@@ -49928,7 +49894,7 @@ New York,Queens,New York
 Queens,New York
 Karlsruhe
 Karlsruhe,Darmstadt
-Roma,
+Roma
 Paris
 Pathum Wan,Kui Buri,Hua Hin,Muang Prachin Buri,Takua Pa
 Muang Prachin Buri,Takua Pa,Kui Buri,Thai Muang
@@ -50004,7 +49970,6 @@ Yancheng
 Yancheng
 Distrito Nacional
 Salvaleón de Higüey
-
 San Rafael del Yuma
 Amsterdam
 Torino
@@ -50987,7 +50952,6 @@ Salerno,Napoli
 Berlin
 Budapesti
 Häädemeeste
-
 Paris
 Attica
 Fatih
@@ -51065,14 +51029,14 @@ Khania
 Khania
 Khania
 Khania
-Imperia,
+Imperia
 Lake Erie
 Bergamo
 Chatham-Kent
 Elgin
 Chatham-Kent
 Koblenz
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Vaucluse
@@ -51149,7 +51113,7 @@ Ulan Bator
 Ulan Bator
 Ulan Bator
 Shanghai
-Beijing,
+Beijing
 Shenzhen
 Ulan Bator
 Ulan Bator
@@ -51544,7 +51508,7 @@ Toronto,Lake Ontario
 Barcelona
 Shanghai
 Shanghai
-Amsterdam,Haarlemmermeer,
+Amsterdam,Haarlemmermeer
 Lisboa
 Madrid
 Milano,Vlaams Brabant,Madrid
@@ -51584,7 +51548,7 @@ Barcelona,Baleares
 Jinju
 Oxenford-Maudsland
 Napoli
-Roma,
+Roma
 Wien
 Wien
 Port Phillip - West
@@ -51707,7 +51671,7 @@ Berlin
 Praha 1
 Wien,Oberbayern,Praha 1
 Venezia
-Roma,
+Roma
 Siena,La Spezia
 Budapesti
 Dubrovnik
@@ -52732,7 +52696,7 @@ San José
 Belo Horizonte
 Rio de Janeiro
 Belo Horizonte
-Genève,
+Genève
 New York
 Belo Horizonte
 Confins
@@ -52871,7 +52835,7 @@ New York
 Combined statistics
 Combined statistics
 Frederikssund
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris
 Middelfart
 Riverside
@@ -53211,7 +53175,7 @@ Cook
 New York
 District of Columbia
 Clark
-Sydney - Inner,
+Sydney - Inner
 Sydney - Inner
 Cook
 Clark
@@ -53269,7 +53233,6 @@ Fort Bend
 Jongro,Seongbuk,Gwang-jin
 Barcelona
 Paris,Genève,Frutigen 
-
 Gwang-jin
 Paris
 Çankaya
@@ -54103,7 +54066,7 @@ Bydgoszcz City,Tatra
 Bari
 Bari
 Bari
-Amsterdam,Fairfax,
+Amsterdam,Fairfax
 Paris,Bruxelles
 District of Columbia,Haute-Savoie,Jefferson
 Loudoun,Philadelphia,Novara,Fairfax,Split,Hvar
@@ -54234,7 +54197,7 @@ West-Vlaanderen
 Amsterdam
 Paris
 Kassel
-Pasay City,
+Pasay City
 Budapesti
 Budapesti
 Gombak
@@ -54419,7 +54382,7 @@ Sydney - Inner,Mosman,Sydney - Inner,George Town - Pt A
 Mosman,Sydney - Inner,George Town - Pt A,Hobart
 Moyne - South
 Mosman,West Tamar - Pt A
-Sydney - Inner,Botany Bay,
+Sydney - Inner,Botany Bay
 Darmstadt
 Sydney - Inner,Mosman,Botany Bay,North Sydney
 Mosman
@@ -55199,7 +55162,7 @@ Central,Northern
 Central
 Alpes-Maritimes
 Alpes-Maritimes
-Western,
+Western
 Central
 Krasnogorskiy rayon
 Krasnogorskiy rayon
@@ -55268,7 +55231,7 @@ Central
 Lausanne,Genève
 Oslo
 Haute-Savoie
-Dubrovnik,
+Dubrovnik
 Split
 Dubrovnik
 Kraków City
@@ -55347,7 +55310,7 @@ Kyoto,Nagoya
 Kyoto,Nagoya,Osaka
 Orange
 Genève
-Alpes-Maritimes,
+Alpes-Maritimes
 Amsterdam
 Bergamo
 Milano
@@ -55810,9 +55773,7 @@ Hennepin
 Genève
 Paris
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Dordogne
 Dordogne
 Reykjavík
@@ -55985,7 +55946,7 @@ New York
 Grosseto
 Grosseto
 Pisa
-Florence,Grosseto,Roma,
+Florence,Grosseto,Roma
 Grosseto
 Grosseto
 Barcelona
@@ -56258,7 +56219,7 @@ Seine-et-Marne
 Beirut
 Las Palmas
 Terni
-Roma,
+Roma
 Beirut
 Amsterdam
 Matn
@@ -56490,7 +56451,7 @@ Badung,Lombok Barat
 Lombok Barat
 Badung
 Badung
-Beijing,
+Beijing
 Shanghai
 Taipei City
 Ko Lanta
@@ -56513,7 +56474,7 @@ Douglas,Magnetic Island
 Livingstone - Pt B
 Harvey,Rockingham
 Mandurah
-Roma,
+Roma
 Savoie
 Savoie
 Christchurch
@@ -57069,7 +57030,7 @@ New York
 Shevchenkivs'kyi
 Clark
 Haute-Savoie
-Paris,Bologna,
+Paris,Bologna
 Sydney - Inner
 Sydney - Inner
 Sydney - Inner
@@ -57423,7 +57384,7 @@ Timur Laut
 Kaohsiung
 Beijing
 Pisa
-Roma,
+Roma
 Barcelona
 San Diego,Los Angeles
 Pathum Wan
@@ -57698,7 +57659,7 @@ Maryborough,Maroochy - Coastal North,Burnett  - Pt A
 Uusimaa
 Oberbayern
 Brookfield (incl. Brisbane Forest Park)
-Pinkenba-Eagle Farm,
+Pinkenba-Eagle Farm
 Oberbayern
 Cook
 Santa Clara
@@ -57763,7 +57724,6 @@ Central,Northern,Khimki
 Central
 Northern,Khimki
 Salvaleón de Higüey
-
 Northern
 Northern
 Northern
@@ -58066,7 +58026,6 @@ Palilula
 Santa Marta (Dist. Esp.)
 Santafé de Bogotá
 Salvaleón de Higüey
-
 Hérault
 Hérault
 Roma
@@ -58088,7 +58047,7 @@ Zürich
 Barcelona
 Alpes-Maritimes
 Roma
-Alpes-Maritimes,
+Alpes-Maritimes
 Darmstadt,Jongro,Seongdong,Jongro,Gyeongju,Seogwipo,Jeju,Seongdong
 Attica
 Seongbuk
@@ -58268,7 +58227,6 @@ Munster
 Hamburg
 Shenzhen
 Salvaleón de Higüey
-
 Torino
 New York
 New York
@@ -58350,7 +58308,7 @@ Udine
 Paris
 Paris
 Venezia
-Roma,
+Roma
 Roma
 Oberbayern
 Gmunden,Kirchdorf an der Krems,Wien
@@ -58468,7 +58426,6 @@ Venezia
 Luzern
 Çesme
 Merkez,Bornova
-
 Merkez
 Çesme
 Merkez
@@ -58504,7 +58461,7 @@ Oslo
 Stockholm
 Uusimaa,Tallinn
 Berlin,Combined statistics
-Hamburg,
+Hamburg
 West-Vlaanderen
 Amsterdam
 Praha 1
@@ -58708,7 +58665,7 @@ Greater Vancouver
 São Paulo
 Orange
 Baleares
-Alpes-Maritimes,
+Alpes-Maritimes
 Amsterdam
 Hammamet
 Paris
@@ -58748,7 +58705,7 @@ Amsterdam
 Praha 1
 Kemer
 Kemer
-Bakirköy,
+Bakirköy
 Beyoglu
 Beyoglu
 Travis
@@ -59120,7 +59077,7 @@ Amsterdam
 Lagos
 Visp
 Málaga
-Roma,
+Roma
 Alicante
 Paris
 Madrid
@@ -59318,7 +59275,7 @@ Roma
 Baleares
 Roma
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Roma
 Berlin
 A Coruña
@@ -59426,7 +59383,7 @@ Amsterdam
 Shah Alam
 Jinja
 Shah Alam
-Roma,
+Roma
 Roma
 Marrakech
 Paris
@@ -59665,7 +59622,7 @@ Northern Ostrobothnia
 Gard,Vaucluse,Hérault
 Paris
 Paris
-Uusimaa,
+Uusimaa
 Uusimaa
 Seodaemun
 Northern Ostrobothnia
@@ -59962,7 +59919,7 @@ Venezia
 Uusimaa,Tallinn
 Riga
 Sankt-Peterburg gorsovet
-Sankt-Peterburg gorsovet,Central,Western,Southern,Northern,
+Sankt-Peterburg gorsovet,Central,Western,Southern,Northern
 Zagreb
 Dubrovnik
 Las Palmas
@@ -60052,7 +60009,7 @@ Gwang-jin
 Rio de Janeiro
 Rio de Janeiro
 Amsterdam,Paris
-Henrico,
+Henrico
 Richmond
 Kyoto
 Edogawa
@@ -60236,7 +60193,7 @@ Melbourne - Inner
 Port Phillip - West
 Venezia
 Verona
-Roma,
+Roma
 Vizcaya
 Minato,Nakano,Sumida,Koto
 Beijing
@@ -60676,7 +60633,7 @@ Baleares
 Milano
 New York
 Dodecanese
-Shah Alam,Clark,
+Shah Alam,Clark
 Alicante
 Alicante
 West-Vlaanderen
@@ -60722,7 +60679,7 @@ Como
 Trapani,Agrigento,Messina
 Theran
 Tiran and Karvan
-Milano,Roma,
+Milano,Roma
 Roma
 Como
 New York
@@ -60732,7 +60689,7 @@ Alappuzha
 Milano
 Paris
 Praha 1
-Queens,Kings,New York,
+Queens,Kings,New York
 Combined statistics
 Berlin
 San Francisco
@@ -61089,7 +61046,7 @@ Los Angeles
 Shanghai
 Xiamen
 Haarlemmermeer,Amsterdam
-Savoie,
+Savoie
 Surf Coast - East
 Cozumel
 Lijiang
@@ -61115,7 +61072,7 @@ Barat Daya
 Bentong,Kinta
 Kota Kinabalu
 Hà N?i
-Roma,
+Roma
 Sepang
 Shah Alam
 Clark
@@ -61398,7 +61355,7 @@ Alpes-Maritimes
 Sigtuna,Stockholm
 Stockholm,Sigtuna
 Paris
-Barat Daya,
+Barat Daya
 Shah Alam
 Sadao
 Shah Alam
@@ -61813,7 +61770,7 @@ Paris
 Taipei City,Nantou
 New York
 New York
-Kuala Belait,Berakas B,Kianggeh,
+Kuala Belait,Berakas B,Kianggeh
 Bas-Rhin,Haut-Rhin
 Berakas B
 Stavanger
@@ -61994,7 +61951,7 @@ Paris
 Baleares
 Madrid
 Tallinn
-Makati City,
+Makati City
 Innsbruck
 Ko Samui
 Ko Samui
@@ -62249,7 +62206,7 @@ Oslo,Stockholm
 Attica
 Prawet
 Sapanca,Üsküdar
-Johor Baharu,
+Johor Baharu
 Shah Alam
 Bau
 Shah Alam
@@ -62432,7 +62389,7 @@ Barcelona
 Zaragoza
 Zaragoza
 Barcelona,Zaragoza
-Alpes-Maritimes,
+Alpes-Maritimes
 Zaragoza
 Zaragoza
 Zaragoza
@@ -62839,7 +62796,7 @@ Praha 1
 Praha 1
 Dresden,Leipzig
 Roma
-Roma,
+Roma
 Budapesti
 Luxembourg
 Fulton
@@ -63112,7 +63069,7 @@ Los Angeles
 Los Angeles
 Venezia
 Olbia-Tempio
-Pathum Wan,
+Pathum Wan
 Khlong San,Bang Rak,Pathum Wan,Sathorn
 Khlong Toey
 Parkes,Melbourne - Inner
@@ -63346,7 +63303,7 @@ Alpes-Maritimes,,Paris
 Barcelona
 West-Vlaanderen
 Paris
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris,Nord
 Barcelona
 Barcelona
@@ -63825,7 +63782,7 @@ Wattana
 Wattana
 Wattana
 Chatuchak
-Bang Rak,Wattana,
+Bang Rak,Wattana
 Thon Buri,Muang Nonthaburi
 Wattana
 Wattana
@@ -63944,7 +63901,7 @@ New York
 Shanghai
 Shanghai
 Marrakech
-Roma,
+Roma
 Cádiz
 Utrecht
 Qu?ng Nam,H? Chí Minh city
@@ -64015,7 +63972,7 @@ Bang Rak,Phra Nakhon,Hua Hin
 Quito
 Santa Cruz,San Cristóbal,Quito
 Kunming
-Chengdu,
+Chengdu
 Var
 Oklahoma,Santa Fe,Coconino,San Diego,Los Angeles
 Ushuaia
@@ -64591,7 +64548,7 @@ Málaga
 Amsterdam
 Berlin,Schleswig-Holstein,Köln,Darmstadt
 Drammen,Göteborg
-Drammen,
+Drammen
 Wien
 Oberbayern
 Combined statistics,Stockholm
@@ -64800,7 +64757,7 @@ Ceská Lípa
 Ceská Lípa
 Hurstville
 Seine-Saint-Denis
-Alpes-Maritimes,
+Alpes-Maritimes
 Waverley
 Reykjavík
 Alpes-Maritimes
@@ -64917,7 +64874,7 @@ Beijing
 Chuo
 Beijing
 Paris
-Roma,Alpes-Maritimes,
+Roma,Alpes-Maritimes
 Marne
 Paris
 Shanghai
@@ -64999,7 +64956,7 @@ Shanghai
 Muang Chai Nat,Bang Lamung,Sathorn
 Shanghai
 Barcelona
-Alpes-Maritimes,Bouches-du-Rhône,Var,
+Alpes-Maritimes,Bouches-du-Rhône,Var
 Bern
 Düsseldorf
 Corinth
@@ -65063,7 +65020,7 @@ Alpes-Maritimes
 Amsterdam
 Milwaukee
 Haarlemmermeer
-Haarlemmermeer,
+Haarlemmermeer
 Uusimaa
 Päijänne Tavastia
 Päijänne Tavastia,Uusimaa
@@ -65232,7 +65189,7 @@ Yannawa,Sathorn
 Bang Rak
 Pisa
 Paris
-Paris,
+Paris
 Málaga
 Broward
 Orange
@@ -65291,7 +65248,7 @@ Combined statistics
 Barcelona
 Milano,Venezia
 Venezia,Florence
-Florence,Roma,
+Florence,Roma
 Shanghai
 Shanghai
 Shanghai
@@ -65508,7 +65465,7 @@ Marquette
 San Francisco
 San Francisco
 Yellowstone
-Roma,
+Roma
 Roma
 Florence,Pisa
 Paris
@@ -65658,7 +65615,7 @@ Cook
 Clark
 Marion
 Hudson
-Cook,
+Cook
 Toronto
 Barcelona
 Queenstown-Lakes
@@ -65926,7 +65883,6 @@ Samos
 Baleares
 Paris
 Konak,Bornova
-
 Lisboa
 Konak
 Beyoglu,Sisli
@@ -66041,7 +65997,7 @@ Lucca,Massa Carrara,Reggio Nell'Emilia,Lucca
 Rzeszów City
 Wien
 Ban Chang
-Chatuchak,
+Chatuchak
 Chatuchak
 Hammam Sousse
 Hammam Sousse
@@ -66716,7 +66672,7 @@ Siena
 Clark
 Amsterdam
 Verona
-Los Angeles,
+Los Angeles
 Vodovac
 Verona
 Roma
@@ -67047,7 +67003,7 @@ Kraków City
 Köln
 Bruxelles
 Warsaw
-Bouches-du-Rhône,Alpes-Maritimes,
+Bouches-du-Rhône,Alpes-Maritimes
 Amsterdam
 Köln
 Malmö,Stockholm
@@ -67267,7 +67223,7 @@ Bà R?a - Vung Tàu
 Bà R?a - Vung Tàu
 H? Chí Minh city
 Paris
-Venezia,Florence,
+Venezia,Florence
 Sydney - Inner,Sydney - West,Randwick,Waverley
 Sydney - East
 Marrickville,Sydney - Inner,Randwick,Sydney - South,Sydney - East
@@ -67346,7 +67302,7 @@ Rat Burana
 Rat Burana
 Pathum Wan
 Shah Alam
-Timur Laut,
+Timur Laut
 Roma
 Wien
 Kings
@@ -67367,7 +67323,7 @@ Ko Phangan
 Gorizia,Dunakeszi
 Luuka,Kampala
 New York
-Clayton,
+Clayton
 Fayette,Orange
 Kampala
 New York,Queens,Fayette
@@ -67384,7 +67340,7 @@ Barcelona
 Barcelona
 Barcelona
 Naucalpan de Juárez,Benito Juárez
-Roma,
+Roma
 Isère
 Gramado
 Paris
@@ -67560,10 +67516,10 @@ Orleans
 New York
 Budapesti
 Riga
-Muang Chiang Mai,
+Muang Chiang Mai
 Stolichna
 Marrakech
-District of Columbia,
+District of Columbia
 Halifax,Shanghai,Paris
 Central
 Clark
@@ -68007,7 +67963,7 @@ Savoie
 Savoie
 Schwaz
 Shah Alam
-New York,
+New York
 New York
 New York
 New York,Westchester
@@ -68066,7 +68022,7 @@ Guararapes
 Torino
 Venezia
 Berlin
-Roma,
+Roma
 New York
 Bodrum
 Braunschweig
@@ -68221,7 +68177,7 @@ Karlstad
 Göteborg
 Toronto
 Amsterdam
-Arlington,
+Arlington
 District of Columbia
 District of Columbia
 Barcelona
@@ -68249,7 +68205,7 @@ New York
 Miami-Dade
 Miami-Dade
 Miami-Dade
-Suginami,
+Suginami
 Steenwijkerland
 Barcelona
 Albufeira
@@ -68328,7 +68284,7 @@ Shenzhen
 Shenzhen
 Shenzhen
 Shanghai
-Shenzhen,
+Shenzhen
 Dalian
 Shantou
 Shenzhen
@@ -68573,7 +68529,7 @@ Vosges
 Vosges
 Bas-Rhin
 Bas-Rhin
-Caloundra - Caloundra N.,
+Caloundra - Caloundra N.
 Maroochy - Mooloolaba
 Samara
 Imperia,Alpes-Maritimes
@@ -69132,7 +69088,7 @@ Barcelona
 Milano
 Savoie
 New York
-Solnechnogorskiy rayon,
+Solnechnogorskiy rayon
 Paris
 Paris
 Bergen
@@ -69184,7 +69140,7 @@ Cook
 Cook
 Cook
 Tarragona
-Forli' - Cesena,
+Forli' - Cesena
 Rimini
 Forli' - Cesena,Rimini
 Chernivets'ka
@@ -69720,7 +69676,7 @@ Zell am See
 Trento
 Alpes-Maritimes
 Khania,Rethymnon
-Aude,
+Aude
 Lleida
 Paris
 Paris
@@ -69734,7 +69690,7 @@ Merkez,Akköy,Selçuk
 Paris
 Roma,Florence,Venezia
 Paris
-Porto,Albergaria-a-Velha,Seixal,Sevilla,
+Porto,Albergaria-a-Velha,Seixal,Sevilla
 Granada
 Oberbayern
 Amsterdam
@@ -70573,9 +70529,9 @@ Roma,Aigle,,Milano,Bernina,Sondrio,Basel,Zürich,Maloja,Taipei City,Paris,Alpes-
 Paris,Alpes-Maritimes,,Melbourne - Inner,Port Phillip - St Kilda,Sydney - Inner,Thalang,Shanghai,Dungun,Manjung,Mosman,New York,Hudson,Shah Alam,New York,,Kings,Sydney - Inner,Paris
 New York
 New York,Hudson,New York
-Hudson,New York,
+Hudson,New York
 New York,,New York,Genève
-Roma,
+Roma
 Taipei City
 Shah Alam,New York
 Roma
@@ -70583,7 +70539,7 @@ Paris
 Paris,Shah Alam
 Paris
 Maloja
-Milano,Roma,
+Milano,Roma
 Roma
 New York
 New York
@@ -70615,11 +70571,11 @@ Siem Reab
 Siem Reab
 Siem Reab
 New York
-Siem Reab,
-Siem Reab,
+Siem Reab
+Siem Reab
 Melbourne - Inner,Port Phillip - West,Yarra - North,Melbourne - S'bank-D'lands
 Melbourne - S'bank-D'lands
-Melbourne - Inner,Melbourne - S'bank-D'lands,Shah Alam,
+Melbourne - Inner,Melbourne - S'bank-D'lands,Shah Alam
 Melaka Tengah
 Paris
 Paris,Seine-et-Marne
@@ -70642,7 +70598,7 @@ Berlin
 Combined statistics
 Sagada,Marikina
 Zakynthos
-Roma,
+Roma
 Seine-Saint-Denis
 Suffolk
 Var
@@ -70882,7 +70838,7 @@ Miguel Hidalgo,Huixquilucan,Azcapotzalco
 Cozumel
 Cuauhtémoc
 H?i Phòng
-Dongguan,
+Dongguan
 Oberbayern
 Gard
 Gard
@@ -71314,7 +71270,7 @@ Zürich
 Zürich
 Praha 1
 Fethiye
-Paris,
+Paris
 New York
 Middlesex
 Cyclades
@@ -71473,7 +71429,6 @@ Agra
 Ernakulam
 Tinúm
 Frutigen 
-
 Pothuvil
 Ella
 Guri
@@ -71497,7 +71452,7 @@ Roma
 New York
 Budapesti
 Santa Clara,Los Angeles
-Alpes-Maritimes,
+Alpes-Maritimes
 Niagara
 Marin
 Minato
@@ -71587,7 +71542,6 @@ Dordogne
 Dordogne
 Siena
 Frutigen 
-
 Haute-Corse
 Genova
 New York
@@ -71958,7 +71912,7 @@ New York
 New York
 Miami-Dade
 New York
-Alpes-Maritimes,Var,
+Alpes-Maritimes,Var
 Alpes-Maritimes
 Jerusalem
 Kings,New York
@@ -72059,7 +72013,7 @@ Venezia
 Waitakere
 Hume - Craigieburn
 Paris
-Roma,
+Roma
 Florence,Milano
 Bruxelles
 Bruxelles
@@ -72133,7 +72087,7 @@ Las Palmas
 Lasithi
 Alpes-Maritimes,Paris
 Seine-Maritime
-Blue Mountains,Marrickville,Sydney - Inner,Mosman,Sydney - South,Pittwater,Randwick,Botany Bay,
+Blue Mountains,Marrickville,Sydney - Inner,Mosman,Sydney - South,Pittwater,Randwick,Botany Bay
 Madrid,Barcelona
 Paris
 Narita
@@ -72745,7 +72699,7 @@ Paris
 New York
 Vlaams Brabant
 Amsterdam
-Roma,
+Roma
 Berlin
 Fatih,Beyoglu
 Goodwood
@@ -73016,7 +72970,7 @@ Fethiye
 Amsterdam
 Amsterdam
 Fethiye
-Roma,
+Roma
 Amsterdam
 Komlói
 Kitzbühel
@@ -73313,7 +73267,7 @@ Pisa,Livorno
 Pisa,Martigny,Haute-Savoie,Ain
 South Brisbane
 Pinkenba-Eagle Farm
-Goulburn Mulwaree - Goulburn,Sydney - South,Blue Mountains,Sydney - Inner,Woollahra,
+Goulburn Mulwaree - Goulburn,Sydney - South,Blue Mountains,Sydney - Inner,Woollahra
 Barcelona
 Siem Reab
 Bronx,District of Columbia
@@ -73570,7 +73524,7 @@ Minsk
 Darmstadt
 Praha 1
 Málaga
-Roma,
+Roma
 Los Angeles
 Los Angeles
 Los Angeles
@@ -73980,7 +73934,7 @@ Lørenskog
 Oslo,Lørenskog
 Lørenskog
 Lørenskog
-Lørenskog,
+Lørenskog
 Lørenskog
 Lørenskog
 Oslo
@@ -74130,7 +74084,7 @@ New York
 Florence,La Spezia
 Baleares
 Yarra - Richmond,Mornington P'sula - West
-Bang Lamung,
+Bang Lamung
 Bang Lamung,Ratchathewi
 Haeundae
 Larrakeyah,City - Inner,Fannie Bay
@@ -74453,7 +74407,7 @@ Shah Alam
 Shah Alam
 Shah Alam
 Shah Alam
-Johor Baharu,
+Johor Baharu
 Shah Alam
 Shah Alam
 Kinta
@@ -75094,7 +75048,7 @@ District of Columbia
 Mýrdalshreppur
 Amsterdam
 Limburg
-Alpes-Maritimes,
+Alpes-Maritimes
 Cyclades
 Alpes-Maritimes
 Gmunden
@@ -75193,7 +75147,7 @@ Paris
 Wien
 Paris
 Premantura
-Trieste,
+Trieste
 Gorizia
 Graaff-Reinet,Alexandria,Colesberg
 Molde,Bergen,Stavanger,Stryn,Ørsta,Division No. 6,Pretoria,Division No. 15,East Kootenay,Columbia-Shuswap,El Paso,Denver,Fremont,Mesa
@@ -75936,8 +75890,8 @@ Madrid
 Shah Alam
 Shah Alam
 Shah Alam
-Sepang,
-Nakano,Koto,Narita,
+Sepang
+Nakano,Koto,Narita
 Shah Alam
 Shah Alam
 Tai'an
@@ -76740,7 +76694,7 @@ Jung
 Seodaemun
 Paris
 Siena
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Luzern
 Toronto
@@ -76825,7 +76779,7 @@ Madrid
 Queens
 Queens
 Del Centro
-Amsterdam,Berlin,Roma,
+Amsterdam,Berlin,Roma
 Roma
 Barcelona,Paris
 Paris,Azcapotzalco
@@ -76851,7 +76805,7 @@ Middlesex
 Middlesex
 Budapesti
 Split
-Hvar,Split,Dubrovnik,
+Hvar,Split,Dubrovnik
 Clark
 Clark
 Clark
@@ -76981,7 +76935,6 @@ Manatee
 Bohinj
 umperk
 Oberbayern,Salvaleón de Higüey
-
 Brno
 Barcelona
 Barcelona
@@ -77075,7 +77028,7 @@ Baleares
 Polk
 Orange
 Málaga
-Roma,
+Roma
 Hamburg
 Catawba,San Diego
 Clark
@@ -77228,7 +77181,7 @@ Thawi Wattana
 Phaya Thai
 Thawi Wattana
 Pathum Wan
-Roma,
+Roma
 Darmstadt
 Shanghai
 Simcoe
@@ -77500,7 +77453,7 @@ Orange
 Kings,New York
 Botany Bay,Porirua,Wellington
 Porirua,Wellington
-Botany Bay,Wellington,
+Botany Bay,Wellington
 Los Angeles,King
 Los Angeles
 Los Angeles
@@ -77652,7 +77605,7 @@ Sveitarfélagið Skagafjörður
 Torino
 Torino
 Padua
-Torino,
+Torino
 Padua
 Padua
 Padua
@@ -77844,7 +77797,7 @@ Anne Arundel
 District of Columbia
 Ko Samui
 Stellenbosch,Paarl
-H? Chí Minh city,
+H? Chí Minh city
 Lugano
 Hauts-de-Seine,Paris
 Negombo,Rambukkana,Thissamaharama,Ambalanthota,Habaraduwa
@@ -77984,7 +77937,7 @@ Shah Alam,Klang
 Shah Alam
 Madrid
 Lisboa
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Shah Alam
 Bang Lamung
@@ -78116,7 +78069,7 @@ New York
 New York,Richmond
 Shah Alam
 Langkawi
-Shah Alam,
+Shah Alam
 Shah Alam
 Clark
 Las Palmas
@@ -78337,7 +78290,7 @@ Los Angeles
 New York
 San Francisco
 Paris
-Barcelona,
+Barcelona
 Pas-de-Calais
 New York
 Novosibirskiy rayon

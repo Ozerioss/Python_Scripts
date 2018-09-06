@@ -1,0 +1,23 @@
+Loir-et-Cher   ==> Indre-et-Loire   #SUP: : 3 #CONF: 0.6
+Praha 1   ==> Paris   #SUP: : 3 #CONF: 1.0
+Kensington and Chelsea   ==> Paris   #SUP: : 3 #CONF: 0.6
+Bruxelles   ==> Paris   #SUP: : 3 #CONF: 0.75
+Combined statistics   ==> Paris   #SUP: : 3 #CONF: 1.0
+Baleares   ==> Paris   #SUP: : 3 #CONF: 0.6
+Valencia   ==> Paris   #SUP: : 3 #CONF: 0.75
+Zürich   ==> Bas-Rhin   #SUP: : 3 #CONF: 0.6
+Tower Hamlets   ==> Paris   #SUP: : 3 #CONF: 1.0
+Westminster, Camden   ==> Paris   #SUP: : 3 #CONF: 0.75
+Alpes-Maritimes, Vaucluse   ==> Bouches-du-Rhône   #SUP: : 3 #CONF: 0.6
+Seine-et-Marne, Essonne   ==> Paris   #SUP: : 3 #CONF: 0.6
+Budapesti   ==> Paris   #SUP: : 4 #CONF: 1.0
+Lugano   ==> Paris   #SUP: : 4 #CONF: 1.0
+Pays-d'Enhaut   ==> Paris   #SUP: : 4 #CONF: 1.0
+Sevilla   ==> Paris   #SUP: : 4 #CONF: 1.0
+Oberbayern   ==> Paris   #SUP: : 5 #CONF: 1.0
+Darmstadt   ==> Paris   #SUP: : 5 #CONF: 0.625
+Berlin   ==> Paris   #SUP: : 6 #CONF: 0.6666666666666666
+Madrid   ==> Paris   #SUP: : 6 #CONF: 0.75
+Camden   ==> Paris   #SUP: : 9 #CONF: 0.9
+Amsterdam   ==> Paris   #SUP: : 13 #CONF: 0.8666666666666667
+Westminster   ==> Paris   #SUP: : 25 #CONF: 0.8064516129032258

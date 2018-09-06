@@ -84,7 +84,7 @@ Wien
 Roma
 Venezia
 Wien
-Roma,
+Roma
 Roma
 Praha 1,Latina,Roma
 Paris
@@ -154,9 +154,7 @@ Ialtyns'ka
 Queens
 New York
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Agadir-Ida ou Tanane
 Madrid
 Benito Juárez
@@ -194,7 +192,7 @@ Genova
 Wien
 Wien
 Paris
-Roma,
+Roma
 Roma
 New York
 Miami-Dade,Monroe
@@ -558,7 +556,7 @@ Brest
 Muang Krabi
 Muang Krabi
 Pistoia,Venezia
-Roma,Rimini,
+Roma,Rimini
 Pojezerje,Dubrovnik
 Pojezerje
 Tallinn,Stockholm
@@ -592,7 +590,7 @@ Riga
 Kemer
 Kemer
 Alanya
-Bouches-du-Rhône,Alpes-Maritimes,
+Bouches-du-Rhône,Alpes-Maritimes
 Alpes-Maritimes
 Riga
 Wien
@@ -687,7 +685,6 @@ Manila
 Westchester
 Çankaya
 Konak,Bornova
-
 Minsk
 Zambrów,Warsaw
 Freiburg,Warsaw
@@ -785,7 +782,6 @@ Muang Krabi
 North Goa
 Sarajevo
 Salvaleón de Higüey
-
 Berlin
 Split
 Köln
@@ -1187,7 +1183,7 @@ Berlin,Hamburg,Paris,Val-d'Oise,Amsterdam,Haarlemmermeer,Rotterdam,Brandenburg
 Hamburg
 Berlin
 Berlin
-Palilula,
+Palilula
 Hamburg,Hannover,Bremen
 Hamburg
 Alanya
@@ -1301,7 +1297,7 @@ Alushtyns'ka
 Ialtyns'ka
 Riga,Darmstadt
 's-Gravenhage,Amsterdam
-Bethlehem,
+Bethlehem
 Beyoglu
 Ilia
 Byeshankovichy
@@ -1316,7 +1312,7 @@ Dubrovnik
 Beyoglu
 Dodecanese
 Dodecanese
-Girona,Pyrénées-Orientales,
+Girona,Pyrénées-Orientales
 Broward
 Broward
 Miami-Dade
@@ -1720,9 +1716,7 @@ Paris
 Köln,Berlin
 Kemer,Kas
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris
 Girona
 Zelenovskiy
@@ -1732,9 +1726,7 @@ Venezia
 Rimini
 Milano
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Milano
 Casablanca
 Silang
@@ -1913,7 +1905,7 @@ Khania
 Heraklion
 Rimini,Roma
 Florence
-Rimini,
+Rimini
 Var
 Var
 Milano
@@ -2006,7 +1998,6 @@ Forsyth
 Brescia,Venezia
 Alanya
 Salvaleón de Higüey
-
 Paris
 Bucks
 Philadelphia,Bucks
@@ -2202,11 +2193,11 @@ Pavlodarskiy
 Kathu
 Kathu
 Kathu
-Kathu,Muang Phuket,Kathu,
+Kathu,Muang Phuket,Kathu
 Thap Put
 Muang Phuket
 Thalang
-Thalang,Kathu,
+Thalang,Kathu
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
@@ -2233,7 +2224,7 @@ Madrid
 Minsk
 Rimini
 Rimini
-Roma,
+Roma
 Praha 1
 Aurland
 Nesebar
@@ -2329,7 +2320,6 @@ Lenins'kyi,Nakhimovs'kyi,Lenins'kyi,Ialtyns'ka
 Heraklion
 San Diego
 Salvaleón de Higüey
-
 Ialtyns'ka,Bakhchysarais'kyi
 Ko Samui
 Nuoro
@@ -2391,7 +2381,7 @@ Bruxelles,West-Vlaanderen
 Attica
 Santa Clara
 Bruxelles
-Roma,
+Roma
 Bruxelles
 Bruxelles
 Roma
@@ -2417,7 +2407,7 @@ Khania
 Heraklion
 Girona
 Kathu
-Bethlehem,
+Bethlehem
 Kemer,Merkez
 Locarno
 Navbahor
@@ -2739,7 +2729,7 @@ Tarragona
 Tarragona
 Tarragona
 Westminster
-Roma,
+Roma
 Paris
 Dodecanese
 Dodecanese
@@ -2778,7 +2768,6 @@ Shevchenkivs'kyi
 Paris
 Paris
 Salvaleón de Higüey
-
 La Romana,Isla Saona
 Salvaleón de Higüey
 Las Terrenas
@@ -2946,7 +2935,7 @@ Haute-Savoie
 Val-d'Oise
 Paris
 Paris,Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Bakhchysarais'kyi
 Morges,Lausanne
 Kemer
@@ -2969,7 +2958,6 @@ Bang Lamung
 Heraklion,Lasithi
 Blansko
 Salvaleón de Higüey
-
 Kerchens'ka
 Berlin
 Berlin,Antwerpen,West-Vlaanderen
@@ -3001,7 +2989,7 @@ Kemer
 North Karelia
 Westminster
 Shevchenkivs'kyi
-Tbilisi,
+Tbilisi
 Tarragona
 Serik
 Praha 7
@@ -3181,7 +3169,7 @@ Westminster
 Miami-Dade
 Rimini
 Dodecanese
-Badung,
+Badung
 Riga
 Alpes-Maritimes
 Vila Nova de Gaia
@@ -3194,7 +3182,7 @@ Heraklion
 Amsterdam
 Amsterdam
 Muang Phuket
-Guangzhou,
+Guangzhou
 Guangzhou
 Guangzhou
 Lapland
@@ -3351,7 +3339,6 @@ Hackney
 Narva-Jõesuu,Narva
 Bentota
 Salvaleón de Higüey
-
 Barcelona
 Stockholm
 Riga
@@ -3411,8 +3398,8 @@ Imperia,Alpes-Maritimes,Paris,Seine-et-Marne,Val-d'Oise
 Paris
 Alpes-Maritimes
 Alpes-Maritimes
-Praha 6,Imperia,
-Imperia,
+Praha 6,Imperia
+Imperia
 Imperia
 Bülach,Imperia
 Imperia
@@ -3461,7 +3448,6 @@ New York,Queens,Bronx,New York
 New York
 New York
 Salvaleón de Higüey
-
 Las Palmas
 Merkez
 Haarlemmermeer
@@ -3536,7 +3522,6 @@ Ievpatoriis'ka
 Ievpatoriis'ka
 Åre
 Salvaleón de Higüey
-
 Bolzano
 Pärnu
 Praha 2
@@ -3712,7 +3697,7 @@ Paris,Seine-et-Marne,Paris
 Roma
 Alpes-Maritimes
 Imperia
-Alpes-Maritimes,
+Alpes-Maritimes
 Barcelona
 Barcelona
 Tarragona
@@ -3753,7 +3738,7 @@ Badung
 Lisboa
 Fatih
 Odes'ka,Kominternivs'kyi
-Roma,
+Roma
 Boryspil's'ka
 Praha 1
 Praha 1
@@ -3964,7 +3949,7 @@ Kangra,Gurdaspur
 Agra
 Dambulla,Rambukkana,K.F.G. & G. Korale,Yatinuwara,Kothmale,Hildummulla,Hikkaduwa
 Hikkaduwa
-Hikkaduwa,Galle Four Gravets,
+Hikkaduwa,Galle Four Gravets
 Tbilisi
 Odes'ka
 Hikkaduwa
@@ -3986,7 +3971,7 @@ Bình Thu?n
 Sandgerði
 Shevchenkivs'kyi
 Uusimaa,Las Palmas
-Uusimaa,Las Palmas,
+Uusimaa,Las Palmas
 Las Palmas
 South Karelia
 South Karelia
@@ -4076,9 +4061,7 @@ Gagra
 Kingston upon Hull
 Ille-et-Vilaine
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Ialtyns'ka
 Gagra
 Málaga
@@ -4200,7 +4183,7 @@ Praha 1,Praha 7
 South Karelia,Barcelona,Tarragona
 Barcelona,Girona,Barcelona
 Barcelona
-Roma,
+Roma
 Roma
 Narva-Jõesuu
 Wien
@@ -4341,7 +4324,7 @@ Southwark,Tower Hamlets
 Badung
 Badung,Karang Asem,Badung
 Karang Asem,Badung
-Badung,
+Badung
 Westminster
 Chiyoda
 Paris
@@ -4376,9 +4359,7 @@ Málaga
 Málaga
 Málaga
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Zakynthos
 Praha 1
 Paris
@@ -4387,11 +4368,8 @@ Jongro
 Tallinn
 Uusimaa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Muang Phuket
 Riga
 Heraklion
@@ -4481,7 +4459,7 @@ Cascais
 Tallinn
 Stockholm
 Bologna
-Roma,
+Roma
 Milano
 Venezia
 Budapesti
@@ -4593,7 +4571,7 @@ Oberbayern,Wien,Praha 6,Praha 1,Berlin
 Ialtyns'ka
 Vilniaus
 Tallinn
-Barcelona,Alpes-Maritimes,
+Barcelona,Alpes-Maritimes
 Wien
 Badung
 Badung,Gianyar
@@ -4617,7 +4595,6 @@ Muang Phuket
 Kathu
 Barcelona,Castellón
 Salvaleón de Higüey
-
 Kota Tangerang,Badung
 Badung
 Badung,Bangli,Gianyar
@@ -4761,7 +4738,7 @@ Bas-Rhin
 Paris
 Tallinn
 Val-d'Oise
-Roma,
+Roma
 Roma
 Kemer
 Dodecanese
@@ -4769,7 +4746,6 @@ Kemer
 Girona
 Girona
 Sosua,Salvaleón de Higüey
-
 Savoie
 Tarragona
 New York,Kings
@@ -4808,7 +4784,7 @@ Manavgat
 Manavgat
 Karasayskiy
 Haarlemmermeer,Amsterdam,Noordoostpolder,Boarnsterhim
-Amsterdam,Noordoostpolder,Boarnsterhim,
+Amsterdam,Noordoostpolder,Boarnsterhim
 Haarlemmermeer
 Las Palmas
 Amsterdam
@@ -4877,7 +4853,7 @@ Kemer
 Kemer
 Serik
 Serik
-Madaba,
+Madaba
 Leiria
 Lisboa,Nazaré
 Almada,Lisboa
@@ -5193,7 +5169,7 @@ Muang Phuket
 Muang Phuket
 Muang Phuket
 Muang Phuket
-Roma,
+Roma
 Florence,Venezia
 Venezia
 Amsterdam
@@ -5306,7 +5282,7 @@ Miami-Dade
 Miami-Dade
 Lucca
 Alessandria
-Alpes-Maritimes,
+Alpes-Maritimes
 Saarland
 Saarland
 Paris
@@ -5318,7 +5294,7 @@ Khánh Hòa
 Khánh Hòa
 Khusts'kyi
 Svaliavs'kyi
-Venezia,Roma,
+Venezia,Roma
 New York
 Pinellas
 Orange
@@ -5505,7 +5481,7 @@ Palilula
 Manavgat,Alanya,Manavgat
 Verona,Roma
 Roma,,Venezia,,Venezia,Florence
-Venezia,Florence,Venezia,Roma,
+Venezia,Florence,Venezia,Roma
 Venezia
 Venezia,Roma
 Venezia
@@ -5681,9 +5657,7 @@ Lódz
 Magdeburg,Amsterdam
 Leipzig,Brandenburg,Leipzig
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Madrid
 Madrid
 Gramado,Porto Alegre
@@ -5791,7 +5765,6 @@ Khalkidiki
 Thessaloniki,Khalkidiki
 Paris
 Salvaleón de Higüey
-
 Jinan
 Tianjin
 Weifang
@@ -6044,7 +6017,6 @@ Nesebar
 Bình Thu?n
 Kusadasi
 Salvaleón de Higüey
-
 Alanya,Merkez
 Paris,Seine-et-Marne
 Serik
@@ -6189,7 +6161,7 @@ Seongbuk
 Yongin
 Wien
 Stockholm
-Tayybeh,
+Tayybeh
 Jerusalem
 Taipei City
 Madrid,Granada
@@ -6249,7 +6221,7 @@ Westminster
 West Midlands
 Westminster,West Midlands,Hillingdon
 Var
-Var,Imperia,Alpes-Maritimes,Hérault,
+Var,Imperia,Alpes-Maritimes,Hérault
 Hauts-de-Seine,Paris
 Paris
 Paris
@@ -6261,7 +6233,7 @@ Alpes-Maritimes
 Alpes-Maritimes
 Dniprovs'kyi
 Darmstadt
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris,Yvelines,Paris
 Paris
 Seine-et-Marne,Paris
@@ -6397,7 +6369,6 @@ Minsk
 Ko Phangan
 Praha 6,Praha 1
 Salvaleón de Higüey
-
 Kemer
 Bouficha
 Daugavpils
@@ -6539,7 +6510,7 @@ Baleares
 Tianjin
 Qinhuangdao
 Beijing
-Rimini,
+Rimini
 Florence
 Berlin
 Hikkaduwa
@@ -6624,7 +6595,7 @@ Barcelona,Valencia
 Barcelona,Tarragona
 Barcelona
 Barcelona
-Tbilisi,
+Tbilisi
 San Gregorio Atzompa,San Andrés Cholula
 Haarlemmermeer
 Beyoglu,Kadiköy
@@ -6637,7 +6608,7 @@ Kerchens'ka
 Ko Samui
 Ko Samui
 Ko Samui
-Ko Samui,Bang Plee,
+Ko Samui,Bang Plee
 Kerchens'ka
 Kerchens'ka
 Kerchens'ka
@@ -6730,7 +6701,7 @@ Gangseo
 Shibayama
 Mudanjiang
 Beijing
-Southwark,Westminster,
+Southwark,Westminster
 Brescia,Venezia
 Serik
 Serik
@@ -6964,7 +6935,7 @@ Nakhimovs'kyi,Balaklavs'kyi,Haharins'kyi,Lenins'kyi,Simferopol's'kyi
 Haparanda,Lapland
 Badung,Denpasar,Badung,Tabanan,Denpasar,Gianyar
 Badung,Tabanan,Denpasar,Gianyar,Badung,Karang Asem
-Badung,Karang Asem,Badung,Phra Nakhon,Thon Buri,Pathum Wan,Dusit,
+Badung,Karang Asem,Badung,Phra Nakhon,Thon Buri,Pathum Wan,Dusit
 Kerchens'ka,Lenins'kyi
 Nakhimovs'kyi,Lenins'kyi
 Lenins'kyi,Haharins'kyi
@@ -7054,7 +7025,7 @@ Hua Hin
 Westminster,Camden
 Minsk,Smalyavichy
 Val-d'Oise,Paris,Düsseldorf
-Alpes-Maritimes,
+Alpes-Maritimes
 Genova,Lucca,Ancona,Genova
 Alpes-Maritimes,La Spezia
 Alpes-Maritimes,La Spezia,Alpes-Maritimes
@@ -7078,9 +7049,7 @@ Sudats'ka
 Sudats'ka
 Sudats'ka
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Manavgat
 Savoie
 Sathorn
@@ -7157,7 +7126,7 @@ Praha 1,Praha 6
 Dresden
 Praha 1
 Kale
-Roma,
+Roma
 Las Palmas
 Las Palmas
 Lasithi
@@ -7169,7 +7138,7 @@ Rimini
 Rimini
 Islamabad
 Florence,Siena,Pisa
-Venezia,Rimini,
+Venezia,Rimini
 Venezia
 Vilniaus
 Boryspil's'ka
@@ -7309,7 +7278,6 @@ Kharkivs'ka
 Obukhivs'kyi
 Alanya
 Ludza,Põlva
-
 Westminster
 Middlesex
 New York
@@ -7450,7 +7418,6 @@ Takua Thung
 Paris
 Barcelona
 Salvaleón de Higüey
-
 Roma
 Rimini
 Wien
@@ -7670,7 +7637,7 @@ Minsk
 Uusimaa
 Lenins'kyi
 Westminster
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
@@ -7694,7 +7661,7 @@ New York,Kings,Hudson
 New York
 Hudson
 New York
-Delhi,
+Delhi
 Delhi
 Kings
 New York
@@ -7810,9 +7777,7 @@ Tarragona
 Barcelona
 Madrid
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Camden,Westminster
 Vilniaus
 Westminster,Camden,Richmond upon Thames,Kensington and Chelsea,Enfield
@@ -7892,7 +7857,7 @@ Hillsborough
 Pinellas,Orange,Hillsborough
 Pinellas
 Pinellas
-Fethiye,
+Fethiye
 Los Angeles,Orange,Los Angeles
 Orange,Los Angeles
 Los Angeles,Orange,Los Angeles
@@ -8314,7 +8279,6 @@ Milano
 Praha 1,Dresden
 Kutná Hora,Praha 1
 Salvaleón de Higüey
-
 Riga
 Riga
 Batumi
@@ -8360,7 +8324,6 @@ Riga,Berlin
 Berlin
 Serik
 Salvaleón de Higüey
-
 Kemer
 Ningbo
 Alanya
@@ -8392,7 +8355,7 @@ Narva-Jõesuu
 Uusimaa
 Narva
 Narva-Jõesuu
-Uusimaa,Eastern Uusimaa,Oberbayern,Salzburg,Schwaben,
+Uusimaa,Eastern Uusimaa,Oberbayern,Salzburg,Schwaben
 Uusimaa
 Uusimaa
 Uusimaa,Feldkirch,Oberbayern,,Schwaben
@@ -8720,7 +8683,7 @@ Badung
 Badung
 Badung
 Badung
-Badung,
+Badung
 Paris,Val-d'Oise
 Berlin
 Antwerpen
@@ -8790,9 +8753,7 @@ Khalkidiki
 Hrodna
 Berlin,Amsterdam
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 North Karelia
 Girona
 Horry
@@ -8919,7 +8880,6 @@ Bang Lamung,Bang Khon Ti,Sai Yok
 Nesebar
 Kainuu
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 San Rafael del Yuma
 Barcelona
@@ -9061,12 +9021,12 @@ South Karelia
 Berlin
 Barcelona
 Barcelona
-Roma,
+Roma
 Roma
 Amsterdam
 West-Vlaanderen,Bruxelles
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Muang Phuket,Kathu
 Southern Savonia
@@ -9101,7 +9061,7 @@ Muang Phuket
 Schwaz
 Oberbayern
 Bobrovyts'kyi
-Rimini,Roma,
+Rimini,Roma
 Florence
 Venezia
 Florence,Rimini
@@ -9342,7 +9302,7 @@ Sattahip
 Thalang,Kathu,Muang Phuket
 Khlong Toey,Pathum Wan,Bang Kho Laem
 Sathorn
-Genève,Lavaux-Oron,Haute-Savoie,Praha 1,Roma,
+Genève,Lavaux-Oron,Haute-Savoie,Praha 1,Roma
 Budapesti
 Wien
 New York
@@ -9405,7 +9365,7 @@ Genova,La Spezia,Genova
 Paris
 Ialtyns'ka
 Ialtyns'ka
-Roma,
+Roma
 Clark
 Wien
 Broward,Miami-Dade
@@ -9454,7 +9414,6 @@ Kemer
 Kathu
 Bang Lamung
 Salvaleón de Higüey
-
 Alanya
 Bang Lamung
 Lasithi,Muang Phuket,Manavgat,Alanya,Bang Lamung,Pinamungahan,Bình Thu?n,Benoni,San Rafael del Yuma,,Ko Samui,Combined statistics,Sattahip,Khalkidiki,North Goa,Kathu,Salvaleón de Higüey
@@ -9592,7 +9551,7 @@ Heraklion
 Napoli
 Benito Juárez
 Tarragona
-Alpes-Maritimes,
+Alpes-Maritimes
 Praha 7
 Paris
 Venezia
@@ -9809,9 +9768,7 @@ Attica
 Rethymnon
 Paris
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Heraklion
 Heraklion
 Heraklion
@@ -9854,9 +9811,7 @@ Berlin
 Hammersmith and Fulham
 Bang Lamung
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris
 Hammamet
 Hammamet
@@ -10200,7 +10155,7 @@ Tower Hamlets
 London,Tower Hamlets
 Northern Ostrobothnia
 Uusimaa
-Almaty (Alma-Ata),
+Almaty (Alma-Ata)
 Alpes-Maritimes
 Málaga
 Málaga
@@ -10224,8 +10179,8 @@ Kemer
 Kemer
 Holosiïvs'kyi,Shevchenkivs'kyi,Boryspil's'ka
 Berlin
-Berlin,
-Berlin,
+Berlin
+Berlin
 Berlin
 Madrid,Las Palmas
 Las Palmas
@@ -10251,7 +10206,7 @@ Praha 6,Praha 5,Praha 4,Praha 2,Praha 1
 Palilula,Sjenica
 Sjenica,Nova Varo
 Nova Varo,Cajetina
-Jerusalem,
+Jerusalem
 Thalang
 Hammamet
 Praha 1
@@ -10332,7 +10287,7 @@ Praha 1
 Praha 1
 Galle Four Gravets,Habaraduwa
 Kemer
-Shanghai,
+Shanghai
 Shanghai
 Muang Phuket
 Bang Lamung
@@ -10516,9 +10471,7 @@ Paris
 Amsterdam
 Stockholm
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 New York
 Manavgat
 Ialtyns'ka
@@ -10526,7 +10479,7 @@ Ievpatoriis'ka
 Ievpatoriis'ka
 Ievpatoriis'ka
 Ievpatoriis'ka,Bakhchysarais'kyi,Ievpatoriis'ka,Simferopol's'kyi
-Barcelona,
+Barcelona
 Barcelona
 Valencia
 Mahilyow
@@ -10545,7 +10498,7 @@ Praha 1
 Praha 1
 Seodaemun,Shah Alam,,Phra Nakhon,Khlong Sam Wa,Don Muang
 K. Ko Kut
-Roma,
+Roma
 Praha 6,Praha 1
 Praha 1
 Eagle
@@ -10568,7 +10521,7 @@ Bang Lamung
 Bang Lamung
 Bang Lamung
 Bang Lamung
-Bang Lamung,
+Bang Lamung
 Hà N?i
 Qu?ng Nam
 Bình Thu?n
@@ -11159,9 +11112,7 @@ Heraklion
 Oberbayern
 Salzburg
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Bakirköy
 Simon Town,Wynberg,Goodwood
 Chobe
@@ -11260,7 +11211,7 @@ Qingdao
 Heraklion
 Côte-d'Or
 Heraklion
-Muang Phuket,Thalang,Muang Krabi,Kathu,
+Muang Phuket,Thalang,Muang Krabi,Kathu
 Chatan
 Gagra
 Sokhumi
@@ -11379,7 +11330,7 @@ Donets'ka,Iasynuvats'kyi
 Narita,Chuo,Shibuya,Shinagawa,Minato,Meguro,Yokohama,Machida,Setagaya,Chiyoda,Taito,Shinjuku,Bunkyo,Sums'ka,Boryspil's'ka
 Tselinogradskiy
 Roma,Salerno
-Alpes-Maritimes,
+Alpes-Maritimes
 Brandenburg
 Gdansk City
 Gdansk City
@@ -11536,9 +11487,7 @@ Baleares
 Stockholm
 Benito Juárez
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Benito Juárez
 Southern Ostrobothnia,Central Finland,South Karelia
 North Karelia
@@ -11579,9 +11528,7 @@ Qostanay
 Barcelona
 Barcelona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Barcelona
 Roma
 Roma
@@ -11625,7 +11572,7 @@ Baleares
 Baleares,Barcelona
 Oslo
 Salzburg,Salzburg Umgebung
-Tbilisi,
+Tbilisi
 Budapesti
 Praha 1
 Ialtyns'ka
@@ -11849,10 +11796,10 @@ Tbilisi
 Dusheti
 South Karelia
 Merkez
-Beijing,
+Beijing
 Narva
 Milano
-Roma,Rimini,
+Roma,Rimini
 Shanghai
 Heraklion
 Heraklion
@@ -11895,7 +11842,7 @@ Wien
 Opatija/Veprinac
 Barcelona
 Nesebar
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes,Paris,Nord,Bruxelles
 Alpes-Maritimes
 Paris
@@ -11945,7 +11892,7 @@ Simferopol's'kyi,Ialtyns'ka,Bakhchysarais'kyi,Balaklavs'kyi
 Moyle,Coleraine,Belfast
 Limavady,Coleraine,London
 Lewisham,Westminster,Greenwich,Tower Hamlets
-Westminster,Greenwich,Tower Hamlets,Coleraine,
+Westminster,Greenwich,Tower Hamlets,Coleraine
 Tbilisi
 Kobuleti
 Paris
@@ -12338,7 +12285,6 @@ Lasithi
 Haskovo
 Stockholm
 Valgjärve
-
 Ko Samui
 Ko Samui
 Minsk
@@ -12470,7 +12416,6 @@ Merkez
 Thessaloniki,Pieria,Trikala,Pieria
 Niagara
 Salvaleón de Higüey
-
 Communauté-Urbaine-de-Montréal
 Khánh Hòa
 Khánh Hòa
@@ -12670,9 +12615,7 @@ Maloja
 Suffolk
 Suffolk
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Suffolk
 Suffolk
 Suffolk
@@ -12719,7 +12662,7 @@ Hannover,Braunschweig,Savona,Bruxelles,Varese,Milano,West-Vlaanderen,Haharins'ky
 Alanya
 Akköy
 Manavgat
-Jerusalem,
+Jerusalem
 Groningen
 Schleswig-Holstein
 's-Gravenhage
@@ -12939,7 +12882,7 @@ Detmold
 Detmold
 Monterey,Los Angeles
 Santa Cruz
-Badung,
+Badung
 Southwark,Westminster
 Baleares
 Marmaris
@@ -13040,9 +12983,7 @@ Muang Phuket
 Kemer
 Khalkidiki
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Khánh Hòa
 Khánh Hòa
 Napoli
@@ -13286,7 +13227,7 @@ Mecklenburg-Vorpommern
 Mecklenburg-Vorpommern
 Braniewo
 Gdansk City
-Lancaster,
+Lancaster
 Barcelona
 Minsk
 Barcelona
@@ -13383,7 +13324,7 @@ Jung
 Muang Phuket
 Muang Phuket
 Muang Phuket
-Roma,
+Roma
 Milano
 Paris
 Dong
@@ -13677,7 +13618,7 @@ Ialtyns'ka
 Wien
 Praha 1
 Praha 1,Praha 6
-Alpes-Maritimes,
+Alpes-Maritimes
 Ialtyns'ka
 Simferopol's'ka
 Bang Lamung
@@ -13802,7 +13743,7 @@ Madrid
 Milano
 Serik
 Serik
-Rimini,
+Rimini
 Roma
 Las Palmas
 Eskilstuna
@@ -13884,7 +13825,6 @@ Lasithi,Heraklion,Lasithi
 Heraklion
 Bled,Ljubljana
 Salvaleón de Higüey
-
 Balaklavs'kyi
 Florence
 Roma
@@ -13927,7 +13867,6 @@ Manavgat
 Manavgat
 Alanya
 Salvaleón de Higüey
-
 Gagra
 Bømlo
 Bømlo
@@ -14181,8 +14120,8 @@ Corfu
 Batumi
 Batumi
 Stockholm
-Surabaya,Denpasar,
-Denpasar,
+Surabaya,Denpasar
+Denpasar
 Kota Kinabalu
 North Goa
 North Goa
@@ -14275,7 +14214,7 @@ Ialtyns'ka
 Ialtyns'ka,Ievpatoriis'ka
 Ievpatoriis'ka
 Guangzhou,Foshan
-Guangzhou,
+Guangzhou
 West Yorkshire
 Manchester
 Westminster
@@ -14292,7 +14231,7 @@ Köln,Düsseldorf,Venlo
 Huai Kwang
 Málaga
 Roma
-Roma,
+Roma
 Merkez
 District of Columbia
 Praha 6
@@ -14382,7 +14321,7 @@ Ovidiopol's'kyi
 Alanya
 Donets'ka
 Miami-Dade
-Miami-Dade,
+Miami-Dade
 Berlin
 Cairns  - Barron
 Haarlemmermeer,Utrecht
@@ -14524,7 +14463,7 @@ New York
 Belluno
 Bouches-du-Rhône,Var,Paris,Seine-et-Marne
 Florence,Siena
-Alpes-Maritimes,
+Alpes-Maritimes
 Belluno
 Belluno
 Jongro
@@ -14731,7 +14670,7 @@ Trento
 Trento
 Verona
 Bang Lamung
-Barcelona,
+Barcelona
 Bang Lamung
 Berlin
 Berlin
@@ -14899,7 +14838,6 @@ Berlin
 Bang Kapi
 Paris
 Salvaleón de Higüey
-
 Khlong San
 Tarragona
 Khánh Hòa
@@ -15073,7 +15011,7 @@ Napoli,Venezia,Salerno
 Salerno
 Roma
 Habaraduwa
-Syracuse,
+Syracuse
 Lasithi
 Sokhumi
 Gudauta
@@ -15361,10 +15299,9 @@ Roma
 Ialtyns'ka
 Minsk
 Paris,Seine-Saint-Denis
-Roma,
+Roma
 Roma
 Salvaleón de Higüey
-
 Barcelona
 Wien
 Praha 7
@@ -15375,7 +15312,6 @@ Odes'ka
 Kerchens'ka
 Aqtau
 Salvaleón de Higüey
-
 Serik
 Muang Phuket
 Muang Phuket
@@ -15416,13 +15352,11 @@ Corfu
 New York
 Miami-Dade
 Salvaleón de Higüey
-
 Isla Mujeres
 New York
 Merkez
 Niagara,York
 Salvaleón de Higüey
-
 Tselinogradskiy
 Muang Phuket
 Muang Phuket
@@ -15462,7 +15396,7 @@ Pavlodarskiy
 Los Angeles
 Pieria
 Westminster
-Westminster,
+Westminster
 Tower Hamlets
 Barcelona,Tarragona
 Tarragona,Madrid
@@ -15477,7 +15411,7 @@ Bang Lamung
 Ravenna
 Agadir-Ida ou Tanane
 Agadir-Ida ou Tanane,Marrakech
-Southwark,Greenwich,Berkshire,Hackney,Merton,Tower Hamlets,Hertfordshire,
+Southwark,Greenwich,Berkshire,Hackney,Merton,Tower Hamlets,Hertfordshire
 Rio de Janeiro
 Rio de Janeiro
 Rio de Janeiro
@@ -15604,7 +15538,6 @@ Muang Phuket
 Muang Phuket,Kathu
 Ialtyns'ka,Balaklavs'kyi
 Salvaleón de Higüey
-
 Manavgat
 Budapesti
 Odes'ka
@@ -15714,7 +15647,7 @@ Var
 Minato
 Roma
 Kings
-New York,
+New York
 Milano
 Merkez
 Amsterdam
@@ -15957,7 +15890,7 @@ Seine-et-Marne
 Paris
 Badung
 Badung,Lombok Barat
-Badung,
+Badung
 Tbilisi
 Praha 1,Cheb
 Westminster
@@ -15966,19 +15899,12 @@ Badung
 Badung
 Merkez
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Merkez
 Merkez,Kemer
 Tarragona
@@ -15990,7 +15916,7 @@ South Goa
 Puy-de-Dôme
 Puy-de-Dôme
 Jefferson
-Rimini,
+Rimini
 Siena
 Rimini
 Dodecanese
@@ -16404,7 +16330,6 @@ Trento
 Harare
 Kemer
 Salvaleón de Higüey
-
 Heraklion
 Cyclades
 Uusimaa
@@ -16487,7 +16412,7 @@ Barcelona,Girona
 Lisboa
 Serik
 Hammam Sousse
-Hillingdon,
+Hillingdon
 Thalang
 Muang Phangnga
 Val-d'Oise
@@ -16576,7 +16501,7 @@ Beijing,Haarlemmermeer,Amsterdam,Paris,Alpes-Maritimes
 Milano
 Roma,Barcelona,Madrid
 Beijing
-Beijing,
+Beijing
 Changchun
 Changchun
 Xiamen
@@ -16711,7 +16636,7 @@ Clark
 Sokhumi
 Paris,Amsterdam
 Paris
-Paris,
+Paris
 Paris
 Jongro
 Cyclades
@@ -16842,7 +16767,7 @@ Besiktas
 Çankaya
 Paris
 Paris
-Roma,
+Roma
 Kemer
 Alpes-Maritimes
 Alpes-Maritimes
@@ -16913,9 +16838,7 @@ Shari
 Alanya
 Dnipropetrovs'ka
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Alicante
 Thiruvananthapuram
 Thiruvananthapuram
@@ -16950,7 +16873,7 @@ Wien
 Wien,Wien Umgebung
 De Bilt,Amsterdam,De Bilt,Paris,,Ardèche,Alpes-Maritimes
 Wien Umgebung,Klagenfurt,Wien
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
@@ -16984,7 +16907,7 @@ Alpes-Maritimes
 Alpes-Maritimes
 Muang Phuket
 Paris
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Westminster
 North Goa
@@ -17063,7 +16986,6 @@ Haarlemmermeer
 Taipei City
 Haarlemmermeer,Narva
 Häädemeeste
-
 Uusimaa
 Paris
 Paris
@@ -17322,7 +17244,7 @@ Berlin
 Fatih
 Minsk
 Guangzhou
-Shanghai,Beijing,
+Shanghai,Beijing
 Kerchens'ka
 Kerchens'ka
 Ialtyns'ka
@@ -17431,7 +17353,7 @@ Bang Lamung
 Bang Lamung
 Siem Reab,Bang Lamung,Pathum Wan,Bang Lamung
 Bang Lamung,Sattahip
-Bülach,Alpes-Maritimes,
+Bülach,Alpes-Maritimes
 Selçuk
 Selçuk
 Broward
@@ -17469,9 +17391,7 @@ Serik
 Serik
 Madaba
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Merkez
 Viborg
 Tbilisi
@@ -17666,9 +17586,7 @@ Schwaz,Wien,Ostrava,Praha 1,Baranavichy
 Praha 1,Praha 16
 Salzburg Umgebung
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Hrodna,L'vivs'ka,Chernivets'ka,Shevchenkivs'kyi,Kamianets'-Podil's'ka,Pechers'kyi,Podil's'kyi,Holosiïvs'kyi
 Lucca,Pistoia,Pisa,Florence,Genova,Siena,La Spezia,Pistoia,Pisa
 Capital
@@ -17709,7 +17627,7 @@ Shevchenkivs'kyi,Podil's'kyi,Shevchenkivs'kyi,Pechers'kyi
 Jung
 Thalang,Kathu,Muang Phuket
 Thalang,Kathu,Muang Phuket,Thalang
-Jung,Thalang,Muang Phuket,
+Jung,Thalang,Muang Phuket
 Thalang,Muang Phuket,,Thalang
 Thalang
 Thalang,Muang Krabi
@@ -18185,7 +18103,7 @@ Las Palmas
 Las Palmas
 Las Palmas
 South Karelia
-Rimini,
+Rimini
 Venezia,Rimini,Ravenna
 Rimini,Ravenna,Florence
 Pesaro E Urbino
@@ -18207,7 +18125,6 @@ Madrid
 Praha 1,Madrid
 Barcelona
 Salvaleón de Higüey
-
 Praha 1
 Cádiz
 Balatonfüred
@@ -18241,7 +18158,7 @@ North Goa
 North Goa
 South Goa
 South Goa
-Kathu,
+Kathu
 Málaga
 Riga
 Riga
@@ -18367,9 +18284,7 @@ Kymenlaakso
 Ialtyns'ka
 Ialtyns'ka
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Serik
 Las Palmas
 Manavgat
@@ -18417,7 +18332,7 @@ L'vivs'ka
 New York,Kings,Lafayette,Orleans,Harris
 Harris
 Ialtyns'ka
-Roma,
+Roma
 Roma
 Heraklion,Lasithi
 Roma
@@ -18627,7 +18542,7 @@ Uusimaa
 Tallinn
 Uusimaa
 Florence
-Roma,
+Roma
 Roma
 Roma
 Roma
@@ -18643,7 +18558,7 @@ Paris
 Venezia
 Alpes-Maritimes
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alanya,Kale
 Kale,Alanya
@@ -18710,12 +18625,9 @@ South Karelia
 Haarlemmermeer,Lisboa
 Lisboa,Sintra
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
-Roma,
+Roma
 Tallinn
 Alpes-Maritimes
 Alpes-Maritimes
@@ -18784,15 +18696,12 @@ Habaraduwa
 Khánh Hòa
 Roma
 New York
-Serik,
 Serik
 Serik
+Serik
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Khalkidiki
 Khalkidiki
 Trikala
@@ -18960,7 +18869,6 @@ Girona
 Guipúzcoa,Vizcaya
 Girona
 Salvaleón de Higüey
-
 Ievpatoriis'ka
 Paris
 Paris
@@ -19039,7 +18947,7 @@ Rethymnon
 Lasithi
 Tallinn
 Malay
-Mabalacat,
+Mabalacat
 Uusimaa,Paris,Seine-et-Marne,Madrid,Barcelona
 Baleares
 Paris
@@ -19063,11 +18971,8 @@ Merkez,Kemer
 Merkez,Kemer,Merkez,Kemer,Pechers'kyi,Bakirköy,Solomians'kyi,Holosiïvs'kyi,Sviatoshyns'kyi
 Merkez
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Bakirköy
 Combined statistics,Amsterdam,Tallinn
 Merkez
@@ -19092,7 +18997,7 @@ Los Angeles
 Maloja
 Navarra
 Alpes-Maritimes
-Roma,
+Roma
 Roma
 Taranovskiy,Qostanay
 Irapuato
@@ -19336,7 +19241,6 @@ Odes'ka
 Roma
 Roma
 Salvaleón de Higüey
-
 Kemer
 Khalkidiki
 Khalkidiki
@@ -19455,7 +19359,7 @@ Uusimaa
 Dodecanese
 Riga
 Kainuu
-Roma,
+Roma
 La Spezia
 Dubrovacko Primorje
 Badung
@@ -19475,11 +19379,10 @@ Amsterdam
 Westminster,Camden,Tower Hamlets,Kensington and Chelsea
 Roma,Napoli
 Sintra,Lisboa
-Roma,
+Roma
 Roma
 Roma
 Salvaleón de Higüey
-
 Mragowo
 West-Vlaanderen
 Badung
@@ -19562,7 +19465,7 @@ Shevchenkivs'kyi
 Trostianets'kyi
 Kathu
 Kathu,Muang Phuket
-Muang Phuket,Kathu,
+Muang Phuket,Kathu
 Kale
 Solomians'kyi
 Shevchenkivs'kyi
@@ -19626,9 +19529,9 @@ Paris,Val-d'Oise,Pechers'kyi,Shevchenkivs'kyi,Holosiïvs'kyi,Solomians'kyi
 Barcelona
 Shevchenkivs'kyi,Pechers'kyi,Shevchenkivs'kyi,Sviatoshyns'kyi
 Sarganserland
-Sarganserland,
+Sarganserland
 Paris,Roma
-Alpes-Maritimes,
+Alpes-Maritimes
 Málaga
 Shevchenkivs'kyi,Dniprovs'kyi,Pechers'kyi,Darnyts'kyi
 Olbia-Tempio,Venezia,Olbia-Tempio
@@ -19693,7 +19596,7 @@ Feodosiis'ka
 North Goa
 Akköy,Manavgat
 Clark
-Alanya,Benito Juárez,
+Alanya,Benito Juárez
 Agrigento
 Nesebar
 Alanya
@@ -19764,9 +19667,7 @@ Khánh Hòa
 Messina
 Uusimaa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Marmaris
 Marmaris
 Kemer
@@ -19780,7 +19681,7 @@ Thalang
 Thalang
 South Karelia
 South Karelia
-Imperia,
+Imperia
 Alpes-Maritimes
 Paris
 Calvados,Paris
@@ -19871,7 +19772,7 @@ Appenzell Innerrhoden,Saint-Maurice
 Haute-Savoie
 Haute-Savoie
 Haute-Savoie
-Roma,
+Roma
 Wien
 Roma
 Muang Phuket
@@ -19968,7 +19869,7 @@ Umag
 Umag
 Ravna Gora,Umag
 Praha 2,Uusimaa
-Darmstadt,Roma,
+Darmstadt,Roma
 Roma
 Roma
 Roma
@@ -20015,7 +19916,7 @@ Ravenna
 Dubrovnik
 Alpes-Maritimes,Haute-Corse
 Alpes-Maritimes
-Alpes-Maritimes,Barcelona,
+Alpes-Maritimes,Barcelona
 Amsterdam
 Alpes-Maritimes
 Tselinogradskiy
@@ -20128,7 +20029,6 @@ Oslo
 Barcelona
 Tabas
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 Distrito Nacional
 Serik
@@ -20234,14 +20134,10 @@ San Rafael del Yuma
 La Romana,Salvaleón de Higüey
 San Rafael del Yuma,Isla Saona
 Salvaleón de Higüey
-
 Isla Saona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Valencia,Alicante,Barcelona
 Alicante,Barcelona
 Barcelona,Alicante
@@ -20263,7 +20159,7 @@ Nesebar
 Nesebar
 Baleares
 Baleares
-Muang Phuket,
+Muang Phuket
 Muang Phuket
 Minsk
 Baleares
@@ -20513,8 +20409,8 @@ Paris
 Barcelona
 Dang'ara
 L'vivs'ka
-Amsterdam,
-Shah Alam,Phnom Penh,
+Amsterdam
+Shah Alam,Phnom Penh
 Kharkivs'ka
 Kharkivs'ka
 Volusia
@@ -20780,7 +20676,7 @@ Milano
 Milano
 Var,Alpes-Maritimes
 Baleares
-Napoli,
+Napoli
 Latina
 Shanghai
 Los Angeles
@@ -21034,12 +20930,12 @@ Muang Phuket
 South Goa
 South Goa
 Kensington and Chelsea,Westminster,Newham,Hounslow
-Jerusalem,
+Jerusalem
 Munster
 Munster
 Tallinn
 Tallinn
-Gyál,
+Gyál
 Tarragona
 Tarragona
 Tarragona
@@ -21281,7 +21177,7 @@ Clark
 Clark,Cook
 Clark
 Clark
-Essonne,Paris,Bruxelles,Amsterdam,Marne,Tuzla,
+Essonne,Paris,Bruxelles,Amsterdam,Marne,Tuzla
 Amsterdam,Bruxelles
 Paris
 Wien
@@ -21378,11 +21274,8 @@ Alicante
 Varna
 Tashkent City
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Tashkent City
 Toshkent
 Muang Phuket
@@ -21683,7 +21576,7 @@ Gagra,Gudauta
 Riga
 Shevchenkivs'kyi,Podil's'kyi
 Merkez,Kemer
-Bari,Dubrovnik,Hvar,Venezia,Split,
+Bari,Dubrovnik,Hvar,Venezia,Split
 L'vivs'ka,Pustomytivs'kyi
 Kharkivs'ka
 Wien
@@ -21848,12 +21741,12 @@ Savoie
 Bình Thu?n
 Bình Thu?n
 Thun,Praha 6
-Wien,Liezen,
+Wien,Liezen
 Wien,Gmunden
 Khalkidiki,Thessaloniki
 Nua Khlong,Bang Plee,Muang Krabi,Ko Yao,Muang Krabi,Bang Plee,Pathum Wan
 Fatih,Beyoglu
-Boryspil's'ka,Roma,
+Boryspil's'ka,Roma
 Napoli,Salerno,Roma
 Oberbayern
 Girona
@@ -21948,7 +21841,6 @@ Corfu
 Paris,Seine-et-Marne
 Barcelona
 Salvaleón de Higüey
-
 Qibray,Oqdaryo
 Dietikon,Zürich,Luzern
 Heihe
@@ -22013,7 +21905,7 @@ Boryspil's'ka,Milano,Roma,Latina,,Podil's'kyi,Dniprovs'kyi,Shevchenkivs'kyi,Pech
 Varna
 Varna
 Shenzhen
-Suzhou,Shenzhen,
+Suzhou,Shenzhen
 Shanghai
 Hà N?i,Bình Thu?n
 Bình Thu?n
@@ -22211,10 +22103,8 @@ Beijing
 Coconino
 Kathu
 Salvaleón de Higüey
-
 Toronto
 Salvaleón de Higüey
-
 Distrito Nacional
 Benito Juárez
 Cárdenas
@@ -22284,7 +22174,7 @@ Kemer
 Kemer
 Berlin
 Alicante
-Roma,
+Roma
 Roma
 Tallinn
 Uusimaa
@@ -22436,7 +22326,7 @@ Lâm Ð?ng
 Khánh Hòa
 Paris,Hauts-de-Seine,Val-d'Oise
 Corfu
-Roma,
+Roma
 Barcelona,Roma
 Barcelona
 Barcelona
@@ -22489,7 +22379,7 @@ Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
-Pisa,Roma,Florence,
+Pisa,Roma,Florence
 Haute-Corse
 Alpes-Maritimes,Corse-du-Sud,Haute-Corse
 Olbia-Tempio
@@ -22505,7 +22395,7 @@ Paris
 Cacak
 Paris,Darmstadt
 Paris,Luxembourg,,Genève,Andelfingen
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Baleares
 Jongro,Seongbuk,Yongin,Kota Tangerang,Jakarta Barat,Jakarta Selatan,Jakarta Pusat,Badung,Jung
@@ -22778,7 +22668,7 @@ Orange,Seine-et-Marne,Paris
 Budapesti
 Budapesti
 Budapesti
-Budapesti,
+Budapesti
 Tarragona,Barcelona
 Bern,Niedersimmental
 Luzern
@@ -22996,7 +22886,7 @@ Badung
 Badung
 Benito Juárez
 Baleares
-Var,
+Var
 Baleares,Barcelona
 Marmaris
 Marmaris
@@ -23168,7 +23058,7 @@ Druskininku
 Druskininku
 Besiktas
 Dodecanese
-Bülach,
+Bülach
 Si Sawat
 Muang Chiang Mai
 Barcelona
@@ -23241,7 +23131,7 @@ Pathum Wan
 Tbilisi
 Marns'kyi
 Kharkivs'ka
-Roma,
+Roma
 Roma
 Bang Kapi,Ratchathewi,Bang Lamung
 Riga
@@ -23319,7 +23209,7 @@ Roma
 Venezia
 Berlin,Westminster,Tower Hamlets,Camden
 Amsterdam
-Guarulhos,
+Guarulhos
 Tbilisi
 Bang Lamung
 Uusimaa
@@ -23334,7 +23224,7 @@ Broward
 Broward
 Broward
 Miami-Dade
-Palilula,
+Palilula
 Budapesti
 Nesebar
 Hulu Langat
@@ -23368,7 +23258,7 @@ Las Palmas
 Las Palmas
 Las Palmas
 Minsk
-Roma,
+Roma
 Florence,Venezia
 Vastseliina
 Rhône,Isère
@@ -23535,7 +23425,7 @@ Milano,Bang Lamung
 Simferopol's'ka
 Varna
 Podil's'kyi
-Boryspil's'ka,
+Boryspil's'ka
 Shevchenkivs'kyi
 Kensington and Chelsea,Westminster
 Kensington and Chelsea,Westminster,Southwark
@@ -23814,7 +23704,7 @@ Ortaca
 Paris
 Heraklion,Lasithi
 Heraklion
-Roma,Florence,
+Roma,Florence
 Paris
 Uusimaa,Budapesti
 Wien,Budapesti,Uusimaa
@@ -23909,7 +23799,7 @@ Lenins'kyi,Nakhimovs'kyi
 Málaga
 Málaga
 Málaga
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes,Bouches-du-Rhône
 Paris
 Paris
@@ -23945,7 +23835,6 @@ Dodecanese
 Hamburg
 Santa Bárbara de Samaná
 Salvaleón de Higüey
-
 Roma
 Takua Thung
 Uzhhorods'ka
@@ -23995,7 +23884,6 @@ Uusimaa
 Verona
 Venezia
 Salvaleón de Higüey
-
 Colombo,Negombo,Rambukkana,Negombo
 Negombo
 Phra Nakhon,Don Muang,Muang Phuket
@@ -24087,7 +23975,7 @@ Rhône,Darmstadt
 Puy-de-Dôme,Vaucluse,Var,Alpes-Maritimes
 Tbilisi
 Rimini
-Roma,
+Roma
 Paris
 Paris
 Alanya
@@ -24146,7 +24034,7 @@ Guangzhou
 Guiyang
 Guiyang
 Badung
-Roma,
+Roma
 Milano
 Roma
 Roma,Milano
@@ -24203,7 +24091,7 @@ Uusimaa
 Köln
 Minsk
 Logatec,Porec
-Bol,Dubrovnik,
+Bol,Dubrovnik
 Riga
 Westminster
 Santiago de Cali
@@ -24259,7 +24147,7 @@ New York,Hudson,New York
 New York,Kings
 Kings,Ocean
 El Nido
-Malay,
+Malay
 Odes'ka
 Roma
 Porto
@@ -24317,7 +24205,7 @@ Siem Reab
 Karang Asem
 Badung
 Aqtau
-Aqtau,
+Aqtau
 Aqtau,Tupkaraganskiy
 Lucca
 Lucca
@@ -24365,7 +24253,6 @@ Keila,Harku,Uusimaa
 Riga,Tukums
 Riga,Tukums,Riga
 Aralik
-
 Westminster,Kensington and Chelsea,Tower Hamlets,Southwark,London,Camden,Cambridgeshire
 Westminster
 Berlin,Dresden,Berlin
@@ -24445,7 +24332,7 @@ Riga
 Riga
 Napoli,Roma,Florence,,Genova,Imperia
 Alpes-Maritimes,,Imperia
-Riga,Tallinn,
+Riga,Tallinn
 Riga
 Minsk
 Riga
@@ -24677,7 +24564,6 @@ Tuzla
 Bakirköy,Tuzla
 Bodrum
 Salvaleón de Higüey
-
 Besiktas
 Kadiköy
 Serik
@@ -24747,7 +24633,7 @@ Kemer
 Kathu,Muang Krabi
 Muang Krabi
 Muang Krabi
-Paris,Roma,
+Paris,Roma
 Roma,Milano,Florence
 Barcelona
 H? Chí Minh city
@@ -25075,8 +24961,8 @@ Biliavs'kyi
 Odes'ka
 Biliavs'kyi
 Bologna,Florence,Bologna
-Florence,Bologna,Roma,
-Roma,
+Florence,Bologna,Roma
+Roma
 Torino
 Odes'ka
 Kominternivs'kyi
@@ -25105,7 +24991,7 @@ Palermo
 Ko Samui
 Ko Samui
 Malay
-Barcelona,Malay,Roma,Genova,
+Barcelona,Malay,Roma,Genova
 Pathum Wan,Ko Samui
 Ko Samui
 Ko Samui
@@ -25353,12 +25239,10 @@ Don Sak,Ko Samui
 Westminster,London
 Camden,London,Westminster,Kensington and Chelsea
 Milano
-Milano,Roma,Florence,
+Milano,Roma,Florence
 Darmstadt
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Ilia,Achaea
 Rudaki
 Genève
@@ -25441,7 +25325,6 @@ Zakynthos
 Chernihivs'ka
 Chernihivs'ka
 Salvaleón de Higüey
-
 Minsk
 Barcelona
 Riga
@@ -25622,7 +25505,7 @@ New York,Erie,Niagara,New York,Lake Ontario
 Erie,Niagara,New York,Lake Ontario,New York,Los Angeles,Maricopa,Yavapai
 New York,Los Angeles,Maricopa,Yavapai,Kane,Washington,Navajo,Yavapai,Coconino,Shasta,Maricopa
 Kane,Washington,Navajo,Yavapai,Coconino,Shasta,Maricopa,Los Angeles,Tarrant,Benito Juárez
-Los Angeles,Benito Juárez,Valladolid,Mérida,Cozumel,Maricopa,Othón P. Blanco,
+Los Angeles,Benito Juárez,Valladolid,Mérida,Cozumel,Maricopa,Othón P. Blanco
 Flores,,Othón P. Blanco,Cozumel,Yavapai
 San Cristóbal de las Casas,Del Centro
 Azcapotzalco,Del Centro,Dist. Miahuatlan,Gustavo A. Madero,Cozumel
@@ -25681,7 +25564,7 @@ Haarlemmermeer,Cook,Lake
 Puerto Galera
 Almaty (Alma-Ata)
 Almaty (Alma-Ata)
-Kensington and Chelsea,Westminster,West Sussex,
+Kensington and Chelsea,Westminster,West Sussex
 Westminster
 Muang Phuket
 Muang Phuket
@@ -25694,7 +25577,7 @@ Oakland
 Lisboa,Seixal
 Porto
 New York
-Roma,
+Roma
 Siena,Salerno,Bologna,Venezia,Varese
 Belluno
 Muang Phuket
@@ -25758,7 +25641,7 @@ Venezia
 Praha 1
 Kensington and Chelsea,Hammersmith and Fulham,Islington,Kensington and Chelsea
 Brighton and Hove
-Brighton and Hove,Westminster,
+Brighton and Hove,Westminster
 Surrey
 Kensington and Chelsea
 Hammersmith and Fulham
@@ -26154,7 +26037,7 @@ Alvesta
 Olofström
 Olofström
 Girona
-Alpes-Maritimes,
+Alpes-Maritimes
 Barcelona
 Wien
 Kemer,Serik
@@ -26243,7 +26126,6 @@ Shah Alam
 Riga
 Fatih,Kemer
 Salvaleón de Higüey
-
 Minsk
 Minsk
 Berlin
@@ -26374,9 +26256,7 @@ Budapesti
 Haute-Savoie
 Haute-Savoie
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Amsterdam
 Dodecanese
 Haute-Savoie,Monthey
@@ -26774,9 +26654,7 @@ Manavgat
 Uusimaa
 Uusimaa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Uusimaa
 Uusimaa
 Manavgat
@@ -26910,7 +26788,6 @@ Pyrénées-Orientales
 Pyrénées-Orientales
 Girona
 Salvaleón de Higüey
-
 Simferopol's'ka
 Simferopol's'ka
 Simferopol's'ka
@@ -27045,7 +26922,7 @@ Colombo
 Wien,Wien Umgebung
 Milano
 Dodecanese
-Tbilisi,
+Tbilisi
 Muang Phuket
 Bang Lamung
 Muang Phuket
@@ -27092,7 +26969,7 @@ Fortaleza
 Fortaleza
 Fortaleza,Aquiraz
 Bakhchysarais'kyi,Lenins'kyi
-Stockholm,Roma,
+Stockholm,Roma
 Venezia,Milano,Rimini
 Roma
 Florence,Roma
@@ -27180,7 +27057,6 @@ Heraklion
 Heraklion
 Tallinn
 Salvaleón de Higüey
-
 La Romana
 Kathu
 Beppu
@@ -27238,16 +27114,14 @@ Roma
 Tallinn
 North Goa,Sindhudurg
 Paris
-Madaba,
+Madaba
 Shevchenkivs'kyi
 Genova
 Milano,Florence,Genova
 Çankaya
 North Goa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Qiziltepa
 Clark
 Praha 1,Praha 5,Praha 1
@@ -27294,7 +27168,7 @@ Paris
 Miami-Dade,Orange
 Dodecanese
 Dodecanese
-Roma,
+Roma
 Los Angeles,Clark
 New York,Queens
 Berlin
@@ -27405,7 +27279,7 @@ Oberbayern
 Paris
 Tallinn
 Stockholm
-Varese,Roma,
+Varese,Roma
 La Spezia
 Pisa
 Tallinn
@@ -27475,7 +27349,7 @@ Milano
 District of Columbia,,New York,Los Angeles,Barcelona
 Paris,Alpes-Maritimes,Seine-et-Marne,Val-d'Oise
 Seine-et-Marne,Clark,Zürich,Los Angeles,Distrito Federal
-Paris,
+Paris
 Lake
 Hilversum
 Imperia,Alpes-Maritimes
@@ -27535,7 +27409,7 @@ Muang Krabi
 Pathum Wan
 Tbilisi
 Tbilisi
-Jerusalem,
+Jerusalem
 Ko Samui,Ko Phangan,Sathorn,Bang Plee,Chokhatauri
 Ko Phangan,Sathorn,Bang Plee,Chokhatauri,Tskaltubo
 Podil's'kyi,Shevchenkivs'kyi
@@ -27674,7 +27548,7 @@ Rimini
 Girona,Madrid,Girona,Barcelona
 Milano
 Venezia,Milano
-Imperia,
+Imperia
 Milano,Venezia
 Berlin,Brandenburg,Praha 1,Praha 6
 Berlin,Praha 1
@@ -27682,7 +27556,7 @@ Praha 1
 Praha 1
 Venezia,Milano,Roma,,Florence,Napoli
 Roma,Florence
-Roma,
+Roma
 Milano
 Roma
 Roma
@@ -27690,7 +27564,7 @@ Florence
 Roma
 Milano
 Roma,Milano
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes,Roma
 Paris,Val-d'Oise,Paris
@@ -27844,15 +27718,10 @@ Cozumel
 Cozumel
 Bang Lamung
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Muang Phuket,Kathu,Muang Phuket
 North Goa
 Tallinn
@@ -27865,7 +27734,7 @@ Kymenlaakso,Uusimaa
 Oberbayern
 Eastern Uusimaa,Uusimaa,Bakirköy,Fatih,Beyoglu,Üsküdar,Besiktas,Kadiköy
 South Karelia
-Zemun,
+Zemun
 Pavia,Imperia,Milano,Bouches-du-Rhône,Vaucluse,Ardèche,Drôme,Gard,Hautes-Alpes,Torino,Varese
 North Savonia,Lapland,Porsanger,Karasjok,Kåfjord
 Tallinn,Pärnu
@@ -27906,7 +27775,7 @@ Haeundae,Suyeong,Haeundae
 Busanjin
 Suyeong
 Merkez
-Ravenna,
+Ravenna
 Combined statistics
 Akköy
 Tarragona,Girona,Barcelona
@@ -27938,7 +27807,7 @@ Guangzhou
 Beijing
 Guangzhou
 Beijing,,Guangzhou
-Guangzhou,
+Guangzhou
 Guangzhou
 Guangzhou,,Beijing
 Guangzhou
@@ -27997,7 +27866,7 @@ New York
 Schuyler,New York,Lake Ontario,New York
 Bakhchysarais'kyi,Simferopol's'ka,Ialtyns'ka,Lenins'kyi
 Serik
-Madaba,
+Madaba
 North Goa
 South Goa,North Goa
 North Goa
@@ -28085,10 +27954,8 @@ Nesebar
 Nesebar
 Ialtyns'ka
 Salvaleón de Higüey
-
 Santa Bárbara de Samaná
 Salvaleón de Higüey
-
 Merkez
 Napoli
 Trikala
@@ -28355,7 +28222,7 @@ Guaymas
 Yoshinogari
 Unknown6,Kurume
 Kurume
-Paris,Seine-et-Marne,Yvelines,Paris,Alpes-Maritimes,
+Paris,Seine-et-Marne,Yvelines,Paris,Alpes-Maritimes
 Berlin
 Wien
 Tselinogradskiy
@@ -28445,7 +28312,7 @@ New York
 Augustów
 Thalang
 Thalang
-Thalang,Kathu,Muang Phuket,
+Thalang,Kathu,Muang Phuket
 Bilhorod-Dnistrovs'kyi
 Odes'ka
 Muang Phuket
@@ -28477,7 +28344,7 @@ New York
 Muang Phuket
 Bang Lamung
 Bang Lamung
-Barysaw,Pechers'kyi,Umans'ka,Ul'ianovs'kyi,Stavyshchens'kyi,Bilotserkivs'kyi,
+Barysaw,Pechers'kyi,Umans'ka,Ul'ianovs'kyi,Stavyshchens'kyi,Bilotserkivs'kyi
 Amsterdam
 Finland Proper
 Åre
@@ -28632,11 +28499,11 @@ Alpes-Maritimes
 Paris,Alpes-Maritimes
 Paris
 Tallinn
-Westminster,Camden,
+Westminster,Camden
 Westminster
 Hammersmith and Fulham
 Westminster
-Westminster,
+Westminster
 Westminster
 London
 Westminster
@@ -28679,7 +28546,6 @@ Zürich
 Praha 1,Berlin
 Jerusalem
 Maardu
-
 Tallinn
 Medway
 Valencia
@@ -28702,7 +28568,6 @@ Kemer
 Sroda Slaska
 Varna
 Salvaleón de Higüey
-
 Stockholm,Tallinn,Uusimaa
 Amsterdam,Stockholm
 Amsterdam
@@ -28766,7 +28631,7 @@ Ialtyns'ka
 Almaty (Alma-Ata)
 Wien
 Amsterdam
-Roma,
+Roma
 Praha 6,Roma
 Shah Alam
 Ko Phangan
@@ -28792,7 +28657,7 @@ Haeundae
 Haeundae
 Alpes-Maritimes
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Como
 San Felipe de Puerto Plata,Santa Bárbara de Samaná
 San Felipe de Puerto Plata,Santa Bárbara de Samaná,Boca Chica
@@ -28806,7 +28671,7 @@ Kadiköy,Besiktas
 Besiktas,Kagithane
 Kagithane,Besiktas,Sariyer
 Besiktas,Sariyer,Besiktas,Kagithane
-Beyoglu,
+Beyoglu
 Chiyoda
 Shibuya,Shinagawa,Shibuya
 Kawasaki,Shibuya
@@ -29018,7 +28883,7 @@ Barcelona
 Barcelona
 Barcelona
 Barcelona
-Barcelona,Roma,
+Barcelona,Roma
 Porec,Roma
 Barcelona
 Barcelona
@@ -29178,7 +29043,7 @@ Val-d'Oise
 Kemer,Merkez
 Girona
 Genève
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
@@ -29219,9 +29084,7 @@ Paris
 Paris
 Beijing
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris
 Oberbayern
 Beyoglu
@@ -29277,7 +29140,7 @@ Bang Lamung
 Jerusalem
 Bang Lamung
 Bang Lamung,Sattahip
-Jerusalem,
+Jerusalem
 Bang Lamung,Sattahip,Bang Lamung
 Sattahip,Bang Lamung
 Bang Lamung
@@ -29431,7 +29294,7 @@ Bratislava I,Wien
 Budapesti
 Babruysk
 Shah Alam
-Muang Krabi,
+Muang Krabi
 Ialtyns'ka
 Minsk
 Minsk
@@ -29604,7 +29467,6 @@ Hamburg
 Hamburg
 Berlin
 Hamburg,Aegviidu
-
 Tallinn
 Tallinn
 Oslo
@@ -29831,15 +29693,10 @@ Gdansk City
 Warsaw,Praia da Vitória,Salvaleón de Higüey
 Isla Saona
 Isla Saona,Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Isla Saona
 Gdansk City,Sopot
 Berlin
@@ -29987,9 +29844,7 @@ Orange
 Bruxelles,Oost-Vlaanderen
 Alanya
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Muang Krabi,Kathu
 Muang Phuket
 Hamburg
@@ -30097,7 +29952,7 @@ Uusimaa
 Murcia
 Oberpfalz
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Uusimaa
 Minsk
 Brest
@@ -30136,7 +29991,7 @@ Maloja
 Maloja
 Maloja
 Maloja
-Roma,
+Roma
 Roma
 Darmstadt
 Roma
@@ -30198,7 +30053,7 @@ Badung
 Bangli,Gianyar
 Thalang
 Thalang
-Thalang,
+Thalang
 Stockholm
 Lushoto,Mjini
 Mjini,Kaskazini 'A'
@@ -30220,7 +30075,7 @@ Paris,Charente
 Charente,Paris
 Praha 1
 Praha 1
-Lleida,
+Lleida
 Minsk
 Hikkaduwa
 Katana
@@ -30241,7 +30096,7 @@ Corfu
 Badung
 Badung
 Badung
-Badung,
+Badung
 Var
 New York,Queens,Clark,Kane
 Kane,Los Angeles
@@ -30305,7 +30160,7 @@ Narva,Tallinn
 Messinia
 Messinia
 Messinia
-Ariège,
+Ariège
 Tallinn
 Tallinn
 Hérault
@@ -30444,7 +30299,7 @@ Barcelona
 Beyoglu
 Amsterdam
 Amsterdam
-Palilula,
+Palilula
 Paris
 Milano
 Paris
@@ -30627,7 +30482,7 @@ South Karelia
 Darmstadt,Bucks
 New York
 Bucks
-Alpes-Maritimes,
+Alpes-Maritimes
 Girona,Barcelona
 Girona,Barcelona,Tarragona
 Barcelona
@@ -30695,7 +30550,6 @@ Osaka,Hiroshima,Higashihiroshima,Bunkyo,Nakano
 Gudauta
 South Karelia
 Salvaleón de Higüey
-
 Manavgat
 Manavgat
 Merkez
@@ -30726,7 +30580,7 @@ South Karelia
 Venezia
 Praha 1
 Pechers'kyi
-Shkodrës,Tiranës,
+Shkodrës,Tiranës
 Bình Thu?n
 Milano,Parma
 Kaduwela
@@ -30845,7 +30699,6 @@ Bình Thu?n
 Bình Thu?n
 Bình Thu?n
 Salvaleón de Higüey
-
 Ialtyns'ka
 Ialtyns'ka
 Ialtyns'ka
@@ -30883,7 +30736,7 @@ Paris
 Milano
 Ko Lanta,Wattana
 Westminster
-London,
+London
 Los Angeles
 Los Angeles,Clark
 Clark,El Dorado,Santa Clara
@@ -31134,7 +30987,7 @@ Honolulu
 Salerno
 New York
 New York
-Roma,
+Roma
 Alicante
 Alicante
 Sousse Médina
@@ -31172,7 +31025,7 @@ Las Palmas
 Las Palmas
 Las Palmas
 Las Palmas
-Essonne,Paris,Alpes-Maritimes,
+Essonne,Paris,Alpes-Maritimes
 Praha 1
 Paris
 Odes'ka
@@ -31346,7 +31199,7 @@ Milano
 Roma
 Milano
 Milano
-Rimini,
+Rimini
 Pima
 Madrid
 Madrid
@@ -31532,15 +31385,15 @@ Westminster
 Paris,Westminster
 Westminster,Paris,Hillingdon
 Southwark
-Southwark,Westminster,
-Westminster,
-Southwark,Westminster,
+Southwark,Westminster
+Westminster
+Southwark,Westminster
 Southwark,Westminster
 Westminster
 Westminster
 Westminster,Kensington and Chelsea
 Westminster,,Surrey
-Surrey,,Kensington and Chelsea,
+Surrey,,Kensington and Chelsea
 Kensington and Chelsea
 Kensington and Chelsea,,Westminster
 Westminster
@@ -31986,7 +31839,7 @@ Lasithi
 Alanya
 Bang Lamung
 Bang Lamung
-London,Westminster,
+London,Westminster
 Barcelona
 Alushtyns'ka
 Denpasar
@@ -32054,7 +31907,7 @@ Pyrénées-Atlantiques
 Pyrénées-Atlantiques,Vizcaya
 Pyrénées-Atlantiques,Paris
 Quezon City,Makati City,Cebu City
-Lapu-Lapu City,Manila,
+Lapu-Lapu City,Manila
 Barcelona
 Barcelona,Tarragona
 Barcelona,Tarragona,Barcelona
@@ -32207,11 +32060,8 @@ Shevchenkivs'kyi
 Barcelona,Tarragona
 Tarragona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Sokhumi
 Sokhumi
 Tbilisi
@@ -32433,7 +32283,7 @@ Tallinn
 Zell am See
 Sudats'ka
 Alpes-Maritimes
-Imperia,
+Imperia
 Sokhumi
 Gagra
 New York,Cozumel
@@ -32725,7 +32575,6 @@ Berlin
 Valencia
 Paris
 Salvaleón de Higüey
-
 Praha 1
 Thüringen
 Valencia
@@ -32845,7 +32694,7 @@ Amsterdam
 Amsterdam
 Barcelona
 Kemer
-Roma,
+Roma
 Düsseldorf
 Düsseldorf
 Ogliastra
@@ -32920,7 +32769,6 @@ Paris
 Homyel'
 Rahachow
 Salvaleón de Higüey
-
 West-Vlaanderen,Madrid
 West-Vlaanderen,Bodrum
 Attica
@@ -33032,7 +32880,7 @@ Isère
 Isère
 Paris,Seine-et-Marne
 Berlin
-Var,
+Var
 Verona
 South Karelia
 South Karelia
@@ -33163,7 +33011,7 @@ Isère
 Valencia
 Valencia
 Katana
-Kalawana,Katana,
+Kalawana,Katana
 Ialtyns'ka
 Balaklavs'kyi,Nakhimovs'kyi
 Bakhchysarais'kyi
@@ -33173,7 +33021,7 @@ Akköy
 Batumi
 Santafé de Bogotá
 Rimini
-Venezia,Rimini,Roma,
+Venezia,Rimini,Roma
 Riga
 Vaucluse
 Barcelona
@@ -33266,7 +33114,7 @@ Bodrum
 Venezia,Verona,Brescia
 Brescia
 Praha 1
-Roma,
+Roma
 Napoli,Catania,Palermo
 Oberbayern
 Miami-Dade,Monroe,Orange
@@ -33334,7 +33182,6 @@ Düsseldorf
 Las Palmas
 Kymenlaakso
 Salvaleón de Higüey
-
 Dresden
 Dresden
 Nesebar,Burgas
@@ -33373,7 +33220,6 @@ Kymenlaakso
 Bang Lamung
 Hamburg
 Salvaleón de Higüey
-
 Alpes-Maritimes
 Amsterdam
 Kathu
@@ -33455,7 +33301,7 @@ Milano
 Fatih
 Mittelfranken,Oberfranken
 Oberbayern
-Shenzhen,
+Shenzhen
 London
 Luhans'ka
 Sevilla
@@ -33739,7 +33585,6 @@ Trier,Luxembourg,Düsseldorf
 Düsseldorf
 Lazdiju,Druskininku
 Salvaleón de Higüey
-
 Ludza
 Ludza
 Vilniaus
@@ -33786,11 +33631,10 @@ South Karelia
 Budapesti
 South Karelia
 Tallinn
-Uusimaa,Bülach,La Sarine,Solothurn,Bern,Burgdorf,
+Uusimaa,Bülach,La Sarine,Solothurn,Bern,Burgdorf
 South Karelia
 Tallinn
 Seftigen,La Sarine,Bern,Pays-d'Enhaut,Aigle,Genève,Raron,Bern,Brig,Basel,Frutigen 
-
 South Karelia
 Riga
 Lisboa,Seine-et-Marne,Seixal,Porto
@@ -33890,7 +33734,6 @@ Karlovy Vary,Praha 1
 Feodosiis'ka
 Merkez
 Salvaleón de Higüey
-
 South Goa
 Baleares
 Baleares
@@ -34102,7 +33945,7 @@ Barcelona
 Las Palmas
 Las Palmas
 Las Palmas
-Imperia,
+Imperia
 Paris,Alpes-Maritimes
 Alanya
 Miami-Dade
@@ -34295,7 +34138,7 @@ Barcelona
 Verona
 Heraklion,Lasithi,Heraklion
 Heraklion
-Darmstadt,
+Darmstadt
 Sigtuna,Stockholm,Karlstad,Ekerö,Oslo,Grums,Göteborg,Combined statistics,Norrköping,Nyköping,Helsingborg
 Praha 1,Ceský Krumlov,Ceské Budejovice,Praha 5,Praha 1,Praha 6,Ceský Krumlov,Praha 5,Kutná Hora,Ceské Budejovice,Praha 2,Karlovy Vary
 Wien,Salzburg,Oberbayern,Shevchenkivs'kyi
@@ -34528,7 +34371,7 @@ Padang,Kerinci,Batang Hari
 Tangerang
 Tangerang,Jakarta Selatan
 Badung
-Jerusalem,
+Jerusalem
 Bangli
 Shah Alam,Sepang,Shah Alam
 Shah Alam,Hulu Selangor,Shah Alam
@@ -34549,9 +34392,7 @@ Dodecanese
 Ialtyns'ka
 Liberec
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Liberec
 Budapesti
 Udine
@@ -34566,7 +34407,6 @@ Baleares
 Paris
 Teton,Los Angeles,New York
 Salvaleón de Higüey
-
 Vlaams Brabant
 Guipúzcoa
 Barcelona
@@ -34623,7 +34463,7 @@ Milano,Varese,Torino,Cuneo
 Torino,Cuneo,La Spezia,Roma
 Verona,Monza and Brianza
 Oberbayern
-Thimbirigasyaya,Kelaniya,Sri Jayawardanapura Kotte,
+Thimbirigasyaya,Kelaniya,Sri Jayawardanapura Kotte
 Matara Four Gravets
 Amsterdam
 Neringos
@@ -34699,7 +34539,7 @@ New York,Miami-Dade
 Monroe
 Miami-Dade
 Nesebar,Burgas
-Roma,
+Roma
 Florence,Venezia,Roma,Florence
 Florence
 New York
@@ -35075,7 +34915,7 @@ Sudats'ka,Ialtyns'ka,Balaklavs'kyi,Lenins'kyi,Ialtyns'ka
 Çankaya
 Jerusalem
 Paris
-Roma,Milano,
+Roma,Milano
 Berlin
 Combined statistics
 Fatih
@@ -35184,7 +35024,7 @@ Ko Phangan
 Ratchathewi,Pathum Wan
 Ratchathewi
 Yangon-W
-Yangon-W,Bassein,Yangon-W,
+Yangon-W,Bassein,Yangon-W
 Dallas
 Oakland
 Mapo
@@ -35336,7 +35176,7 @@ Girona
 Girona,Barcelona
 Barcelona
 Fatih
-Alpes-Maritimes,
+Alpes-Maritimes
 Barcelona
 Alpes-Maritimes
 Alpes-Maritimes
@@ -35758,7 +35598,7 @@ Southampton
 Camden
 Hillingdon
 Uusimaa,Stockholm
-Westminster,
+Westminster
 Fatih,Kagithane
 Rotterdam
 Stockholm
@@ -36229,7 +36069,7 @@ Solomians'kyi
 Sverdlovs'kyi
 Darmstadt
 Palilula
-Düsseldorf,Roma,
+Düsseldorf,Roma
 Düsseldorf
 Munster
 Munster
@@ -36243,7 +36083,7 @@ Düsseldorf,Munster
 Detmold,Munster
 Munster,Arnsberg
 Weser-Ems
-Roma,
+Roma
 Düsseldorf
 Munster
 Munster
@@ -36433,7 +36273,7 @@ Tarragona
 Alanya
 Koblenz
 Berlin
-Roma,
+Roma
 Qalqilya
 Bình Thu?n
 Fatih
@@ -36476,7 +36316,7 @@ Manchester
 Manchester
 Badung
 Badung
-Paris,Roma,
+Paris,Roma
 Roma
 Alpes-Maritimes
 Alpes-Maritimes
@@ -36547,7 +36387,7 @@ Serik
 Serik
 Wien
 Genève
-Orange,
+Orange
 New York
 Westminster
 Mittelfranken,Nesebar,Genève
@@ -36556,7 +36396,7 @@ Paris,Los Angeles
 Lucca,Pistoia
 Pistoia
 Macerata,Milano,Verona,Zürich,,Luzern
-Pays-d'Enhaut,Bern,Torino,
+Pays-d'Enhaut,Bern,Torino
 Paris
 Warsaw
 Kilifi
@@ -36666,7 +36506,6 @@ Clark,Fresno
 Pisa
 Parma
 Salvaleón de Higüey
-
 Kathu
 Roma
 Shah Alam
@@ -36674,7 +36513,7 @@ Wien
 Sousse Médina,Bouficha
 Sydney - Inner
 Madrid
-Florence,Roma,
+Florence,Roma
 Olhão
 Madaba
 Bakhchysarais'kyi
@@ -36750,7 +36589,7 @@ Reykjavík,Grindavík
 Grindavík,Hrunamannahreppur,Biskupstungnahreppur
 Amsterdam
 Roma,Amsterdam
-Roma,
+Roma
 Barcelona
 Barcelona,Girona
 Barcelona
@@ -37378,7 +37217,7 @@ Clark,Los Angeles
 Los Angeles
 Köln
 Fatih
-Shanghai,,Badung,Gianyar,
+Shanghai,,Badung,Gianyar
 Badung,Gianyar
 Heraklion,Lasithi
 Heraklion
@@ -37391,7 +37230,6 @@ Heraklion
 Como,Milano
 Castellón
 Salvaleón de Higüey
-
 Berlin
 Ko Samui
 Ko Samui
@@ -37685,7 +37523,7 @@ Venezia
 Donets'ka
 Muang Phuket,Kathu
 Muang Krabi
-Dresden,Alpes-Maritimes,
+Dresden,Alpes-Maritimes
 Alpes-Maritimes
 Los Angeles,Teton,Garfield,San Luis Obispo,Coconino,Marin
 Kemer
@@ -37765,7 +37603,6 @@ Riga,Tallinn
 Barcelona
 Barcelona
 Maardu
-
 Northern Ostrobothnia
 Oberbayern,Paris,Nakhimovs'kyi
 Central Finland,Nakhimovs'kyi,Dubrovnik,Paris
@@ -37868,9 +37705,7 @@ Tallinn
 Attica
 Sudats'ka
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Praha 1
 Praha 1
 Tarragona,Valencia,Barcelona
@@ -37891,7 +37726,6 @@ Salvaleón de Higüey
 Isla Saona
 Salvaleón de Higüey
 Isla Saona,Salvaleón de Higüey
-
 Wien
 Muang Samut Prakan,Sattahip,Bang Lamung,Si Racha,Thanyaburi,Ratchathewi
 Khánh Hòa
@@ -37951,7 +37785,7 @@ Paris
 Paris
 Tangalle
 Welipitiya,Galle Four Gravets
-Roma,
+Roma
 Roma
 Nesebar
 Merkez
@@ -38189,7 +38023,7 @@ Bagmati
 Gagra
 Pothuvil
 Habaraduwa
-Habaraduwa,
+Habaraduwa
 Dodecanese
 Dodecanese
 Bodrum
@@ -38238,8 +38072,8 @@ Miami-Dade
 Miami-Dade
 Tallinn
 Bang Plee,,Bang Lamung
-Bang Lamung,Bang Plee,
-Roma,
+Bang Lamung,Bang Plee
+Roma
 Barcelona
 Balchik
 Balchik
@@ -38332,7 +38166,6 @@ Maastricht
 Shevchenkivs'kyi,Boryspil's'ka
 Marmaris
 Salvaleón de Higüey
-
 Kamyanyets
 Barcelona
 Barcelona
@@ -38353,7 +38186,7 @@ Nakhimovs'kyi
 Nakhimovs'kyi
 Baleares
 Baleares
-Milano,Roma,
+Milano,Roma
 Roma
 Torino
 Berlin
@@ -38517,7 +38350,7 @@ Barcelona
 Barcelona
 Murcia,Alicante
 Wien
-Roma,
+Roma
 Florence,Roma
 Florence
 Shevchenkivs'kyi
@@ -38719,7 +38552,7 @@ Serik,Merkez,Manavgat
 Wien Umgebung,Wien
 Bethlehem
 Ko Samui,Bang Plee,Ko Samui
-Ko Samui,
+Ko Samui
 Merkez
 Corfu
 Corfu
@@ -38933,7 +38766,7 @@ Camden,Westminster,Camden,Westminster
 Camden,Westminster,Berkshire,Westminster,Kensington and Chelsea,Tower Hamlets,Greenwich,London
 Westminster
 Praha 1
-Westminster,
+Westminster
 East Sussex,Islington,Tower Hamlets
 Islington
 Brent,Camden
@@ -39019,7 +38852,6 @@ Serik
 Khánh Hòa
 Khánh Hòa
 Salvaleón de Higüey
-
 Badung
 Badung
 Badung
@@ -39050,7 +38882,7 @@ Kemer,Serik
 Merkez
 Shanghai
 Zürich,Landeck
-Roma,
+Roma
 Barcelona
 Ialtyns'ka,Feodosiis'ka,Sudats'ka,Feodosiis'ka
 Muang Phuket
@@ -39159,7 +38991,7 @@ Minsk
 Heraklion
 Pathum Wan
 Hikkaduwa
-K.F.G. & G. Korale,Dambulla,K.F.G. & G. Korale,
+K.F.G. & G. Korale,Dambulla,K.F.G. & G. Korale
 Malay,,Ratchathewi,Pathum Wan,Muang Rayong,Phra Nakhon
 Beyoglu
 Roma
@@ -39249,7 +39081,7 @@ Ievpatoriis'ka
 Rimini
 Kathu,Thai Muang,Takua Thung,Muang Phuket
 Thai Muang,Takua Thung,Muang Phuket,Kathu,Muang Phuket
-Madaba,
+Madaba
 Bethlehem
 Aqaba
 Madaba
@@ -39350,7 +39182,7 @@ Minsk,Dzyarzhynsk
 Minsk
 Venezia
 Osaka
-Osaka,
+Osaka
 Roma
 Nadvirnians'kyi
 Alicante
@@ -39402,7 +39234,7 @@ Khalkidiki
 Khalkidiki
 Khalkidiki
 Brest
-Seine-et-Marne,Alpes-Maritimes,
+Seine-et-Marne,Alpes-Maritimes
 Alpes-Maritimes,,Imperia
 Haarlemmermeer,Amsterdam
 Piran
@@ -39458,7 +39290,6 @@ Palilula
 Palilula
 Palilula
 Salvaleón de Higüey
-
 Muang Phuket
 Kathu
 Ko Phangan
@@ -39554,7 +39385,7 @@ Suffolk
 Middlesex
 Paris
 New York
-Paris,
+Paris
 Combined statistics
 Cascais
 Lisboa,Oeiras
@@ -39563,7 +39394,7 @@ Rhône
 Merkez
 Napoli
 Khánh Hòa
-Roma,
+Roma
 Roma,Florence
 Barcelona
 Ievpatoriis'ka
@@ -39607,7 +39438,6 @@ Kathu,Thalang
 Ko Samui
 Khánh Hòa
 Vändra vald (alev)
-
 Narva-Jõesuu
 Merkez
 Milano
@@ -40152,11 +39982,11 @@ Minsk
 Minsk
 Madrid
 Granada,Málaga,Sevilla,Cádiz,Huelva,Cáceres,Madrid
-Verona,Trento,Florence,Alessandria,
+Verona,Trento,Florence,Alessandria
 Trento,Florence
 Lisboa
 Praha 1,Praha 6,Praha 7,Ceský Krumlov,Ceské Budejovice,Kutná Hora
-Roma,
+Roma
 Florence,Lucca,Pisa
 Ialtyns'ka
 Clark
@@ -40168,13 +39998,13 @@ Milano
 Kensington and Chelsea
 Basel
 Hillingdon,Berkshire
-Alpes-Maritimes,
+Alpes-Maritimes
 Milano
 Alpes-Maritimes
 Westminster,Oxfordshire
 Westminster
 New York
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris
 Genève
 London
@@ -40570,7 +40400,7 @@ Paris
 Paris
 Seine-et-Marne,Paris
 Paris
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris
 Nesebar
 Riga
@@ -40602,7 +40432,7 @@ Sarasota,San Mateo,San Francisco,Marin,Monterey,San Luis Obispo,Santa Barbara,Lo
 Los Angeles,Queens
 Odes'ka
 Tallinn,Jõelähtme,Kuusalu,Riga
-Badung,Denpasar,
+Badung,Denpasar
 Cumbria,Edinburgh,Highland,Moray,Aberdeenshire
 Highland,Moray,Aberdeenshire,Stirling,Merseyside
 Sarasota
@@ -40618,7 +40448,7 @@ Kathu,Muang Phuket
 Kathu,Thalang
 Dodecanese
 Luhans'ka
-Roma,
+Roma
 Napoli
 Wien
 Wien,Budapesti
@@ -40632,7 +40462,7 @@ Berlin
 Westminster
 Westminster,Hackney,Camden,Islington,Tower Hamlets
 Jerusalem
-Jerusalem,
+Jerusalem
 Camden,Westminster,London,Kensington and Chelsea,Westminster
 Warwickshire
 La Gruyère,Bern,Pays-d'Enhaut
@@ -40856,7 +40686,7 @@ Florence
 Berlin
 New York,Orange,Hudson,Cook,Miami-Dade
 Los Angeles,San Bernardino,Clark,Coconino
-Girona,Roma,
+Girona,Roma
 Baleares
 Lima
 Queens
@@ -40968,8 +40798,8 @@ Alpes-Maritimes,Bülach
 Alpes-Maritimes
 Paris
 Paris
-Alpes-Maritimes,
-Alpes-Maritimes,
+Alpes-Maritimes
+Alpes-Maritimes
 Alpes-Maritimes
 Westminster
 Haarlemmermeer
@@ -41359,7 +41189,7 @@ Langkawi
 Seongdong
 Jongro
 Jongro
-Jongro,
+Jongro
 Haeundae,Jung
 Paris
 Seongdong
@@ -41532,14 +41362,12 @@ Kharkivs'ka
 Las Palmas
 Las Palmas
 Salvaleón de Higüey
-
 Amsterdam
 Gagra
 Hlukhivs'kyi,Shevchenkivs'kyi
 Kemer
 Kemer
 Salvaleón de Higüey
-
 Poznan City
 Heraklion
 Heraklion
@@ -41691,7 +41519,7 @@ Hainaut
 Almaty (Alma-Ata)
 Roma
 Roma
-Roma,
+Roma
 Roma
 Tarragona
 Barcelona,Tarragona
@@ -41788,7 +41616,7 @@ Habaraduwa
 Uusimaa
 Homyel'
 Minsk
-Beijing,Badung,Surabaya,
+Beijing,Badung,Surabaya
 Badung
 Badung
 Badung
@@ -41819,7 +41647,7 @@ Kathu
 Catanzaro
 Val-d'Oise
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes,Haarlemmermeer
 Jerusalem
 Okrug
@@ -41884,7 +41712,6 @@ Simferopol's'ka
 Barcelona
 Paris
 Salvaleón de Higüey
-
 Sepang,Badung
 Badung
 Badung,Denpasar
@@ -41905,7 +41732,7 @@ Praha 1
 North Goa
 Kathu
 Kemer
-Paris,
+Paris
 Gdansk City
 Stockholm
 Thalang
@@ -42034,15 +41861,14 @@ Hulunbuir
 Luhans'ka
 Barcelona
 Kemer
-Bethlehem,
-Paris,
+Bethlehem
+Paris
 Roma
 Roma
 Budapesti
 Westminster
 Paris
 Salvaleón de Higüey
-
 Karelichy
 Kemer
 Madona
@@ -42094,9 +41920,9 @@ Rimini
 Besiktas
 Bakirköy
 Guangzhou,Shanghai
-Shanghai,
 Shanghai
-Shanghai,
+Shanghai
+Shanghai
 Guangzhou
 Wien
 Wien
@@ -42180,7 +42006,7 @@ Milano
 Siena
 Milano
 Milano
-Madaba,
+Madaba
 Balaklavs'kyi
 Uusimaa
 Nesebar
@@ -42210,7 +42036,7 @@ Tuzla,Yüregir
 Merkez
 Merkez
 Merkez
-Roma,
+Roma
 Gebze,Merkez
 Kharkivs'ka
 Kharkivs'ka
@@ -42330,7 +42156,6 @@ Barcelona
 Barcelona
 Barcelona
 Salvaleón de Higüey
-
 Siófok
 Siófok
 Tallinn
@@ -42584,7 +42409,7 @@ Kemer
 Amsterdam
 Tübingen
 Amsterdam
-Rhône,Alpes-Maritimes,
+Rhône,Alpes-Maritimes
 Shooneh Janoobiyyeh
 Kemer
 Amsterdam
@@ -42677,7 +42502,7 @@ Seine-Saint-Denis,La Huerta
 Heraklion,Lasithi,Khania,Heraklion
 Heraklion
 Florence,Pisa,Florence,Lucca
-Roma,
+Roma
 Warsaw
 Vilniaus
 Berlin
@@ -42727,11 +42552,9 @@ Gagra
 Mittelfranken
 Surfers Paradise
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 La Romana,Isla Saona
 Salvaleón de Higüey
-
 Val-d'Oise,Mittelfranken
 Fatih,Besiktas
 Barcelona,Tarragona,Alicante
@@ -42795,7 +42618,6 @@ Alanya
 Alanya
 Manchester
 Konak,Bornova
-
 Gyál
 Sanya
 Sanya
@@ -42895,7 +42717,7 @@ New York,Los Angeles
 Los Angeles,San Diego
 Badung
 Badung,Bang Plee,Ko Phangan
-Badung,
+Badung
 Westminster,Kensington and Chelsea,Camden,Westminster
 Badung,Gianyar
 Badung,Gianyar,Badung
@@ -43046,7 +42868,7 @@ Alicante
 Alicante
 Alicante,Valencia,Alicante
 South Karelia
-Roma,
+Roma
 New York
 Kastav,Alpes-Maritimes
 Alpes-Maritimes
@@ -43120,7 +42942,6 @@ Bolzano
 Bolzano
 Bülach
 Paris,Barcelona,Girona,Tarragona,Salvaleón de Higüey
-
 São Paulo
 Klodzko,Essonne
 Simferopol's'ka
@@ -43145,7 +42966,7 @@ Muang Phuket
 Edinburgh
 Saône-et-Loire,Savoie
 Savoie
-Roma,
+Roma
 Roma,Praha 1,Dresden,Wien
 Bari
 Matera,Bari
@@ -43187,7 +43008,7 @@ Berlin
 Berlin
 Kathu
 Beijing
-Malay,Ibajay,Pasay City,Kalibo,Malay,
+Malay,Ibajay,Pasay City,Kalibo,Malay
 Arnsberg,Düsseldorf
 Shanghai,Badung,Gianyar,Badung
 Badung
@@ -43455,7 +43276,7 @@ Milano
 Milano
 Milano
 Hillingdon
-Roma,
+Roma
 Genova,Milano
 Milano
 Milano
@@ -43579,7 +43400,7 @@ Rio de Janeiro
 Val-d'Oise
 Heraklion
 Hillingdon,West Midlands
-Westminster,Tower Hamlets,Camden,Wiltshire,London,
+Westminster,Tower Hamlets,Camden,Wiltshire,London
 Berlin
 Köln
 Kathu,Muang Phuket
@@ -43632,7 +43453,6 @@ Lenins'kyi
 Lenins'kyi,Nakhimovs'kyi
 Lenins'kyi
 Salvaleón de Higüey
-
 Lasithi
 Harbin
 Bang Plee,Bang Lamung
@@ -43732,7 +43552,7 @@ Mohyliv-Podil's'ka
 Rethymnon
 Rethymnon
 Heraklion
-Bethlehem,
+Bethlehem
 Caserta
 Stockholm
 North Goa,Sindhudurg
@@ -44082,7 +43902,6 @@ Barcelona
 Merkez
 Gagra
 Salvaleón de Higüey
-
 Hà N?i,Khánh Hòa
 Khánh Hòa
 North Goa,South Goa
@@ -44191,9 +44010,7 @@ Stockholm
 Hrodna
 Praha 1,Pardubice,Praha 6,Litomerice,Praha 4,Praha 2,Praha 1
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Cyclades
 Hrodna
 Roma
@@ -44363,7 +44180,7 @@ Rethymnon
 Rethymnon
 Rethymnon
 Dodecanese
-Jericho,Bethlehem,Jerusalem,
+Jericho,Bethlehem,Jerusalem
 Bethlehem
 Berlin
 Nord
@@ -44435,7 +44252,7 @@ Roma
 Valencia
 Paris
 Hamburg,Hannover,Luneburg
-Jerusalem,
+Jerusalem
 Tbilisi,Mtskheta,Dusheti,Akhmeta,Sagarejo
 Stuttgart
 Gagra
@@ -44448,7 +44265,7 @@ Smalyavichy
 Tallinn
 Mudanjiang
 Jixi
-Bang Lamung,
+Bang Lamung
 Marmaris
 Bodrum
 Bodrum
@@ -44649,7 +44466,7 @@ Las Palmas
 Las Palmas
 Las Palmas
 Düsseldorf
-Roma,
+Roma
 Muang Phuket,Thalang
 Muang Phuket,Thalang
 Jaipur
@@ -44719,7 +44536,7 @@ South Karelia
 Bang Plee,Phra Nakhon,Muang Rayong,K. Ko Chang
 K. Ko Chang,Bang Kapi,Khlong Toey
 Roma
-Roma,
+Roma
 New York,Kings,Middlesex,Suffolk,New York
 Kings
 Madaba
@@ -44771,7 +44588,7 @@ Uusimaa
 Bakhchysarais'kyi
 Kerchens'ka
 Nakhimovs'kyi
-Alpes-Maritimes,
+Alpes-Maritimes
 North Karelia
 Mittelfranken,Oberbayern
 Khania
@@ -44831,7 +44648,7 @@ Amsterdam
 Roma
 Barcelona,Bouches-du-Rhône,Milano,Roma
 Galle Four Gravets,Habaraduwa
-Habaraduwa,
+Habaraduwa
 Valencia,Alicante,Valencia
 Madrid,Córdoba,Sevilla
 Córdoba,Sevilla,Málaga
@@ -44842,7 +44659,6 @@ Taranto
 Taranto
 Taranto
 Salvaleón de Higüey
-
 Paris
 Habaraduwa
 Sarajevo
@@ -44951,7 +44767,7 @@ Khánh Hòa
 Lâm Ð?ng,Khánh Hòa
 Khánh Hòa
 Khánh Hòa
-Roma,
+Roma
 Florence,Milano,Venezia
 Wien
 Westminster,Tower Hamlets,Camden,Barcelona
@@ -45022,7 +44838,6 @@ Alicante
 Serik
 Marmaris
 Salvaleón de Higüey
-
 Shevchenkivs'kyi
 Pechers'kyi
 Rockland
@@ -45063,7 +44878,6 @@ Heraklion,Lasithi
 Lasithi
 Uusimaa
 Salvaleón de Higüey
-
 Kharkivs'ka
 Gagra
 Ievpatoriis'ka
@@ -45154,7 +44968,7 @@ Alpes-Maritimes
 Westminster
 Westminster
 Roma
-Alpes-Maritimes,
+Alpes-Maritimes
 Stockholm
 Alpes-Maritimes
 Corfu
@@ -45346,7 +45160,7 @@ Baleares
 Sudats'ka
 Markaz Rif Dimashq
 Tashkent City
-Rimini,
+Rimini
 Rimini
 Uusimaa
 Gagra
@@ -45355,7 +45169,7 @@ Almaty (Alma-Ata)
 Milano
 Roma,Bologna,Napoli,Venezia,Milano
 Milano,Florence,Roma
-Wien,Budapesti,
+Wien,Budapesti
 Tbilisi,Gori,Mtskheta
 Málaga
 Málaga
@@ -45489,12 +45303,12 @@ Casablanca
 Praha 1,Praha 6,Praha 5,Kutná Hora
 Praha 1,Kutná Hora
 Oberbayern
-Oberbayern,
+Oberbayern
 Rabat
 Praha 5
 Bakirköy
 Berbera
-Barcelona,
+Barcelona
 Barcelona
 Barcelona
 Barcelona
@@ -45535,7 +45349,7 @@ Herzegovina-Neretva
 Genève,Lausanne,Lavaux-Oron
 Budapesti
 Sarajevo
-Sarajevo,
+Sarajevo
 Budapesti
 Warsaw
 Sarajevo
@@ -45564,7 +45378,7 @@ Westminster,Þingvallahreppur,Hrunamannahreppur,Snæfellsbær,Reykjavík,Vestur-
 Bath and North East Somerset,Pembrokeshire
 Agra
 Minsk
-Angostura,
+Angostura
 Minsk
 Minsk
 Oslo
@@ -45577,10 +45391,8 @@ Kerchens'ka
 Takua Thung
 Kerchens'ka
 Aralik
-
 Merkez
 Aralik
-
 Gagra
 Sums'ka
 South Karelia
@@ -45614,7 +45426,6 @@ Tallinn
 Kathu
 Seine-et-Marne
 Salvaleón de Higüey
-
 Berlin
 Palilula,Stari Grad,Palilula
 Palilula,Uice,Vracar,Palilula,Stari Grad
@@ -45702,7 +45513,7 @@ Ascoli Piceno,Fermo,Macerata,Rimini
 Praha 1,Praha 13
 Scheibbs,Barcelona
 Dodecanese
-Roma,
+Roma
 Paris
 Barcelona
 Paris
@@ -45752,7 +45563,7 @@ Alpes-Maritimes
 Alpes-Maritimes
 Genova
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 North Goa
 Attica
 Serik
@@ -45901,7 +45712,7 @@ Kemer
 Glubokovskiy
 Ulanskiy
 Praha 1,Praha 2,Mladá Boleslav
-Roma,
+Roma
 Roma
 Baleares
 Baleares
@@ -45930,7 +45741,6 @@ Wien
 Serik
 Serik
 Salvaleón de Higüey
-
 Khalkidiki
 Serik
 Riga
@@ -45967,7 +45777,7 @@ Miami-Dade
 Monterey
 Miami-Dade
 Enkhuizen,Venhuizen
-Texel,
+Texel
 Alpes-Maritimes
 Alpes-Maritimes
 Lisboa,Oeiras
@@ -45983,13 +45793,12 @@ Praha 1,Praha 5,Praha 6
 Kutná Hora
 Kymenlaakso
 Southern Savonia,South Karelia
-Milano,Verona,Bergamo,Venezia,Rimini,
-Florence,Bologna,Modena,Roma,
+Milano,Verona,Bergamo,Venezia,Rimini
+Florence,Bologna,Modena,Roma
 Roma,Vilniaus
 Simferopol's'ka
 Essex
 Salvaleón de Higüey
-
 Kemer
 Rimini
 Milano
@@ -46024,13 +45833,13 @@ Valencia,Alicante
 Alicante,Valencia
 Serik
 Serik
-Roma,
+Roma
 Venezia
 Berlin
 Amsterdam
 Bruxelles,West-Vlaanderen
 Koblenz,Oberbayern,Baleares
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Genova
 Bruxelles
@@ -46240,7 +46049,7 @@ Gdansk City,Tatra
 North Goa
 Praha 8
 Forli' - Cesena,Rimini
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Nesebar
 Barcelona
@@ -46282,7 +46091,7 @@ Ialtyns'ka
 Paris
 Stolichna
 Lisse,Amsterdam
-Praha 6,
+Praha 6
 Alpes-Maritimes
 Gianyar
 Imst
@@ -46301,11 +46110,8 @@ Warsaw
 Ninomiya
 Fatih,Beyoglu
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Besiktas
 Senaki
 Bentota
@@ -46378,7 +46184,7 @@ Kemer
 Marmaris,Merkez,Marmaris
 Kemer
 Akköy
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris
 Paris
 Guarulhos,Brasília
@@ -46421,7 +46227,7 @@ Barcelona
 Riga
 Akköy
 Riga
-Stockholm,
+Stockholm
 Tallinn
 Paris
 Krynychans'kyi,Petrykivs'kyi
@@ -46621,7 +46427,7 @@ Las Palmas
 Kharkivs'ka
 Westminster,Kensington and Chelsea
 North Goa
-Aude,Haute-Garonne,
+Aude,Haute-Garonne
 Barcelona
 Baleares
 Girona,Barcelona
@@ -46647,20 +46453,20 @@ Barcelona
 Sintra
 Hamburg
 Kymenlaakso,South Karelia
-Kymenlaakso,
+Kymenlaakso
 Tallinn
 Tallinn
 Aosta,Vercelli,Visp
 Bang Lamung,Bang Pakong,Bang Pa-In,Bang Lamung,Phra Nakhon Si Ayutthaya
 Bang Pakong,Bang Pa-In,Bang Lamung,Phra Nakhon Si Ayutthaya
 Phra Nakhon Si Ayutthaya,Sattahip,Bang Lamung,Bang Plee
-Paris,Bouches-du-Rhône,
+Paris,Bouches-du-Rhône
 Bouches-du-Rhône
 Wien
 Wien,Budapesti
 Wien,Budapesti
 Ravenna
-Roma,
+Roma
 Vlaams Brabant
 Belluno
 Bolzano
@@ -46988,15 +46794,15 @@ Genova,Milano
 Genova,Milano,Genova
 Wien
 Thai Muang
-Hoorn,Zijpe,
+Hoorn,Zijpe
 's-Gravenhage,West-Vlaanderen
 Westminster,Hammersmith and Fulham,Camden,West Sussex
 Westminster
 Dodecanese
 Dodecanese
 Combined statistics,Düsseldorf
-Calvados,Ille-et-Vilaine,Paris,
-Ille-et-Vilaine,Paris,
+Calvados,Ille-et-Vilaine,Paris
+Ille-et-Vilaine,Paris
 Kainuu
 Southern Savonia
 Southern Savonia
@@ -47026,7 +46832,6 @@ Rimini
 Southern Savonia
 Berlin
 Salvaleón de Higüey
-
 Wien,Salzburg
 Berlin
 Berlin
@@ -47074,7 +46879,6 @@ Bang Lamung
 Badung
 Badung
 Salvaleón de Higüey
-
 Barcelona
 Thalang
 Thalang
@@ -47428,7 +47232,7 @@ Bang Lamung
 Gori
 Gori
 Oberbayern
-Roma,
+Roma
 Ravenna
 Heraklion
 Tbilisi
@@ -47632,7 +47436,7 @@ Varna
 Varna
 Varna
 Varna
-Roma,
+Roma
 Varna
 Corrèze
 Jerusalem
@@ -47725,10 +47529,10 @@ Val-d'Oise,Seine-et-Marne,Paris,Yvelines
 Ko Samui
 Ko Samui
 Ko Samui
-Ko Samui,Pathum Wan,
+Ko Samui,Pathum Wan
 Westminster,Camden
 Westminster,Tower Hamlets
-Hounslow,Southwark,Westminster,Kensington and Chelsea,Camden,Hammersmith and Fulham,Tower Hamlets,
+Hounslow,Southwark,Westminster,Kensington and Chelsea,Camden,Hammersmith and Fulham,Tower Hamlets
 Westminster,Greenwich,Tower Hamlets,Westminster
 Skolivs'kyi
 Skolivs'kyi
@@ -47815,7 +47619,7 @@ Darmstadt,Luxembourg,Bruxelles,Amsterdam,Haarlemmermeer
 Thalang
 Thalang
 Pavlodarskiy
-Roma,
+Roma
 Roma
 Dambulla
 Praha 3
@@ -47923,7 +47727,7 @@ Päijänne Tavastia,Lapland
 Les Laurentides,Communauté-Urbaine-de-Montréal,La Rivière-du-Nord
 Corfu
 Corfu
-Venezia,
+Venezia
 Venezia
 Venezia
 Venezia
@@ -47934,9 +47738,7 @@ Girona
 Barcelona
 Barcelona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Khalkidiki
 Nakhimovs'kyi,Haharins'kyi,Balaklavs'kyi,Lenins'kyi
 Palilula
@@ -47990,7 +47792,7 @@ Kathu
 Cardiff
 Westminster
 Uusimaa
-Genève,Savoie,
+Genève,Savoie
 Essonne
 Charente
 Amsterdam
@@ -48007,7 +47809,6 @@ Kymenlaakso
 Mecklenburg-Vorpommern,Oberbayern
 Uusimaa
 Salvaleón de Higüey
-
 Manavgat
 Shah Alam,Manjung
 Manjung
@@ -48099,8 +47900,8 @@ Khánh Hòa
 Khánh Hòa
 Praha 1
 Tashkent City
-Paris,Seine-et-Marne,
-Mtskheta,
+Paris,Seine-et-Marne
+Mtskheta
 Tbilisi
 Pathum Wan,Ko Samui
 Ko Samui
@@ -48174,7 +47975,7 @@ Paris
 Milano
 New York
 New York
-Roma,
+Roma
 Westminster
 Milano
 Besiktas
@@ -48252,7 +48053,7 @@ Alanya
 Alanya
 Bang Lamung
 Kemer,Merkez
-Ghour El-Mazra'ah,
+Ghour El-Mazra'ah
 Imst
 Ievpatoriis'ka
 Khania
@@ -48586,7 +48387,7 @@ Paris
 Berlin
 Berlin,Seine-et-Marne
 Fatih
-Jerusalem,
+Jerusalem
 Honolulu
 Honolulu
 Honolulu
@@ -48674,7 +48475,7 @@ Riga
 Neringos
 Las Palmas
 Las Palmas
-Uusimaa,
+Uusimaa
 Ialtyns'ka
 Tbilisi
 Tbilisi
@@ -48736,7 +48537,7 @@ Riga
 Shevchenkivs'kyi,Dniprovs'kyi,Holosiïvs'kyi,Boryspil's'ka
 Malay
 Malay
-Malay,,Kalibo,
+Malay,,Kalibo
 Florence,Pisa,Bologna
 Bialystok,Wien,Judenburg,Spittal an der Drau
 Spittal an der Drau,Sankt Johann im Pongau
@@ -48814,7 +48615,6 @@ Oberbayern
 Shevchenkivs'kyi
 Unknown1
 Salvaleón de Higüey
-
 Unknown1
 Unknown1
 Gagra
@@ -48863,7 +48663,7 @@ Hillingdon
 Darnyts'kyi
 Hammersmith and Fulham
 Kensington and Chelsea
-Ramallah and Al-Bireh,
+Ramallah and Al-Bireh
 Ko Samui
 Ko Samui
 Westminster
@@ -48968,7 +48768,7 @@ Baleares
 Amsterdam,Baleares,Barcelona
 Baleares
 Amsterdam
-Barcelona,Baleares,Roma,
+Barcelona,Baleares,Roma
 Baleares,Barcelona,Roma
 Baleares
 Roma
@@ -48979,12 +48779,11 @@ Muang Krabi,Ko Phangan,Bang Lamung,Chatuchak
 Amsterdam
 Odes'ka
 Salvaleón de Higüey
-
 Roma
 Karlsruhe
 Stuttgart
 Ko Samui
-Ko Samui,Ko Phangan,Pathum Wan,Bang Rak,Suan Luang,Don Muang,
+Ko Samui,Ko Phangan,Pathum Wan,Bang Rak,Suan Luang,Don Muang
 Valencia
 Madrid
 Tallinn
@@ -49031,7 +48830,7 @@ Roma,Florence,Shevchenkivs'kyi,Pechers'kyi,Sviatoshyns'kyi,Shevchenkivs'kyi,Simf
 Ialtyns'ka,Simferopol's'ka,Ialtyns'ka,Simferopol's'ka
 Simferopol's'kyi
 Amsterdam
-Centro Habana,La Habana del Este,Santiago,Lima,Callao,
+Centro Habana,La Habana del Este,Santiago,Lima,Callao
 Simferopol's'kyi,Nakhimovs'kyi
 Haharins'kyi,Balaklavs'kyi,Haharins'kyi,Nakhimovs'kyi
 Minsk
@@ -49330,7 +49129,7 @@ Narva,Riga,Pärnu
 Combined statistics
 Islington
 Riga
-Alpes-Maritimes,
+Alpes-Maritimes
 South Karelia
 Wien
 Riga
@@ -49486,12 +49285,12 @@ Zürich,Interlaken,Bern,Genève,Ain
 Westminster,Tower Hamlets,Camden,London,Westminster,Brent,Tower Hamlets
 Westminster,Brent,Tower Hamlets,Westminster
 Westminster
-Var,Alpes-Maritimes,
+Var,Alpes-Maritimes
 Lasithi,Thessaloniki
 Thessaloniki
 Riga
 Gianyar
-Alpes-Maritimes,
+Alpes-Maritimes
 K. Ko Kut
 Khlong Toey,Sathorn
 Berlin
@@ -49539,7 +49338,7 @@ Roma
 Fatih,Besiktas
 Besiktas,Sariyer
 Besiktas
-Berlin,Schwaben,Oberbayern,Verona,Roma,
+Berlin,Schwaben,Oberbayern,Verona,Roma
 Palermo
 Palermo
 Roma
@@ -49554,7 +49353,7 @@ Berlin
 Taito
 Chiyoda,Minato
 Sumida,Chiyoda,Shinjuku,Minato
-Bang Kho Laem,
+Bang Kho Laem
 Roma,Paris
 Kathu
 Muang Phuket
@@ -49594,7 +49393,7 @@ Odes'ka
 Odes'ka
 Wien
 Serik
-Roma,
+Roma
 Kemer
 Kemer
 Savoie
@@ -49651,7 +49450,7 @@ Bouches-du-Rhône
 Bouches-du-Rhône
 Trento
 Varese,Verona,Brescia,Venezia,,Rimini
-Roma,Florence,Siena,
+Roma,Florence,Siena
 Roma
 Praha 1,Praha 8
 Zell am See
@@ -49665,7 +49464,7 @@ Guangzhou
 Paris
 Barcelona
 Pavlodarskiy
-Catania,Ragusa,
+Catania,Ragusa
 San Francisco
 San Francisco
 Marin,Santa Clara
@@ -49908,7 +49707,7 @@ Arnsberg,Mittelfranken
 Zürich
 Berlin
 Berlin
-Alpes-Maritimes,
+Alpes-Maritimes
 Savoie
 Vilniaus
 Kemer
@@ -49983,7 +49782,6 @@ Baleares
 Agra
 Almaty (Alma-Ata)
 Salvaleón de Higüey
-
 Manavgat
 Manavgat
 Manavgat
@@ -50082,7 +49880,7 @@ H? Chí Minh city
 Bình Thu?n
 Khánh Hòa,Ðà N?ng,Th?a Thiên - Hu?,Qu?ng Ninh
 Hà N?i
-H? Chí Minh city,
+H? Chí Minh city
 Barcelona
 Oberbayern
 Ko Samui
@@ -50178,7 +49976,7 @@ Boryspil's'ka
 Manavgat
 Bang Lamung,Siem Reab,Ou Chrov
 Si Racha,Bang Lamung,Muang Rayong,Sai Yok,Si Sawat
-Priboj,
+Priboj
 North Goa
 North Goa
 North Goa
@@ -50363,7 +50161,7 @@ Freiburg
 Freiburg
 Ialtyns'ka
 Diba
-Diba,
+Diba
 Freiburg
 Ko Yao
 Ko Yao,Muang Krabi
@@ -50395,7 +50193,7 @@ Southern Savonia
 Uusimaa
 Stockholm
 Uusimaa,Kymenlaakso
-Paris,New York,
+Paris,New York
 Paris,Hauts-de-Seine,Combined statistics,Luneburg,Schleswig-Holstein
 District of Columbia,New York
 Vilniaus,Kauno
@@ -50405,7 +50203,7 @@ Beijing
 Beijing
 South Karelia
 Wien,Praha 1
-Praha 1,
+Praha 1
 Narva
 Darmstadt,Rheinhessen-Pfalz
 Eastern Uusimaa,Uusimaa
@@ -50552,7 +50350,7 @@ Manavgat
 Los Angeles
 Paris
 Paris
-Roma,
+Roma
 Stockholm
 Berlin
 Praha 1
@@ -50652,7 +50450,7 @@ Miami-Dade
 Orange
 Miami-Dade
 Girona
-Madaba,
+Madaba
 Minsk
 Ialtyns'ka
 Muang Krabi
@@ -51096,8 +50894,8 @@ Odes'ka
 Kerchens'ka,Ialtyns'ka,Bakhchysarais'kyi
 Milano
 Nakhimovs'kyi,Lenins'kyi
-Broward,Miami-Dade,
-Miami-Dade,
+Broward,Miami-Dade
+Miami-Dade
 Miami-Dade
 Manavgat
 Manavgat
@@ -51206,13 +51004,11 @@ Ialtyns'ka
 Uusimaa
 Verona
 Venezia
-Roma,
+Roma
 Milano
 Barcelona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Ottawa
 Barcelona
 Kharkivs'ka
@@ -51230,7 +51026,7 @@ Rethymnon,Khania,Cyclades
 Ragusa,Catania
 Florence,Roma
 Baleares
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Amsterdam,Haarlemmermeer
@@ -51300,7 +51096,7 @@ Wiltshire
 Stolichna
 Alanya
 Rimini
-Roma,
+Roma
 Batumi
 Batumi
 Tbilisi
@@ -51449,9 +51245,7 @@ Khánh Hòa
 Khánh Hòa
 Ialtyns'ka
 Distrito Nacional,Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Kathu
 Shevchenkivs'kyi
 Ovidiopol's'kyi
@@ -51555,7 +51349,7 @@ Las Palmas
 Las Palmas
 Las Palmas
 Nadia
-Zemun,
+Zemun
 Praha 1,Praha 7,Praha 6,Beroun
 Jerusalem,Bethlehem,Aqaba
 Savoie,Paris,Savoie
@@ -51579,9 +51373,8 @@ Barcelona
 Praha 6,Praha 1,Kutná Hora,Praha 6
 Leipzig
 Salvaleón de Higüey
-
 Kent
-Ramallah and Al-Bireh,
+Ramallah and Al-Bireh
 Asenovgrad
 Chepelare
 Berlin
@@ -51643,7 +51436,7 @@ Genève
 Paris,Seine-et-Marne
 Venezia
 Venezia
-Alpes-Maritimes,
+Alpes-Maritimes
 Wien
 Muang Phuket
 Muang Phuket
@@ -51707,7 +51500,7 @@ Chiyoda,Shibuya
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
@@ -51740,7 +51533,7 @@ Barcelona
 Çankaya
 Alpes-Maritimes
 Barcelona,Girona
-Dubrovnik,
+Dubrovnik
 Amasra
 Alushtyns'ka
 Bang Lamung
@@ -51868,7 +51661,7 @@ Kota Kinabalu
 Badung
 Badung
 Badung
-Seine-et-Marne,
+Seine-et-Marne
 Minsk
 Brest
 Barcelona
@@ -51889,9 +51682,9 @@ Muang Phuket
 Muang Phuket
 Thalang
 Paris
-Roma,Praha 6,
+Roma,Praha 6
 Varna
-Barcelona,Tarragona,
+Barcelona,Tarragona
 Shevchenkivs'kyi,Podil's'kyi,Holosiïvs'kyi,Pechers'kyi
 Las Palmas
 Las Palmas
@@ -51984,9 +51777,9 @@ Marmaris
 Multnomah
 Barcelona
 Alanya
-Bruxelles,West-Vlaanderen,Oost-Vlaanderen,Maastricht,Köln,Rotterdam,'s-Gravenhage,Schiedam,Delft,Amsterdam,Haarlem,Edam-Volendam,Zaanstad,
+Bruxelles,West-Vlaanderen,Oost-Vlaanderen,Maastricht,Köln,Rotterdam,'s-Gravenhage,Schiedam,Delft,Amsterdam,Haarlem,Edam-Volendam,Zaanstad
 Bialystok City,Olsztyn,Gdansk City,Malbork,Gdansk City,Szczecin,Brandenburg,Bydgoszcz City,Warsaw
-Verona,Venezia,Genova,Alpes-Maritimes,
+Verona,Venezia,Genova,Alpes-Maritimes
 Genova
 Gagra
 Dodecanese
@@ -52102,7 +51895,7 @@ Roma
 Roma
 Roma
 Roma
-Hammersmith and Fulham,Westminster,Hillingdon,
+Hammersmith and Fulham,Westminster,Hillingdon
 Roma
 Kensington and Chelsea
 Roma
@@ -52162,7 +51955,7 @@ Camden
 Camden
 Zürich
 Guangzhou
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Paris
 Bakirköy
@@ -52266,7 +52059,7 @@ Burgos,Lugo,Pontevedra
 Vizcaya,Pontevedra,Huesca,Barcelona
 Barcelona
 Antwerpen,Bruxelles
-Roma,
+Roma
 Cádiz,Málaga
 Córdoba,Cádiz
 Porto
@@ -52325,7 +52118,7 @@ Tartu
 Nakhimovs'kyi
 Kerchens'ka
 Haarlemmermeer,Oberbayern,Köln,Schwaben,Zürich,Bülach,Landeck,Bolzano
-Oberbayern,Bülach,Zürich,Glarus,
+Oberbayern,Bülach,Zürich,Glarus
 Oberbayern
 Lelystad,Haarlemmermeer
 Venezia
@@ -52349,7 +52142,7 @@ Warsaw
 Haarlemmermeer
 Riga,Tukums
 Stockholm,Sorø
-Alpes-Maritimes,
+Alpes-Maritimes
 Haarlemmermeer
 Almere,Huizen
 Amsterdam
@@ -52358,7 +52151,7 @@ Almere
 Putyvl's'kyi
 Praha 1
 Badung
-Palilula,
+Palilula
 Lublin
 Feodosiis'ka
 South Goa,Thiruvallur,Chittoor
@@ -52440,7 +52233,6 @@ Simferopol's'ka
 Muang Chumphon
 Ko Phangan
 Tallinn,Häädemeeste
-
 Düsseldorf,Karlsruhe
 L'vivs'ka
 Desnians'kyi
@@ -52579,9 +52371,7 @@ Bang Lamung
 Bang Lamung
 San Rafael del Yuma
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Kathu
 Kathu
 Bang Kapi,Kathu
@@ -52609,7 +52399,6 @@ Karasu
 Karasu
 Karasu,Bakirköy,Avcilar
 Salvaleón de Higüey
-
 Lasithi,Heraklion,Lasithi,Cyclades
 Lasithi,Cyclades,Lasithi
 Stockholm,Tallinn
@@ -52663,14 +52452,14 @@ Cook
 K. Ko Chang
 Las Palmas
 Las Palmas
-Roma,
+Roma
 Roma
 Las Palmas
 Madrid
 Bang Lamung
 Alanya
 Alanya
-Gianyar,Badung,Bangli,
+Gianyar,Badung,Bangli
 Gianyar
 Málaga
 Málaga,Cádiz
@@ -52915,7 +52704,7 @@ Shevchenkivs'kyi
 Shanghai
 Praha 1
 Berlin
-Jerusalem,
+Jerusalem
 Galle Four Gravets,Katana,Habaraduwa
 Theran
 Ialtyns'ka
@@ -52944,11 +52733,11 @@ Mariposa
 Côtes-d'Armor
 Atbasarskiy
 Alanya
-Alpes-Maritimes,
+Alpes-Maritimes
 Catania,Agrigento,Messina,Syracuse
 Syracuse,Catania
 Marmaris
-Roma,
+Roma
 Manavgat
 Manavgat
 Manavgat
@@ -52957,7 +52746,7 @@ Tallinn,Bruxelles,Amsterdam,Lisse
 Roma
 Andelfingen,Bülach
 Kadhimiya
-Tbilisi,
+Tbilisi
 Kemer
 Kemer
 Kemer
@@ -53227,7 +53016,7 @@ Klaipedos
 Barcelona
 Rhône,Paris
 Kemer
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Badung
 Badung
@@ -53330,7 +53119,7 @@ Berlin
 Köln
 Leipzig
 Wien
-Catania,
+Catania
 Oberbayern
 Cosenza
 Roma,Palilula
@@ -53485,7 +53274,7 @@ Nilüfer
 Nilüfer,Yildirim
 Yildirim
 Nilüfer
-Jerusalem,
+Jerusalem
 Itupeva
 Marmaris
 Khánh Hòa
@@ -53682,7 +53471,7 @@ Porto
 Amsterdam
 Sesimbra
 Phra Nakhon
-Jerusalem,
+Jerusalem
 Manavgat,Fatih
 Roma
 Khalkidiki
@@ -53691,9 +53480,7 @@ Altanbulag
 Kemer
 Minsk
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Mittelfranken
 Roermond
 Ialtyns'ka
@@ -53712,7 +53499,7 @@ Burgas
 Stolichna
 Habaraduwa,Greater Bombay
 Habaraduwa
-Nuwara Eliya,Negombo,Wattala,
+Nuwara Eliya,Negombo,Wattala
 North Goa
 Khánh Hòa
 Lâm Ð?ng
@@ -53872,9 +53659,7 @@ Amsterdam
 Mahilyow
 Manavgat
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Kharkivs'ka
 Shevchenkivs'kyi
 Shevchenkivs'kyi
@@ -53882,7 +53667,7 @@ Shevchenkivs'kyi
 Shevchenkivs'kyi
 Shevchenkivs'kyi
 Shevchenkivs'kyi
-Denpasar,
+Denpasar
 Ialtyns'ka
 Tarragona
 Chinchiná
@@ -54103,7 +53888,6 @@ Barcelona
 Westminster
 Merseyside,Manchester
 Salvaleón de Higüey
-
 Tarragona
 Barcelona
 Tarragona
@@ -54245,7 +54029,6 @@ Alanya
 Minsk
 Akseki
 Salvaleón de Higüey
-
 Marmaris
 Serik
 Alanya
@@ -54307,7 +54090,7 @@ Paris
 Dodecanese
 Barcelona
 Kazbegi
-Kathu,
+Kathu
 Hopa,Batumi
 Thalang
 New York
@@ -54346,7 +54129,7 @@ Madrid,Toledo
 Heraklion,Lasithi
 Lasithi
 Lasithi,Heraklion
-Westminster,
+Westminster
 Muang Phuket
 Westminster
 Brent
@@ -54459,7 +54242,7 @@ Westminster
 Dusheti,Tbilisi
 Tbilisi,Dusheti
 Dusheti
-Bang Lamung,
+Bang Lamung
 Bang Lamung
 Bang Plee
 Serik
@@ -54494,7 +54277,7 @@ Malay
 Malay
 Malay
 Malay
-Kepulauan Riau,
+Kepulauan Riau
 Dare
 Dare
 Cyclades
@@ -54607,7 +54390,7 @@ Pula
 Makarska,Katela,Omi,Dubrovnik,Makarska
 Zaporiz'ka
 Roma,,Rimini,Val-d'Oise
-Roma,
+Roma
 Tbilisi
 Roma
 Roma
@@ -54657,8 +54440,8 @@ Zmiïvs'kyi
 Muang Phuket,Kathu,Muang Phuket
 Muang Phuket
 Badung,Gianyar,Badung
-Gianyar,Badung,
-Nablus,
+Gianyar,Badung
+Nablus
 Gagra
 Gagra
 San Diego
@@ -54720,7 +54503,7 @@ Bakirköy
 Milano
 Ialtyns'ka,Simferopol's'kyi
 Badung,Gianyar
-Klungkung,Surabaya,
+Klungkung,Surabaya
 Hà N?i,Siem Reab
 Muang Phuket
 Alicante
@@ -54807,7 +54590,6 @@ Vilniaus
 Palangos
 Vilniaus
 Salvaleón de Higüey
-
 Qostanay
 Qostanay
 Qostanay
@@ -54946,7 +54728,7 @@ Vibo Valentia
 Los Angeles
 Los Angeles
 Pisa
-Venezia,
+Venezia
 Milano
 Muang Trat
 Tbilisi
@@ -55154,7 +54936,6 @@ Tbilisi
 Khalkidiki
 Mittelfranken
 Salvaleón de Higüey
-
 Kemer
 Kemer
 Tbilisi
@@ -55219,7 +55000,7 @@ Neringos
 Thüringen
 Manavgat
 Barcelona
-Rimini,Venezia,
+Rimini,Venezia
 Venezia
 Oberbayern
 New York
@@ -55256,7 +55037,7 @@ Mtskheta,Tbilisi
 Davidson
 Kozelets'kyi
 Hammam Sousse
-Napoli,Roma,
+Napoli,Roma
 Westminster,Oxfordshire,Wiltshire
 Milton Keynes,Oxfordshire
 Uusimaa
@@ -55384,7 +55165,7 @@ Ialtyns'ka,Bakhchysarais'kyi
 Girona
 Las Palmas
 Aqaba
-Aqaba,
+Aqaba
 Las Palmas
 Heraklion
 Riga,Barcelona
@@ -55415,7 +55196,6 @@ Milano
 Tallinn
 Tallinn
 Salvaleón de Higüey
-
 Haute-Savoie
 Vaucluse
 Paris
@@ -55450,7 +55230,7 @@ Malay
 Badung
 Badung,Gianyar,Badung,Buleleng,Denpasar
 Gianyar,Badung,Buleleng,Denpasar,Badung,Gianyar
-Badung,Gianyar,Badung,
+Badung,Gianyar,Badung
 Badung
 Badung
 Badung
@@ -55554,7 +55334,7 @@ Khánh Hòa,Siem Reab,H? Chí Minh city
 H? Chí Minh city
 Tarragona
 Polatsak
-Roma,
+Roma
 Wien
 Lasithi
 Alanya
@@ -55619,11 +55399,8 @@ Pathum Wan
 Gagra
 Cozumel
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Beijing
 Beijing
 Haharins'kyi,Lenins'kyi
@@ -55673,7 +55450,7 @@ Paris
 Milano,Paris,Milano
 Paris
 Paris
-Paris,
+Paris
 Milano
 Khánh Hòa
 Bakhchysarais'kyi
@@ -55686,7 +55463,7 @@ Thalang,Muang Krabi
 Muang Phuket
 Muang Phuket
 Dodecanese
-Roma,
+Roma
 Las Palmas
 Las Palmas
 Las Palmas
@@ -55711,7 +55488,6 @@ Gudauta
 Marmaris
 Marmaris
 Salvaleón de Higüey
-
 Merkez
 North Goa
 Budapesti
@@ -56104,7 +55880,6 @@ Tarragona
 Edogawa
 Gori
 Salvaleón de Higüey
-
 South Karelia
 Skodje
 Lenins'kyi
@@ -56293,9 +56068,9 @@ Hamburg
 Lima
 Muang Chiang Mai,Mae Rim
 Kemer
-Roma,
+Roma
 Napoli
-Salerno,Napoli,Roma,
+Salerno,Napoli,Roma
 Treviso
 Barcelona
 Lausanne
@@ -56319,7 +56094,7 @@ Baleares
 Baleares
 Tarragona
 Roma
-Roma,
+Roma
 Nesebar
 Jongro,Gangseo
 Messina
@@ -56478,7 +56253,6 @@ Cozumel
 Darmstadt
 Paris
 Salvaleón de Higüey
-
 Milano,Alessandria
 Kemer
 Fatih,Bang Lamung,Ratchathewi
@@ -56588,11 +56362,10 @@ Fethiye
 Amsterdam
 K. Ko Chang
 Salvaleón de Higüey
-
 Praha 6,Paris,Yvelines,Seine-et-Marne,Paris,Alpes-Maritimes
 Luzern
 Haarlemmermeer
-Vicenza,Verona,
+Vicenza,Verona
 Trapani
 Tallinn
 Barcelona,Tarragona
@@ -56697,7 +56470,7 @@ Marmaris,Merkez
 Merkez,Marmaris
 Roma
 Miguel Hidalgo,Azcapotzalco,Temascalapa,Cuauhtémoc,Cozumel,Benito Juárez,Tinúm,Isla Mujeres
-Kota Tangerang,Badung,Klungkung,Lombok Barat,Badung,Klungkung,Denpasar,Tabanan,Gianyar,Sepang,
+Kota Tangerang,Badung,Klungkung,Lombok Barat,Badung,Klungkung,Denpasar,Tabanan,Gianyar,Sepang
 Klungkung,Lombok Barat
 Lombok Barat,Gianyar
 Gianyar,Badung
@@ -56717,19 +56490,17 @@ Nakhimovs'kyi,Ialtyns'ka
 Gdansk City
 Kraków City
 Paris
-Alpes-Maritimes,
+Alpes-Maritimes
 Nakhimovs'kyi
 Barcelona
 Baleares
 Barcelona
 Salvaleón de Higüey
-
 South Goa
 South Goa
 South Goa
 H? Chí Minh city
 Salvaleón de Higüey
-
 Centro Habana
 Muang Phuket
 Muang Phuket
@@ -56766,7 +56537,7 @@ Euboea
 Attica
 Amsterdam
 Rimini,Florence
-Roma,
+Roma
 Paris
 Paris
 Praha 7
@@ -56797,7 +56568,6 @@ Uusimaa
 Marijampoles
 Tallinn
 Häädemeeste
-
 Tallinn
 Manavgat
 Kemer
@@ -56849,7 +56619,6 @@ Barcelona
 Barcelona
 Budapesti
 Constanza,Salvaleón de Higüey
-
 Gulripshi,Gudauta
 Sokhumi
 Gulripshi
@@ -57139,9 +56908,7 @@ North Goa
 North Goa
 Bakhchysarais'kyi
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Varna
 Thessaloniki
 Khalkidiki
@@ -57181,8 +56948,8 @@ Si Racha,Bang Lamung,Sattahip
 Sattahip
 Roma
 Sour
-Madaba,
-Aqaba,
+Madaba
+Aqaba
 Uusimaa
 Porto,Sintra,Lisboa,Almada,Porto
 Sevilla,Roma
@@ -57475,7 +57242,7 @@ Seocho,Gwang-jin,Yongsan,Narita,Yokohama
 Yokohama
 Shinjuku
 Shinjuku,Jung
-Guangzhou,Dongguan,
+Guangzhou,Dongguan
 Beijing
 Beijing
 Beijing
@@ -57507,7 +57274,6 @@ Orange
 Kyzylzharskiy
 Kemer
 Sincan
-
 Edinburgh
 Heraklion
 Thalang
@@ -57608,7 +57374,7 @@ Paris
 Tallinn
 Khánh Hòa
 Habaraduwa
-Venezia,Bologna,Florence,Roma,Venezia,
+Venezia,Bologna,Florence,Roma,Venezia
 Roma,Venezia
 Roma,Venezia,Florence,Roma
 Paris,Roma
@@ -57745,7 +57511,6 @@ Heihe
 Tallinn
 Sankt Johann im Pongau,Kitzbühel,Oberbayern
 Salvaleón de Higüey
-
 Minsk
 Merkez
 Tallinn
@@ -57835,7 +57600,7 @@ Attica
 Attica
 Attica
 Attica
-Attica,
+Attica
 Attica
 Attica
 Jura
@@ -57963,9 +57728,7 @@ Calvados
 Attica
 Attica
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Corfu
 Tallinn
 Thalang,Kathu
@@ -58078,7 +57841,7 @@ Oberfranken
 Oberfranken
 Livorno
 Corse-du-Sud
-Madaba,
+Madaba
 Milano,Alessandria
 Takua Thung
 Ievpatoriis'ka
@@ -58253,9 +58016,7 @@ Kauno
 Milano
 Oberbayern
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Marmaris
 Ortaca,Marmaris
 Luzern,Interlaken
@@ -58781,7 +58542,7 @@ North Sydney,Moray,Sydney - Inner
 Passaic,Mariposa,New York,Broomfield,Kings,Oslo,North Sydney,Belluno,Mariposa,Gnúpverjahreppur
 Division No. 15
 Kensington and Chelsea,Zeewolde
-Sydney - Inner,Köln,Muang Chiang Mai,
+Sydney - Inner,Köln,Muang Chiang Mai
 Sydney - Inner
 Macomb,Flathead
 Sydney - Inner
@@ -59327,7 +59088,7 @@ Bern,Genève,Interlaken,Luzern,Como,Cyclades
 Darmstadt
 Lida,Baranavichy,Navahradak
 Odes'ka,Bilhorod-Dnistrovs'kyi,Ovidiopol's'kyi,Odes'ka
-Alpes-Maritimes,
+Alpes-Maritimes
 Manavgat,Merkez
 Merkez
 Merkez
@@ -59438,10 +59199,10 @@ Madrid
 Barcelona
 Jerusalem
 Genova,La Spezia,Genova,La Spezia
-Genova,Pisa,Roma,
+Genova,Pisa,Roma
 Roma
 Haarlemmermeer
-Roma,Florence,
+Roma,Florence
 Milano
 Simferopol's'ka
 Novosanzhars'kyi
@@ -59513,7 +59274,7 @@ Rimini
 Rethymnon
 Seine-et-Marne,Seine-Maritime
 Seine-Maritime,Paris
-Shevchenkivs'kyi,Solomians'kyi,
+Shevchenkivs'kyi,Solomians'kyi
 Jerusalem
 Ko Samui
 Tarragona
@@ -59595,7 +59356,7 @@ South Karelia
 Uusimaa
 Tallinn
 South Karelia
-Stockholm,
+Stockholm
 South Karelia
 Roma
 Paris,Trier
@@ -59651,7 +59412,7 @@ Clark
 Kathu
 Kathu
 Minsk
-Shah Alam,Sepang,
+Shah Alam,Sepang
 Agadir-Ida ou Tanane,Marrakech,Agadir-Ida ou Tanane
 Bruxelles,Vlaams Brabant,Oost-Vlaanderen
 Habaraduwa,Galle Four Gravets,Imaduwa
@@ -59680,7 +59441,7 @@ Paris
 Amsterdam
 West-Vlaanderen,Oost-Vlaanderen,Bruxelles
 Westminster
-Sanya,
+Sanya
 Paris
 Cyclades
 Berlin
@@ -59812,7 +59573,7 @@ Paris
 Paris
 Ravenna
 Savona
-Roma,
+Roma
 Roma
 Ramallah and Al-Bireh
 Barcelona
@@ -59837,7 +59598,7 @@ Monroe
 New York
 Luxembourg
 Paris
-Beyoglu,Bruxelles,
+Beyoglu,Bruxelles
 Tashkent City
 Imst
 Imst
@@ -60125,7 +59886,7 @@ Roma
 Praha 1
 Budapesti
 Budapesti
-Pojezerje,
+Pojezerje
 Düsseldorf
 Düsseldorf
 Düsseldorf
@@ -60142,7 +59903,7 @@ Dodecanese
 Besiktas
 's-Gravenhage,Oberbayern
 Amsterdam,'s-Gravenhage,Zaanstad,Amsterdam
-Roma,
+Roma
 Zürich,Bas-Rhin,Bülach
 Paris,Essonne,Val-de-Marne
 Berlin
@@ -60154,7 +59915,7 @@ Fatih,Beyoglu,Üsküdar,Gaziosmanpasa,Besiktas,Kadiköy,Beyoglu
 Besiktas,Üsküdar,Beyoglu
 Besiktas
 Stockholm
-Roma,
+Roma
 Salerno
 Salerno
 Napoli
@@ -60260,7 +60021,7 @@ Dresden
 Berlin
 Mittelfranken
 Mittelfranken
-Paris,Val-d'Oise,Barcelona,
+Paris,Val-d'Oise,Barcelona
 Dresden
 Dresden
 Dresden
@@ -60316,7 +60077,7 @@ South Goa
 Queens,Los Angeles
 Los Angeles
 New York
-Roma,
+Roma
 Roma
 Cádiz
 Greenwich,Lancashire
@@ -60389,13 +60150,11 @@ Praha 1
 Praha 1
 Barcelona
 Simferopol's'ka
-Alpes-Maritimes,
+Alpes-Maritimes
 New York
 Lasithi,Khania
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Los Angeles,Yavapai,Kern,Tulare,Fresno,Merced,Los Angeles
 Venezia
 La Spezia,Varese
@@ -60601,7 +60360,7 @@ Hol,Voss,Bærum,Västerås,Stockholm
 Orange,San Diego
 Los Angeles,Orange
 Fairfax,Loudoun
-Los Angeles,
+Los Angeles
 Guangzhou
 Vinh Long
 H? Chí Minh city
@@ -60824,7 +60583,7 @@ Bang Kapi
 Phra Nakhon
 Shuchinskiy
 Ialtyns'ka
-Rimini,
+Rimini
 Thalang
 Uusimaa
 Rimini
@@ -61102,7 +60861,7 @@ Darmstadt
 Berlin
 Rheinhessen-Pfalz
 Rheinhessen-Pfalz
-Almaty (Alma-Ata),
+Almaty (Alma-Ata)
 Darmstadt
 Paris
 Tselinogradskiy
@@ -61161,7 +60920,7 @@ L'vivs'ka
 Tbilisi
 Stockholm,Umeå
 Shevchenkivs'kyi,Nakhimovs'kyi,Simferopol's'ka
-Kadiköy,
+Kadiköy
 Beyoglu,Kadiköy,Fatih
 Brent,Camden,Westminster,Kensington and Chelsea,London
 Lillehammer,Oslo
@@ -61615,7 +61374,6 @@ Heraklion,Khania
 Lasithi,Heraklion
 Heraklion
 Salvaleón de Higüey
-
 Manavgat
 Bang Lamung
 Bang Lamung
@@ -61675,7 +61433,7 @@ Alpes-Maritimes
 Barcelona
 Alpes-Maritimes
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Seine-et-Marne,Paris,Seine-et-Marne
 Paris,,Alpes-Maritimes
@@ -61709,7 +61467,7 @@ Roma
 Haute-Savoie
 Liptovský Mikulá,Tatra
 Tatra,Bierun-Ledziny
-Pyrénées-Orientales,
+Pyrénées-Orientales
 Oberbayern,Reutte
 Oberbayern
 Dodecanese
@@ -61780,7 +61538,7 @@ Kensington and Chelsea
 Queens,Miami-Dade,Monroe
 Miami-Dade,Monroe,Pinellas,Osceola,Orange
 Pinellas,Osceola,Orange,New York
-Florence,Milano,Roma,
+Florence,Milano,Roma
 Salerno,Milano
 Milano,Varese
 Westminster,Tower Hamlets,Kensington and Chelsea
@@ -61793,7 +61551,7 @@ Dodecanese
 Mobile
 Mobile
 Minsk
-Bang Plee,Don Muang,Khlong Toey,Muang Krabi,Thalang,Bang Plee,Pathum Wan,
+Bang Plee,Don Muang,Khlong Toey,Muang Krabi,Thalang,Bang Plee,Pathum Wan
 Simferopol's'kyi,Sudats'ka,Feodosiis'ka,Sudats'ka
 Merkez
 Sõmerpalu
@@ -61990,7 +61748,6 @@ Konak,Kusadasi
 Konak
 Konak
 Konak,Bornova
-
 Menderes
 Marmaris
 Karsiyaka
@@ -62267,7 +62024,7 @@ Ko Samui
 Hà N?i
 Mariupol's'ka,Novoazovs'kyi
 Praha 6,Praha 7,Praha 8,Wien,Praha 1,Bratislava V,Praha 2,Praha 6
-Odes'ka,
+Odes'ka
 Ialtyns'ka
 Ialtyns'ka
 Ialtyns'ka
@@ -62305,7 +62062,7 @@ Milano
 Roma
 Roma
 Merkez
-Alpes-Maritimes,
+Alpes-Maritimes
 Foça
 Lenins'kyi,Alushtyns'ka
 Gagra
@@ -62525,7 +62282,7 @@ Guangzhou,Panglao,Siquijor,Lazi,Dumaguete City,Siquijor,Maria,Panglao,Bilar,Guan
 Palilula,Zemun,Paris,Eure
 Eure
 Manavgat
-Dubrovnik,
+Dubrovnik
 Bari,Lecce,Brindisi,Taranto
 Oberbayern
 Benito Juárez,Alvaro Obregón
@@ -62582,7 +62339,7 @@ Val-d'Oise
 Dallas,Jefferson
 Muang Phuket,Muang Krabi
 Barcelona,Girona
-Girona,Barcelona,
+Girona,Barcelona
 Girona
 Girona
 Girona
@@ -62602,7 +62359,7 @@ Las Palmas
 Las Palmas
 Westminster
 East Sussex
-Brighton and Hove,East Sussex,Westminster,
+Brighton and Hove,East Sussex,Westminster
 East Sussex
 Minsk
 Minsk
@@ -62678,7 +62435,6 @@ Girona
 Tarragona
 Madrid
 Salvaleón de Higüey
-
 Gudauta
 Praha 7
 Novi Sad
@@ -62728,7 +62484,6 @@ Verbano-Cusio-Ossola
 Euboea
 Euboea,Attica
 Salvaleón de Higüey
-
 Venezia
 Zelenovskiy
 Tallinn,Vilniaus,Riga
@@ -62992,7 +62747,6 @@ Milano,Lugano
 Bologna,Milano,Vicenza
 Padua,Treviso
 Salvaleón de Higüey
-
 Paris
 Como,Milano
 Clark
@@ -63139,7 +62893,7 @@ Merkez
 Merkez,Manavgat
 Manavgat
 Manavgat
-Jerusalem,
+Jerusalem
 Manavgat
 Manavgat
 Thalang
@@ -63191,7 +62945,7 @@ Badung
 Sepang
 Badung
 Badung
-Badung,
+Badung
 H? Chí Minh city,Bình Thu?n
 Bình Thu?n
 Bình Thu?n,Bà R?a - Vung Tàu
@@ -63236,7 +62990,7 @@ Oberbayern
 Tselinogradskiy
 Almaty (Alma-Ata)
 Tselinogradskiy
-Kemer,
+Kemer
 Tselinogradskiy
 Tselinogradskiy
 Kemer
@@ -63254,7 +63008,7 @@ Kemer
 Westminster
 Yüregir
 Almaty (Alma-Ata)
-Almaty (Alma-Ata),
+Almaty (Alma-Ata)
 Almaty (Alma-Ata),,Almaty (Alma-Ata)
 Almaty (Alma-Ata)
 Talgarskiy
@@ -63366,7 +63120,7 @@ Westminster,Camden
 Barcelona
 Bruxelles
 Amsterdam,Lisse,Bruxelles
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes,,Alpes-Maritimes
 Zelenovskiy
 Kutaisi
@@ -63404,7 +63158,6 @@ Mestia
 Ekibastuz
 Petrykivs'kyi
 Salvaleón de Higüey
-
 Constanza
 Tsiurupyns'kyi
 Kerchens'ka
@@ -63430,7 +63183,7 @@ Minsk
 Pieria,Thessaloniki
 Kabe,Chobe,Hwange
 Kemer
-Bethlehem,Merkez,
+Bethlehem,Merkez
 Kemer
 Fatih
 Alanya
@@ -63627,7 +63380,6 @@ Kerchens'ka
 Kerchens'ka
 Val-d'Oise
 Salvaleón de Higüey
-
 Gagra
 Gudauta,Gagra
 Toshkent
@@ -63933,7 +63685,7 @@ Barcelona,Baleares
 South Karelia
 South Karelia
 Roma,Messina
-Messina,Roma,
+Messina,Roma
 Toshkent,Tashkent City
 Tashkent City
 Tashkent City,Oqdaryo
@@ -63999,7 +63751,7 @@ Niederbayern,Oberbayern
 Minsk
 Fatih
 Amsterdam,Bruxelles
-Preov,
+Preov
 Mezokövesdi
 Luxembourg
 Luxembourg
@@ -64049,7 +63801,6 @@ Paris
 Oberbayern
 Oberbayern
 Salvaleón de Higüey
-
 Wien
 Salzburg Umgebung
 Sanya
@@ -64208,11 +63959,8 @@ Hellevoetsluis
 North Goa
 Sindhudurg,North Goa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Florence
 Venezia
 Venezia
@@ -64252,7 +64000,6 @@ Los Angeles
 New York,Kings
 Los Angeles
 Salvaleón de Higüey
-
 Kings,New York
 Toronto,Niagara
 Arsha
@@ -64445,7 +64192,7 @@ Alanya
 Darmstadt
 Darmstadt
 Berlin
-Brandenburg,
+Brandenburg
 Bülach
 Corfu
 Amsterdam
@@ -64477,7 +64224,7 @@ Kraków City
 Paris
 Paris
 Amsterdam
-Amsterdam,
+Amsterdam
 New York,Queens,Kings,New York,Kings
 New York,Kings,New York
 New York
@@ -64525,7 +64272,7 @@ Khalkidiki
 Gagra,Gudauta
 Livingston
 Palilula
-Catania,
+Catania
 Barcelona
 Granada
 Haarlemmermeer,Asunción,Luque,Iguazú
@@ -64655,9 +64402,7 @@ Paris
 Miami-Dade
 Miami-Dade
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Beijing
 Beijing
 Merkez
@@ -64775,7 +64520,6 @@ Paris
 Milano
 Haharins'kyi
 Salvaleón de Higüey
-
 Feodosiis'ka
 Fife,Perthshire and Kinross
 North Goa
@@ -64789,10 +64533,10 @@ Westminster
 Düsseldorf
 Düsseldorf
 K.F.G. & G. Korale,Kundasale
-Alpes-Maritimes,
 Alpes-Maritimes
-Alpes-Maritimes,Var,Alpes-Maritimes,
-Alpes-Maritimes,
+Alpes-Maritimes
+Alpes-Maritimes,Var,Alpes-Maritimes
+Alpes-Maritimes
 Tarragona
 Beyoglu,Fatih
 Genova,Imperia,Alpes-Maritimes
@@ -64837,7 +64581,7 @@ Praha 1
 Newham
 Marmaris
 Heraklion
-Palilula,
+Palilula
 Dresden,Chemnitz,Berlin
 Berlin,Brandenburg,Berlin
 Varna
@@ -64915,7 +64659,7 @@ Heraklion
 Kymenlaakso
 Kymenlaakso,Milano,Verona,Florence
 Florence,Roma
-Florence,Roma,
+Florence,Roma
 Reggio Di Calabria
 Roma
 Roma
@@ -64961,7 +64705,7 @@ Simferopol's'kyi
 Sudats'ka
 Paris,Val-d'Oise
 Paris
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Val-d'Oise
 Paris
@@ -65340,7 +65084,7 @@ Miami-Dade
 Paris
 Paris
 Paris
-Paris,Alpes-Maritimes,
+Paris,Alpes-Maritimes
 Paris
 Alpes-Maritimes
 Paris
@@ -65412,7 +65156,7 @@ Heraklion
 Kathu,Muang Phuket,Muang Krabi
 Barcelona
 Florence,Imperia,Alpes-Maritimes
-Milano,Venezia,Monza and Brianza,Florence,
+Milano,Venezia,Monza and Brianza,Florence
 Barcelona,Milano
 Kathu,Muang Krabi
 Milano
@@ -65555,7 +65299,7 @@ Rimini
 Merkez
 Merkez,Akköy,Fethiye
 Merkez
-Genève,Alpes-Maritimes,
+Genève,Alpes-Maritimes
 Minsk
 Kemer
 Dusheti
@@ -65605,12 +65349,12 @@ Combined statistics
 Combined statistics
 Wien
 Wien
-Roma,Praha 6,
+Roma,Praha 6
 Plzen
 Berlin,Brandenburg
 Berlin
 Wien
-Roma,
+Roma
 Combined statistics
 Varna
 Praha 5,Praha 1,Praha 6,Kutná Hora
@@ -65751,7 +65495,7 @@ Sudats'ka
 Tallinn
 Tallinn
 Barcelona
-Roma,
+Roma
 Roma
 Novoazovs'kyi
 Zelenovskiy
@@ -65767,7 +65511,7 @@ Kraków City
 Kemer
 Barcelona
 Verona,Locarno
-Bethlehem,
+Bethlehem
 Merkez
 Gudauta
 Gagra
@@ -65809,7 +65553,7 @@ Paris,Seine-Saint-Denis
 Paris
 Alicante,Málaga
 Málaga
-Málaga,Ciudad Real,Pyrénées-Atlantiques,Zaragoza,Gironde,Alpes-Maritimes,
+Málaga,Ciudad Real,Pyrénées-Atlantiques,Zaragoza,Gironde,Alpes-Maritimes
 Paris
 Paris
 Venezia,Milano,Venezia,Paris
@@ -65901,7 +65645,7 @@ Barcelona
 South Karelia
 Barcelona
 Vilniaus,Riga
-Lapu-Lapu City,Cebu City,
+Lapu-Lapu City,Cebu City
 Roma
 Wien
 Bratislava I,Wien,Krems an der Donau Land
@@ -66058,13 +65802,9 @@ Islamabad
 Los Angeles
 Kemer
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Westminster
 Worcestershire
 Simferopol's'ka
@@ -66100,7 +65840,7 @@ Verona
 Verona
 Verona
 Westminster,Kensington and Chelsea
-Alpes-Maritimes,
+Alpes-Maritimes
 Verona
 Verona,Napoli
 Verona
@@ -66299,9 +66039,7 @@ Söderhamn
 Tallinn
 Gagra
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Bethlehem
 Oise
 Odivelas,Lisboa,Cascais,Lisboa
@@ -66349,9 +66087,7 @@ Benito Juárez
 Benito Juárez
 Benito Juárez
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Riga
 South Karelia
 Uusimaa
@@ -66525,12 +66261,9 @@ Tbilisi
 Rimini,Florence
 Florence
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris
 Salvaleón de Higüey
-
 Barcelona
 Girona,Barcelona,Paris
 Sarthe
@@ -66627,8 +66360,8 @@ Alpes-Maritimes
 Var,Alpes-de-Haute-Provence
 Roma
 Trapani,Palermo
-Alpes-Maritimes,
-Alpes-Maritimes,
+Alpes-Maritimes
+Alpes-Maritimes
 Cádiz
 Paris
 Queens,Miami-Dade
@@ -66892,7 +66625,7 @@ Minsk
 Uusimaa,Oslo,Bergen
 Bergen,Frogn
 Nesebar
-Roma,
+Roma
 Merkez
 Merkez
 Merkez
@@ -67016,7 +66749,7 @@ North Goa
 Praha 1,Kutná Hora
 Muang Krabi,Kathu,Ko Samui,Muang Krabi
 Muang Krabi
-Roma,
+Roma
 Pistoia,Venezia
 Pistoia
 Oberbayern
@@ -67107,7 +66840,7 @@ Fatih
 Landeck
 Camden
 Tower Hamlets
-Alpes-Maritimes,
+Alpes-Maritimes
 Hillingdon
 Rimini
 Alpes-Maritimes
@@ -67148,7 +66881,7 @@ Beruwala
 Lima
 Cusco
 Paris,Seine-et-Marne
-Fatih,
+Fatih
 Badung
 Badung
 Paris
@@ -67369,7 +67102,7 @@ Tbilisi
 Venezia
 Amsterdam
 Kalibo,Malay
-Malay,Manila,
+Malay,Manila
 Beyoglu
 Bakirköy
 Fatih,Bakirköy
@@ -67792,7 +67525,7 @@ Alanya
 Alanya
 Heraklion
 Fthiotis
-Shah Alam,
+Shah Alam
 Paris
 Barcelona
 Westminster
@@ -67934,7 +67667,7 @@ Tarragona
 Galveston
 Barcelona
 Minsk
-Guangzhou,Shenzhen,
+Guangzhou,Shenzhen
 Minsk
 Talachyn
 Taipei City
@@ -68004,7 +67737,7 @@ Corfu
 Attica
 Florence,Napoli,Pisa
 Milano,Paris
-Venezia,
+Venezia
 Attica
 Attica
 Attica,Praha 1
@@ -68082,7 +67815,7 @@ Tarragona
 Marmaris
 Lenins'kyi
 Bakhchysarais'kyi
-Florence,
+Florence
 Riga
 Klaipedos
 South Karelia
@@ -68372,7 +68105,7 @@ Barcelona
 Fatih,Merkez
 Ürgüp
 Burgas
-Pasay City,
+Pasay City
 Virac
 Virac
 Gagra

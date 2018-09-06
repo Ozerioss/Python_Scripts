@@ -1,0 +1,22 @@
+Guipúzcoa   ==> Pyrénées-Atlantiques   #SUP: : 4 #CONF: 0.6666666666666666
+Calvados, Manche   ==> Paris   #SUP: : 4 #CONF: 1.0
+Val-d'Oise, Seine-et-Marne   ==> Paris   #SUP: : 4 #CONF: 0.8
+!! Milano, Roma   ==> Paris   #SUP: : 4 #CONF: 1.0
+!! Seine-et-Marne, Seine-Saint-Denis   ==> Paris   #SUP: : 4 #CONF: 1.0
+!! Venezia, Florence   ==> Roma   #SUP: : 4 #CONF: 0.6666666666666666
+Köln   ==> Paris   #SUP: : 5 #CONF: 1.0
+Los Angeles   ==> Paris   #SUP: : 5 #CONF: 1.0
+!! Venezia, Roma   ==> Paris   #SUP: : 5 #CONF: 0.7142857142857143
+Aosta   ==> Haute-Savoie   #SUP: : 6 #CONF: 0.8571428571428571
+Oberbayern   ==> Paris   #SUP: : 7 #CONF: 0.875
+Madrid   ==> Paris   #SUP: : 7 #CONF: 0.7777777777777778
+Wien   ==> Paris   #SUP: : 10 #CONF: 1.0
+Venezia   ==> Paris   #SUP: : 12 #CONF: 0.631578947368421
+New York   ==> Paris   #SUP: : 13 #CONF: 0.8125
+Essonne   ==> Paris   #SUP: : 14 #CONF: 0.6363636363636364
+Berlin   ==> Paris   #SUP: : 14 #CONF: 0.9333333333333333
+   ==> Alpes-Maritimes   #SUP: : 15 #CONF: 0.625
+Amsterdam   ==> Paris   #SUP: : 20 #CONF: 0.8
+Bruxelles   ==> Paris   #SUP: : 20 #CONF: 0.8333333333333334
+Milano   ==> Paris   #SUP: : 24 #CONF: 0.8571428571428571
+Barcelona   ==> Paris   #SUP: : 26 #CONF: 0.65

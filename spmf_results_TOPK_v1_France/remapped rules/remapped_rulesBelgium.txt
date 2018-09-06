@@ -1,0 +1,1606 @@
+Solnechnogorskiy rayon   ==> Val-d'Oise   #SUP: : 1 #CONF: 1.0
+Camden   ==> Newham   #SUP: : 1 #CONF: 1.0
+Lee   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+La Spezia   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Tjøme   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Glasgow   ==> Edinburgh   #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==> Lee   #SUP: : 1 #CONF: 1.0
+Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Camden   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Lee   ==> Collier   #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==> Camden   #SUP: : 1 #CONF: 1.0
+Collier   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Nyon   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Greenwich   ==> Newham   #SUP: : 1 #CONF: 1.0
+Deux-Sèvres   ==> Vendée   #SUP: : 1 #CONF: 1.0
+Newham   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==> Roma   #SUP: : 1 #CONF: 1.0
+Newham   ==> Camden   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==> Genève   #SUP: : 1 #CONF: 1.0
+La Gruyère   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Edinburgh   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Barcelona   ==> Bouches-du-Rhône   #SUP: : 1 #CONF: 1.0
+Tjøme   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Kent   ==> Brent   #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==> Borre   #SUP: : 1 #CONF: 1.0
+Surrey   ==> Brent   #SUP: : 1 #CONF: 1.0
+La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Borre   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Lausanne   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Lausanne   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Lee   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Greenwich   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Praha 1   ==> Paris   #SUP: : 1 #CONF: 1.0
+Greenwich   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Lausanne   ==> Genève   #SUP: : 1 #CONF: 1.0
+Reggio Nell'Emilia   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Surrey   ==> Kent   #SUP: : 1 #CONF: 1.0
+Borre   ==> Nord   #SUP: : 1 #CONF: 1.0
+Collier   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Collier   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+West Midlands   ==> Paris   #SUP: : 1 #CONF: 1.0
+La Spezia   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Yonne   ==> Saône-et-Loire   #SUP: : 1 #CONF: 1.0
+Hammersmith and Fulham   ==> Nord   #SUP: : 1 #CONF: 1.0
+West Midlands   ==> Hauts-de-Seine   #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==> Nord   #SUP: : 1 #CONF: 1.0
+Collier   ==> Paris   #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==> Collier   #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Edinburgh   ==> Glasgow   #SUP: : 1 #CONF: 1.0
+Florence   ==> Paris   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Glasgow   ==> Hautes-Alpes   #SUP: : 1 #CONF: 1.0
+Praha 6   ==> Praha 1   #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==> Newham   #SUP: : 1 #CONF: 1.0
+Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Edinburgh   ==> Hautes-Alpes   #SUP: : 1 #CONF: 1.0
+Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Praha 1   ==> Praha 6   #SUP: : 1 #CONF: 1.0
+Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Leventina   ==> Bas-Rhin   #SUP: : 1 #CONF: 1.0
+Lisboa   ==> Paris   #SUP: : 1 #CONF: 1.0
+Brent   ==> Kent   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Lausanne   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+La Spezia   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Nyon   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Kent   ==> Surrey   #SUP: : 1 #CONF: 1.0
+Camden   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Brent   ==> Surrey   #SUP: : 1 #CONF: 1.0
+Köln   ==> Paris   #SUP: : 1 #CONF: 1.0
+Nièvre   ==> Hérault   #SUP: : 1 #CONF: 1.0
+Westminster   ==> Paris   #SUP: : 1 #CONF: 1.0
+Nyon   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Arnsberg   ==> Paris   #SUP: : 1 #CONF: 1.0
+Praha 6   ==> Paris   #SUP: : 1 #CONF: 1.0
+Tjøme   ==> Borre   #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Greenwich   ==> Camden   #SUP: : 1 #CONF: 1.0
+Camden   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Collier   ==> Lee   #SUP: : 1 #CONF: 1.0
+Karsiyaka   ==> Bas-Rhin   #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==> Paris   #SUP: : 1 #CONF: 1.0
+Santafé de Bogotá   ==> Paris   #SUP: : 1 #CONF: 1.0
+Newham   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Borre   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Eindhoven   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Yonne   ==> Côte-d'Or   #SUP: : 1 #CONF: 1.0
+Glasgow   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Nyon   ==> Genève   #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Borre   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Surrey   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+West Midlands   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Kent   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Brent   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Eindhoven   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+Kent   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+Kent   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Glasgow   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Brent   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Edinburgh   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+West Midlands   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Praha 1   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Edinburgh   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Glasgow   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Surrey   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Brent   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Glasgow   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Edinburgh   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+West Midlands   ==>    #SUP: : 1 #CONF: 1.0
+Surrey   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+Yonne   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Praha 6   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Karsiyaka   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Glasgow   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Kent   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Edinburgh   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+West Midlands   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Brent   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Surrey   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Camden   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Borre   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Newham   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Collier   ==>    #SUP: : 1 #CONF: 1.0
+Monroe   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Lee   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Tjøme   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Borre, Oslo   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==> Collier   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Greenwich   ==> Newham   #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Greenwich   ==> Camden   #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Brent   ==> Kent   #SUP: : 1 #CONF: 1.0
+Tjøme, Oslo   ==> Nord   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==> Lee   #SUP: : 1 #CONF: 1.0
+Côte-d'Or, Yonne   ==> Saône-et-Loire   #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==> Paris   #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Indre   ==> Loir-et-Cher   #SUP: : 1 #CONF: 1.0
+Borre, Nøtterøy   ==> Nord   #SUP: : 1 #CONF: 1.0
+Nord, Hauts-de-Seine   ==> Alpes-Maritimes   #SUP: : 1 #CONF: 1.0
+Nord, Borre   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Drôme, Côte-d'Or   ==> Hérault   #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Tjøme, Nøtterøy   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Indre   ==> Eure-et-Loir   #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==> Lee   #SUP: : 1 #CONF: 1.0
+Camden, Newham   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Brent, Kent   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Tjøme, Oslo   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Nøtterøy, Oslo   ==> Nord   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Surrey, Kent   ==> Brent   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==> Roma   #SUP: : 1 #CONF: 1.0
+Paris, West Midlands   ==> Seine-Saint-Denis   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Paris, Indre   ==> Hauts-de-Seine   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Newham   ==> Camden   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==> Lee   #SUP: : 1 #CONF: 1.0
+Camden, Greenwich   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Edinburgh   ==> Hautes-Alpes   #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Camden, Greenwich   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Paris, Praha 6   ==> Praha 1   #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Hautes-Alpes   ==> Edinburgh   #SUP: : 1 #CONF: 1.0
+Alpes-Maritimes, Hauts-de-Seine   ==> Paris   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==> Collier   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Eure-et-Loir, Loir-et-Cher   ==> Indre-et-Loire   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==> Roma   #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden   ==> Newham   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==> Roma   #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Hérault, Côte-d'Or   ==> Drôme   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Genève, Lausanne   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Nord, Nøtterøy   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Nord, Nøtterøy   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Newham   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Seine-Saint-Denis, West Midlands   ==> Hauts-de-Seine   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Seine-Saint-Denis, West Midlands   ==> Paris   #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Nyon   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Eure-et-Loir, Loir-et-Cher   ==> Indre   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Borre, Nøtterøy   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Kent   ==> Brent   #SUP: : 1 #CONF: 1.0
+Camden, Greenwich   ==> Newham   #SUP: : 1 #CONF: 1.0
+Tjøme, Borre   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Bas-Rhin, Karsiyaka   ==> Paris   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Nyon   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Loir-et-Cher, Indre   ==> Indre-et-Loire   #SUP: : 1 #CONF: 1.0
+Paris, Alpes-Maritimes   ==> Nord   #SUP: : 1 #CONF: 1.0
+Nord, Borre   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Lausanne   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Tjøme, Borre   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Alpes-Maritimes, Hauts-de-Seine   ==> Nord   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Hautes-Alpes, Glasgow   ==> Edinburgh   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Nyon   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Saône-et-Loire, Yonne   ==> Côte-d'Or   #SUP: : 1 #CONF: 1.0
+Hauts-de-Seine, Indre   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Lausanne, Nyon   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Seine-Saint-Denis, Hauts-de-Seine   ==> West Midlands   #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Eindhoven   ==> Paris   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets   ==> Newham   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Var   ==> Vaucluse   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Greenwich   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Surrey, Brent   ==> Kent   #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==> Paris   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Greenwich   ==> Newham   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Nøtterøy, Oslo   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Berlin, Oslo   ==> Nord   #SUP: : 1 #CONF: 1.0
+Alpes-Maritimes, Nord   ==> Paris   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==> Paris   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets   ==> Camden   #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==> Paris   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Edinburgh   ==> Glasgow   #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==> Collier   #SUP: : 1 #CONF: 1.0
+Surrey, Kent   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Kent   ==> Surrey   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden   ==> Newham   #SUP: : 1 #CONF: 1.0
+Saône-et-Loire, Côte-d'Or   ==> Yonne   #SUP: : 1 #CONF: 1.0
+Edinburgh, Glasgow   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Nyon   ==> Genève   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme   ==> Borre   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Glasgow   ==> Hautes-Alpes   #SUP: : 1 #CONF: 1.0
+Paris, Karsiyaka   ==> Bas-Rhin   #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Bas-Rhin   ==> Karsiyaka   #SUP: : 1 #CONF: 1.0
+Hauts-de-Seine, West Midlands   ==> Seine-Saint-Denis   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Borre, Oslo   ==> Nord   #SUP: : 1 #CONF: 1.0
+Paris, West Midlands   ==> Hauts-de-Seine   #SUP: : 1 #CONF: 1.0
+Paris, Praha 1   ==> Praha 6   #SUP: : 1 #CONF: 1.0
+Tjøme, Oslo   ==> Borre   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Hautes-Alpes   ==> Glasgow   #SUP: : 1 #CONF: 1.0
+Genève, Lausanne   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Hautes-Alpes, Edinburgh   ==> Glasgow   #SUP: : 1 #CONF: 1.0
+Lausanne, Nyon   ==> Genève   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==> Collier   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Glasgow   ==> Edinburgh   #SUP: : 1 #CONF: 1.0
+Vaucluse, Haute-Savoie   ==> Var   #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Genève, Nyon   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==> Lee   #SUP: : 1 #CONF: 1.0
+Genève, Lausanne   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==> Lee   #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==> Paris   #SUP: : 1 #CONF: 1.0
+Alpes-Maritimes, Nord   ==> Hauts-de-Seine   #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Hautes-Alpes, Glasgow   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Borre, Oslo   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Newham   ==> Camden   #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Lausanne   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Vaucluse, Var   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Camden, Newham   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Tjøme, Borre   ==> Nord   #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==> Paris   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Tjøme, Nøtterøy   ==> Nord   #SUP: : 1 #CONF: 1.0
+Borre, Nøtterøy   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==> Roma   #SUP: : 1 #CONF: 1.0
+Hauts-de-Seine, West Midlands   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Newham   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Edinburgh, Glasgow   ==> Hautes-Alpes   #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut   ==> Genève   #SUP: : 1 #CONF: 1.0
+Greenwich, Newham   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Somme, Oise   ==> Paris   #SUP: : 1 #CONF: 1.0
+Eure-et-Loir, Indre   ==> Loir-et-Cher   #SUP: : 1 #CONF: 1.0
+Seine-Saint-Denis, Hauts-de-Seine   ==> Paris   #SUP: : 1 #CONF: 1.0
+Lausanne, Nyon   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Eure-et-Loir, Indre   ==> Indre-et-Loire   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Greenwich   ==> Camden   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Lausanne   ==> Genève   #SUP: : 1 #CONF: 1.0
+Surrey, Brent   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Tjøme, Nøtterøy   ==> Borre   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Nyon   ==> Genève   #SUP: : 1 #CONF: 1.0
+Greenwich, Newham   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Praha 1, Praha 6   ==> Paris   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==> Paris   #SUP: : 1 #CONF: 1.0
+Nord, Nøtterøy   ==> Borre   #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==> Paris   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==> Roma   #SUP: : 1 #CONF: 1.0
+Paris, Eindhoven   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Surrey   ==> Kent   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Hautes-Alpes, Edinburgh   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Greenwich, Newham   ==> Camden   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==> Paris   #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Brent, Kent   ==> Surrey   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Lausanne   ==> Genève   #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Eure-et-Loir   ==> Indre   #SUP: : 1 #CONF: 1.0
+Hérault, Drôme   ==> Côte-d'Or   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==> Collier   #SUP: : 1 #CONF: 1.0
+Nøtterøy, Oslo   ==> Borre   #SUP: : 1 #CONF: 1.0
+Genève, Nyon   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Nyon   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Nord, Berlin   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Camden, Newham   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Newham   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Loir-et-Cher   ==> Eure-et-Loir   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Lausanne   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Paris, Alpes-Maritimes   ==> Hauts-de-Seine   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Nord, Hauts-de-Seine   ==> Paris   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Surrey   ==> Brent   #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==> Paris   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==> Paris   #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Loir-et-Cher, Indre   ==> Eure-et-Loir   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Loir-et-Cher   ==> Indre   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Lausanne   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Greenwich   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Genève, Nyon   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Brent   ==> Surrey   #SUP: : 1 #CONF: 1.0
+Nord, Borre   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Eure-et-Loir   ==> Loir-et-Cher   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Newham   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Brent   ==>    #SUP: : 1 #CONF: 1.0
+Loir-et-Cher, Indre   ==>    #SUP: : 1 #CONF: 1.0
+Camden, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Camden, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Eure-et-Loir, Indre   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Borre   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Surrey, Kent   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Hautes-Alpes   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Alpes-Maritimes   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Borre   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Borre   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Borre, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Borre   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Camden, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Surrey   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Hauts-de-Seine   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Kent   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Borre, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Surrey, Brent   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Indre   ==>    #SUP: : 1 #CONF: 1.0
+Hautes-Alpes, Glasgow   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Brent, Kent   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Seine-Saint-Denis, Hauts-de-Seine   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Borre   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Borre, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Camden, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, West Midlands   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Glasgow   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Eure-et-Loir, Loir-et-Cher   ==>    #SUP: : 1 #CONF: 1.0
+Camden, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Hautes-Alpes, Edinburgh   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Loir-et-Cher   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden   ==>    #SUP: : 1 #CONF: 1.0
+Edinburgh, Glasgow   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Hauts-de-Seine, West Midlands   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden   ==>    #SUP: : 1 #CONF: 1.0
+Alpes-Maritimes, Hauts-de-Seine   ==>    #SUP: : 1 #CONF: 1.0
+Borre, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Seine-Saint-Denis, West Midlands   ==>    #SUP: : 1 #CONF: 1.0
+Camden, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Borre, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Eure-et-Loir   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Borre   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Edinburgh   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Borre, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Alpes-Maritimes, Nord   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Camden, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Borre   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Borre   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden   ==>    #SUP: : 1 #CONF: 1.0
+Nøtterøy, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Greenwich, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Lausanne, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Camden, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Borre, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Tjøme   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Borre, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Collier, Lee, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier   ==> Paris   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Paris, Nord, Hauts-de-Seine   ==> Alpes-Maritimes   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Greenwich   ==> Camden   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Oslo   ==> Borre   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Nord, Borre, Oslo   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Paris, Hauts-de-Seine, West Midlands   ==> Seine-Saint-Denis   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Alpes-Maritimes, Nord, Hauts-de-Seine   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Lee   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Lausanne, Nyon   ==> Genève   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Hautes-Alpes, Glasgow   ==> Edinburgh   #SUP: : 1 #CONF: 1.0
+Nord, Nøtterøy, Oslo   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Loir-et-Cher, Indre   ==> Eure-et-Loir   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Pays-d'Enhaut   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Paris, Collier, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Edinburgh, Glasgow   ==> Hautes-Alpes   #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Lausanne, Nyon   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Newham   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Camden   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Lee   ==> Paris   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden, Greenwich   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, La Spezia   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Genève, Lausanne, Nyon   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade   ==> Collier   #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, La Spezia   ==> Paris   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Lausanne   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Camden   ==> Newham   #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Nord, Nøtterøy, Oslo   ==> Borre   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut, Lausanne   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Tjøme, Borre, Oslo   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe   ==> Roma   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, La Spezia   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam   ==> Roma   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Nord, Borre, Nøtterøy   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Lee   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Surrey, Kent   ==> Brent   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut, Nyon   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Borre   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Lausanne, Nyon   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Borre   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Nord, Borre, Oslo   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Tjøme, Borre, Nøtterøy   ==> Nord   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden, Newham   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Nord, Borre, Nøtterøy   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, La Spezia   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Paris, La Spezia, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier   ==> Lee   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Lee   ==> Collier   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Greenwich, Newham   ==> Camden   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier   ==> Lee   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden, Newham   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Greenwich, Newham   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Paris, Lee, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Lee   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Eure-et-Loir, Loir-et-Cher   ==> Indre   #SUP: : 1 #CONF: 1.0
+Tjøme, Borre, Oslo   ==> Nord   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Surrey, Brent   ==> Kent   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, La Spezia   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Paris, Alpes-Maritimes, Nord   ==> Hauts-de-Seine   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Paris, Collier, Lee   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut, Lausanne   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden, Newham   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Indre-et-Loire, Eure-et-Loir, Indre   ==> Loir-et-Cher   #SUP: : 1 #CONF: 1.0
+Borre, Nøtterøy, Oslo   ==> Nord   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Hautes-Alpes, Edinburgh, Glasgow   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut, Lausanne   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden, Newham   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade   ==> Lee   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Greenwich, Newham   ==> Camden   #SUP: : 1 #CONF: 1.0
+Paris, Collier, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden, Greenwich   ==> Newham   #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut, Nyon   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Surrey, Brent, Kent   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Lee   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Genève, Lausanne, Nyon   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Paris, La Spezia, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Oslo   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, La Spezia   ==> Paris   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, La Spezia   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden, Greenwich   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Pays-d'Enhaut   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Paris, Lee, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Camden, Greenwich, Newham   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, La Spezia   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, La Spezia   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Camden, Greenwich, Newham   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Paris, La Spezia, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Seine-Saint-Denis, Paris, Hauts-de-Seine   ==> West Midlands   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Greenwich, Newham   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Paris, Collier, Lee   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Nyon   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Paris, Alpes-Maritimes, Hauts-de-Seine   ==> Nord   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Lausanne   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Brent, Kent   ==> Surrey   #SUP: : 1 #CONF: 1.0
+Tjøme, Nøtterøy, Oslo   ==> Nord   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam   ==> Paris   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Lee   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Seine-Saint-Denis, Hauts-de-Seine, West Midlands   ==> Paris   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Nøtterøy   ==> Borre   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam   ==> Roma   #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, La Spezia   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Tjøme, Borre, Nøtterøy   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Paris, Collier, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Eure-et-Loir, Loir-et-Cher, Indre   ==> Indre-et-Loire   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, La Spezia   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Greenwich   ==> Newham   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Lee   ==> Collier   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Lee   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut, Nyon   ==> Genève   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Tjøme, Nøtterøy, Oslo   ==> Borre   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Hautes-Alpes, Edinburgh   ==> Glasgow   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier   ==> Lee   #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut, Nyon   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Seine-Saint-Denis, Paris, West Midlands   ==> Hauts-de-Seine   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Nyon   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Newham   ==> Camden   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam   ==> Roma   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden, Greenwich   ==> Newham   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Lausanne, Nyon   ==> Genève   #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Collier, Lee, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Paris, Collier, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Collier, Lee, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut, Lausanne   ==> Genève   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, La Spezia   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Lee   ==> Collier   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Nøtterøy   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Borre, Nøtterøy, Oslo   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Paris, Lee, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Borre, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Borre   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Camden   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Greenwich, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Camden, Greenwich, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Lausanne, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Pays-d'Enhaut   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Borre, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Greenwich, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Nøtterøy, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Tjøme, Borre, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Pays-d'Enhaut, Lausanne, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Borre, Nøtterøy   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Borre, Nøtterøy, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut, Lausanne   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Lausanne, Nyon   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Greenwich   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden, Newham   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Nord, Nøtterøy, Oslo   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Amsterdam, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Collier, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Lee, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, La Spezia, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Lee, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, La Spezia, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Lee, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier, Lee   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Lee, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Lee   ==> Collier   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, La Spezia, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Nord, Borre, Nøtterøy, Oslo   ==> Tjøme   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, La Spezia, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Tower Hamlets, Camden, Greenwich, Newham   ==> Pas-de-Calais   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam, La Spezia   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, La Spezia, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Paris, Collier, Lee, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, La Spezia, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, La Spezia, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, Amsterdam   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Borre, Nøtterøy   ==> Oslo   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, Amsterdam   ==> Roma   #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, La Spezia, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Pays-d'Enhaut, Lausanne   ==> Nyon   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Greenwich, Newham   ==> Camden   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Pays-d'Enhaut, Nyon   ==> Lausanne   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, La Spezia, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Pays-d'Enhaut, Lausanne, Nyon   ==> Genève   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, La Spezia   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Lee, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, La Spezia, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Lee, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Camden, Newham   ==> Greenwich   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Camden, Greenwich, Newham   ==> Tower Hamlets   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Lee, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, La Spezia, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, La Spezia, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Pas-de-Calais, Tower Hamlets, Camden, Greenwich   ==> Newham   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Collier   ==> Lee   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier, Lee   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Lee, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Tjøme, Borre, Nøtterøy, Oslo   ==> Nord   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Collier   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Nøtterøy, Oslo   ==> Borre   #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Lee, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier, Lee   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam, La Spezia   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam, La Spezia   ==> Paris   #SUP: : 1 #CONF: 1.0
+Haute-Savoie, Genève, Lausanne, Nyon   ==> Pays-d'Enhaut   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Genève, Pays-d'Enhaut, Lausanne, Nyon   ==> Haute-Savoie   #SUP: : 1 #CONF: 1.0
+Paris, Collier, Lee, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Nord, Tjøme, Borre, Oslo   ==> Nøtterøy   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Lee, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Collier, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Karlsruhe, Amsterdam, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Miami-Dade, Collier, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Amsterdam, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Collier   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Collier, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam, La Spezia   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Amsterdam, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier, Lee   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Lee, Monroe   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, Amsterdam   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, La Spezia, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam, Roma   ==>    #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Lee, Monroe   ==> Collier   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, Amsterdam, La Spezia   ==> Roma   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, La Spezia, Roma   ==> Amsterdam   #SUP: : 1 #CONF: 1.0
+Seine-et-Marne, Miami-Dade, Collier, Lee, Monroe   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Amsterdam, La Spezia, Roma   ==> Karlsruhe   #SUP: : 1 #CONF: 1.0
+Paris, Miami-Dade, Collier, Lee, Monroe   ==> Seine-et-Marne   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Collier, Monroe   ==> Lee   #SUP: : 1 #CONF: 1.0
+Paris, Berlin, Karlsruhe, Amsterdam, Roma   ==> La Spezia   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Miami-Dade, Collier, Lee   ==> Monroe   #SUP: : 1 #CONF: 1.0
+Berlin, Karlsruhe, Amsterdam, La Spezia, Roma   ==> Paris   #SUP: : 1 #CONF: 1.0
+Paris, Karlsruhe, Amsterdam, La Spezia, Roma   ==> Berlin   #SUP: : 1 #CONF: 1.0
+Paris, Seine-et-Marne, Collier, Lee, Monroe   ==> Miami-Dade   #SUP: : 1 #CONF: 1.0
+Oslo   ==> Nord   #SUP: : 2 #CONF: 1.0
+Amsterdam   ==> Paris   #SUP: : 2 #CONF: 0.6666666666666666
+Oise   ==> Paris   #SUP: : 3 #CONF: 0.6
+Roma   ==> Paris   #SUP: : 3 #CONF: 1.0

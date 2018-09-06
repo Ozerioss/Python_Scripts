@@ -493,7 +493,6 @@ Benito Juárez,Cozumel,Benito Juárez
 Benito Juárez
 Westminster,Paris,Kent,Yvelines,Koblenz,Darmstadt,Mittelfranken,Verona,Venezia,Florence,,Roma
 Salvaleón de Higüey
-
 Distrito Federal
 Orange
 Fraser Valley
@@ -843,7 +842,7 @@ New York
 New York
 Madrid,Barcelona
 Westminster,Hertfordshire,Camden,Kensington and Chelsea,Barcelona
-Roma,
+Roma
 Paris
 San Francisco
 Santa Cruz,Los Angeles
@@ -1107,7 +1106,6 @@ San Francisco,Los Angeles,Riverside,Clark
 Distrito Federal
 Hillingdon,Bern,Zürich,Prättigau/Davos,Camden,Bülach
 Salvaleón de Higüey
-
 Los Angeles,Clark
 San Francisco,Sonoma
 San Diego,Orange,Los Angeles
@@ -1280,7 +1278,6 @@ Lima
 n.a26
 n.a151,n.a26
 Salvaleón de Higüey
-
 Santiago,Cordillera
 Orange
 Orange
@@ -1415,7 +1412,6 @@ Roma
 Budapesti
 Wellington
 Salvaleón de Higüey
-
 Miami-Dade
 Orange
 Cusco
@@ -1918,9 +1914,7 @@ Paris
 Paris
 Verona,Bologna
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Volusia,Orange
 Orange,Miami-Dade
 Los Angeles
@@ -2198,8 +2192,8 @@ New York,Kings,Queens
 Barcelona
 Cartagena de Indias
 Iguazú
-Phra Nakhon,Khlong San,Ko Samui,Muang Krabi,
-Muang Krabi,
+Phra Nakhon,Khlong San,Ko Samui,Muang Krabi
+Muang Krabi
 Milano,Venezia,Como,Varese
 Alpes-Maritimes,Var,Vaucluse,,Westminster,Kensington and Chelsea,Lisboa
 Paris
@@ -2399,7 +2393,7 @@ Distrito Federal
 Tower Hamlets
 Tower Hamlets
 Westminster
-Lisboa,
+Lisboa
 Budapesti
 Lisboa
 Lisboa
@@ -2465,7 +2459,6 @@ Los Angeles
 Distrito Federal
 Dawson,Cobb,Clayton
 Salvaleón de Higüey
-
 Madrid,Surrey
 Surrey
 Brescia
@@ -2551,9 +2544,7 @@ Naucalpan de Juárez
 Monterrey
 Benito Juárez
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Distrito Federal
 Eagle
 Roma
@@ -2580,13 +2571,13 @@ Mecklenburg,Fulton
 San Francisco,Clark,Los Angeles,San Bernardino,San Diego,Tijuana
 Miami-Dade,San Mateo
 Tijuana
-Paris,Bülach,Roma,
+Paris,Bülach,Roma
 Paris,Roma
 El Loa
 Santiago
 Santiago
 El Loa
-Roma,
+Roma
 Loir-et-Cher
 Lisboa
 Funchal
@@ -2797,7 +2788,6 @@ Saratoga
 Queens
 Distrito Federal
 Salvaleón de Higüey
-
 New York
 Barcelona
 Barcelona
@@ -2918,7 +2908,6 @@ New York
 New York
 Berkel en Rodenrijs
 Salvaleón de Higüey
-
 Orange
 Hackney
 New York,Philadelphia
@@ -3033,7 +3022,7 @@ Los Angeles,Sacramento
 Broward
 Distrito Federal
 New York
-Roma,
+Roma
 Kings
 Kings
 Orange
@@ -3158,7 +3147,7 @@ n.a349,n.a354,Panamá,Arraiján
 n.a351,n.a337
 n.a337,n.a351,n.a523
 Bülach,Genève,Lausanne,Luzern,Lavaux-Oron,Biel,Obwalden,Zürich
-Val-d'Oise,Paris,Alpes-Maritimes,Var,
+Val-d'Oise,Paris,Alpes-Maritimes,Var
 Paris
 Santiago,Los Andes,Valparaíso,Santiago
 n.a351,n.a337,n.a523
@@ -3170,7 +3159,7 @@ Amsterdam
 Amsterdam
 Amsterdam
 Amsterdam
-Amsterdam,Edam-Volendam,
+Amsterdam,Edam-Volendam
 Bruxelles
 Bruxelles,West-Vlaanderen,Berlin,n.a351
 n.a351
@@ -3290,7 +3279,6 @@ Los Angeles
 Orange,Los Angeles
 Los Angeles
 Salvaleón de Higüey
-
 Orange
 Santiago
 New York
@@ -3404,7 +3392,7 @@ Miami-Dade
 Queens,New York
 New York,Queens
 Miami-Dade
-Brevard,
+Brevard
 Lima
 Punilla
 La Capital
@@ -3648,7 +3636,6 @@ Division No. 11
 Orange
 Jizeh
 Avanos
-
 New York
 New York
 Roermond
@@ -3676,7 +3663,7 @@ Narita
 Kagoshima
 Cuneo
 Seine-Saint-Denis
-Alpes-Maritimes,
+Alpes-Maritimes
 Ceské Budejovice
 Cuneo
 Cuneo
@@ -3768,7 +3755,7 @@ Roma
 Miami-Dade
 Miami-Dade
 Hertfordshire,Oxfordshire
-Oxfordshire,Camden,Westminster,
+Oxfordshire,Camden,Westminster
 Alexandria,District of Columbia,Alexandria
 District of Columbia,Alexandria,Prince George's,Anne Arundel
 Alexandria
@@ -3810,7 +3797,6 @@ Miami-Dade
 Miami-Dade,New York
 n.a351
 Salvaleón de Higüey
-
 n.a351
 Distrito Federal
 Westminster
@@ -3886,7 +3872,7 @@ Westminster
 Salvaleón de Higüey
 La Romana
 Santafé de Bogotá,Miami-Dade
-Berlin,
+Berlin
 London,Camden,Kensington and Chelsea
 Westminster,Kensington and Chelsea,Camden,Honolulu
 Paris
@@ -3950,7 +3936,7 @@ Al Haouz
 Barcelona,Gianyar
 Queens
 Khlong Toey
-Hà N?i,
+Hà N?i
 Gianyar,Badung,Gianyar
 Badung,Gianyar
 Badung
@@ -4110,7 +4096,7 @@ Westminster,Southwark
 Tower Hamlets
 London,Westminster
 Miami-Dade,Venezia
-Venezia,
+Venezia
 H? Chí Minh city,Ti?n Giang,C?n Tho,Khánh Hòa
 Khánh Hòa
 Ninh Bình,Val-d'Oise
@@ -4136,7 +4122,7 @@ Khánh Hòa
 West-Vlaanderen,Paris,Luzern
 Combined statistics
 Paris,Berlin
-Combined statistics,
+Combined statistics
 Nidwalden
 Ninh Bình
 Amsterdam
@@ -4249,7 +4235,6 @@ Montgomery
 Essex
 New York
 Salvaleón de Higüey
-
 San Fernando,Capital
 Capital
 Porto
@@ -4304,7 +4289,6 @@ l'Anse-à-Veau
 Attica
 n.a328
 Salvaleón de Higüey
-
 Distrito Federal
 Orange
 Orange
@@ -4709,7 +4693,6 @@ Odivelas
 Seixal
 Seixal
 Salvaleón de Higüey
-
 Phra Nakhon,Khlong Toey,Muang Chiang Mai
 Hà N?i
 Phra Nakhon
@@ -4846,7 +4829,7 @@ San Bernardino,Clark
 Roma
 Roma,Latina
 Roma
-Roma,
+Roma
 Roma
 Roma,Latina,Roma,Caserta
 Ushuaia
@@ -4925,7 +4908,7 @@ New York
 Sintra,Lisboa,Ourém
 Roma,Florence,Siena,Pisa
 n.a337,n.a348,n.a351
-Miami-Dade,
+Miami-Dade
 Distrito Federal
 New York
 Capital,Maipú,Tupungato,Luján de Cuyo
@@ -5708,9 +5691,7 @@ Benito Juárez
 New York
 New York
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Distrito Federal
 Miami-Dade
 Miami-Dade
@@ -5737,7 +5718,7 @@ Takua Thung
 La Paz
 Miami-Dade
 Roma,Perugia
-Jericho,Jerusalem,
+Jericho,Jerusalem
 Westminster
 Clark
 Stari Grad
@@ -5990,9 +5971,7 @@ Orange
 Orange
 Miami-Dade
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Milano
 n.a351
 Distrito Federal
@@ -6009,7 +5988,6 @@ Orange
 New York
 Barcelona
 Salvaleón de Higüey
-
 San Diego
 San Diego
 San Diego
@@ -6114,7 +6092,6 @@ Benito Juárez
 Distrito Federal
 Val-d'Oise
 Salvaleón de Higüey
-
 Westminster,London,Hackney,Camden,Amsterdam,Barcelona,Madrid
 Madrid
 Hackney
@@ -6210,7 +6187,6 @@ Cusco,Urubamba
 New York
 Beyoglu
 Salvaleón de Higüey
-
 Porto
 Paris
 Var
@@ -6253,7 +6229,7 @@ Santiago
 Distrito Federal
 Lisboa
 Lisboa
-Torino,
+Torino
 Distrito Federal
 Jongro
 Gyeyang
@@ -6592,7 +6568,7 @@ Badung
 Warringah
 Medellín
 Barcelona
-Florence,Venezia,Roma,
+Florence,Venezia,Roma
 Barcelona
 Orange
 New York
@@ -6783,16 +6759,14 @@ Orange
 Distrito Federal
 Miami-Dade
 Orange,Miami-Dade,Osceola,Orange
-Benito Juárez,
+Benito Juárez
 Distrito Federal
 Orange
 Orange,Miami-Dade
 Miami-Dade,Clark
 Miami-Dade
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Hachioji
 Milano
 Milano
@@ -6921,7 +6895,7 @@ Barcelona,Paris
 Distrito Federal
 Seine-Saint-Denis,Paris
 Barcelona
-Roma,
+Roma
 Hammersmith and Fulham,Camden
 Amsterdam
 Paris
@@ -7258,7 +7232,7 @@ Braunschweig
 Moyle
 Milano,Florence
 Venezia
-Hillingdon,
+Hillingdon
 Jesús María
 Capital
 Santiago
@@ -7280,7 +7254,6 @@ New York
 New York
 New York
 Salvaleón de Higüey
-
 Esteban Echeverría
 Distrito Federal
 General San Martín
@@ -7317,7 +7290,6 @@ Santiago
 Santiago
 Santiago
 Salvaleón de Higüey
-
 Paris
 Banská Bystrica
 Distrito Federal
@@ -7336,7 +7308,7 @@ New York
 Distrito Federal
 Bronx,Essex
 Cartagena de Indias
-Genève,Var,Alpes-Maritimes,
+Genève,Var,Alpes-Maritimes
 Paris,Marrakech,Besiktas
 Westminster,Manchester,Camden
 Santiago
@@ -7345,14 +7317,14 @@ Miami-Dade
 Sintra,Cascais,Lisboa
 Roma
 Roma,Siena,Florence
-Miami-Dade,
-Miami-Dade,
+Miami-Dade
+Miami-Dade
 New York
 New York
 Las Heras
 Tupungato,Capital
 Darmstadt,Podstrana,Split,Hvar,Dubrovnik,,Napoli
-Sathorn,Bang Rak,Siem Reab,H? Chí Minh city,
+Sathorn,Bang Rak,Siem Reab,H? Chí Minh city
 Miami-Dade
 Los Angeles
 Nakano,Perstorp,Taito
@@ -8354,7 +8326,7 @@ Clark
 n.a354
 Miami-Dade
 Lima
-Belfast,
+Belfast
 Amsterdam
 Berlin
 Paris
@@ -8421,7 +8393,7 @@ Fatih
 Santa Marta (Dist. Esp.)
 Santafé de Bogotá
 Chuo,Chiyoda,Koto,Sumida
-Shanghai,
+Shanghai
 Manizales
 Central
 Cartagena de Indias
@@ -8551,7 +8523,7 @@ La Paz,Clark,Caldwell,Miami-Dade
 La Paz,Clark,Caldwell,Miami-Dade,Broward
 Miami-Dade
 Miami-Dade,Broward
-Delhi,
+Delhi
 Paris
 Marrakech
 n.a523
@@ -8629,7 +8601,6 @@ Greater Vancouver
 n.a354
 El Loa
 Salvaleón de Higüey
-
 Distrito Federal
 Última Esperanza
 Última Esperanza,Santiago
@@ -8854,9 +8825,7 @@ Orange
 Hillsborough
 New York
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Clark,San Mateo,San Francisco,Marin,Clark
 Clark
 Orange
@@ -8929,7 +8898,7 @@ Paris,Yvelines,Essonne
 Paris
 Miami-Dade,Clayton
 Monroe,Clayton
-Miami-Dade,
+Miami-Dade
 Miami-Dade
 Paris
 Paris
@@ -9179,7 +9148,7 @@ Sydney - Inner
 Sydney - Inner
 Sydney - Inner
 Kyoto
-Shinjuku,Nakano,
+Shinjuku,Nakano
 Gianyar
 Wellington,Ruapehu
 Sydney - Inner
@@ -9205,7 +9174,6 @@ Kent
 Distrito Federal
 Barcelona
 Salvaleón de Higüey
-
 Camden,Westminster
 Paris,Hauts-de-Seine
 Barcelona
@@ -9246,7 +9214,6 @@ Kings,New York
 New York
 Kings,New York
 Salvaleón de Higüey
-
 Greater Vancouver
 Distrito Federal
 Blauwgrond
@@ -9292,8 +9259,8 @@ Brighton and Hove
 n.a351
 n.a354
 Los Angeles,San Diego
-Roma,Wien,
-Wien,
+Roma,Wien
+Wien
 New York
 New York
 District of Columbia
@@ -9423,7 +9390,6 @@ San Diego
 San Francisco
 San Francisco
 Salvaleón de Higüey
-
 Cartagena de Indias
 Cartagena de Indias
 Distrito Federal
@@ -9445,7 +9411,7 @@ Guangzhou
 Guangzhou
 Guangzhou
 Seongbuk,Guangzhou
-Guangzhou,
+Guangzhou
 Guangzhou
 Guangzhou
 Guangzhou
@@ -9499,7 +9465,6 @@ Amsterdam
 Berlin
 Paris
 Salvaleón de Higüey
-
 Paris
 Trapani
 Napoli
@@ -9572,7 +9537,7 @@ Luzern
 Stuttgart
 Paris
 Hauts-de-Seine
-Westminster,
+Westminster
 Madrid
 Madrid
 Madrid,Lisboa,Madrid
@@ -9806,7 +9771,6 @@ Roma
 Palm Beach,Hillsborough
 Palm Beach
 Salvaleón de Higüey
-
 Miami-Dade
 Distrito Federal
 n.a351,n.a354
@@ -9879,7 +9843,7 @@ New York
 Clark
 Clark
 Madrid,Roma
-Roma,
+Roma
 Monterey
 Santa Clara
 Santa Clara,San Francisco
@@ -9989,7 +9953,6 @@ Paris
 Var
 Var
 Salvaleón de Higüey
-
 n.a354
 New York
 New York
@@ -10142,9 +10105,9 @@ Orange,Miami-Dade
 Miami-Dade
 Distrito Federal
 Lisse,Amsterdam,Glasgow,West Dunbartonshire,Argyll and Bute,Stirling,Highland
-Highland,Edinburgh,Belfast,Moyle,
-Edinburgh,Belfast,Moyle,
-Amsterdam,
+Highland,Edinburgh,Belfast,Moyle
+Edinburgh,Belfast,Moyle
+Amsterdam
 Wellington
 Orange
 Miami-Dade
@@ -10178,7 +10141,7 @@ Kings
 Paris
 Paris
 Côte-d'Or
-Côte-d'Or,
+Côte-d'Or
 Mariposa
 Orange,Los Angeles
 Paris
@@ -10265,7 +10228,7 @@ Madrid
 Milano
 Down
 Florence
-Paris,
+Paris
 Budapesti
 Wien
 Berlin
@@ -10434,7 +10397,7 @@ Tower Hamlets,Camden,Westminster
 Paris,Yvelines
 Amsterdam
 Berlin,Milano
-Alpes-Maritimes,
+Alpes-Maritimes
 Lima
 Distrito Federal
 Distrito Federal
@@ -10656,7 +10619,7 @@ Orange,Riverside,San Diego,Wayne
 Attica
 Benito Juárez
 Benito Juárez
-Broward,
+Broward
 Los Angeles,Riverside,San Diego,Orange
 San Diego,Orange,Santa Barbara
 Santa Barbara,Monterey,San Francisco
@@ -10690,11 +10653,10 @@ Azcapotzalco,Alvaro Obregón
 Alvaro Obregón
 Paris
 Salvaleón de Higüey
-
 n.a351
 n.a354
 Distrito Federal
-Hillingdon,
+Hillingdon
 Camden,Westminster,Hertfordshire,Derbyshire,Kensington and Chelsea,Westminster,Merton,Camden
 n.a523,n.a337
 Distrito Federal
@@ -10740,7 +10702,7 @@ Orange
 Fairfax
 Cusco
 Miami-Dade
-Cozumel,
+Cozumel
 Cozumel
 Miami-Dade
 Karpo
@@ -10800,7 +10762,7 @@ Budapesti
 Budapesti
 Paris
 Verona
-Roma,
+Roma
 Cyclades,Attica,Paris
 Distrito Federal
 Orleans
@@ -11134,7 +11096,7 @@ Summit,Eagle
 Miami-Dade,Broward
 Miami-Dade
 Paris
-Westminster,
+Westminster
 Glasgow,Orkney Islands
 Edinburgh
 Calvados,Islington,Kensington and Chelsea,Westminster,Camden,London
@@ -11167,7 +11129,7 @@ Miami-Dade
 Paris,Yvelines,Paris
 Yvelines,Paris
 Paris
-Roma,
+Roma
 Roma,Florence
 Roma,Lugano,Milano
 Pisa
@@ -11320,7 +11282,7 @@ Ayolas
 Las Palmas
 New York
 Orange
-Santafé de Bogotá,
+Santafé de Bogotá
 Orange
 Osceola
 Lee
@@ -11333,9 +11295,7 @@ Bariloche
 New York
 New York
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris,Westminster
 Westminster
 Paris
@@ -11422,7 +11382,6 @@ Distrito Federal
 Orange
 Miami-Dade
 Salvaleón de Higüey
-
 n.a354
 New York
 San Francisco
@@ -11514,7 +11473,7 @@ Benito Juárez
 Hamburg
 Hamburg
 Westminster
-Wandsworth,
+Wandsworth
 Distrito Federal
 Clark
 Los Angeles
@@ -11648,7 +11607,6 @@ Jelgava
 Pilar,Campana
 n.a354
 Salvaleón de Higüey
-
 Miami-Dade
 Greater Vancouver,Squamish-Lillooet,Peel
 Miami-Dade,Broward
@@ -11872,7 +11830,6 @@ Washington
 Orange
 Distrito Federal
 Orange,Salvaleón de Higüey
-
 Orange
 Paris
 Amsterdam
@@ -12009,7 +11966,6 @@ Clark
 Central
 Ilala
 Salvaleón de Higüey
-
 New York
 Val-de-Marne,Paris
 Paris
@@ -12064,7 +12020,6 @@ New York
 New York
 Palm Beach
 Salvaleón de Higüey
-
 Oberbayern
 Wien
 Praha 1
@@ -12121,7 +12076,6 @@ Pinellas
 Amsterdam,Arnhem
 Oberbayern,Berlin
 Salvaleón de Higüey
-
 Communauté-Urbaine-de-Québec
 Orange
 Benito Juárez
@@ -12131,7 +12085,6 @@ Düsseldorf
 Düsseldorf
 Paris
 Salvaleón de Higüey
-
 San Rafael del Yuma
 Constanza
 Pauri Garhwal
@@ -12275,7 +12228,7 @@ Mariño
 Distrito Nacional
 Distrito Nacional
 Finistère
-Jerusalem,
+Jerusalem
 Los Angeles
 Lienz
 Lienz
@@ -12284,7 +12237,7 @@ Lienz
 Lisboa
 Braunschweig
 Bas-Rhin
-Seine-et-Marne,
+Seine-et-Marne
 Seine-et-Marne
 Santiago de Cali
 Berlin
@@ -12304,7 +12257,6 @@ Wuxi
 Miami-Dade
 Orange
 Salvaleón de Higüey
-
 Paris
 Paris
 Los Angeles
@@ -12368,7 +12320,7 @@ Camden,Kensington and Chelsea,Westminster,Kensington and Chelsea
 Maui
 Munster
 Cozumel,Benito Juárez
-Brighton and Hove,Westminster,Brighton and Hove,
+Brighton and Hove,Westminster,Brighton and Hove
 Brighton and Hove
 Camden,Kensington and Chelsea,Westminster,Brighton and Hove
 Brighton and Hove,Westminster
@@ -12624,7 +12576,7 @@ Lima
 Lima
 Lima
 Cusco
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Kensington and Chelsea
@@ -12729,9 +12681,7 @@ New York
 Funchal
 Barcelona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 San Francisco,Merseyside
 Distrito Federal
 Distrito Federal
@@ -12820,7 +12770,7 @@ Westminster
 Westminster,Kensington and Chelsea,Tower Hamlets,Paris
 West Midlands,Amsterdam,Camden,London,Westminster
 New York,Hudson,Monroe,Orange
-Val-d'Oise,,Milano,Verona,Venezia,Treviso,Rimini,Bari,Napoli,Roma,
+Val-d'Oise,,Milano,Verona,Venezia,Treviso,Rimini,Bari,Napoli,Roma
 Florence,Siena,Milano
 Seine-et-Marne,Paris
 Los Angeles
@@ -13082,7 +13032,7 @@ Panamá
 El Loa
 Madrid
 Madrid,Barcelona
-Roma,
+Roma
 Roma,Venezia
 Paris
 New York
@@ -13274,7 +13224,6 @@ New York
 Miami-Dade
 New York
 Salvaleón de Higüey
-
 Panamá
 Benito Juárez
 Berlin
@@ -13724,7 +13673,7 @@ Allegheny
 Combined statistics,Roskilde,Stockholm,Oslo,Voss,Vaksdal,Aurland,Bergen,Stavanger,Kvam,Forsand,Aalborg,Hjørring,Skagen,Randers,Odense,Combined statistics
 Stavanger,Kvam,Forsand,Aalborg,Hjørring,Skagen,Randers,Odense,Combined statistics
 Santiago
-Roma,
+Roma
 Paris,Karlsruhe,Mittelfranken
 Mittelfranken,Oberbayern
 Praha 1
@@ -13989,7 +13938,6 @@ n.a351
 Milano
 Distrito Federal
 Salvaleón de Higüey
-
 Orange,Osceola
 Madrid
 New York,Queens,Hudson
@@ -13998,7 +13946,6 @@ Montgomery
 Iguazú
 Iguazú
 Salvaleón de Higüey
-
 Split
 Baleares
 Combined statistics
@@ -14481,7 +14428,7 @@ Padua
 Venezia
 Santiago
 Distrito Federal
-Lisboa,Roma,
+Lisboa,Roma
 Miami-Dade
 Miami-Dade
 Lisboa,Santiago do Cacém
@@ -14539,7 +14486,7 @@ Distrito Federal
 Division No. 6
 Division No. 6
 Greater Vancouver
-Imperia,
+Imperia
 Alpes-Maritimes
 Alpes-Maritimes
 Clark
@@ -14822,11 +14769,9 @@ Porto
 Paris
 Loudoun,Charleston
 Salvaleón de Higüey
-
 New York
 Suffolk
 Salvaleón de Higüey
-
 New York
 Suffolk
 Los Angeles
@@ -15051,7 +14996,6 @@ Benito Juárez
 Orange
 Orange
 Salvaleón de Higüey
-
 Coimbra
 Figueira da Foz,Penacova
 Orange,Polk,Miami-Dade
@@ -15721,7 +15665,6 @@ Camden,Westminster,Tower Hamlets,Kensington and Chelsea,Paris
 Madrid
 Paris
 Salvaleón de Higüey
-
 District of Columbia
 District of Columbia
 District of Columbia
@@ -15772,7 +15715,7 @@ Worcester
 Barcelona
 Amsterdam
 Split
-Roma,
+Roma
 Roma,Milano,Florence
 Hvar
 Amsterdam
@@ -15820,9 +15763,7 @@ Kensington and Chelsea
 Camden
 Roma
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Orange
 Miami-Dade
 Roma
@@ -16004,7 +15945,6 @@ Tower Hamlets,Paris
 New York
 Salvaleón de Higüey
 San Rafael del Yuma,Salvaleón de Higüey
-
 Shah Alam
 East Kootenay
 East Kootenay
@@ -16134,7 +16074,7 @@ Capital
 Orange
 Orange
 Stuttgart
-Roma,
+Roma
 New York
 New York
 Suffolk
@@ -16486,7 +16426,6 @@ Haarlemmermeer,Amsterdam
 Roma
 Roma
 Salvaleón de Higüey
-
 Laval
 Charente
 Orange,Osceola
@@ -16785,7 +16724,6 @@ Fatih
 Dodecanese
 Miami-Dade
 Miami-Dade,Salvaleón de Higüey
-
 n.a337
 n.a337,n.a351
 Miami-Dade,Orange,Hillsborough
@@ -17029,7 +16967,7 @@ Jagna
 Amsterdam
 Sankt-Peterburg gorsovet
 Santiago,Valparaíso
-Roma,
+Roma
 Verona,Florence
 Florence,Salerno
 n.a339
@@ -17075,7 +17013,7 @@ Miami-Dade
 Nassau
 Madrid
 Distrito Federal
-Miami-Dade,
+Miami-Dade
 Miami-Dade
 Orange
 Novara
@@ -17136,7 +17074,6 @@ Suffolk
 Santiago
 Santiago
 Salvaleón de Higüey
-
 Miami-Dade,New York
 New York
 Centro Habana
@@ -17267,7 +17204,7 @@ Distrito Federal
 Distrito Federal
 Distrito Federal
 Distrito Federal
-Westminster,Camden,Tower Hamlets,Kensington and Chelsea,
+Westminster,Camden,Tower Hamlets,Kensington and Chelsea
 Bruxelles
 Amsterdam,Paris
 Barcelona
@@ -17646,7 +17583,7 @@ New York
 Bruxelles
 Shanghai
 Seixal,Wien
-New York,
+New York
 Santiago
 Santiago
 Setúbal
@@ -18185,9 +18122,7 @@ Orange
 Orange
 Distrito Federal
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 New York,Queens
 Los Angeles
 Los Angeles,San Diego,Los Angeles
@@ -18482,7 +18417,7 @@ Suffolk
 Hillsborough,Norfolk,Suffolk
 Valparaíso
 Marion
-Barcelona,
+Barcelona
 Garfield,Pitkin
 Pitkin
 Miami-Dade
@@ -18769,7 +18704,6 @@ n.a354
 n.a351,n.a354
 Miami-Dade
 Salvaleón de Higüey
-
 Greater Vancouver
 Greater Vancouver
 Greater Vancouver,Squamish-Lillooet
@@ -18844,9 +18778,7 @@ Roma,Venezia
 Paris
 Napa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 New York,Kings,New York
 New York
 Kings
@@ -18859,12 +18791,12 @@ New York
 Los Angeles
 Los Angeles
 Miami-Dade
-Haarlemmermeer,
+Haarlemmermeer
 Moyle
 Westminster
 Barcelona
 Lagos,Albufeira
-Paris,Lagos,
+Paris,Lagos
 Valparaíso,Santiago,Cordillera
 Toronto,Greater Vancouver
 Santiago
@@ -18941,7 +18873,7 @@ Santiago
 Hannover
 Hannover
 Lisboa,Cascais,Óbidos,Évora,Estremoz,Coimbra,Braga,Vila Nova de Gaia
-Westminster,Kensington and Chelsea,Tower Hamlets,
+Westminster,Kensington and Chelsea,Tower Hamlets
 Westminster
 Los Angeles
 Caroní
@@ -19226,7 +19158,7 @@ Sotillo
 Orange
 New York,Hudson
 Antolín del Campo,Mariño
-Westminster,Hertfordshire,Kensington and Chelsea,Camden,
+Westminster,Hertfordshire,Kensington and Chelsea,Camden
 New York
 Orange
 Orange
@@ -19241,7 +19173,7 @@ Tarragona
 Barcelona
 Chiyoda,Kyoto
 Nara
-Sumida,Chuo,
+Sumida,Chuo
 Philadelphia
 Montgomery
 Philadelphia
@@ -19287,7 +19219,6 @@ Orange,Osceola,Orange,Osceola
 Hudson
 Orange
 Salvaleón de Higüey
-
 Orange
 Çesme,Karsiyaka
 Merkez
@@ -19306,7 +19237,6 @@ Barcelona
 Barcelona
 Panamá
 Salvaleón de Higüey
-
 Paris
 Bas-Rhin
 Paris
@@ -19345,7 +19275,7 @@ n.a351
 New York
 New York,Queens
 Paris
-Roma,
+Roma
 Los Angeles
 Clark,Mohave
 Distrito Federal
@@ -19359,7 +19289,6 @@ Alameda,Napa,San Francisco,Santa Cruz,Marin
 Los Angeles
 Los Angeles
 Salvaleón de Higüey
-
 Distrito Federal
 n.a351
 Capital
@@ -19728,9 +19657,7 @@ Los Angeles
 Clark,Hudson,New York
 Distrito Federal,Luján,Distrito Federal
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Distrito Federal
 Santa Cruz
 Distrito Federal
@@ -19785,7 +19712,6 @@ Valparaíso,Santiago
 Paris
 Roma,Essonne
 Salvaleón de Higüey
-
 n.a354
 Madrid,Milano,Venezia,Roma,,Napoli,Madrid
 Milano
@@ -20289,7 +20215,7 @@ Oeiras,Cascais,Lisboa,Oeiras
 Lisboa,Oeiras,Cascais,Lisboa
 Oxfordshire
 Málaga
-Oberbayern,Madrid,
+Oberbayern,Madrid
 Düsseldorf,Köln,Berlin,Essonne,Paris
 Merton,Westminster,Milano,Roma,,Barcelona
 Distrito Federal
@@ -20344,7 +20270,7 @@ Orange
 Lumpkin
 Orange,Brevard
 Brevard,Orange
-Orange,Palm Beach,
+Orange,Palm Beach
 Orange
 Waitakere
 Waitakere
@@ -20887,11 +20813,11 @@ Waitakere,Rotorua
 Pedro Juan Caballero
 Pedro Juan Caballero
 New York
-Madrid,
+Madrid
 Westminster
 Roma
 Venezia
-Paris,
+Paris
 Ourém
 Porto
 Barcelona
@@ -21195,7 +21121,7 @@ Benito Juárez
 Distrito Federal
 Distrito Federal
 Paris,Genève
-Perugia,
+Perugia
 Florence,Milano,Bergamo
 Schwaben
 Leipzig
@@ -21297,7 +21223,6 @@ New York
 Amsterdam
 Distrito Federal
 Salvaleón de Higüey
-
 Barcelona
 Baleares,Paris
 Cyclades
@@ -21589,7 +21514,6 @@ Miami-Dade
 Miami-Dade
 Santiago
 Salvaleón de Higüey
-
 Tower Hamlets
 Amsterdam
 New York
@@ -21777,7 +21701,7 @@ Riverside
 Los Angeles
 Riverside
 Paris,Seine-et-Marne,Seine-Saint-Denis
-Roma,
+Roma
 New York,Hudson,Fulton
 Iguazú
 Seine-et-Marne
@@ -21924,7 +21848,7 @@ Miami-Dade
 Miami-Dade
 Westminster
 Paris
-Florence,Roma,
+Florence,Roma
 Roma
 Westminster
 New York
@@ -22218,7 +22142,6 @@ Tigre,Distrito Federal
 Distrito Federal
 Distrito Federal
 Salvaleón de Higüey
-
 Worcester
 Valparaíso,Santiago,Los Andes
 Zapopan
@@ -22469,7 +22392,7 @@ Richmond,New York,Union
 New York
 Venezia,Verona,Florence,Siena,Pisa
 Florence,Siena,Pisa,Napoli,Salerno
-Napoli,Salerno,Roma,
+Napoli,Salerno,Roma
 Mohave
 DeKalb,Cobb
 Cobb,DeKalb
@@ -22619,7 +22542,6 @@ Cordillera
 Valparaíso
 Hillsborough
 Salvaleón de Higüey
-
 Miami-Dade
 Vicente López,Distrito Federal
 Distrito Federal
@@ -22816,9 +22738,9 @@ Distrito Federal
 Paris
 Westminster,Paris,Bruxelles
 Peel
-Beijing,
-Beijing,
-Delhi,Agra,
+Beijing
+Beijing
+Delhi,Agra
 New York
 Hillsborough,Orange
 Orange
@@ -22900,7 +22822,7 @@ Distrito Federal
 Haarlemmermeer
 Westminster,Bath and North East Somerset,London,Westminster
 Paris
-Venezia,Roma,
+Venezia,Roma
 Venezia
 n.a351,n.a337
 n.a351
@@ -23122,7 +23044,7 @@ Orange
 Orange
 New York
 Seine-et-Marne
-Lisboa,Roma,
+Lisboa,Roma
 Roma,Florence
 Florence,Venezia
 Venezia
@@ -23208,7 +23130,7 @@ Orange
 Queens
 Paris
 Barcelona
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Fthiotis,Madrid
 Orange
@@ -23358,7 +23280,7 @@ Orange
 Miami-Dade
 Napoli
 Chieti
-Roma,
+Roma
 Perugia,Florence,Bologna,Venezia
 New York
 Osceola
@@ -23700,7 +23622,6 @@ Jackson
 Chase,Montgomery
 Jackson
 Salvaleón de Higüey
-
 Madrid
 Kensington and Chelsea
 Westminster
@@ -23717,13 +23638,12 @@ Summit
 Summit
 Summit,Salt Lake
 Salvaleón de Higüey
-
 n.a351
 n.a351
 Jakarta Selatan
 Jakarta Pusat
-Jakarta Pusat,
-Jakarta Pusat,
+Jakarta Pusat
+Jakarta Pusat
 Jakarta Timur
 Jakarta Barat
 Jakarta Timur,Jakarta Selatan
@@ -23734,7 +23654,7 @@ Jakarta Timur
 Jakarta Utara,Jakarta Selatan
 Jakarta Timur
 Jakarta Timur,Jakarta Selatan
-Jakarta Timur,
+Jakarta Timur
 Jakarta Timur
 Madrid
 Baleares
@@ -23742,7 +23662,7 @@ Distrito Federal
 Madrid
 Paris
 Paris
-Madrid,Paris,
+Madrid,Paris
 Paris
 Paris
 Distrito Federal
@@ -23767,7 +23687,7 @@ Distrito Federal
 Budapesti
 Wien
 Amsterdam
-Tower Hamlets,
+Tower Hamlets
 Southwark
 Westminster
 Iguazú
@@ -23879,7 +23799,7 @@ Distrito Federal
 n.a354
 n.a354
 Málaga
-Trapani,Napoli,
+Trapani,Napoli
 Napoli,Roma,Cagliari
 Bouches-du-Rhône,n.a354
 Bouches-du-Rhône,Var
@@ -23914,7 +23834,7 @@ Savona,La Spezia,Roma
 Bouches-du-Rhône
 Savona
 Barcelona
-Alpes-Maritimes,Genova,La Spezia,Roma,
+Alpes-Maritimes,Genova,La Spezia,Roma
 Bouches-du-Rhône
 La Spezia,Roma
 Roma
@@ -23923,7 +23843,7 @@ Barcelona
 Pisa,Florence
 Barcelona
 La Spezia,Roma,Milano
-Napoli,Messina,
+Napoli,Messina
 Venezia,Dubrovnik
 Barcelona
 Distrito Federal
@@ -24158,11 +24078,10 @@ Gran Sabana
 Maneiro
 Maneiro
 Distrito Federal
-Isla Mujeres,Benito Juárez,Miami-Dade,
+Isla Mujeres,Benito Juárez,Miami-Dade
 Miami-Dade,Orange,Miami-Dade
 Madrid,Barcelona
 Salvaleón de Higüey
-
 Westminster
 Amsterdam,West-Vlaanderen,Tower Hamlets,Westminster,Kensington and Chelsea
 Barcelona
@@ -24215,7 +24134,7 @@ Granada
 Paris
 Paris
 Florence
-Rimini,
+Rimini
 Roma
 Thessaloniki,Attica
 Attica,Cyclades
@@ -24234,7 +24153,6 @@ Stockholm
 Central
 Barcelona
 Salvaleón de Higüey
-
 Verona
 Florence
 Distrito Federal
@@ -24609,7 +24527,7 @@ Los Angeles
 Los Angeles
 Distrito Federal
 Santiago
-Orange,
+Orange
 Miami-Dade,Monroe,Miami-Dade
 Kyoto,Nara,Osaka,Minato,Fuji,Toyota,Osaka,Bunkyo,Fujikawaguchiko,Yokohama,Nakano
 Palm Beach,Orange,Osceola
@@ -24638,7 +24556,7 @@ New York
 Cambridgeshire,Westminster
 Combined statistics,Amsterdam
 Berlin,Visp,Paris
-Libertador,
+Libertador
 Genève
 Austur-Eyjafjallahreppur,Hafnarfjörður
 Jongro
@@ -25127,7 +25045,7 @@ Lisboa
 Lisboa
 Darmstadt
 Paris,Barcelona,Napoli
-Napoli,Latina,Roma,
+Napoli,Latina,Roma
 Roma
 Barcelona
 Napoli
@@ -25234,7 +25152,7 @@ Hà N?i
 New York
 Barcelona,Baleares
 Madrid
-Bouches-du-Rhône,Var,Alpes-Maritimes,
+Bouches-du-Rhône,Var,Alpes-Maritimes
 Seixal
 Var
 New York
@@ -25444,7 +25362,7 @@ Bologna
 Bologna
 Bologna
 Bologna
-Roma,
+Roma
 Westminster,Paris
 Entremont
 Santiago,Cordillera
@@ -25513,7 +25431,7 @@ Dane
 Dane
 Dane
 Dane
-Camden,Haarlemmermeer,Hackney,
+Camden,Haarlemmermeer,Hackney
 Southwark,Camden,Hackney
 Dane
 Dane
@@ -25609,7 +25527,7 @@ Paris
 Paris
 Paris
 Paris
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Paris
 Paris
@@ -25672,7 +25590,6 @@ Santafé de Bogotá
 Paris
 Ñuble,Santiago
 Salvaleón de Higüey
-
 Rosario,Malargüe
 Malargüe,San Rafael
 Miami-Dade
@@ -25799,7 +25716,6 @@ Lago Argentino
 Tübingen
 Tübingen
 Salvaleón de Higüey
-
 Oberbayern
 Westminster
 n.a540,n.a354,n.a351
@@ -26061,7 +25977,7 @@ Westminster
 Westminster,Buckinghamshire
 Westminster,Buckinghamshire,Westminster
 Roma
-Madaba,
+Madaba
 Fatih
 Attica
 Barcelona
@@ -26092,7 +26008,6 @@ Santafé de Bogotá
 Santafé de Bogotá
 Aquitania,Izá
 Santo Domingo Este,Salvaleón de Higüey
-
 Paris
 Paris
 New York
@@ -26308,7 +26223,7 @@ Distrito Federal
 New York,Kings,New York
 Greater Bombay
 Greater Bombay
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
 Alpes-Maritimes
@@ -26374,9 +26289,7 @@ Asunción
 Orange
 Paris
 San Andrés,Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Cozumel
 Miami-Dade
 Miami-Dade
@@ -26402,9 +26315,7 @@ Lisboa,Paris
 Salto del Guairá
 Barcelona
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Orange
 Orange,Clark
 Westchester,New York
@@ -26609,7 +26520,6 @@ Fairfield
 Oberbayern
 Panamá
 Salvaleón de Higüey
-
 Miami-Dade
 New York
 Dhuusamareeb
@@ -26635,9 +26545,7 @@ Sydney - Inner
 Ballina
 Paris
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Hillsborough,Orange
 Bayswater
 Perth
@@ -26868,7 +26776,7 @@ Valparaíso
 Broward
 Tinúm
 Benito Juárez,Miami-Dade
-Madrid,Hackney,Westminster,Camden,Kensington and Chelsea,Hillingdon,Roma,
+Madrid,Hackney,Westminster,Camden,Kensington and Chelsea,Hillingdon,Roma
 Santiago
 Madrid
 London,Kensington and Chelsea
@@ -26959,7 +26867,7 @@ Berlin
 Marin,Praha 1
 Bierun-Ledziny
 Kraków City
-Jerusalem,
+Jerusalem
 Jerusalem
 Krems an der Donau Land
 Paris
@@ -27246,7 +27154,6 @@ Manchester
 Tower Hamlets,Westminster
 Baleares
 Salvaleón de Higüey
-
 Paris
 Libertador
 Distrito Federal
@@ -27375,8 +27282,8 @@ Medellín
 Roma
 Puno
 n.a354
-Westminster,
-Kensington and Chelsea,Westminster,Paris,
+Westminster
+Kensington and Chelsea,Westminster,Paris
 Tower Hamlets,Westminster
 Westminster
 Kensington and Chelsea
@@ -27390,10 +27297,8 @@ Benito Juárez
 Duval
 Duval
 Salvaleón de Higüey
-
 Santafé de Bogotá
 Salvaleón de Higüey
-
 Duval
 Duval
 Delhi
@@ -27948,9 +27853,9 @@ Orange
 Pedro Domingo Murillo
 Cusco,Urubamba
 Andrés Ibáñez,El Loa
-Shah Alam,Sepang,Shah Alam,
+Shah Alam,Sepang,Shah Alam
 Badung,,Pathum Wan,Phra Nakhon,Kathu,Muang Krabi
-Muang Krabi,Kathu,Shah Alam,Gombak,Sepang,
+Muang Krabi,Kathu,Shah Alam,Gombak,Sepang
 Kathu
 Kathu
 Kathu
@@ -28014,7 +27919,6 @@ San Francisco
 Orange
 Florence,Siena
 Salvaleón de Higüey
-
 Distrito Federal
 Distrito Federal
 Benito Juárez
@@ -28163,7 +28067,6 @@ Paris
 Amsterdam
 Distrito Federal
 Salvaleón de Higüey
-
 Monroe
 Benito Juárez
 Madrid
@@ -28273,9 +28176,9 @@ Asunción
 Essex
 Belfast
 Amsterdam,Lisse,Berlin
-Praha 1,Praha 6,Wien,Venezia,Roma,
+Praha 1,Praha 6,Wien,Venezia,Roma
 Barcelona
-Porto,Vila Nova de Gaia,Paris,
+Porto,Vila Nova de Gaia,Paris
 Oberbayern
 Haarlemmermeer,,Paris,Camden,Kensington and Chelsea,Camden,Westminster,Lambeth
 Camden,Westminster,Lambeth,Camden,Westminster
@@ -28298,7 +28201,6 @@ Chanthabuly
 Miguel Hidalgo
 Distrito Federal
 Salvaleón de Higüey
-
 Seine-Saint-Denis
 Göteborg
 Paris
@@ -28325,7 +28227,7 @@ Essex
 Alpes-Maritimes,Paris
 Paris,Val-d'Oise,Vila Nova de Gaia,Porto,Lisboa
 Roma,Venezia
-Belfast,
+Belfast
 Orange,Clark,Orange
 Orange
 Orange
@@ -28404,7 +28306,7 @@ Orange
 Madrid
 Venezia
 Bologna
-Roma,
+Roma
 Amsterdam
 n.a351,n.a337
 n.a289
@@ -28618,7 +28520,6 @@ San Luis Potosí
 San Luis Potosí
 San Luis Potosí
 Salvaleón de Higüey
-
 Hillsborough
 Clay
 Clay
@@ -28695,7 +28596,7 @@ Orange,Miami-Dade
 n.a351,n.a339
 Los Angeles,Riverside,Clark
 San Francisco
-Val-d'Oise,
+Val-d'Oise
 Santafé de Bogotá,Kings,New York,Queens
 Queens,Santafé de Bogotá
 New York,Kings,Queens,Harris,Esteban Echeverría
@@ -28875,7 +28776,6 @@ Orange
 Orange
 Volusia
 Salvaleón de Higüey
-
 Paris
 Berlin
 Budapesti,Baleares
@@ -28945,14 +28845,13 @@ Paris
 Amsterdam
 Amsterdam,Haarlemmermeer
 Barcelona
-Cozumel,
+Cozumel
 Paris
 New York
 San Diego
 Orleans
 Distrito Nacional
 Salvaleón de Higüey
-
 Miami-Dade
 Miami-Dade
 Spotsylvania
@@ -28972,7 +28871,7 @@ Cook,Sangamon
 San Francisco,Orange
 Hauts-de-Seine,Paris
 Kensington and Chelsea,Westminster,Hertfordshire
-Roma,
+Roma
 Venezia
 Corfu,Ancona
 Kefallinia
@@ -29793,9 +29692,7 @@ n.a337,n.a351
 Distrito Federal
 Orange
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 New York
 New York
 Alpes-Maritimes
@@ -29879,7 +29776,6 @@ Salerno
 Lisboa
 Lisboa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 Garabito,Aguirre
 n.a351
@@ -29922,7 +29818,7 @@ Orange
 Orange
 Orange
 Distrito Federal
-Miami-Dade,
+Miami-Dade
 Miami-Dade
 Los Angeles
 Distrito Federal
@@ -30021,7 +29917,7 @@ Fatih
 Mealhada
 Orange
 Orange
-Greenwich,
+Greenwich
 Greenwich
 Bruxelles
 Paris
@@ -30291,7 +30187,7 @@ Clark,Los Angeles
 Milano,Venezia
 Milano
 Fort-de-France
-Pointe-à-Pitre,
+Pointe-à-Pitre
 Paris
 New York,Queens,New York
 Milano
@@ -30337,7 +30233,6 @@ Montgomery
 Norfolk
 Norfolk
 Salvaleón de Higüey
-
 Los Angeles
 Fairfax
 Palermo
@@ -30384,7 +30279,7 @@ Orange
 Lisboa
 Madrid,Barcelona
 Paris,Barcelona,Yvelines,Bruxelles
-Roma,
+Roma
 Venezia,Pisa,Camden,Tower Hamlets,Westminster
 Amsterdam,Lisboa,Seixal
 Amsterdam
@@ -30437,8 +30332,8 @@ Montijo
 Montijo
 Montijo
 Montijo
-Montijo,
-Montijo,
+Montijo
+Montijo
 Salto del Guairá
 Orange
 Santiago,Los Andes
@@ -30705,7 +30600,7 @@ Clark
 San Diego
 Los Angeles
 Westminster
-Roma,
+Roma
 Paris
 Westminster
 Hammersmith and Fulham
@@ -30737,7 +30632,6 @@ Oberbayern
 Miami-Dade
 Toronto
 Salvaleón de Higüey
-
 Orange
 Clark
 Orleans,New York
@@ -30833,7 +30727,7 @@ Roma
 Westminster
 Málaga
 n.a351,n.a354
-Roma,
+Roma
 Napoli,Florence
 Edinburgh
 Manchester
@@ -30841,7 +30735,7 @@ Manchester,Kensington and Chelsea,Westminster,Wiltshire
 Camden
 Baleares
 Shah Alam,Gombak
-Bang Kho Laem,Bang Rak,Ratchathewi,Sathorn,
+Bang Kho Laem,Bang Rak,Ratchathewi,Sathorn
 Hakone,Kyoto
 Porto Santo
 Westchester,Orange,Westchester
@@ -30929,7 +30823,7 @@ Guadalajara
 Miami-Dade
 Wiltshire,Camden,Westminster,Amsterdam,Berlin,Oberbayern,Venezia,Milano,Florence
 Florence,Roma
-Roma,
+Roma
 Roma,,Roma,Paris
 Barcelona,Lisboa,Seixal
 Madrid
@@ -31098,7 +30992,7 @@ Honolulu,Maui,Kauai
 Honolulu,Maui,Kauai,Honolulu
 Honolulu
 Clark
-Essex,
+Essex
 Westminster,Cambridgeshire,West Sussex,Combined statistics,Amsterdam
 West Sussex,Combined statistics,Amsterdam,Haarlemmermeer,Berlin,Visp,Genève,Paris
 New York
@@ -31541,7 +31435,7 @@ Valparaíso
 Santiago
 Distrito Federal
 Paris
-Roma,
+Roma
 Lisboa
 New York
 Santiago
@@ -31655,7 +31549,7 @@ Stranda
 Almería
 Roma
 Napoli
-Girona,
+Girona
 Messina
 Fort-de-France
 Sankt-Peterburg gorsovet
@@ -31930,7 +31824,6 @@ Miami-Dade
 Eagle
 Collier
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 San Rafael del Yuma
 El Loa
@@ -32031,9 +31924,7 @@ Cusco
 Santiago
 Monroe
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Hernandarias
 Essex,Seneca,Cayuga
 Cayuga
@@ -32151,7 +32042,6 @@ Orange
 Orange
 Distrito Federal
 Salvaleón de Higüey
-
 Miami-Dade,Orange
 Santiago,Valparaíso,Cordillera
 New York
@@ -32337,8 +32227,8 @@ Greater Bombay,Varanasi
 Clark
 Clark
 San Francisco,Miami-Dade
-Edinburgh,Glasgow,
-Tower Hamlets,Southwark,Westminster,Oxfordshire,
+Edinburgh,Glasgow
+Tower Hamlets,Southwark,Westminster,Oxfordshire
 Reykjavík,Oslo,Stockholm,Uusimaa,Tallinn
 Vilniaus,Warsaw,Bierun-Ledziny,Kraków City,Combined statistics
 Distrito Federal
@@ -32508,9 +32398,7 @@ Westminster,Kensington and Chelsea,Camden,Westminster
 Paris
 Paris
 Salvaleón de Higüey
-
 New York,Salvaleón de Higüey
-
 New York
 Santiago,Valparaíso
 n.a354
@@ -32604,9 +32492,7 @@ Randburg,Brits
 Randburg,Brits,Port Elizabeth,Humansdorp,Knysna
 Kuils River,Goodwood
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Naucalpan de Juárez,Gustavo A. Madero
 Santiago,Cordillera
 Paris
@@ -32682,9 +32568,7 @@ Asunción
 San Fernando
 Benito Juárez
 Panamá,Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Distrito Federal,Capital,Luján de Cuyo
 n.a354
 New York
@@ -32892,9 +32776,7 @@ Benito Juárez
 Douglas,Carson City,Los Angeles
 New York
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 New York
 Cordillera
 Roma
@@ -32990,7 +32872,7 @@ Toronto
 Toronto
 Cook
 New York
-Roma,
+Roma
 Hudson,New York
 New York
 New York
@@ -33201,7 +33083,7 @@ Miami-Dade
 Praha 1
 Paris
 Pune,Raigarh,Pune
-Pune,Greater Bombay,
+Pune,Greater Bombay
 Roma
 Corfu
 Distrito Federal
@@ -33227,7 +33109,7 @@ Montgomery
 Uusimaa
 Combined statistics
 Combined statistics
-Miami-Dade,
+Miami-Dade
 Broward,Miami-Dade
 New York
 New York,Queens
@@ -33418,8 +33300,8 @@ Alpes-Maritimes
 Westminster
 Alpes-Maritimes,Var
 Alpes-Maritimes
-Alpes-Maritimes,Cuneo,
-Paris,Alpes-Maritimes,
+Alpes-Maritimes,Cuneo
+Paris,Alpes-Maritimes
 Paris,Cuneo
 Alpes-Maritimes
 Alpes-Maritimes
@@ -34028,7 +33910,6 @@ Praha 3
 Barcelona
 Orange
 Panamá,Salvaleón de Higüey
-
 Santiago
 Durham
 Broward,Palm Beach,Orange,Broward
@@ -34095,7 +33976,7 @@ San Francisco
 New York
 Miami-Dade,Broward
 Broward,Miami-Dade
-Broward,
+Broward
 Kohat
 Kohat
 Bournemouth
@@ -34448,7 +34329,7 @@ Paris
 Paris
 Allier
 Allier
-Westminster,
+Westminster
 Amsterdam
 Berlin,Praha 1
 Split
@@ -34460,7 +34341,6 @@ Berlin
 Santiago
 Distrito Federal
 Salvaleón de Higüey
-
 Paris,Westminster,Val-d'Oise
 Amsterdam,West-Vlaanderen
 Puno
@@ -34843,9 +34723,7 @@ Sydney - Inner,Blacktown - South-East,Sydney - Inner
 Blacktown - South-East,Sydney - Inner,Manly
 Waverley
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Milano
 Sandefjord
 Skien
@@ -34900,9 +34778,7 @@ Düsseldorf
 Düsseldorf
 Miami-Dade
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Capital
 Orange
 Miami-Dade,Cozumel
@@ -35649,7 +35525,6 @@ Bastrop
 Bastrop,Miami-Dade
 Clark
 Salvaleón de Higüey
-
 Paris
 Orange
 Paris
@@ -35744,7 +35619,7 @@ Andrés Ibáñez
 Muang Krabi
 Capital
 Barcelona
-Amsterdam,Haarlemmermeer,
+Amsterdam,Haarlemmermeer
 Imperia,Alpes-Maritimes
 Barcelona
 Hillingdon,Barcelona
@@ -35825,7 +35700,7 @@ Hà N?i,Phnom Penh
 Badung
 Siem Reab
 Badung
-Don Muang,
+Don Muang
 Bariloche
 Venezia
 n.a289
@@ -35865,7 +35740,6 @@ Roma
 Distrito Federal,Esteban Echeverría
 New York,Kings,Hudson
 Salvaleón de Higüey
-
 Distrito Federal
 Kings
 Paris
@@ -36003,7 +35877,7 @@ Seixal,Lisboa
 Madrid
 Oeiras
 Central
-San Francisco,Orange,Parkes,Fthiotis,York,Los Angeles,Distrito Federal,
+San Francisco,Orange,Parkes,Fthiotis,York,Los Angeles,Distrito Federal
 Brevard,Libertador
 Esparza,Tarrant,Seixal,Division No. 15
 Attica
@@ -36051,7 +35925,6 @@ Florence
 Miami-Dade
 Bariloche
 Salvaleón de Higüey
-
 Paris
 Paris
 Distrito Federal
@@ -36188,10 +36061,10 @@ Distrito Federal
 Paris
 Miami-Dade
 Miami-Dade
-Miami-Dade,
+Miami-Dade
 Miami-Dade
 Alpes-Maritimes
-Var,
+Var
 Miami-Dade
 Iguazú
 Manly
@@ -36297,7 +36170,7 @@ San Fernando
 San Fernando
 Madrid
 Hammersmith and Fulham
-Hillingdon,
+Hillingdon
 Beijing
 Siena
 New York
@@ -36705,7 +36578,6 @@ Baleares
 Salvaleón de Higüey
 Isla Saona
 Salvaleón de Higüey
-
 New York
 London
 Amsterdam
@@ -37107,7 +36979,6 @@ Paris,Miami-Dade
 Los Angeles
 Verona,Bologna,Florence
 Salvaleón de Higüey
-
 Valparaíso
 Santiago,Cordillera
 Berlin
@@ -37214,7 +37085,7 @@ Obispo Santistevan
 New York,Orange,New York,Hudson,Orange
 New York,Hudson,Orange,New York
 Orange,New York
-Santiago,
+Santiago
 Miami-Dade,Broward,Miami-Dade,Clark,Mohave
 San Francisco
 Iguazú
@@ -37284,7 +37155,7 @@ Orange
 New York
 Luzern
 Niedersimmental,Visp,Pays-d'Enhaut,Genève,Amsterdam
-Westminster,
+Westminster
 Attica
 Westminster,Hillingdon
 Division No. 11
@@ -37360,7 +37231,7 @@ Melipilla
 Paris
 Salerno
 Paris
-Roma,
+Roma
 Paris
 Attica
 Cyclades
@@ -37406,7 +37277,7 @@ Paris,Antwerpen
 Antwerpen,Paris,Val-d'Oise
 Baleares
 Antwerpen
-Antwerpen,
+Antwerpen
 Bariloche
 Bariloche
 Iguazú
@@ -37465,7 +37336,7 @@ Distrito Federal
 Travis
 Distrito Federal
 Cordillera
-Richmond upon Thames,London,
+Richmond upon Thames,London
 Barcelona
 Barcelona
 Paris
@@ -37633,7 +37504,7 @@ Iguazú
 Camden
 Paris,Milano,Verona
 Venezia
-Florence,Siena,Prato,Roma,
+Florence,Siena,Prato,Roma
 Clark
 Brevard,Orange
 Paris
@@ -37657,7 +37528,7 @@ Nairobi,Narok,Nairobi
 Narok,Nairobi,Machakos
 Torino
 Torino,La Spezia
-Amsterdam,
+Amsterdam
 Torino,Amsterdam
 Westminster,Hillingdon,Kensington and Chelsea
 Jakarta Selatan
@@ -37879,7 +37750,7 @@ Goodwood
 Goodwood
 Los Angeles
 Monroe
-Dubrovnik,Hvar,Split,Roma,
+Dubrovnik,Hvar,Split,Roma
 Venezia
 Milano
 New York
@@ -38224,7 +38095,7 @@ Central,Sankt-Peterburg gorsovet
 Alpes-Maritimes
 Darmstadt
 Alpes-Maritimes
-Alpes-Maritimes,
+Alpes-Maritimes
 Alpes-Maritimes
 Chiyoda
 Oyama,Atsugi,Nagoya,Kyoto
@@ -38431,9 +38302,7 @@ Los Angeles
 San Francisco
 New York
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 New York,Monmouth
 New York
 Arequipa
@@ -38464,11 +38333,9 @@ Miami-Dade
 Los Angeles
 Summit
 Randburg,Goodwood,Simon Town,Stellenbosch,Phalaborwa,Randburg,Fatih,Beyoglu,Merkez,Avanos
-
 Hà N?i,Qu?ng Ninh,H? Chí Minh city
 Siem Reab,Puok,Muang Krabi,Ko Samui,Ko Phangan,Phra Nakhon
 Salvaleón de Higüey
-
 Salvaleón de Higüey
 Isla Saona
 Monterey
@@ -38490,7 +38357,7 @@ Orange,San Francisco
 San Mateo
 n.a351
 Barcelona,Baleares
-Roma,
+Roma
 Hauts-de-Seine,Paris
 Paris
 Miami-Dade,Orange
@@ -38529,7 +38396,7 @@ Paris
 Paris,Seine-et-Marne,Paris,Camden
 Camden
 Westminster
-Westminster,
+Westminster
 Roma
 Attica
 Praha 6
@@ -38858,7 +38725,6 @@ Toronto
 Toronto,Niagara
 Berlin
 Salvaleón de Higüey
-
 Fatih
 Greater Vancouver
 Communauté-Urbaine-de-Québec
@@ -38983,9 +38849,7 @@ Salamanca
 Salamanca
 Vizcaya
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Nsikazi
 King,New York
 King
@@ -39168,11 +39032,8 @@ Hillsborough,Orange
 Hillsborough
 Hillsborough
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Suffolk,Worcester,Middlesex
 Suffolk
 Queens,Montgomery,Baltimore
@@ -39268,7 +39129,7 @@ n.a351
 San Francisco
 San Diego
 Fatih,Pasay City,Manila,Malay
-Badung,Tabanan,Gianyar,
+Badung,Tabanan,Gianyar
 Manila
 Distrito Federal
 Jerusalem
@@ -39373,9 +39234,7 @@ Communauté-Urbaine-de-Montréal
 n.a351
 Barcelona,Madrid
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Siena,Roma
 Florence,Perugia,Roma
 Siena,Florence
@@ -39421,7 +39280,7 @@ Santiago
 Haarlemmermeer,Manchester,Merseyside
 Manchester
 Manchester,Southwark,Westminster
-Roma,Manchester,
+Roma,Manchester
 Manchester
 Chiltiupán
 Ciudad Arce,Tamanique
@@ -39466,7 +39325,6 @@ Los Andes,Santiago
 New York,Broward
 Miami-Dade
 Salvaleón de Higüey
-
 Iguazú
 Santiago
 Santiago
@@ -39572,7 +39430,7 @@ King
 King
 King
 La Romana
-Tower Hamlets,Westminster,
+Tower Hamlets,Westminster
 Westminster,Hammersmith and Fulham,Paris
 Paris
 New York
@@ -39899,9 +39757,7 @@ Paris
 Westminster
 Paris
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 New York
 New York
 Honolulu
@@ -40262,7 +40118,7 @@ Bagmati,Bang Kho Laem
 Gandaki,Bagmati,Lamgong,Chang,Kawang,Guma,Talo
 Agra,Delhi,Jaipur,Udaipur,Jaipur,Agra
 Udaipur,Ajmer,Delhi,Udaipur,Ajmer,Varanasi,Agra,Dambulla,Palugaswewa
-Delhi,Udaipur,Ajmer,Varanasi,Agra,Dambulla,Palugaswewa,K.F.G. & G. Korale,Ambagamuwa,Nuwara Eliya,Thissamaharama,Thimbirigasyaya,
+Delhi,Udaipur,Ajmer,Varanasi,Agra,Dambulla,Palugaswewa,K.F.G. & G. Korale,Ambagamuwa,Nuwara Eliya,Thissamaharama,Thimbirigasyaya
 Dusit,Bang Rak,Khlong San,Sathorn,Phra Nakhon,Pathum Wan,Pom Pram Sattru,H? Chí Minh city,Bà R?a - Vung Tàu,H? Chí Minh city,Hà N?i,Lào Cai
 Louangphrabang,Chomphet,Park Ou,Vangvieng,Chanthabuly,Sisattanak
 Shah Alam,Langkawi,Timur Laut,Shah Alam
@@ -40292,7 +40148,7 @@ Clark
 Marrakech,Al Haouz,Porto
 Marrakech
 San Francisco,Contra Costa,Napa
-Miami-Dade,
+Miami-Dade
 Roma,Florence,Arezzo,Siena,Roma
 Napoli
 Roma
@@ -40381,7 +40237,7 @@ Florence,Pisa,Lucca,Siena
 Pisa,Lucca,Siena,La Spezia,Bari
 Siena,La Spezia,Bari,Napoli
 Napoli
-Napoli,Roma,Salerno,
+Napoli,Roma,Salerno
 Roma
 Roma
 Florence
@@ -40681,7 +40537,6 @@ Amsterdam
 Cook
 Cook
 Salvaleón de Higüey
-
 New York
 Bergen
 Bergen
@@ -40750,7 +40605,6 @@ District of Columbia
 Distrito Federal
 New York
 Salvaleón de Higüey
-
 Rhône
 Rhône
 Rhône
@@ -40921,7 +40775,7 @@ Dubrovnik
 Paris
 Salerno
 Broward
-Rainville,
+Rainville
 Las Matas de Farfan
 Osceola
 Dallas,Tarrant
@@ -40973,7 +40827,7 @@ Capital
 Capital
 Capital
 New York
-New York,
+New York
 Iguazú
 Madrid,Porto
 Gironde
@@ -41321,7 +41175,6 @@ Los Angeles
 Fulton
 Clayton
 Salvaleón de Higüey
-
 Sevilla,Cádiz
 Barcelona
 Barcelona
@@ -41466,7 +41319,7 @@ Lima
 Durham
 Toronto
 Paris
-Roma,
+Roma
 Messina
 Messina,Agrigento
 Agrigento,Palermo
@@ -41521,7 +41374,6 @@ Torbay
 Hauts-de-Seine
 Paris
 Salvaleón de Higüey
-
 Sankt-Peterburg gorsovet
 Orange
 Miami-Dade
@@ -41903,7 +41755,7 @@ Distrito Federal
 Distrito Federal
 Distrito Federal
 Moyle,Belfast
-Orange,
+Orange
 Oxfordshire
 Oxfordshire
 Kensington and Chelsea,Westminster
@@ -42028,9 +41880,9 @@ Amsterdam
 Bruxelles,Amsterdam
 Milano,Venezia,Roma
 Barcelona
-Milano,
+Milano
 Barcelona
-Venezia,Roma,
+Venezia,Roma
 Federico Román
 Faro
 n.a6
@@ -42357,7 +42209,6 @@ Capital
 Asunción
 San Lorenzo
 Salvaleón de Higüey
-
 Paris
 Paris
 Camden
@@ -43048,7 +42899,7 @@ New York
 New York
 Orange
 Porto
-Paris,Roma,
+Paris,Roma
 Cascais
 Los Angeles,Clark,Sacramento
 Los Angeles
@@ -43096,7 +42947,7 @@ Paris
 Southwark,Camden,Kensington and Chelsea
 London
 Hillingdon
-Roma,
+Roma
 Roma
 Westminster,Hammersmith and Fulham
 Westminster,London,Kensington and Chelsea,Camden
@@ -43129,7 +42980,7 @@ Kensington and Chelsea
 Oxfordshire
 Hackney,Hillingdon
 Genève
-Camden,Hillingdon,
+Camden,Hillingdon
 Hillingdon,Berlin,Westminster
 Bath and North East Somerset
 Camden
@@ -43251,7 +43102,7 @@ Amsterdam
 Paris
 Paris
 Clark,Mohave,Los Angeles
-Haarlemmermeer,
+Haarlemmermeer
 Bratislava I
 Lima
 Darmstadt
@@ -43265,7 +43116,7 @@ Ushuaia,Distrito Federal
 Zürich
 Cusco
 Baleares
-Roma,
+Roma
 Bethlehem
 Distrito Federal
 Madrid
@@ -43316,10 +43167,10 @@ DeKalb
 Orange
 Merkez
 Amsterdam
-Amsterdam,
+Amsterdam
 Amsterdam
 Amsterdam,,Wijdemeren
-Panamá,
+Panamá
 Amsterdam
 Jangamo
 Jangamo
@@ -43429,7 +43280,7 @@ New York
 New York
 Waltham Forest
 Paris
-Westminster,
+Westminster
 Islington
 Westminster
 Westminster,Camden,Westminster,Newham
@@ -43805,7 +43656,6 @@ Orange
 Amsterdam
 Paris
 Salvaleón de Higüey
-
 Santiago,Valparaíso
 Miami-Dade
 Orange,Miami-Dade
@@ -43814,9 +43664,8 @@ Auburn,Sydney - Inner
 Sydney - Inner
 Burwood
 Milano
-Val-d'Oise,
+Val-d'Oise
 Salvaleón de Higüey
-
 New York
 Clark
 Los Angeles
@@ -43911,9 +43760,7 @@ Goodwood
 Meekatharra
 Phalaborwa
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Napa
 Monterey
 n.a351
@@ -44019,9 +43866,7 @@ New York
 Division No. 11
 Distrito Federal
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris
 Paris,Amsterdam
 Paris
@@ -44221,7 +44066,7 @@ Milano
 Milano
 Milano
 Westminster,London,Hackney,Westminster
-Hackney,
+Hackney
 Iguazú
 's-Gravenhage,Amsterdam
 Cordillera
@@ -44255,7 +44100,6 @@ Cusco
 Cusco
 Orange
 Salvaleón de Higüey
-
 Miami-Dade,Orange
 Orange,Hillsborough
 Harris
@@ -44332,7 +44176,7 @@ Valparaíso
 n.a12
 New York
 Pauri Garhwal
-Pauri Garhwal,
+Pauri Garhwal
 Badung
 Paris,Yvelines
 Westminster
@@ -44652,7 +44496,7 @@ Distrito Federal
 Distrito Federal
 Bariloche
 Bariloche
-Florence,Roma,
+Florence,Roma
 Distrito Federal
 Santiago,Capital
 Paris,Amsterdam,Wester-Koggenland,Zürich,Horgen,Baden
@@ -44842,7 +44686,7 @@ Alpes-Maritimes
 La Capital
 Isla Mujeres,Cozumel,Benito Juárez
 Tres de Febrero
-Roma,Napoli,Florence,Venezia,Milano,Roma,
+Roma,Napoli,Florence,Venezia,Milano,Roma
 New York
 New York
 Morón
@@ -44851,7 +44695,7 @@ Orange
 Orange
 Orange
 Warsaw
-Warsaw,
+Warsaw
 Warsaw
 Ürgüp,Besiktas,Beyoglu
 Westminster,Camden
@@ -44881,12 +44725,10 @@ Greenwich
 London
 Utrecht
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Oberbayern,Schwaben
 Schwaben,Oberbayern
-Roma,
+Roma
 Schwaben
 Brig
 Camden
@@ -44934,13 +44776,12 @@ Miami-Dade
 Napa
 Ñuble
 Salvaleón de Higüey
-
 Hammersmith and Fulham
 Paris
 Cordillera,Ñuble
 Ñuble
 Miami-Dade
-Paris,Roma,
+Paris,Roma
 Roma
 Ñuble
 Paris,Westminster
@@ -45031,7 +44872,7 @@ Clark
 Santafé de Bogotá,San Andrés
 New York
 Orange
-Alpes-Maritimes,
+Alpes-Maritimes
 Paris,Florence
 Barcelona
 Barcelona
@@ -45294,7 +45135,7 @@ Osceola,Orange,Osceola,Hillsborough
 Paris,Indre-et-Loire,Paris,Yvelines,Loir-et-Cher,Indre-et-Loire,Praha 2,Praha 1,Praha 6
 Summit
 Badung
-Badung,
+Badung
 Bayside  - Brighton
 Distrito Federal
 Amsterdam
@@ -45338,12 +45179,10 @@ Milano
 Milano
 Marion
 Salvaleón de Higüey
-
 Cook,Miami-Dade
 Distrito Federal
 Orange
 Salvaleón de Higüey
-
 Ciudad del Este
 New York,Queens,Bronx,Hudson,Kings
 Benito Juárez
@@ -45383,7 +45222,7 @@ Delhi
 Stockholm
 Azilal,Paris
 Chanthabuly
-Bagmati,
+Bagmati
 Roma
 Nakano
 Paris
@@ -45484,7 +45323,7 @@ Marmaris
 Porto
 Paris
 Berlin
-Roma,Darmstadt,
+Roma,Darmstadt
 Amsterdam,Paris
 Paris
 Amsterdam
@@ -45783,7 +45622,6 @@ Barcelona
 Barcelona
 Barcelona
 Salvaleón de Higüey
-
 Barcelona
 Berlin
 Berlin
@@ -45958,9 +45796,7 @@ Los Angeles
 Cuyahoga
 Cook,Dupage
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Westminster,Camden
 West Sussex
 West Sussex
@@ -45998,7 +45834,6 @@ Distrito Federal
 Benito Juárez
 Benito Juárez,Valladolid
 Panamá,Salvaleón de Higüey
-
 Distrito Federal
 Santiago
 Santiago
@@ -46056,7 +45891,7 @@ Merseyside
 Merseyside
 Merseyside
 Gironde
-Florence,Roma,
+Florence,Roma
 New York
 Paris
 Barcelona
@@ -46149,7 +45984,7 @@ Teramo
 Teramo
 Teramo
 Pescara
-Roma,
+Roma
 West Yorkshire
 West Yorkshire
 Henry
@@ -46330,7 +46165,6 @@ Cordillera
 Urubamba
 Callao
 Salvaleón de Higüey
-
 n.a351,n.a332
 Miami-Dade
 Miami-Dade
@@ -46581,7 +46415,7 @@ n.a328
 n.a351
 Distrito Federal
 Iguazú
-Orange,
+Orange
 Orange,Broward,Orange
 Amsterdam
 Barcelona
@@ -46613,7 +46447,6 @@ New York
 Tigre
 New York
 Salvaleón de Higüey
-
 Panamá
 n.a289
 El Dorado
@@ -46656,8 +46489,8 @@ Santiago
 Paris
 Cook
 Distrito Federal
-Roma,
-Roma,
+Roma
+Roma
 New York
 Clark
 Santiago
@@ -46746,7 +46579,7 @@ Bergen
 New York
 Phra Nakhon
 Ko Phangan,Muang Krabi
-Phra Nakhon,
+Phra Nakhon
 Phra Nakhon
 Middlesex
 New York
@@ -46776,7 +46609,7 @@ Distrito Federal
 Distrito Federal
 Distrito Federal
 Distrito Federal
-Milano,Roma,
+Milano,Roma
 Roma,Florence,Roma,Milano
 Paris
 Paris
@@ -47053,12 +46886,10 @@ Los Angeles
 Los Angeles
 Los Angeles
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Venezia
 Distrito Federal
-Corfu,
+Corfu
 Roma
 Cyclades,Corfu,Fatih,Miami-Dade
 Westminster
@@ -47172,7 +47003,7 @@ Madrid,Westminster
 Southwark
 Iguazú
 Roma
-Berkshire,Westminster,
+Berkshire,Westminster
 Paris
 Berkshire
 Westminster
@@ -47192,7 +47023,7 @@ Lisboa
 Gyeongju
 Gyeongju
 Shah Alam
-Shah Alam,
+Shah Alam
 Oropeza
 Cusco
 Havlíckuv Brod
@@ -47235,9 +47066,7 @@ Port-au-Prince
 Port-au-Prince
 n.a337
 La Romana,Salvaleón de Higüey
-
 La Romana,Salvaleón de Higüey
-
 Miami-Dade
 Orange
 Orange,Miami-Dade
@@ -47345,9 +47174,7 @@ Stavanger
 Los Angeles
 Orange
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Teton
 Yellowstone
 Toronto
@@ -47617,7 +47444,7 @@ Paris,Yvelines,Paris
 Paris
 Paris
 Miami-Dade
-Phra Nakhon,Bang Rak,
+Phra Nakhon,Bang Rak
 Shah Alam
 Badung
 Phra Nakhon
@@ -47684,12 +47511,12 @@ Darmstadt,Mittelfranken
 Camden
 Westminster
 Orange
-Budapesti,
+Budapesti
 Budapesti
 Belfast,Moyle
 Barcelona
 Amsterdam,Lisse,Amsterdam
-West-Vlaanderen,
+West-Vlaanderen
 Sankt-Peterburg gorsovet
 Stockholm
 Belfast
@@ -47781,7 +47608,7 @@ Haarlemmermeer
 Jinhua
 New York
 New York
-Jinhua,
+Jinhua
 Jinhua
 New York
 Jinhua
@@ -47992,7 +47819,6 @@ Andrés Ibáñez
 Andrés Ibáñez
 Cercado
 Salvaleón de Higüey
-
 Hammersmith and Fulham
 Distrito Federal,Vicente López
 Los Angeles
@@ -48245,7 +48071,6 @@ Napoli
 Bratislava II
 Berlin
 Salvaleón de Higüey
-
 New York,Cook
 Barcelona,Madrid
 Lisboa
@@ -48265,13 +48090,13 @@ Madrid
 Madrid
 Valencia
 Toledo
-Madrid,
+Madrid
 Westminster
 Ouarzazate
 Toledo
 Toledo
 Toledo
-Roma,
+Roma
 Florence,Venezia
 West-Vlaanderen
 Amsterdam,Paris
@@ -48335,7 +48160,7 @@ Orange
 Iguazú
 Madrid,Barcelona
 Paris,Ille-et-Vilaine,Manche,Calvados,Enfield,Tower Hamlets,Westminster,London,Brent,Camden,West Sussex,Kensington and Chelsea,Westminster,Amsterdam,Haarlemmermeer,Berlin
-Camden,West Sussex,Kensington and Chelsea,Westminster,Amsterdam,Haarlemmermeer,Berlin,Roma,
+Camden,West Sussex,Kensington and Chelsea,Westminster,Amsterdam,Haarlemmermeer,Berlin,Roma
 Roma,,Madrid
 Madrid
 Paris
@@ -48398,7 +48223,6 @@ Iguazú
 Kensington and Chelsea
 Orange
 Salvaleón de Higüey
-
 Distrito Federal
 Kensington and Chelsea
 Florence
@@ -48764,7 +48588,6 @@ Cordillera
 Cozumel
 Seixal
 Salvaleón de Higüey
-
 Miami-Dade
 Miami-Dade
 Osaka
@@ -48790,7 +48613,7 @@ Distrito Federal
 Queens
 Clark
 Brandenburg
-Benito Juárez,Isla Mujeres,
+Benito Juárez,Isla Mujeres
 Miami-Dade
 Clark,Honolulu,Hawaii
 Cozumel
@@ -48954,7 +48777,6 @@ Kent,Amsterdam
 ísla de Pascua
 ísla de Pascua
 Salvaleón de Higüey
-
 Miami-Dade,New York,Genève
 Genève,Essex
 New York
@@ -49038,14 +48860,10 @@ Cyclades
 Paris
 Barcelona
 Salvaleón de Higüey
-
 San Rafael del Yuma
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Paris
 Karpo
 San Francisco,San Mateo
@@ -49142,8 +48960,8 @@ Sankt-Peterburg gorsovet
 Lisboa
 Paris
 Paris
-Paris,Aude,Barcelona,Alpes-Maritimes,
-Liège,
+Paris,Aude,Barcelona,Alpes-Maritimes
+Liège
 Paris
 Westminster,Hammersmith and Fulham,Camden
 Florence,Venezia,Milano
@@ -49402,7 +49220,7 @@ Madrid
 Salerno
 Los Angeles,Philadelphia,New York
 Miami-Dade,,Broward
-Broward,
+Broward
 Miami-Dade
 Delhi,Gurgaon,Agra
 Nakano
@@ -49426,7 +49244,7 @@ San Diego
 Kensington and Chelsea
 Tower Hamlets
 Paris
-Roma,
+Roma
 Westminster
 Cambridgeshire,Cheshire
 Cambridgeshire
@@ -49860,9 +49678,7 @@ Alpes-Maritimes
 Alpes-Maritimes
 Iguazú
 Miami-Dade,Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Distrito Federal
 Distrito Federal
 San Diego
@@ -50016,7 +49832,6 @@ New York
 Clark
 San Francisco
 Salvaleón de Higüey
-
 Berlin
 Santa Barbara
 Santa Barbara,Los Angeles
@@ -50080,7 +49895,7 @@ Westminster
 Amsterdam
 Hérault
 Camden
-Monroe,Miami-Dade,
+Monroe,Miami-Dade
 Miami-Dade,,Miami-Dade,Monroe
 Monroe
 Miami-Dade
@@ -50143,7 +49958,6 @@ Kensington and Chelsea,Hammersmith and Fulham,Westminster,London,Hackney,Camden,
 Praha 1
 Santiago,Cordillera,Distrito Federal
 Distrito Nacional,Salvaleón de Higüey
-
 Miami-Dade
 Santiago
 Santafé de Bogotá
@@ -50390,7 +50204,7 @@ Oostzaan
 Oostzaan
 Paris,Alpes-Maritimes,Rovinj,Pula
 Alpes-Maritimes,Rovinj,Pula,Alpes-Maritimes
-Pula,Alpes-Maritimes,
+Pula,Alpes-Maritimes
 Alpes-Maritimes
 Ingham
 Orange
@@ -50415,7 +50229,7 @@ Jaén,Granada
 Segovia,Madrid
 Barcelona
 Barcelona
-Seixal,Roma,
+Seixal,Roma
 Barcelona
 Porto
 Madrid,Lisboa,Seixal
@@ -50466,7 +50280,7 @@ Zapreic
 Oberbayern
 Zagreb,Zapreic,Dubrovnik,Dubrovacko Primorje
 Venezia,Roma
-Roma,
+Roma
 Palilula,Zemun,Zapreic
 Budapesti,Wien,Bratislava I,Praha 1,Dubrovnik,Venezia,Zagreb,Zapreic
 Praha 1,Dubrovnik,Venezia,Zagreb,Zapreic,Venezia
@@ -50598,9 +50412,7 @@ New York
 New York
 New York
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Sisli
 Oslo
 Selje,Oslo
@@ -50635,7 +50447,6 @@ Houston
 Paris
 Osceola,Orange,Hillsborough,Orange
 Salvaleón de Higüey
-
 Orange
 Besiktas
 Cuauhtémoc,La Paz
@@ -50829,7 +50640,6 @@ Distrito Federal
 Distrito Federal
 Braga
 Salvaleón de Higüey
-
 New York
 New York
 New York
@@ -51013,7 +50823,7 @@ Santiago,Cordillera,Santiago,Cordillera
 Cordillera
 n.a540,n.a351,n.a354
 Madrid,Barcelona
-Roma,Barcelona,
+Roma,Barcelona
 Paris
 Andrés Ibáñez
 Distrito Federal
@@ -51200,7 +51010,6 @@ Santiago,Distrito Federal
 Distrito Federal
 Distrito Federal
 Salvaleón de Higüey
-
 King,Fairbanks North Star
 Fairbanks North Star
 Anchorage,King
@@ -51389,7 +51198,7 @@ Cuauhtémoc
 Benito Juárez
 Miami-Dade,Orange,Miami-Dade,Toronto
 Santiago,Cordillera,Valparaíso
-Miami-Dade,Broward,
+Miami-Dade,Broward
 Broward
 Milano,Paris,Varese,Yvelines,Venezia,Florence,Roma,,Westminster,Camden,London,Kensington and Chelsea,Tower Hamlets
 Paris,Westminster
@@ -51417,7 +51226,7 @@ Amsterdam
 La Huerta
 General Pueyrredón,Distrito Federal
 Distrito Federal
-New York,
+New York
 Distrito Federal
 Miami-Dade
 Miami-Dade
@@ -51552,7 +51361,7 @@ Santiago
 Paris
 Paris
 Westminster,,Camden
-Westminster,,Camden,
+Westminster,,Camden
 Camden
 Westminster,Paris,Kensington and Chelsea,Camden
 Central
@@ -51564,9 +51373,7 @@ Rosario
 Rosario
 Distrito Federal
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 San Rafael del Yuma
 San Francisco
 Los Angeles
@@ -51615,7 +51422,7 @@ Paris
 Paris
 Suffolk
 New York
-Zone 1,
+Zone 1
 Denver,Los Angeles
 Shelby
 Jefferson,Lake
@@ -51813,7 +51620,6 @@ Budapesti
 Warsaw,Praha 1
 District of Columbia,Suffolk,Loudoun
 Salvaleón de Higüey
-
 New York,Miami-Dade
 Haute-Savoie,Genève
 Santa Barbara
@@ -51945,7 +51751,6 @@ n.a351
 n.a351,n.a354
 Paris
 Salvaleón de Higüey
-
 Orange
 Orange
 Pinellas
@@ -52020,7 +51825,7 @@ Los Angeles
 Wayne
 Saginaw,Lake Michigan,Wayne
 Lake Michigan,Wayne,Clayton
-Haarlemmermeer,
+Haarlemmermeer
 Los Angeles
 San Francisco
 Los Angeles
@@ -52198,7 +52003,6 @@ Hà N?i
 Ko Phangan
 Bologna
 Ocumare de la Costa de Oro
-
 Camden
 Camden
 Seine-et-Marne
@@ -52294,7 +52098,6 @@ Tromsø
 Cozumel
 Los Angeles
 Salvaleón de Higüey
-
 Winnebago
 Winnebago
 n.a351
@@ -52331,7 +52134,7 @@ San Francisco
 Los Angeles
 Los Angeles
 Göteborg
-Roma,
+Roma
 Oberbayern
 Distrito Federal
 Los Angeles
@@ -52383,7 +52186,6 @@ New York,Westminster
 Milano
 Verona,Milano,Paris,Bruxelles
 Salvaleón de Higüey
-
 Cook
 Cook,Clark
 San Francisco
@@ -52413,9 +52215,7 @@ San Francisco
 West-Vlaanderen
 Amsterdam
 Salvaleón de Higüey
-
 Salvaleón de Higüey
-
 Distrito Federal
 Distrito Federal
 Distrito Federal
@@ -52579,7 +52379,7 @@ Dallas
 Paris
 Jefferson
 Paris
-Sochi gorsovet,
+Sochi gorsovet
 Stephens
 New York
 New York
@@ -52787,7 +52587,7 @@ n.a289
 Madrid
 Barcelona
 Pontevedra
-Lleida,
+Lleida
 Porto
 Santa Barbara
 Distrito Federal
@@ -53086,7 +52886,7 @@ Santiago,Maipo
 Valparaíso
 Miami-Dade,Clark
 Miami-Dade,Cook
-Broward,
+Broward
 Miami-Dade
 Orange
 Benito Juárez,Isla Mujeres
@@ -53102,7 +52902,7 @@ A Coruña,Porto
 Magnesia,Attica
 Barcelona
 Fthiotis
-Barcelona,Baleares,Barcelona,Roma,
+Barcelona,Baleares,Barcelona,Roma
 Baleares
 Barcelona
 Magnesia
@@ -53208,7 +53008,7 @@ Roma
 Rimini
 Rimini
 Milano
-Wadi Musa,
+Wadi Musa
 Enfield,Berkshire
 Queens
 Berlin
@@ -53361,7 +53161,6 @@ Miami-Dade
 Santiago
 Bülach
 Salvaleón de Higüey
-
 New York
 n.a354
 New York
@@ -53421,11 +53220,11 @@ Como,Paris
 Kempton Park,,Guangzhou
 Baleares,Madrid,New York,Queens
 Köln
-Milano,Florence,Alpes-Maritimes,Savona,
+Milano,Florence,Alpes-Maritimes,Savona
 Pescara,Milano
 Distrito Federal
 Stockholm,Oberbayern,Oslo,Combined statistics,Malmö,Darmstadt
-Milano,Darmstadt,Varese,Jerusalem,
+Milano,Darmstadt,Varese,Jerusalem
 Miami-Dade,Los Angeles,San Bernardino,Clark,Miami-Dade
 Darmstadt,Köln
 Darmstadt
@@ -53684,7 +53483,6 @@ Orange
 Orange
 Newport
 Salvaleón de Higüey
-
 Cotacachi
 New York
 Alpes-Maritimes
@@ -53800,7 +53598,6 @@ Paris
 Paris
 Palilula
 Salvaleón de Higüey
-
 New York
 New York,Philadelphia
 Distrito Federal
@@ -54043,7 +53840,7 @@ Cozumel
 Pedro Juan Caballero
 Vicenza
 Vicenza
-Roma,
+Roma
 Bartholomew
 Bartholomew
 Goodwood
@@ -54076,7 +53873,7 @@ Westminster
 Paris
 Paris
 Paris
-Edinburgh,
+Edinburgh
 Marrakech
 Paris
 Paris
@@ -54141,7 +53938,7 @@ New York
 Miami-Dade
 Florence
 Siena
-Roma,
+Roma
 Andrés Ibáñez
 Urubamba
 Oberbayern
@@ -54231,7 +54028,7 @@ Westminster
 Hillingdon,Essex
 Miguel Hidalgo,Naucalpan de Juárez,Azcapotzalco,Cuajimalpa de Morelos
 Santiago,Melipilla,Cordillera
-Florence,Roma,
+Florence,Roma
 Napoli
 Paris
 Alpes-Maritimes
@@ -54561,7 +54358,6 @@ East Riding of Yorkshire
 Highland
 Edinburgh
 Salvaleón de Higüey
-
 New York
 New York
 Distrito Federal
@@ -54584,7 +54380,7 @@ Perthshire and Kinross
 Lancashire
 Tower Hamlets
 Glasgow
-Belfast,
+Belfast
 Glasgow
 Amsterdam
 Glasgow

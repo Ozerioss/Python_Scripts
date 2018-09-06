@@ -1,0 +1,21 @@
+Darmstadt   ==> Paris   #SUP: : 4 #CONF: 1.0
+Imperia   ==> Alpes-Maritimes   #SUP: : 4 #CONF: 1.0
+La Spezia   ==> Alpes-Maritimes   #SUP: : 4 #CONF: 0.6666666666666666
+Monthey   ==> Haute-Savoie   #SUP: : 4 #CONF: 1.0
+Zürich   ==> Paris   #SUP: : 4 #CONF: 0.8
+Köln   ==> Paris   #SUP: : 4 #CONF: 1.0
+!! Venezia, Roma   ==> Paris   #SUP: : 4 #CONF: 0.6666666666666666
+Los Angeles   ==> Paris   #SUP: : 5 #CONF: 1.0
+Madrid   ==> Paris   #SUP: : 5 #CONF: 0.7142857142857143
+Oberbayern   ==> Paris   #SUP: : 6 #CONF: 0.8571428571428571
+Aosta   ==> Haute-Savoie   #SUP: : 6 #CONF: 0.8571428571428571
+Wien   ==> Paris   #SUP: : 8 #CONF: 1.0
+Venezia   ==> Paris   #SUP: : 10 #CONF: 0.6666666666666666
+New York   ==> Paris   #SUP: : 12 #CONF: 0.75
+Berlin   ==> Paris   #SUP: : 12 #CONF: 0.9230769230769231
+   ==> Alpes-Maritimes   #SUP: : 14 #CONF: 0.6086956521739131
+Roma   ==> Paris   #SUP: : 15 #CONF: 0.6
+Bruxelles   ==> Paris   #SUP: : 19 #CONF: 0.8260869565217391
+Amsterdam   ==> Paris   #SUP: : 20 #CONF: 0.7692307692307693
+Milano   ==> Paris   #SUP: : 21 #CONF: 0.8076923076923077
+Barcelona   ==> Paris   #SUP: : 24 #CONF: 0.6153846153846154

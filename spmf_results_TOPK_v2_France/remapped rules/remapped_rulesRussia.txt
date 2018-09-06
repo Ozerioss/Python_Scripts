@@ -1,0 +1,21 @@
+Praha 6   ==> Paris   #SUP: : 6 #CONF: 0.75
+Oberbayern   ==> Paris   #SUP: : 6 #CONF: 0.75
+Seine-et-Marne, Hauts-de-Seine   ==> Paris   #SUP: : 6 #CONF: 1.0
+Alpes-Maritimes, Seine-et-Marne   ==> Paris   #SUP: : 6 #CONF: 0.6
+Eure   ==> Paris   #SUP: : 8 #CONF: 0.6666666666666666
+West-Vlaanderen   ==> Paris   #SUP: : 8 #CONF: 0.8
+Seine-et-Marne, Yvelines   ==> Paris   #SUP: : 8 #CONF: 0.8888888888888888
+Genova   ==> Alpes-Maritimes   #SUP: : 9 #CONF: 0.6923076923076923
+Westminster   ==> Paris   #SUP: : 10 #CONF: 0.9090909090909091
+Uusimaa   ==> Paris   #SUP: : 11 #CONF: 0.8461538461538461
+Val-de-Marne   ==> Paris   #SUP: : 13 #CONF: 0.6190476190476191
+Bruxelles   ==> Paris   #SUP: : 13 #CONF: 0.8666666666666667
+Berlin   ==> Paris   #SUP: : 18 #CONF: 0.6428571428571429
+Roma   ==> Paris   #SUP: : 19 #CONF: 0.6333333333333333
+   ==> Alpes-Maritimes   #SUP: : 22 #CONF: 0.7096774193548387
+Imperia   ==> Alpes-Maritimes   #SUP: : 24 #CONF: 0.8888888888888888
+Yvelines   ==> Paris   #SUP: : 31 #CONF: 0.62
+Amsterdam   ==> Paris   #SUP: : 34 #CONF: 0.918918918918919
+Seine-Saint-Denis   ==> Paris   #SUP: : 38 #CONF: 0.6440677966101694
+Hauts-de-Seine   ==> Paris   #SUP: : 43 #CONF: 0.6935483870967742
+Seine-et-Marne   ==> Paris   #SUP: : 177 #CONF: 0.6366906474820144

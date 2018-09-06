@@ -1,0 +1,20 @@
+Essonne   ==> Paris   #SUP: : 28 #CONF: 0.6829268292682927
+London   ==> Paris   #SUP: : 28 #CONF: 0.9655172413793104
+Kensington and Chelsea   ==>    #SUP: : 28 #CONF: 0.7
+Paris, Kensington and Chelsea   ==> Westminster   #SUP: : 28 #CONF: 0.8235294117647058
+Westminster, Kensington and Chelsea   ==> Paris   #SUP: : 28 #CONF: 0.875
+Roma   ==> Paris   #SUP: : 30 #CONF: 0.7317073170731707
+Kensington and Chelsea   ==> Westminster   #SUP: : 32 #CONF: 0.8
+Seine-Saint-Denis   ==> Paris   #SUP: : 32 #CONF: 0.6037735849056604
+Hauts-de-Seine   ==> Paris   #SUP: : 34 #CONF: 0.6296296296296297
+Kensington and Chelsea   ==> Paris   #SUP: : 34 #CONF: 0.85
+Lisboa   ==> Paris   #SUP: : 37 #CONF: 0.8604651162790697
+Barcelona   ==> Paris   #SUP: : 43 #CONF: 0.7678571428571429
+Camden   ==>    #SUP: : 45 #CONF: 0.6818181818181818
+Westminster, Camden   ==> Paris   #SUP: : 45 #CONF: 0.9375
+Paris, Camden   ==> Westminster   #SUP: : 45 #CONF: 0.7627118644067796
+Camden   ==> Westminster   #SUP: : 48 #CONF: 0.7272727272727273
+Camden   ==> Paris   #SUP: : 59 #CONF: 0.8939393939393939
+Amsterdam   ==> Paris   #SUP: : 69 #CONF: 0.9324324324324325
+Yvelines   ==> Paris   #SUP: : 81 #CONF: 0.6923076923076923
+Westminster   ==> Paris   #SUP: : 129 #CONF: 0.9280575539568345
