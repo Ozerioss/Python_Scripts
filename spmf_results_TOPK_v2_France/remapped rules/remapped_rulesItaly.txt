@@ -2,9 +2,9 @@ Lugano   ==> Paris   #SUP: : 4 #CONF: 1.0
 Southwark   ==>    #SUP: : 4 #CONF: 1.0
 Paris, Kensington and Chelsea   ==> Westminster   #SUP: : 4 #CONF: 0.8
 Westminster, Kensington and Chelsea   ==> Paris   #SUP: : 4 #CONF: 1.0
-Seine-et-Marne, Yvelines   ==> Paris   #SUP: : 4 #CONF: 1.0
+!! Seine-et-Marne, Yvelines   ==> Paris   #SUP: : 4 #CONF: 1.0
 Westminster, Southwark   ==> Paris   #SUP: : 4 #CONF: 1.0
-Alpes-Maritimes, Vaucluse   ==> Bouches-du-Rhône   #SUP: : 4 #CONF: 0.6666666666666666
+!! Alpes-Maritimes, Vaucluse   ==> Bouches-du-Rhône   #SUP: : 4 #CONF: 0.6666666666666666
 Paris, Southwark   ==> Westminster   #SUP: : 4 #CONF: 1.0
 Kensington and Chelsea   ==> Paris   #SUP: : 5 #CONF: 0.7142857142857143
 Darmstadt   ==> Paris   #SUP: : 6 #CONF: 0.6666666666666666

@@ -42,7 +42,7 @@ def decodeRules(fname, country):
 
 def decodeRulesv2(fname, country):
     integerRules = []
-    rules = open("remapped_rules{}.txt".format(country), "w", encoding = "utf8") 
+    rules = open("remapped_rules{}.txt".format(country), "w", encoding = "utf8")
     referenceDico = load_obj('dico_villes_SejourCorrected_Fr_{}'.format(country))
     with open(fname, encoding = "utf8") as f:
         content = f.read().splitlines()

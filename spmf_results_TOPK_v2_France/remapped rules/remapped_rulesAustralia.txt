@@ -12,7 +12,7 @@ West-Vlaanderen   ==> Paris   #SUP: : 5 #CONF: 0.7142857142857143
 Berlin   ==> Paris   #SUP: : 5 #CONF: 1.0
    ==> Alpes-Maritimes   #SUP: : 6 #CONF: 0.6
 Tower Hamlets   ==> Paris   #SUP: : 6 #CONF: 1.0
-Westminster, London   ==> Paris   #SUP: : 6 #CONF: 0.8571428571428571
+!! Westminster, London   ==> Paris   #SUP: : 6 #CONF: 0.8571428571428571
 Westminster, Kensington and Chelsea   ==> Paris   #SUP: : 6 #CONF: 0.75
 Milano   ==> Paris   #SUP: : 7 #CONF: 0.875
    ==> Paris   #SUP: : 7 #CONF: 0.7
