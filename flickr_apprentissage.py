@@ -73,16 +73,19 @@ def insertFlickr():
         content = infile.read().splitlines()
         for user in content:
             listCountries = getListCountries(user)
-            topCountry = listCountries[0]
+            topCountry = "NONE"
             secondCountry = "NONE"
+            if(len(listCountries) > 0):
+                topCountry = listCountries[0]
             if(len(listCountries) > 1):
                 secondCountry = listCountries[1]
-            try:
-                cursor.execute(query_insert_Flickr, (topCountry, secondCountry, user))
-                print("inserted : top = {} and second = {} where user : {}".format(topCountry, secondCountry, user))
-            except mdb.Error:
-                print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
-                sys.exit(1)
+            if(topCountry != "NONE"):
+                try:
+                    cursor.execute(query_insert_Flickr, (topCountry, secondCountry, user))
+                    print("inserted : top = {} and second = {} where user : {}".format(topCountry, secondCountry, user))
+                except mdb.Error:
+                    print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
+                    sys.exit(1)
 
 
 if(__name__ == "__main__"):
