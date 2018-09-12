@@ -18,7 +18,7 @@ query_random_users_Flickr = "SELECT owner_id FROM Flickr_F\
                             "
 
 
-query_insert_Flickr = "INSERT INTO Flickr_F (topCountry, secondCountry) VALUES (%s, %s);"
+query_insert_Flickr = "INSERT INTO Flickr_F(topCountry, secondCountry) VALUES (%s, %s);"
 
 connection = mdb.connect(host="127.0.0.1", 
                         user="KarimKidiss", 
@@ -48,7 +48,8 @@ def GetRandomFlickrUsers():
 
 
 def getListCountries(user):
-    top2Countries = []
+    listCountries = []
+    listValues = []
     try:
         print("Querying .. Top countries visited for {}".format(user))
         cursor.execute(query_flickr, user)
@@ -64,26 +65,26 @@ def getListCountries(user):
         sys.exit(1)
     return listCountries, listValues
 
+
 def insertFlickr():
     with open("users_Flickr.txt", encoding = "utf8") as infile:
         content = infile.read().splitlines()
         for user in content:
+            print(user)
             listCountries, listValues = getListCountries(user)
+            topCountry = listCountries[0]
+            secondCountry = listCountries[1]
             try:
-                cursor.execute(insertFlickr, (listCountries[0], listCountries[1]))
-                print("inserted : {} and {}".format(listCountries[0], listCountries[1]))
+                cursor.execute(query_insert_Flickr, (topCountry, secondCountry))
+                print("inserted : top = {} and second = {}".format(listCountries[0], listCountries[1]))
             except mdb.Error:
                 print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
                 sys.exit(1)
 
-                
-
-
-
 
 if(__name__ == "__main__"):
     cursor = connection.cursor()
-    GetMaxCountry()
+    insertFlickr()
     print("Done ! ")
     if connection:
         connection.close()
