@@ -18,7 +18,7 @@ query_random_users_Flickr = "SELECT owner_id FROM Flickr_F\
                             "
 
 
-query_insert_Flickr = "INSERT INTO Flickr_F(topCountry, secondCountry) VALUES (%s, %s);"
+query_insert_Flickr = "UPDATE Flickr_F SET topCountry = %s, secondCountry = %s WHERE owner_id = %s;"
 
 connection = mdb.connect(host="127.0.0.1", 
                         user="KarimKidiss", 
@@ -63,19 +63,19 @@ def getListCountries(user):
     except mdb.Error:
         print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
         sys.exit(1)
-    return listCountries, listValues
+    print(listCountries)
+    return listCountries
 
 
 def insertFlickr():
     with open("users_Flickr.txt", encoding = "utf8") as infile:
         content = infile.read().splitlines()
         for user in content:
-            print(user)
-            listCountries, listValues = getListCountries(user)
+            listCountries = getListCountries(user)
             topCountry = listCountries[0]
             secondCountry = listCountries[1]
             try:
-                cursor.execute(query_insert_Flickr, (topCountry, secondCountry))
+                cursor.execute(query_insert_Flickr, (topCountry, secondCountry, user))
                 print("inserted : top = {} and second = {}".format(listCountries[0], listCountries[1]))
             except mdb.Error:
                 print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
