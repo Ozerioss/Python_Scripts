@@ -10,10 +10,11 @@ query_flickr = "SELECT gadm2.gadm2.name_0, count(name_0) as nbr             \
                 JOIN gadm2.gadm2 ON gadm2.gadm2.gid = Flickr_F.shape_gid      \
                 WHERE owner_id = %s                                         \
                 GROUP BY name_0                                             \
+                HAVING nbr > 5                                              \
                 ORDER BY nbr desc;                                          \
             "
 
-query_random_users_Flickr = "SELECT owner_id FROM Flickr_F\
+query_random_users_Flickr = "SELECT owner_id FROM Flickr_F WHERE FilteredCountry IS NOT NULL\
                                 ORDER BY rand() LIMIT 500000;\
                             "
 
@@ -73,10 +74,12 @@ def insertFlickr():
         for user in content:
             listCountries = getListCountries(user)
             topCountry = listCountries[0]
-            secondCountry = listCountries[1]
+            secondCountry = "NONE"
+            if(len(listCountries) > 1):
+                secondCountry = listCountries[1]
             try:
                 cursor.execute(query_insert_Flickr, (topCountry, secondCountry, user))
-                print("inserted : top = {} and second = {}".format(listCountries[0], listCountries[1]))
+                print("inserted : top = {} and second = {} where user : {}".format(topCountry, secondCountry, user))
             except mdb.Error:
                 print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
                 sys.exit(1)
