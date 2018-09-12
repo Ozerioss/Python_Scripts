@@ -18,6 +18,7 @@ query_random_users_Flickr = "SELECT owner_id FROM Flickr_F WHERE FilteredCountry
                                 ORDER BY rand() LIMIT 500000;\
                             "
 
+query_check_homeCountry = "SELECT ??;"
 
 query_insert_Flickr = "UPDATE Flickr_F SET topCountry = %s, secondCountry = %s WHERE owner_id = %s;"
 
