@@ -4,16 +4,12 @@ import pandas
 import numpy as np
 import matplotlib.dates as mdates
 from matplotlib.backends.backend_pdf import PdfPages
-            
 
-def getRandomUsers():
-    query_rndm_users = "SELECT idUser  \
-                FROM  Instagram_F                                        \
-                ORDER BY RAND() LIMIT 100;              \
+
+
+query_allUsers = "SELECT DISTINCT idUser  \
+            FROM  Instagram_F; \
             "
-
-    return query_rndm_users
-
 
 query_allUsers = "SELECT DISTINCT idUser  \
             FROM  Instagram_F; \

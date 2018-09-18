@@ -6,14 +6,8 @@ import matplotlib.dates as mdates
 from matplotlib.backends.backend_pdf import PdfPages
             
 
-def getRandomUsers():
-    query_rndm_users = "SELECT idUser  \
-                FROM  Instagram_F                                        \
-                ORDER BY RAND() LIMIT 100;              \
-            "
 
-    return query_rndm_users
-
+query_randomUsers = "SELECT idUser FROM Instagram_F ORDER BY RAND() LIMIT 100;"
 
 query_allUsers = "SELECT DISTINCT idUser  \
             FROM  Instagram_F; \
