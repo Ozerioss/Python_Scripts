@@ -395,7 +395,7 @@ def GenerateSejours():
                         if(row.Corrected == 2):
                             print(row)
                     
-
+                    #insertion
                     for i, row in df_sejour.iterrows():
                         if(row.isSejour):
                             print(row)

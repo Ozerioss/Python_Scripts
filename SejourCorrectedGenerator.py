@@ -608,7 +608,6 @@ def GenerateSejoursTest(userList):
 
 if(__name__ == "__main__"):
     cursor = connection.cursor()
-    userList = ['10124937']
     GenerateSejours()
     print("Done ! ")
     if connection:

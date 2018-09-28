@@ -4,7 +4,7 @@ import pickle
 import json
 
 
-
+#save_obj et load_obj sont les fonctions principales pour sauvegarder et loader un dictionnaire
 def save_obj(obj, name):
     with open('dict/' + name + '.pkl', 'wb') as f:
         pickle.dump(obj, f, 0)
@@ -21,6 +21,7 @@ def is_number(a):
     except ValueError:
         return False
 
+
 def decodeRules(fname, country):
     integerRules = []
     rules = open("remapped_rules{}.txt".format(country), "w", encoding = "utf8") 
@@ -34,9 +35,7 @@ def decodeRules(fname, country):
             print(spam)
             for number in spam:
                 stringRules.append(list(referenceDico.keys())[list(referenceDico.values()).index(int(number))])
-            #print("{} #SUP: {}".format('  ==> '.join(stringRules), ''.join(tmp[1])))
             rules.write("{} #SUP: {}\n".format('  ==> '.join(stringRules), ''.join(tmp[1])))
-            #rules.append("{} #SUP: {}".format('  ==> '.join(stringRules), ''.join(tmp[1])))
             
 
 
@@ -63,15 +62,6 @@ def decodeRulesv2(fname, country):
             
 
             rules.write("{}   ==> {}   #SUP: {}\n".format(', '.join(stringLeftSide), ' '.join(stringRightSide), rightSide[1]))
-
-
-            """ if(is_number(stuff)):
-                print("ok") """
-
-            """ spam = tmp[0].strip().split("  ==> ")
-            print(spam)
-            for number in spam:
-                print("alo") """
 
 
 if(__name__ == "__main__"):

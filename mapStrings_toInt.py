@@ -4,6 +4,7 @@ import json
 
 
 
+#save_obj et load_obj sont les fonctions principales pour sauvegarder et loader un dictionnaire
 def save_obj(obj, name):
     with open('dict/' + name + '.pkl', 'wb') as f:
         pickle.dump(obj, f, 0)
@@ -61,12 +62,13 @@ def mapToInt(fname, country):
                 newMap.write(str(city) + " ")
         newMap.write("\n")
     
+    #Pas important juste au cas où le dictionnaire ne fonctionne pas
     dictionaryAsDict = open("TOPK_villes_SejourCorrected_Fr_Dico_{}.txt".format(country), "w", encoding = "utf8")
     for key, value in seen.items():
         tmp = "key : &{}&, value : \"{}\" \n".format(key, value)
         dictionaryAsDict.write(tmp)
     dictionaryAsDict.close()
-    #saveDico(d)
+    #Pickles le dictionnaire afin de le sauvegarder et pouvoir le réutiliser
     save_obj(seen, 'dico_villes_SejourCorrected_Fr_{}'.format(country))
 
 def printSavedDico(dicoName):
