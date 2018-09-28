@@ -5,22 +5,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 
-
-query_nbrPhoto_Commune = "SELECT Departement, count(1) as nombrePhotos  \
-            FROM  Instagram                                        \
-            WHERE annee between '2011' and '2015'               \
-            GROUP BY Departement                                    \
-            ORDER BY nombrePhotos desc                          \
-            LIMIT 50;                        \
-        "
-query_nbrUser_Temps = "SELECT concat(mois, '/', annee) as date, count(DISTINCT idUser) as nombreUser  \
-                FROM Instagram                                          \
-                WHERE annee between '2011' and '2015'             \
-                AND Departement = %s                    \
-                GROUP BY mois, annee                                     \
-                ORDER BY mois, annee                          \
-            "
-
 query_stats_sejour = "SELECT paysOrigine, avg(dureeJ) as avgSejourLength\
                     FROM Sejour_Corrected\
                     WHERE dureeJ > 1 \
@@ -54,7 +38,7 @@ connection = mdb.connect(host="127.0.0.1",
                         autocommit=True
                     )
 
-
+#Helper function to make custom percentage in graphs
 def make_autopct(values):
     def my_autopct(pct):
         total = sum(values)
@@ -65,45 +49,32 @@ def make_autopct(values):
             return '{p:.1f}%'.format(p=pct)
     return my_autopct
 
+
+#Pour faire des graphiques et les enregistrer en photo .png
 def statsSejours():
-    #pp = PdfPages('avgDureeSejour_Sejour_Test2.pdf')
     try:
         cursor.execute(query_nbrSejours_avg_Corrected)
         result = cursor.fetchall()
 
         df = pandas.DataFrame.from_records([row for row in result], columns = [desc[0] for desc in cursor.description])
 
-        for i, row in df.iterrows():
-            print(row)
-
         if(not df.empty):
             print("Plotting ...")
 
-
-            """ plt.figure(figsize=(16,8))
-
-            # plot chart
-            ax1 = plt.subplot(121, aspect='equal')
-            currentPlot = df.plot(kind='pie', y='avgSejourLength',ax=ax1, autopct=make_autopct(df['avgSejourLength']), 
-            startangle=90, shadow=False, labels=df['paysOrigine'], legend = False, fontsize=12) """
-
             df.nombreSejoursAvg = df.nombreSejoursAvg.astype(float)
-            currentPlot = df.plot(x=df.columns[0], kind='bar', color='k')
+            currentPlot = df.plot(x=df.columns[0], kind='bar', color='k') #définit quel type de graphe
 
             plt.title("Nombre moyen de séjours par pays d'origine")
             fig = currentPlot.get_figure()
             plt.tight_layout()          #Fixes label size
 
-            #fig = currentPlot.get_figure()
             print("Saving figure..")
             fig.savefig('nbrSejourAvg_Sejour_Corrected.png')
-            #pp.savefig()
-        else:
+
             print("No data found.")
     except mdb.Error:
         print("Exception {} : {} ".format(mdb.Error.args[0], mdb.Error.args[1]))
         sys.exit(1)
-    #pp.close()
 
 
 def executeCommune():

@@ -22,6 +22,7 @@ def is_number(a):
         return False
 
 
+#deprecated
 def decodeRules(fname, country):
     integerRules = []
     rules = open("remapped_rules{}.txt".format(country), "w", encoding = "utf8") 
@@ -38,7 +39,7 @@ def decodeRules(fname, country):
             rules.write("{} #SUP: {}\n".format('  ==> '.join(stringRules), ''.join(tmp[1])))
             
 
-
+#Fonction pour load le dictionnaire et faire la mise en forme du nouveau fichier décodé
 def decodeRulesv2(fname, country):
     integerRules = []
     rules = open("remapped_rules{}.txt".format(country), "w", encoding = "utf8")

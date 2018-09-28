@@ -32,6 +32,7 @@ def readCitiesFile(fname):
                 anotherList.append(x.split(','))
     return anotherList
 
+#Fonction pour mapper chaque String à un Int unique
 def mapToInt(fname, country):
     d = {}
     seen = {}

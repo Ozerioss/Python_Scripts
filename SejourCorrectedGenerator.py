@@ -24,7 +24,6 @@ query_rndmUsers_World = "SELECT concat(jour, '-', mois, '-', annee), count(1) as
                                         GROUP BY annee, mois, jour                                              \
                                         ORDER BY annee, mois, jour;                                             \
                         "
-
                         
 
 query_rndmUsers_excludingHome = " SELECT id, str_to_date(concat(annee, '/', mois, '/', jour), '%%Y/%%m/%%d') as date, name, gadm2.gadm2.name_0, gadm2.gadm2.name_1, gadm2.gadm2.name_2 \
@@ -224,6 +223,7 @@ def GenerateSejours():
                     df_sejour['nbrPhotoMin'] = 0
                     df_sejour['daysOfWeek'] = ""
 
+                    #Iterate over the dataframe to fill it with the correct data
                     for i, row in df_sejour.iterrows():
                         mask = (df_query['date'] >= df_sejour.at[i, 'BeginDate']) & (df_query['date'] <= df_sejour.at[i, 'EndDate'])     #This creates a mask spanning the begin and end dates
                         maskPictures = (df_calendrier['Dates'] >= df_sejour.at[i, 'BeginDate']) & (df_calendrier['Dates'] <= df_sejour.at[i, 'EndDate'])  #mask for calendar
@@ -338,7 +338,6 @@ def GenerateSejours():
                                     newRowNbJoursAvant = firstSejour.nbJoursAvant
                                     newRowNbJoursApres = secondSejour.nbJoursApres
 
-                                    #df_sejour.drop(df_sejour.index[[i, i+1, i+2]], inplace = True)
                                     mergedSejourDict[i] = [newRowBeginDate, newRowEndDate, newRowConsecutive, True, 
                                             newRowCountriesVisited, newRowStatesVisited, newRowCitiesVisited, newRowSpecificSpots, 
                                             newRowNbrPhotos, newRownbrPhotoAvg, newRownbrPhotoMax, newRownbrPhotoMin, 
@@ -359,7 +358,6 @@ def GenerateSejours():
                         for k in range(len(indexes_to_drop)):
                             if(k % 3 == 0):
                                 df_sejour.loc[indexes_to_drop[k] + 1] = mergedSejourDict[indexes_to_drop[k]]
-                                #df_sejour.drop(df_sejour.index[indexes_to_drop[k] + 1], inplace = True)
                                 df_sejour.loc[indexes_to_drop[k] + 3, 'isSejour'] = False 
 
 
